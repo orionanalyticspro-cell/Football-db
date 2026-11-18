@@ -65,6 +65,14 @@ export function parseEspn(json: { events?: EspnEvent[] }, lg: EspnLeague): Match
 }
 
 export async function fetchEspn(lg: EspnLeague, from: Date, to: Date): Promise<MatchInput[]> {
-  const url = `https://site.api.espn.com/apis/site/v2/sports/soccer/${lg.slug}/scoreboard?dates=${ymd(from)}-${ymd(to)}&limit=500`;
-  return parseEspn(await getJson(url), lg);
+  const base = `https://site.api.espn.com/apis/site/v2/sports/soccer/${lg.slug}/scoreboard?dates=${ymd(from)}-${ymd(to)}&limit=500`;
+  const results = parseEspn(await getJson(base), lg);
+  // Pour le football, ESPN sépare parfois résultats et calendrier à venir (paramètre fixture=true).
+  // Si cette 2e requête échoue ou n'apporte rien, on garde simplement les résultats.
+  try {
+    const upcoming = parseEspn(await getJson(`${base}&fixture=true`), lg);
+    return [...upcoming, ...results]; // les résultats passent en dernier : ils l'emportent
+  } catch {
+    return results;
+  }
 }

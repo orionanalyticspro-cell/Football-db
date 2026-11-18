@@ -32,6 +32,15 @@ npm run health                             # signale sources cassées / ligues s
 
 Les classements, la forme (5 derniers matchs) et les totaux sont **recalculés** depuis les résultats (`v_standings`, `v_form`).
 
+## Élargir la couverture : méthode en 4 étapes
+
+1. **Découvrir** ce qu'ESPN renvoie réellement : onglet *Actions* → « Découvrir les ligues ESPN disponibles » → *Run workflow*
+   (laisser vide pour tout tester, ~6 min). Ouvrez ensuite `data/discovered.md` : la liste des codes qui ont des résultats récents.
+   Pour tester seulement quelques ligues : `--slugs sau.1,civ.1,mar.1`.
+2. **Activer** les ligues utiles : ajoutez-les dans `config/sources.json` (voir « Ajouter une ligue » ci-dessous).
+3. **Rattraper l'historique** : *Actions* → « Mise à jour… » → args `--source espn --days-back 120`.
+4. **Pour les ligues que ESPN ne couvre pas** : écrire un collecteur dédié (fédération, site de résultats). C'est la seule étape qui demande du code.
+
 ## Ajouter une ligue
 
 - **Via ESPN** : ajoutez une entrée dans `config/sources.json` avec le code ESPN de la ligue (le même que vous utilisez déjà, ex. `sau.1`).
@@ -49,6 +58,16 @@ Pour forcer un nom, éditez `config/aliases.json`. Pour auditer les rapprochemen
 ```sql
 SELECT a.alias_norm, t.name, a.source FROM team_aliases a JOIN teams t ON t.id = a.team_id WHERE a.source LIKE '%fuzzy';
 ```
+
+## Les 3 types de mise à jour
+
+| Besoin | Comment |
+|---|---|
+| **Courante** (résultats, classements) | Automatique toutes les 6 h. Rien à faire. |
+| **Rattrapage** (collecte en panne, nouvelle ligue, historique) | *Actions* → *Run workflow* avec par exemple `--source espn --days-back 120` ou `--source fd-extra --backfill`. |
+| **Nouvelle saison** | Automatique : les ligues européennes basculent en juillet (code saison calculé). Pour les ligues en année civile, vérifiez `seasonMode: "calendar"`. |
+
+Corrections : un nom d'équipe mal rapproché se règle dans `config/aliases.json`, puis relancez une collecte.
 
 ## Mise à jour automatique (gratuite)
 

@@ -74,3 +74,17 @@ assert.notEqual(t1, t2, "l'équipe B ne doit pas être fusionnée avec l'équipe
 const t3 = resolveTeam(db, "Real Sociedad de Futbol", "Spain", "t");
 void rs; void t3;
 console.log("✓ rapprochement approximatif OK");
+
+// --- Découverte des ligues ESPN
+import { extractSlugs, summarize } from "../src/discover.js";
+const slugs = extractSlugs({ items: [
+  { $ref: "http://sports.core.api.espn.com/v2/sports/soccer/leagues/sau.1?lang=en&region=us" },
+  { $ref: "http://sports.core.api.espn.com/v2/sports/soccer/leagues/eng.1?lang=en&region=us" },
+]});
+assert.deepEqual(slugs, ["eng.1", "sau.1"]);
+const rep = summarize("sau.1", { leagues: [{ name: "Saudi Pro League" }], events: [
+  { date: "2026-11-10T17:00Z", status: { type: { state: "post" } } },
+  { date: "2026-11-25T17:00Z", status: { type: { state: "pre" } } },
+]});
+assert.deepEqual([rep.finished, rep.upcoming, rep.lastDate], [1, 1, "2026-11-25"]);
+console.log("✓ découverte OK");
