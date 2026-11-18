@@ -1,0 +1,528 @@
+{
+ "competition": {
+  "id": 4,
+  "code": "CHINA-1",
+  "name": "Super League",
+  "country": "China",
+  "level": 1
+ },
+ "season": "2026",
+ "updated": "2026-11-18T11:56:20.255Z",
+ "standings": [
+  {
+   "position": 1,
+   "team": "Qingdao FC",
+   "played": 60,
+   "won": 14,
+   "drawn": 19,
+   "lost": 27,
+   "goals_for": 68,
+   "goals_against": 106,
+   "goal_diff": -38,
+   "points": 61
+  },
+  {
+   "position": 2,
+   "team": "Beijing Guoan",
+   "played": 30,
+   "won": 15,
+   "drawn": 10,
+   "lost": 5,
+   "goals_for": 58,
+   "goals_against": 36,
+   "goal_diff": 22,
+   "points": 55
+  },
+  {
+   "position": 3,
+   "team": "Shandong Taishan",
+   "played": 30,
+   "won": 16,
+   "drawn": 5,
+   "lost": 9,
+   "goals_for": 60,
+   "goals_against": 49,
+   "goal_diff": 11,
+   "points": 53
+  },
+  {
+   "position": 4,
+   "team": "Chengdu Rongcheng",
+   "played": 30,
+   "won": 15,
+   "drawn": 7,
+   "lost": 8,
+   "goals_for": 53,
+   "goals_against": 38,
+   "goal_diff": 15,
+   "points": 52
+  },
+  {
+   "position": 5,
+   "team": "Dalian Yingbo",
+   "played": 30,
+   "won": 16,
+   "drawn": 4,
+   "lost": 10,
+   "goals_for": 49,
+   "goals_against": 44,
+   "goal_diff": 5,
+   "points": 52
+  },
+  {
+   "position": 6,
+   "team": "Shanghai Port",
+   "played": 30,
+   "won": 14,
+   "drawn": 8,
+   "lost": 8,
+   "goals_for": 56,
+   "goals_against": 37,
+   "goal_diff": 19,
+   "points": 50
+  },
+  {
+   "position": 7,
+   "team": "Shanghai Shenhua",
+   "played": 30,
+   "won": 15,
+   "drawn": 5,
+   "lost": 10,
+   "goals_for": 67,
+   "goals_against": 50,
+   "goal_diff": 17,
+   "points": 50
+  },
+  {
+   "position": 8,
+   "team": "Yunnan Yukun",
+   "played": 30,
+   "won": 12,
+   "drawn": 7,
+   "lost": 11,
+   "goals_for": 59,
+   "goals_against": 61,
+   "goal_diff": -2,
+   "points": 43
+  },
+  {
+   "position": 9,
+   "team": "Zhejiang Professional",
+   "played": 30,
+   "won": 12,
+   "drawn": 6,
+   "lost": 12,
+   "goals_for": 55,
+   "goals_against": 54,
+   "goal_diff": 1,
+   "points": 42
+  },
+  {
+   "position": 10,
+   "team": "Tianjin Jinmen Tiger",
+   "played": 30,
+   "won": 11,
+   "drawn": 8,
+   "lost": 11,
+   "goals_for": 40,
+   "goals_against": 38,
+   "goal_diff": 2,
+   "points": 41
+  },
+  {
+   "position": 11,
+   "team": "Chongqing Tonglianglong",
+   "played": 30,
+   "won": 8,
+   "drawn": 12,
+   "lost": 10,
+   "goals_for": 31,
+   "goals_against": 35,
+   "goal_diff": -4,
+   "points": 36
+  },
+  {
+   "position": 12,
+   "team": "Henan Songshan Longmen",
+   "played": 30,
+   "won": 8,
+   "drawn": 10,
+   "lost": 12,
+   "goals_for": 38,
+   "goals_against": 46,
+   "goal_diff": -8,
+   "points": 34
+  },
+  {
+   "position": 13,
+   "team": "Shenzhen",
+   "played": 30,
+   "won": 9,
+   "drawn": 6,
+   "lost": 15,
+   "goals_for": 41,
+   "goals_against": 53,
+   "goal_diff": -12,
+   "points": 33
+  },
+  {
+   "position": 14,
+   "team": "Liaoning",
+   "played": 30,
+   "won": 8,
+   "drawn": 5,
+   "lost": 17,
+   "goals_for": 42,
+   "goals_against": 58,
+   "goal_diff": -16,
+   "points": 29
+  },
+  {
+   "position": 15,
+   "team": "Wuhan FC",
+   "played": 30,
+   "won": 5,
+   "drawn": 12,
+   "lost": 13,
+   "goals_for": 45,
+   "goals_against": 57,
+   "goal_diff": -12,
+   "points": 27
+  }
+ ],
+ "form": [
+  {
+   "team": "Henan Songshan Longmen",
+   "last5": "LLLDD"
+  },
+  {
+   "team": "Beijing Guoan",
+   "last5": "WWWWD"
+  },
+  {
+   "team": "Liaoning",
+   "last5": "LLWDL"
+  },
+  {
+   "team": "Shanghai Shenhua",
+   "last5": "WLWWW"
+  },
+  {
+   "team": "Tianjin Jinmen Tiger",
+   "last5": "LLWWW"
+  },
+  {
+   "team": "Wuhan FC",
+   "last5": "LLLDL"
+  },
+  {
+   "team": "Shenzhen",
+   "last5": "DWLDD"
+  },
+  {
+   "team": "Qingdao FC",
+   "last5": "DLDLL"
+  },
+  {
+   "team": "Shandong Taishan",
+   "last5": "WWWDD"
+  },
+  {
+   "team": "Shanghai Port",
+   "last5": "WWWWD"
+  },
+  {
+   "team": "Chengdu Rongcheng",
+   "last5": "LLLLD"
+  },
+  {
+   "team": "Zhejiang Professional",
+   "last5": "WWLLW"
+  },
+  {
+   "team": "Yunnan Yukun",
+   "last5": "WDDLW"
+  },
+  {
+   "team": "Dalian Yingbo",
+   "last5": "WWWWW"
+  },
+  {
+   "team": "Chongqing Tonglianglong",
+   "last5": "LWDDL"
+  }
+ ],
+ "recent": [
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T07:30:00.000Z",
+   "home": "Beijing Guoan",
+   "away": "Chongqing Tonglianglong",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T07:30:00.000Z",
+   "home": "Shanghai Shenhua",
+   "away": "Qingdao FC",
+   "home_goals": 4,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T07:30:00.000Z",
+   "home": "Qingdao FC",
+   "away": "Shenzhen",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T07:30:00.000Z",
+   "home": "Shandong Taishan",
+   "away": "Chengdu Rongcheng",
+   "home_goals": 3,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T07:30:00.000Z",
+   "home": "Shanghai Port",
+   "away": "Liaoning",
+   "home_goals": 6,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T07:30:00.000Z",
+   "home": "Zhejiang Professional",
+   "away": "Henan Songshan Longmen",
+   "home_goals": 4,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T07:30:00.000Z",
+   "home": "Yunnan Yukun",
+   "away": "Wuhan FC",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T07:30:00.000Z",
+   "home": "Dalian Yingbo",
+   "away": "Tianjin Jinmen Tiger",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T07:30:00.000Z",
+   "home": "Henan Songshan Longmen",
+   "away": "Beijing Guoan",
+   "home_goals": 3,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T07:30:00.000Z",
+   "home": "Liaoning",
+   "away": "Zhejiang Professional",
+   "home_goals": 2,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T07:30:00.000Z",
+   "home": "Tianjin Jinmen Tiger",
+   "away": "Shanghai Port",
+   "home_goals": 1,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T07:30:00.000Z",
+   "home": "Wuhan FC",
+   "away": "Shandong Taishan",
+   "home_goals": 3,
+   "away_goals": 5,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T07:30:00.000Z",
+   "home": "Shenzhen",
+   "away": "Shanghai Shenhua",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T07:30:00.000Z",
+   "home": "Qingdao FC",
+   "away": "Yunnan Yukun",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T07:30:00.000Z",
+   "home": "Chengdu Rongcheng",
+   "away": "Dalian Yingbo",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T07:30:00.000Z",
+   "home": "Chongqing Tonglianglong",
+   "away": "Qingdao FC",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-18",
+   "kickoff_utc": "2026-10-18T12:00:00.000Z",
+   "home": "Shanghai Port",
+   "away": "Chengdu Rongcheng",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-18",
+   "kickoff_utc": "2026-10-18T11:00:00.000Z",
+   "home": "Beijing Guoan",
+   "away": "Qingdao FC",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-18",
+   "kickoff_utc": "2026-10-18T10:00:00.000Z",
+   "home": "Wuhan FC",
+   "away": "Shanghai Shenhua",
+   "home_goals": 1,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-17",
+   "kickoff_utc": "2026-10-17T12:00:00.000Z",
+   "home": "Shandong Taishan",
+   "away": "Zhejiang Professional",
+   "home_goals": 5,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-17",
+   "kickoff_utc": "2026-10-17T11:35:00.000Z",
+   "home": "Qingdao FC",
+   "away": "Liaoning",
+   "home_goals": 0,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-17",
+   "kickoff_utc": "2026-10-17T11:35:00.000Z",
+   "home": "Yunnan Yukun",
+   "away": "Chongqing Tonglianglong",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-17",
+   "kickoff_utc": "2026-10-17T11:00:00.000Z",
+   "home": "Dalian Yingbo",
+   "away": "Shenzhen",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-16",
+   "kickoff_utc": "2026-10-16T11:35:00.000Z",
+   "home": "Henan Songshan Longmen",
+   "away": "Tianjin Jinmen Tiger",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-11",
+   "kickoff_utc": "2026-10-11T11:35:00.000Z",
+   "home": "Liaoning",
+   "away": "Wuhan FC",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-11",
+   "kickoff_utc": "2026-10-11T11:35:00.000Z",
+   "home": "Chongqing Tonglianglong",
+   "away": "Shandong Taishan",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-11",
+   "kickoff_utc": "2026-10-11T10:00:00.000Z",
+   "home": "Qingdao FC",
+   "away": "Dalian Yingbo",
+   "home_goals": 0,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-10",
+   "kickoff_utc": "2026-10-10T11:35:00.000Z",
+   "home": "Shanghai Shenhua",
+   "away": "Yunnan Yukun",
+   "home_goals": 7,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-10",
+   "kickoff_utc": "2026-10-10T11:35:00.000Z",
+   "home": "Chengdu Rongcheng",
+   "away": "Tianjin Jinmen Tiger",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-09",
+   "kickoff_utc": "2026-10-09T12:00:00.000Z",
+   "home": "Zhejiang Professional",
+   "away": "Shanghai Port",
+   "home_goals": 2,
+   "away_goals": 4,
+   "status": "finished"
+  }
+ ],
+ "upcoming": []
+}

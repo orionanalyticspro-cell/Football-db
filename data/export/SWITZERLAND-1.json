@@ -1,0 +1,480 @@
+{
+ "competition": {
+  "id": 15,
+  "code": "SWITZERLAND-1",
+  "name": "Super League",
+  "country": "Switzerland",
+  "level": 1
+ },
+ "season": "2026/2027",
+ "updated": "2026-11-18T11:56:22.086Z",
+ "standings": [
+  {
+   "position": 1,
+   "team": "Lugano",
+   "played": 13,
+   "won": 11,
+   "drawn": 1,
+   "lost": 1,
+   "goals_for": 36,
+   "goals_against": 15,
+   "goal_diff": 21,
+   "points": 34
+  },
+  {
+   "position": 2,
+   "team": "Young Boys",
+   "played": 13,
+   "won": 8,
+   "drawn": 4,
+   "lost": 1,
+   "goals_for": 41,
+   "goals_against": 25,
+   "goal_diff": 16,
+   "points": 28
+  },
+  {
+   "position": 3,
+   "team": "Sion",
+   "played": 13,
+   "won": 8,
+   "drawn": 2,
+   "lost": 3,
+   "goals_for": 29,
+   "goals_against": 18,
+   "goal_diff": 11,
+   "points": 26
+  },
+  {
+   "position": 4,
+   "team": "St. Gallen",
+   "played": 13,
+   "won": 7,
+   "drawn": 1,
+   "lost": 5,
+   "goals_for": 24,
+   "goals_against": 22,
+   "goal_diff": 2,
+   "points": 22
+  },
+  {
+   "position": 5,
+   "team": "Zurich",
+   "played": 13,
+   "won": 6,
+   "drawn": 3,
+   "lost": 4,
+   "goals_for": 25,
+   "goals_against": 26,
+   "goal_diff": -1,
+   "points": 21
+  },
+  {
+   "position": 6,
+   "team": "Servette",
+   "played": 13,
+   "won": 5,
+   "drawn": 2,
+   "lost": 6,
+   "goals_for": 17,
+   "goals_against": 16,
+   "goal_diff": 1,
+   "points": 17
+  },
+  {
+   "position": 7,
+   "team": "Basel",
+   "played": 13,
+   "won": 4,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 21,
+   "goals_against": 25,
+   "goal_diff": -4,
+   "points": 15
+  },
+  {
+   "position": 8,
+   "team": "Thun",
+   "played": 13,
+   "won": 4,
+   "drawn": 2,
+   "lost": 7,
+   "goals_for": 27,
+   "goals_against": 37,
+   "goal_diff": -10,
+   "points": 14
+  },
+  {
+   "position": 9,
+   "team": "Luzern",
+   "played": 13,
+   "won": 3,
+   "drawn": 4,
+   "lost": 6,
+   "goals_for": 21,
+   "goals_against": 28,
+   "goal_diff": -7,
+   "points": 13
+  },
+  {
+   "position": 10,
+   "team": "Grasshoppers",
+   "played": 13,
+   "won": 2,
+   "drawn": 5,
+   "lost": 6,
+   "goals_for": 16,
+   "goals_against": 29,
+   "goal_diff": -13,
+   "points": 11
+  },
+  {
+   "position": 11,
+   "team": "Vaduz",
+   "played": 13,
+   "won": 3,
+   "drawn": 1,
+   "lost": 9,
+   "goals_for": 24,
+   "goals_against": 29,
+   "goal_diff": -5,
+   "points": 10
+  },
+  {
+   "position": 12,
+   "team": "Lausanne",
+   "played": 13,
+   "won": 1,
+   "drawn": 4,
+   "lost": 8,
+   "goals_for": 12,
+   "goals_against": 23,
+   "goal_diff": -11,
+   "points": 7
+  }
+ ],
+ "form": [
+  {
+   "team": "Servette",
+   "last5": "DLWWL"
+  },
+  {
+   "team": "Basel",
+   "last5": "DLDLL"
+  },
+  {
+   "team": "Thun",
+   "last5": "DWLLW"
+  },
+  {
+   "team": "Lausanne",
+   "last5": "DLLLL"
+  },
+  {
+   "team": "Grasshoppers",
+   "last5": "DDDLL"
+  },
+  {
+   "team": "Sion",
+   "last5": "WDWLD"
+  },
+  {
+   "team": "Luzern",
+   "last5": "LDLLW"
+  },
+  {
+   "team": "Zurich",
+   "last5": "DWWWD"
+  },
+  {
+   "team": "St. Gallen",
+   "last5": "WWLWW"
+  },
+  {
+   "team": "Young Boys",
+   "last5": "WLWWW"
+  },
+  {
+   "team": "Vaduz",
+   "last5": "LDLWL"
+  },
+  {
+   "team": "Lugano",
+   "last5": "LWWWW"
+  }
+ ],
+ "recent": [
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T15:30:00.000Z",
+   "home": "Servette",
+   "away": "Zurich",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T15:30:00.000Z",
+   "home": "Thun",
+   "away": "Basel",
+   "home_goals": 3,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T13:00:00.000Z",
+   "home": "St. Gallen",
+   "away": "Lugano",
+   "home_goals": 5,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T19:30:00.000Z",
+   "home": "Grasshoppers",
+   "away": "Lausanne",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T17:00:00.000Z",
+   "home": "Luzern",
+   "away": "Young Boys",
+   "home_goals": 2,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T17:00:00.000Z",
+   "home": "Vaduz",
+   "away": "Sion",
+   "home_goals": 0,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-01",
+   "kickoff_utc": "2026-11-01T15:30:00.000Z",
+   "home": "Lausanne",
+   "away": "Thun",
+   "home_goals": 4,
+   "away_goals": 5,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-01",
+   "kickoff_utc": "2026-11-01T15:30:00.000Z",
+   "home": "Lugano",
+   "away": "Basel",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-01",
+   "kickoff_utc": "2026-11-01T13:00:00.000Z",
+   "home": "Young Boys",
+   "away": "Zurich",
+   "home_goals": 3,
+   "away_goals": 5,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T19:30:00.000Z",
+   "home": "Luzern",
+   "away": "Sion",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T17:00:00.000Z",
+   "home": "Grasshoppers",
+   "away": "Vaduz",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T17:00:00.000Z",
+   "home": "St. Gallen",
+   "away": "Servette",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-25",
+   "kickoff_utc": "2026-10-25T15:30:00.000Z",
+   "home": "Basel",
+   "away": "Grasshoppers",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-25",
+   "kickoff_utc": "2026-10-25T15:30:00.000Z",
+   "home": "Sion",
+   "away": "Lausanne",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-25",
+   "kickoff_utc": "2026-10-25T13:00:00.000Z",
+   "home": "Thun",
+   "away": "Lugano",
+   "home_goals": 2,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T18:30:00.000Z",
+   "home": "Young Boys",
+   "away": "St. Gallen",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T16:00:00.000Z",
+   "home": "Servette",
+   "away": "Vaduz",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T16:00:00.000Z",
+   "home": "Zurich",
+   "away": "Luzern",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-11",
+   "kickoff_utc": "2026-10-11T14:30:00.000Z",
+   "home": "St. Gallen",
+   "away": "Lausanne",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-11",
+   "kickoff_utc": "2026-10-11T14:30:00.000Z",
+   "home": "Vaduz",
+   "away": "Basel",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-11",
+   "kickoff_utc": "2026-10-11T12:00:00.000Z",
+   "home": "Grasshoppers",
+   "away": "Young Boys",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-10",
+   "kickoff_utc": "2026-10-10T16:00:00.000Z",
+   "home": "Servette",
+   "away": "Sion",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-10",
+   "kickoff_utc": "2026-10-10T16:00:00.000Z",
+   "home": "Zurich",
+   "away": "Thun",
+   "home_goals": 4,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-10",
+   "kickoff_utc": "2026-10-10T16:00:00.000Z",
+   "home": "Lugano",
+   "away": "Luzern",
+   "home_goals": 4,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-09-20",
+   "kickoff_utc": "2026-09-20T14:30:00.000Z",
+   "home": "Basel",
+   "away": "St. Gallen",
+   "home_goals": 1,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-09-20",
+   "kickoff_utc": "2026-09-20T14:30:00.000Z",
+   "home": "Lausanne",
+   "away": "Lugano",
+   "home_goals": 0,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-09-20",
+   "kickoff_utc": "2026-09-20T12:00:00.000Z",
+   "home": "Vaduz",
+   "away": "Thun",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-09-19",
+   "kickoff_utc": "2026-09-19T16:00:00.000Z",
+   "home": "Sion",
+   "away": "Zurich",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-09-19",
+   "kickoff_utc": "2026-09-19T16:00:00.000Z",
+   "home": "Luzern",
+   "away": "Grasshoppers",
+   "home_goals": 5,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-09-19",
+   "kickoff_utc": "2026-09-19T16:00:00.000Z",
+   "home": "Young Boys",
+   "away": "Servette",
+   "home_goals": 3,
+   "away_goals": 2,
+   "status": "finished"
+  }
+ ],
+ "upcoming": []
+}

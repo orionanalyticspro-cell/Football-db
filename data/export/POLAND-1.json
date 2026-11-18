@@ -1,0 +1,560 @@
+{
+ "competition": {
+  "id": 11,
+  "code": "POLAND-1",
+  "name": "Ekstraklasa",
+  "country": "Poland",
+  "level": 1
+ },
+ "season": "2026/2027",
+ "updated": "2026-11-18T11:56:21.421Z",
+ "standings": [
+  {
+   "position": 1,
+   "team": "Wisla",
+   "played": 27,
+   "won": 11,
+   "drawn": 6,
+   "lost": 10,
+   "goals_for": 36,
+   "goals_against": 40,
+   "goal_diff": -4,
+   "points": 39
+  },
+  {
+   "position": 2,
+   "team": "Lech Poznan",
+   "played": 13,
+   "won": 10,
+   "drawn": 2,
+   "lost": 1,
+   "goals_for": 34,
+   "goals_against": 13,
+   "goal_diff": 21,
+   "points": 32
+  },
+  {
+   "position": 3,
+   "team": "Gornik Zabrze",
+   "played": 14,
+   "won": 9,
+   "drawn": 4,
+   "lost": 1,
+   "goals_for": 23,
+   "goals_against": 12,
+   "goal_diff": 11,
+   "points": 31
+  },
+  {
+   "position": 4,
+   "team": "Legia Warszawa",
+   "played": 14,
+   "won": 6,
+   "drawn": 6,
+   "lost": 2,
+   "goals_for": 25,
+   "goals_against": 15,
+   "goal_diff": 10,
+   "points": 24
+  },
+  {
+   "position": 5,
+   "team": "Pogon Szczecin",
+   "played": 13,
+   "won": 7,
+   "drawn": 3,
+   "lost": 3,
+   "goals_for": 20,
+   "goals_against": 15,
+   "goal_diff": 5,
+   "points": 24
+  },
+  {
+   "position": 6,
+   "team": "Zaglebie",
+   "played": 14,
+   "won": 6,
+   "drawn": 5,
+   "lost": 3,
+   "goals_for": 18,
+   "goals_against": 17,
+   "goal_diff": 1,
+   "points": 23
+  },
+  {
+   "position": 7,
+   "team": "Piast Gliwice",
+   "played": 14,
+   "won": 6,
+   "drawn": 4,
+   "lost": 4,
+   "goals_for": 24,
+   "goals_against": 20,
+   "goal_diff": 4,
+   "points": 22
+  },
+  {
+   "position": 8,
+   "team": "GKS Katowice",
+   "played": 14,
+   "won": 7,
+   "drawn": 0,
+   "lost": 7,
+   "goals_for": 25,
+   "goals_against": 20,
+   "goal_diff": 5,
+   "points": 21
+  },
+  {
+   "position": 9,
+   "team": "Jagiellonia",
+   "played": 13,
+   "won": 7,
+   "drawn": 0,
+   "lost": 6,
+   "goals_for": 18,
+   "goals_against": 18,
+   "goal_diff": 0,
+   "points": 21
+  },
+  {
+   "position": 10,
+   "team": "Motor Lublin",
+   "played": 14,
+   "won": 5,
+   "drawn": 4,
+   "lost": 5,
+   "goals_for": 22,
+   "goals_against": 24,
+   "goal_diff": -2,
+   "points": 19
+  },
+  {
+   "position": 11,
+   "team": "Korona Kielce",
+   "played": 14,
+   "won": 5,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 14,
+   "goals_against": 21,
+   "goal_diff": -7,
+   "points": 18
+  },
+  {
+   "position": 12,
+   "team": "Widzew Lodz",
+   "played": 14,
+   "won": 2,
+   "drawn": 8,
+   "lost": 4,
+   "goals_for": 20,
+   "goals_against": 19,
+   "goal_diff": 1,
+   "points": 14
+  },
+  {
+   "position": 13,
+   "team": "Radomiak Radom",
+   "played": 14,
+   "won": 4,
+   "drawn": 2,
+   "lost": 8,
+   "goals_for": 17,
+   "goals_against": 29,
+   "goal_diff": -12,
+   "points": 14
+  },
+  {
+   "position": 14,
+   "team": "Cracovia",
+   "played": 14,
+   "won": 3,
+   "drawn": 3,
+   "lost": 8,
+   "goals_for": 16,
+   "goals_against": 23,
+   "goal_diff": -7,
+   "points": 12
+  },
+  {
+   "position": 15,
+   "team": "Rakow",
+   "played": 14,
+   "won": 4,
+   "drawn": 0,
+   "lost": 10,
+   "goals_for": 23,
+   "goals_against": 31,
+   "goal_diff": -8,
+   "points": 12
+  },
+  {
+   "position": 16,
+   "team": "Slask Wroclaw",
+   "played": 14,
+   "won": 2,
+   "drawn": 4,
+   "lost": 8,
+   "goals_for": 17,
+   "goals_against": 25,
+   "goal_diff": -8,
+   "points": 10
+  },
+  {
+   "position": 17,
+   "team": "Wieczysta Krakow",
+   "played": 14,
+   "won": 2,
+   "drawn": 2,
+   "lost": 10,
+   "goals_for": 18,
+   "goals_against": 28,
+   "goal_diff": -10,
+   "points": 8
+  }
+ ],
+ "form": [
+  {
+   "team": "Legia Warszawa",
+   "last5": "LDLDW"
+  },
+  {
+   "team": "Pogon Szczecin",
+   "last5": "LLWWW"
+  },
+  {
+   "team": "Zaglebie",
+   "last5": "DWDWL"
+  },
+  {
+   "team": "Piast Gliwice",
+   "last5": "DDWDW"
+  },
+  {
+   "team": "Jagiellonia",
+   "last5": "WWWLL"
+  },
+  {
+   "team": "Widzew Lodz",
+   "last5": "WLDDL"
+  },
+  {
+   "team": "Slask Wroclaw",
+   "last5": "DLWLL"
+  },
+  {
+   "team": "Lech Poznan",
+   "last5": "DWWWW"
+  },
+  {
+   "team": "Wisla",
+   "last5": "WLLDL"
+  },
+  {
+   "team": "Korona Kielce",
+   "last5": "LLWLL"
+  },
+  {
+   "team": "Cracovia",
+   "last5": "LLLDW"
+  },
+  {
+   "team": "Rakow",
+   "last5": "WWLWL"
+  },
+  {
+   "team": "Radomiak Radom",
+   "last5": "WWLLL"
+  },
+  {
+   "team": "Gornik Zabrze",
+   "last5": "WDDDW"
+  },
+  {
+   "team": "GKS Katowice",
+   "last5": "LWLLW"
+  },
+  {
+   "team": "Motor Lublin",
+   "last5": "WWDWW"
+  },
+  {
+   "team": "Wieczysta Krakow",
+   "last5": "LLLLL"
+  }
+ ],
+ "recent": [
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T19:15:00.000Z",
+   "home": "Lech Poznan",
+   "away": "Zaglebie",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T16:30:00.000Z",
+   "home": "Legia Warszawa",
+   "away": "Rakow",
+   "home_goals": 2,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T13:45:00.000Z",
+   "home": "Jagiellonia",
+   "away": "GKS Katowice",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T19:15:00.000Z",
+   "home": "Widzew Lodz",
+   "away": "Pogon Szczecin",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T16:30:00.000Z",
+   "home": "Gornik Zabrze",
+   "away": "Wieczysta Krakow",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T13:45:00.000Z",
+   "home": "Slask Wroclaw",
+   "away": "Piast Gliwice",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T11:15:00.000Z",
+   "home": "Korona Kielce",
+   "away": "Radomiak Radom",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-06",
+   "kickoff_utc": "2026-11-06T19:30:00.000Z",
+   "home": "Wisla",
+   "away": "Cracovia",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-06",
+   "kickoff_utc": "2026-11-06T17:00:00.000Z",
+   "home": "Motor Lublin",
+   "away": "Wisla",
+   "home_goals": 3,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-02",
+   "kickoff_utc": "2026-11-02T19:30:00.000Z",
+   "home": "Rakow",
+   "away": "Pogon Szczecin",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-02",
+   "kickoff_utc": "2026-11-02T17:00:00.000Z",
+   "home": "Zaglebie",
+   "away": "Korona Kielce",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-02",
+   "kickoff_utc": "2026-11-02T17:00:00.000Z",
+   "home": "Radomiak Radom",
+   "away": "Slask Wroclaw",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T19:15:00.000Z",
+   "home": "GKS Katowice",
+   "away": "Widzew Lodz",
+   "home_goals": 3,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T16:30:00.000Z",
+   "home": "Lech Poznan",
+   "away": "Wisla",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T13:45:00.000Z",
+   "home": "Wieczysta Krakow",
+   "away": "Jagiellonia",
+   "home_goals": 1,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T11:15:00.000Z",
+   "home": "Wisla",
+   "away": "Piast Gliwice",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-30",
+   "kickoff_utc": "2026-10-30T19:30:00.000Z",
+   "home": "Gornik Zabrze",
+   "away": "Legia Warszawa",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-30",
+   "kickoff_utc": "2026-10-30T17:00:00.000Z",
+   "home": "Cracovia",
+   "away": "Motor Lublin",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-25",
+   "kickoff_utc": "2026-10-25T16:30:00.000Z",
+   "home": "Legia Warszawa",
+   "away": "Lech Poznan",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-25",
+   "kickoff_utc": "2026-10-25T13:45:00.000Z",
+   "home": "Jagiellonia",
+   "away": "Wisla",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-25",
+   "kickoff_utc": "2026-10-25T11:15:00.000Z",
+   "home": "Slask Wroclaw",
+   "away": "Wieczysta Krakow",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T18:15:00.000Z",
+   "home": "Wisla",
+   "away": "Rakow",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T15:30:00.000Z",
+   "home": "Pogon Szczecin",
+   "away": "Radomiak Radom",
+   "home_goals": 4,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T12:45:00.000Z",
+   "home": "Korona Kielce",
+   "away": "GKS Katowice",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T10:15:00.000Z",
+   "home": "Piast Gliwice",
+   "away": "Cracovia",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-23",
+   "kickoff_utc": "2026-10-23T18:30:00.000Z",
+   "home": "Widzew Lodz",
+   "away": "Gornik Zabrze",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-23",
+   "kickoff_utc": "2026-10-23T16:00:00.000Z",
+   "home": "Motor Lublin",
+   "away": "Zaglebie",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-19",
+   "kickoff_utc": "2026-10-19T17:00:00.000Z",
+   "home": "Wisla",
+   "away": "Radomiak Radom",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-18",
+   "kickoff_utc": "2026-10-18T15:30:00.000Z",
+   "home": "Lech Poznan",
+   "away": "Korona Kielce",
+   "home_goals": 6,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-18",
+   "kickoff_utc": "2026-10-18T12:45:00.000Z",
+   "home": "Zaglebie",
+   "away": "Jagiellonia",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  }
+ ],
+ "upcoming": []
+}

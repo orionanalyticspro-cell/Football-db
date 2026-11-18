@@ -1,0 +1,464 @@
+{
+ "competition": {
+  "id": 7,
+  "code": "IRELAND-1",
+  "name": "Premier Division",
+  "country": "Ireland",
+  "level": 1
+ },
+ "season": "2026",
+ "updated": "2026-11-18T11:56:20.752Z",
+ "standings": [
+  {
+   "position": 1,
+   "team": "Shamrock Rovers",
+   "played": 36,
+   "won": 20,
+   "drawn": 8,
+   "lost": 8,
+   "goals_for": 59,
+   "goals_against": 38,
+   "goal_diff": 21,
+   "points": 68
+  },
+  {
+   "position": 2,
+   "team": "Bohemians",
+   "played": 36,
+   "won": 19,
+   "drawn": 8,
+   "lost": 9,
+   "goals_for": 63,
+   "goals_against": 44,
+   "goal_diff": 19,
+   "points": 65
+  },
+  {
+   "position": 3,
+   "team": "St. Patricks",
+   "played": 36,
+   "won": 17,
+   "drawn": 9,
+   "lost": 10,
+   "goals_for": 55,
+   "goals_against": 31,
+   "goal_diff": 24,
+   "points": 60
+  },
+  {
+   "position": 4,
+   "team": "Shelbourne",
+   "played": 36,
+   "won": 12,
+   "drawn": 13,
+   "lost": 11,
+   "goals_for": 52,
+   "goals_against": 50,
+   "goal_diff": 2,
+   "points": 49
+  },
+  {
+   "position": 5,
+   "team": "Derry City",
+   "played": 36,
+   "won": 11,
+   "drawn": 15,
+   "lost": 10,
+   "goals_for": 50,
+   "goals_against": 47,
+   "goal_diff": 3,
+   "points": 48
+  },
+  {
+   "position": 6,
+   "team": "Dundalk",
+   "played": 36,
+   "won": 11,
+   "drawn": 12,
+   "lost": 13,
+   "goals_for": 55,
+   "goals_against": 59,
+   "goal_diff": -4,
+   "points": 45
+  },
+  {
+   "position": 7,
+   "team": "Waterford",
+   "played": 36,
+   "won": 10,
+   "drawn": 13,
+   "lost": 13,
+   "goals_for": 54,
+   "goals_against": 61,
+   "goal_diff": -7,
+   "points": 43
+  },
+  {
+   "position": 8,
+   "team": "Galway",
+   "played": 36,
+   "won": 10,
+   "drawn": 12,
+   "lost": 14,
+   "goals_for": 46,
+   "goals_against": 53,
+   "goal_diff": -7,
+   "points": 42
+  },
+  {
+   "position": 9,
+   "team": "Drogheda",
+   "played": 37,
+   "won": 10,
+   "drawn": 10,
+   "lost": 17,
+   "goals_for": 45,
+   "goals_against": 59,
+   "goal_diff": -14,
+   "points": 40
+  },
+  {
+   "position": 10,
+   "team": "Sligo Rovers",
+   "played": 36,
+   "won": 5,
+   "drawn": 10,
+   "lost": 21,
+   "goals_for": 28,
+   "goals_against": 66,
+   "goal_diff": -38,
+   "points": 25
+  },
+  {
+   "position": 11,
+   "team": "UC Dublin",
+   "played": 1,
+   "won": 1,
+   "drawn": 0,
+   "lost": 0,
+   "goals_for": 2,
+   "goals_against": 1,
+   "goal_diff": 1,
+   "points": 3
+  }
+ ],
+ "form": [
+  {
+   "team": "Drogheda",
+   "last5": "LWLWL"
+  },
+  {
+   "team": "Shamrock Rovers",
+   "last5": "LWLWW"
+  },
+  {
+   "team": "Derry City",
+   "last5": "DWWLW"
+  },
+  {
+   "team": "Bohemians",
+   "last5": "WLWLW"
+  },
+  {
+   "team": "St. Patricks",
+   "last5": "LDLLW"
+  },
+  {
+   "team": "UC Dublin",
+   "last5": "W"
+  },
+  {
+   "team": "Dundalk",
+   "last5": "WLDLL"
+  },
+  {
+   "team": "Shelbourne",
+   "last5": "LWWWD"
+  },
+  {
+   "team": "Sligo Rovers",
+   "last5": "DLDLL"
+  },
+  {
+   "team": "Waterford",
+   "last5": "WWWLL"
+  },
+  {
+   "team": "Galway",
+   "last5": "LDLWD"
+  }
+ ],
+ "recent": [
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T17:30:00.000Z",
+   "home": "UC Dublin",
+   "away": "Drogheda",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-30",
+   "kickoff_utc": "2026-10-30T19:45:00.000Z",
+   "home": "Drogheda",
+   "away": "Galway",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-30",
+   "kickoff_utc": "2026-10-30T19:45:00.000Z",
+   "home": "St. Patricks",
+   "away": "Bohemians",
+   "home_goals": 2,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-30",
+   "kickoff_utc": "2026-10-30T19:45:00.000Z",
+   "home": "Dundalk",
+   "away": "Shamrock Rovers",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-30",
+   "kickoff_utc": "2026-10-30T19:45:00.000Z",
+   "home": "Shelbourne",
+   "away": "Waterford",
+   "home_goals": 2,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-30",
+   "kickoff_utc": "2026-10-30T19:45:00.000Z",
+   "home": "Sligo Rovers",
+   "away": "Derry City",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-23",
+   "kickoff_utc": "2026-10-23T19:00:00.000Z",
+   "home": "Shamrock Rovers",
+   "away": "Sligo Rovers",
+   "home_goals": 4,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-23",
+   "kickoff_utc": "2026-10-23T18:45:00.000Z",
+   "home": "Derry City",
+   "away": "Dundalk",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-23",
+   "kickoff_utc": "2026-10-23T18:45:00.000Z",
+   "home": "Bohemians",
+   "away": "Shelbourne",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-23",
+   "kickoff_utc": "2026-10-23T18:45:00.000Z",
+   "home": "Waterford",
+   "away": "Drogheda",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-23",
+   "kickoff_utc": "2026-10-23T18:45:00.000Z",
+   "home": "Galway",
+   "away": "St. Patricks",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-19",
+   "kickoff_utc": "2026-10-19T19:00:00.000Z",
+   "home": "Derry City",
+   "away": "St. Patricks",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-19",
+   "kickoff_utc": "2026-10-19T18:45:00.000Z",
+   "home": "Waterford",
+   "away": "Galway",
+   "home_goals": 3,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-17",
+   "kickoff_utc": "2026-10-17T18:45:00.000Z",
+   "home": "Sligo Rovers",
+   "away": "Dundalk",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-16",
+   "kickoff_utc": "2026-10-16T19:00:00.000Z",
+   "home": "St. Patricks",
+   "away": "Shelbourne",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-16",
+   "kickoff_utc": "2026-10-16T18:45:00.000Z",
+   "home": "Drogheda",
+   "away": "Derry City",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-16",
+   "kickoff_utc": "2026-10-16T18:45:00.000Z",
+   "home": "Bohemians",
+   "away": "Waterford",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-16",
+   "kickoff_utc": "2026-10-16T18:45:00.000Z",
+   "home": "Galway",
+   "away": "Shamrock Rovers",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-12",
+   "kickoff_utc": "2026-10-12T19:00:00.000Z",
+   "home": "Shamrock Rovers",
+   "away": "Bohemians",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-09",
+   "kickoff_utc": "2026-10-09T18:45:00.000Z",
+   "home": "Shelbourne",
+   "away": "Sligo Rovers",
+   "home_goals": 5,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-08",
+   "kickoff_utc": "2026-10-08T19:00:00.000Z",
+   "home": "Shamrock Rovers",
+   "away": "Drogheda",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-02",
+   "kickoff_utc": "2026-10-02T18:45:00.000Z",
+   "home": "Dundalk",
+   "away": "Bohemians",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-09-25",
+   "kickoff_utc": "2026-09-25T18:45:00.000Z",
+   "home": "Galway",
+   "away": "Shelbourne",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-09-19",
+   "kickoff_utc": "2026-09-19T18:45:00.000Z",
+   "home": "Sligo Rovers",
+   "away": "St. Patricks",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-09-18",
+   "kickoff_utc": "2026-09-18T19:00:00.000Z",
+   "home": "Shamrock Rovers",
+   "away": "Waterford",
+   "home_goals": 3,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-09-18",
+   "kickoff_utc": "2026-09-18T19:00:00.000Z",
+   "home": "Bohemians",
+   "away": "Drogheda",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-09-18",
+   "kickoff_utc": "2026-09-18T18:45:00.000Z",
+   "home": "Derry City",
+   "away": "Galway",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-09-18",
+   "kickoff_utc": "2026-09-18T18:45:00.000Z",
+   "home": "Dundalk",
+   "away": "Shelbourne",
+   "home_goals": 2,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-09-14",
+   "kickoff_utc": "2026-09-14T18:45:00.000Z",
+   "home": "Dundalk",
+   "away": "St. Patricks",
+   "home_goals": 0,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-09-14",
+   "kickoff_utc": "2026-09-14T18:45:00.000Z",
+   "home": "Shelbourne",
+   "away": "Drogheda",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  }
+ ],
+ "upcoming": []
+}

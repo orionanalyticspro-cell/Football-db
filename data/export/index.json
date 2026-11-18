@@ -1,0 +1,133 @@
+{
+ "updated": "2026-11-18T11:56:22.255Z",
+ "competitions": [
+  {
+   "code": "ARGENTINA-1",
+   "name": "Liga Profesional",
+   "country": "Argentina",
+   "level": 1,
+   "season": "2026",
+   "teams": 30
+  },
+  {
+   "code": "AUSTRIA-1",
+   "name": "Bundesliga",
+   "country": "Austria",
+   "level": 1,
+   "season": "2026/2027",
+   "teams": 12
+  },
+  {
+   "code": "BRAZIL-1",
+   "name": "Serie A",
+   "country": "Brazil",
+   "level": 1,
+   "season": "2026",
+   "teams": 20
+  },
+  {
+   "code": "CHINA-1",
+   "name": "Super League",
+   "country": "China",
+   "level": 1,
+   "season": "2026",
+   "teams": 15
+  },
+  {
+   "code": "DENMARK-1",
+   "name": "Superliga",
+   "country": "Denmark",
+   "level": 1,
+   "season": "2026/2027",
+   "teams": 12
+  },
+  {
+   "code": "FINLAND-1",
+   "name": "Veikkausliiga",
+   "country": "Finland",
+   "level": 1,
+   "season": "2026",
+   "teams": 13
+  },
+  {
+   "code": "IRELAND-1",
+   "name": "Premier Division",
+   "country": "Ireland",
+   "level": 1,
+   "season": "2026",
+   "teams": 11
+  },
+  {
+   "code": "JAPAN-1",
+   "name": "J1 League",
+   "country": "Japan",
+   "level": 1,
+   "season": "2026/2027",
+   "teams": 20
+  },
+  {
+   "code": "MEXICO-1",
+   "name": "Liga MX",
+   "country": "Mexico",
+   "level": 1,
+   "season": "2026/2027",
+   "teams": 18
+  },
+  {
+   "code": "NORWAY-1",
+   "name": "Eliteserien",
+   "country": "Norway",
+   "level": 1,
+   "season": "2026",
+   "teams": 16
+  },
+  {
+   "code": "POLAND-1",
+   "name": "Ekstraklasa",
+   "country": "Poland",
+   "level": 1,
+   "season": "2026/2027",
+   "teams": 17
+  },
+  {
+   "code": "ROMANIA-1",
+   "name": "Superliga",
+   "country": "Romania",
+   "level": 1,
+   "season": "2026/2027",
+   "teams": 16
+  },
+  {
+   "code": "RUSSIA-1",
+   "name": "Premier League",
+   "country": "Russia",
+   "level": 1,
+   "season": "2026/2027",
+   "teams": 16
+  },
+  {
+   "code": "SWEDEN-1",
+   "name": "Allsvenskan",
+   "country": "Sweden",
+   "level": 1,
+   "season": "2026",
+   "teams": 16
+  },
+  {
+   "code": "SWITZERLAND-1",
+   "name": "Super League",
+   "country": "Switzerland",
+   "level": 1,
+   "season": "2026/2027",
+   "teams": 12
+  },
+  {
+   "code": "USA-1",
+   "name": "MLS",
+   "country": "USA",
+   "level": 1,
+   "season": "2026",
+   "teams": 29
+  }
+ ]
+}
