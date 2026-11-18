@@ -1,0 +1,85 @@
+name: Découvrir les ligues ESPN disponibles
+
+on:
+  workflow_dispatch:
+    inputs:
+      args:
+        description: "Options (ex. --slugs sau.1,civ.1,mar.1 --days 45). Vide = toutes les ligues."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run discover -- ${{ github.event.inputs.args }}
+        env:
+          SCRAPER_UA: "football-db/0.1 (+${{ github.server_url }}/${{ github.repository }})"
+      - name: Publication du rapport
+        run: |
+          git config user.name  "football-db-bot"
+          git config user.email "football-db-bot@users.noreply.github.com"
+          git add data/discovered.md data/discovered.json
+          git diff --cached --quiet || git commit -m "rapport: ligues ESPN disponibles"
+          git push
+
+Ces deux fichiers sont des copies VISIBLES des fichiers de .github/workflows (dossier caché).
+Sur GitHub : Add file > Create new file > tapez le nom  .github/workflows/update.yml  (ou discover.yml)
+puis copiez-collez le contenu du fichier correspondant ici et cliquez sur Commit changes.
+
+name: Mise à jour des données football
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"      # toutes les 6 heures (gratuit sur un dépôt public ; limité en minutes sur un dépôt privé)
+  workflow_dispatch:
+    inputs:
+      args:
+        description: "Arguments du collecteur (ex. --source fd-extra --backfill)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: football-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Collecte
+        env:
+          SCRAPER_UA: "football-db/0.1 (+${{ github.server_url }}/${{ github.repository }})"
+        run: npm run update -- ${{ github.event.inputs.args }}
+      - name: Export JSON pour l'application
+        run: npm run export
+      - name: Contrôle qualité
+        run: npm run health
+        continue-on-error: true      # signale le problème sans empêcher la publication des données
+      - name: Publication
+        run: |
+          git config user.name  "football-db-bot"
+          git config user.email "football-db-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "données: mise à jour $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
