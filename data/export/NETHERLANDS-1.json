@@ -1,0 +1,576 @@
+{
+ "competition": {
+  "id": 34,
+  "code": "NETHERLANDS-1",
+  "name": "Eredivisie",
+  "country": "Netherlands",
+  "level": 1
+ },
+ "season": "2026/2027",
+ "updated": "2026-11-18T11:59:51.691Z",
+ "standings": [
+  {
+   "position": 1,
+   "team": "PSV Eindhoven",
+   "played": 12,
+   "won": 8,
+   "drawn": 2,
+   "lost": 2,
+   "goals_for": 40,
+   "goals_against": 15,
+   "goal_diff": 25,
+   "points": 26
+  },
+  {
+   "position": 2,
+   "team": "Feyenoord",
+   "played": 12,
+   "won": 7,
+   "drawn": 4,
+   "lost": 1,
+   "goals_for": 36,
+   "goals_against": 17,
+   "goal_diff": 19,
+   "points": 25
+  },
+  {
+   "position": 3,
+   "team": "Ajax",
+   "played": 12,
+   "won": 7,
+   "drawn": 4,
+   "lost": 1,
+   "goals_for": 32,
+   "goals_against": 15,
+   "goal_diff": 17,
+   "points": 25
+  },
+  {
+   "position": 4,
+   "team": "Twente",
+   "played": 12,
+   "won": 7,
+   "drawn": 3,
+   "lost": 2,
+   "goals_for": 30,
+   "goals_against": 12,
+   "goal_diff": 18,
+   "points": 24
+  },
+  {
+   "position": 5,
+   "team": "AZ Alkmaar",
+   "played": 12,
+   "won": 7,
+   "drawn": 2,
+   "lost": 3,
+   "goals_for": 24,
+   "goals_against": 16,
+   "goal_diff": 8,
+   "points": 23
+  },
+  {
+   "position": 6,
+   "team": "Heerenveen",
+   "played": 12,
+   "won": 6,
+   "drawn": 3,
+   "lost": 3,
+   "goals_for": 24,
+   "goals_against": 16,
+   "goal_diff": 8,
+   "points": 21
+  },
+  {
+   "position": 7,
+   "team": "For Sittard",
+   "played": 12,
+   "won": 5,
+   "drawn": 5,
+   "lost": 2,
+   "goals_for": 20,
+   "goals_against": 20,
+   "goal_diff": 0,
+   "points": 20
+  },
+  {
+   "position": 8,
+   "team": "Go Ahead Eagles",
+   "played": 12,
+   "won": 4,
+   "drawn": 5,
+   "lost": 3,
+   "goals_for": 24,
+   "goals_against": 27,
+   "goal_diff": -3,
+   "points": 17
+  },
+  {
+   "position": 9,
+   "team": "Groningen",
+   "played": 12,
+   "won": 4,
+   "drawn": 3,
+   "lost": 5,
+   "goals_for": 29,
+   "goals_against": 28,
+   "goal_diff": 1,
+   "points": 15
+  },
+  {
+   "position": 10,
+   "team": "Cambuur",
+   "played": 12,
+   "won": 4,
+   "drawn": 3,
+   "lost": 5,
+   "goals_for": 25,
+   "goals_against": 27,
+   "goal_diff": -2,
+   "points": 15
+  },
+  {
+   "position": 11,
+   "team": "Nijmegen",
+   "played": 12,
+   "won": 3,
+   "drawn": 5,
+   "lost": 4,
+   "goals_for": 20,
+   "goals_against": 21,
+   "goal_diff": -1,
+   "points": 14
+  },
+  {
+   "position": 12,
+   "team": "Sparta Rotterdam",
+   "played": 12,
+   "won": 3,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 21,
+   "goals_against": 29,
+   "goal_diff": -8,
+   "points": 12
+  },
+  {
+   "position": 13,
+   "team": "Zwolle",
+   "played": 12,
+   "won": 3,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 13,
+   "goals_against": 24,
+   "goal_diff": -11,
+   "points": 12
+  },
+  {
+   "position": 14,
+   "team": "Utrecht",
+   "played": 12,
+   "won": 3,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 21,
+   "goals_against": 34,
+   "goal_diff": -13,
+   "points": 12
+  },
+  {
+   "position": 15,
+   "team": "Excelsior",
+   "played": 12,
+   "won": 3,
+   "drawn": 2,
+   "lost": 7,
+   "goals_for": 16,
+   "goals_against": 29,
+   "goal_diff": -13,
+   "points": 11
+  },
+  {
+   "position": 16,
+   "team": "Telstar",
+   "played": 12,
+   "won": 2,
+   "drawn": 4,
+   "lost": 6,
+   "goals_for": 18,
+   "goals_against": 25,
+   "goal_diff": -7,
+   "points": 10
+  },
+  {
+   "position": 17,
+   "team": "Den Haag",
+   "played": 12,
+   "won": 2,
+   "drawn": 3,
+   "lost": 7,
+   "goals_for": 16,
+   "goals_against": 25,
+   "goal_diff": -9,
+   "points": 9
+  },
+  {
+   "position": 18,
+   "team": "Willem II",
+   "played": 12,
+   "won": 0,
+   "drawn": 3,
+   "lost": 9,
+   "goals_for": 11,
+   "goals_against": 40,
+   "goal_diff": -29,
+   "points": 3
+  }
+ ],
+ "form": [
+  {
+   "team": "Groningen",
+   "last5": "LLDLW"
+  },
+  {
+   "team": "Feyenoord",
+   "last5": "LDDWW"
+  },
+  {
+   "team": "Willem II",
+   "last5": "DLLLL"
+  },
+  {
+   "team": "Nijmegen",
+   "last5": "WLDDD"
+  },
+  {
+   "team": "Twente",
+   "last5": "DWWLD"
+  },
+  {
+   "team": "AZ Alkmaar",
+   "last5": "WLLDL"
+  },
+  {
+   "team": "PSV Eindhoven",
+   "last5": "WWDLW"
+  },
+  {
+   "team": "Sparta Rotterdam",
+   "last5": "LWLWD"
+  },
+  {
+   "team": "Go Ahead Eagles",
+   "last5": "WLWLD"
+  },
+  {
+   "team": "For Sittard",
+   "last5": "DDWDD"
+  },
+  {
+   "team": "Utrecht",
+   "last5": "LLDWW"
+  },
+  {
+   "team": "Zwolle",
+   "last5": "DWDWL"
+  },
+  {
+   "team": "Ajax",
+   "last5": "DWWWD"
+  },
+  {
+   "team": "Heerenveen",
+   "last5": "WWWWL"
+  },
+  {
+   "team": "Excelsior",
+   "last5": "LLLLL"
+  },
+  {
+   "team": "Telstar",
+   "last5": "DWLLD"
+  },
+  {
+   "team": "Cambuur",
+   "last5": "LWWDW"
+  },
+  {
+   "team": "Den Haag",
+   "last5": "WLLWD"
+  }
+ ],
+ "recent": [
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T19:00:00.000Z",
+   "home": "Utrecht",
+   "away": "Nijmegen",
+   "home_goals": 2,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T15:45:00.000Z",
+   "home": "AZ Alkmaar",
+   "away": "Groningen",
+   "home_goals": 4,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T15:45:00.000Z",
+   "home": "Cambuur",
+   "away": "PSV Eindhoven",
+   "home_goals": 2,
+   "away_goals": 5,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T13:30:00.000Z",
+   "home": "Twente",
+   "away": "Ajax",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T11:15:00.000Z",
+   "home": "Heerenveen",
+   "away": "Feyenoord",
+   "home_goals": 5,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T20:00:00.000Z",
+   "home": "Excelsior",
+   "away": "Go Ahead Eagles",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T17:45:00.000Z",
+   "home": "Den Haag",
+   "away": "Sparta Rotterdam",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T15:30:00.000Z",
+   "home": "For Sittard",
+   "away": "Telstar",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-06",
+   "kickoff_utc": "2026-11-06T19:00:00.000Z",
+   "home": "Willem II",
+   "away": "Zwolle",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-01",
+   "kickoff_utc": "2026-11-01T15:45:00.000Z",
+   "home": "Groningen",
+   "away": "Sparta Rotterdam",
+   "home_goals": 2,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-01",
+   "kickoff_utc": "2026-11-01T13:30:00.000Z",
+   "home": "Excelsior",
+   "away": "Twente",
+   "home_goals": 0,
+   "away_goals": 9,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-01",
+   "kickoff_utc": "2026-11-01T13:30:00.000Z",
+   "home": "Telstar",
+   "away": "Utrecht",
+   "home_goals": 4,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-01",
+   "kickoff_utc": "2026-11-01T11:15:00.000Z",
+   "home": "Zwolle",
+   "away": "Den Haag",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T20:00:00.000Z",
+   "home": "Ajax",
+   "away": "AZ Alkmaar",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T20:00:00.000Z",
+   "home": "Cambuur",
+   "away": "Go Ahead Eagles",
+   "home_goals": 4,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T17:45:00.000Z",
+   "home": "PSV Eindhoven",
+   "away": "Willem II",
+   "home_goals": 7,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T17:45:00.000Z",
+   "home": "Heerenveen",
+   "away": "Nijmegen",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T15:30:00.000Z",
+   "home": "Feyenoord",
+   "away": "For Sittard",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-25",
+   "kickoff_utc": "2026-10-25T19:00:00.000Z",
+   "home": "AZ Alkmaar",
+   "away": "Twente",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-25",
+   "kickoff_utc": "2026-10-25T15:45:00.000Z",
+   "home": "Sparta Rotterdam",
+   "away": "Ajax",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-25",
+   "kickoff_utc": "2026-10-25T13:30:00.000Z",
+   "home": "Nijmegen",
+   "away": "Groningen",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-25",
+   "kickoff_utc": "2026-10-25T13:30:00.000Z",
+   "home": "PSV Eindhoven",
+   "away": "Feyenoord",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-25",
+   "kickoff_utc": "2026-10-25T11:15:00.000Z",
+   "home": "For Sittard",
+   "away": "Excelsior",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T19:00:00.000Z",
+   "home": "Den Haag",
+   "away": "Heerenveen",
+   "home_goals": 2,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T16:45:00.000Z",
+   "home": "Willem II",
+   "away": "Cambuur",
+   "home_goals": 1,
+   "away_goals": 6,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T14:30:00.000Z",
+   "home": "Utrecht",
+   "away": "Zwolle",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-23",
+   "kickoff_utc": "2026-10-23T18:00:00.000Z",
+   "home": "Go Ahead Eagles",
+   "away": "Telstar",
+   "home_goals": 3,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-18",
+   "kickoff_utc": "2026-10-18T18:00:00.000Z",
+   "home": "Nijmegen",
+   "away": "For Sittard",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-18",
+   "kickoff_utc": "2026-10-18T18:00:00.000Z",
+   "home": "Twente",
+   "away": "Utrecht",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-18",
+   "kickoff_utc": "2026-10-18T14:45:00.000Z",
+   "home": "Groningen",
+   "away": "Ajax",
+   "home_goals": 2,
+   "away_goals": 5,
+   "status": "finished"
+  }
+ ],
+ "upcoming": []
+}

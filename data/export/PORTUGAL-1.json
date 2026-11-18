@@ -1,0 +1,576 @@
+{
+ "competition": {
+  "id": 36,
+  "code": "PORTUGAL-1",
+  "name": "Primeira Liga",
+  "country": "Portugal",
+  "level": 1
+ },
+ "season": "2026/2027",
+ "updated": "2026-11-18T11:59:52.464Z",
+ "standings": [
+  {
+   "position": 1,
+   "team": "Porto",
+   "played": 11,
+   "won": 11,
+   "drawn": 0,
+   "lost": 0,
+   "goals_for": 27,
+   "goals_against": 5,
+   "goal_diff": 22,
+   "points": 33
+  },
+  {
+   "position": 2,
+   "team": "Benfica",
+   "played": 11,
+   "won": 9,
+   "drawn": 1,
+   "lost": 1,
+   "goals_for": 30,
+   "goals_against": 10,
+   "goal_diff": 20,
+   "points": 28
+  },
+  {
+   "position": 3,
+   "team": "Sp Lisbon",
+   "played": 11,
+   "won": 7,
+   "drawn": 3,
+   "lost": 1,
+   "goals_for": 24,
+   "goals_against": 11,
+   "goal_diff": 13,
+   "points": 24
+  },
+  {
+   "position": 4,
+   "team": "Santa Clara",
+   "played": 11,
+   "won": 6,
+   "drawn": 3,
+   "lost": 2,
+   "goals_for": 16,
+   "goals_against": 8,
+   "goal_diff": 8,
+   "points": 21
+  },
+  {
+   "position": 5,
+   "team": "Arouca",
+   "played": 11,
+   "won": 6,
+   "drawn": 2,
+   "lost": 3,
+   "goals_for": 13,
+   "goals_against": 8,
+   "goal_diff": 5,
+   "points": 20
+  },
+  {
+   "position": 6,
+   "team": "Academico Viseu",
+   "played": 11,
+   "won": 6,
+   "drawn": 2,
+   "lost": 3,
+   "goals_for": 15,
+   "goals_against": 13,
+   "goal_diff": 2,
+   "points": 20
+  },
+  {
+   "position": 7,
+   "team": "Gil Vicente",
+   "played": 11,
+   "won": 5,
+   "drawn": 3,
+   "lost": 3,
+   "goals_for": 10,
+   "goals_against": 8,
+   "goal_diff": 2,
+   "points": 18
+  },
+  {
+   "position": 8,
+   "team": "Sp Braga",
+   "played": 11,
+   "won": 5,
+   "drawn": 2,
+   "lost": 4,
+   "goals_for": 13,
+   "goals_against": 11,
+   "goal_diff": 2,
+   "points": 17
+  },
+  {
+   "position": 9,
+   "team": "Moreirense",
+   "played": 11,
+   "won": 4,
+   "drawn": 2,
+   "lost": 5,
+   "goals_for": 13,
+   "goals_against": 18,
+   "goal_diff": -5,
+   "points": 14
+  },
+  {
+   "position": 10,
+   "team": "Famalicao",
+   "played": 11,
+   "won": 3,
+   "drawn": 4,
+   "lost": 4,
+   "goals_for": 15,
+   "goals_against": 14,
+   "goal_diff": 1,
+   "points": 13
+  },
+  {
+   "position": 11,
+   "team": "Alverca",
+   "played": 11,
+   "won": 3,
+   "drawn": 3,
+   "lost": 5,
+   "goals_for": 14,
+   "goals_against": 15,
+   "goal_diff": -1,
+   "points": 12
+  },
+  {
+   "position": 12,
+   "team": "Estrela",
+   "played": 11,
+   "won": 2,
+   "drawn": 4,
+   "lost": 5,
+   "goals_for": 17,
+   "goals_against": 22,
+   "goal_diff": -5,
+   "points": 10
+  },
+  {
+   "position": 13,
+   "team": "Nacional",
+   "played": 11,
+   "won": 3,
+   "drawn": 1,
+   "lost": 7,
+   "goals_for": 11,
+   "goals_against": 19,
+   "goal_diff": -8,
+   "points": 10
+  },
+  {
+   "position": 14,
+   "team": "Guimaraes",
+   "played": 11,
+   "won": 2,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 11,
+   "goals_against": 12,
+   "goal_diff": -1,
+   "points": 9
+  },
+  {
+   "position": 15,
+   "team": "Maritimo",
+   "played": 10,
+   "won": 2,
+   "drawn": 2,
+   "lost": 6,
+   "goals_for": 9,
+   "goals_against": 21,
+   "goal_diff": -12,
+   "points": 8
+  },
+  {
+   "position": 16,
+   "team": "Casa Pia",
+   "played": 11,
+   "won": 2,
+   "drawn": 2,
+   "lost": 7,
+   "goals_for": 6,
+   "goals_against": 20,
+   "goal_diff": -14,
+   "points": 8
+  },
+  {
+   "position": 17,
+   "team": "Rio Ave",
+   "played": 11,
+   "won": 2,
+   "drawn": 1,
+   "lost": 8,
+   "goals_for": 9,
+   "goals_against": 24,
+   "goal_diff": -15,
+   "points": 7
+  },
+  {
+   "position": 18,
+   "team": "Estoril",
+   "played": 10,
+   "won": 0,
+   "drawn": 2,
+   "lost": 8,
+   "goals_for": 5,
+   "goals_against": 19,
+   "goal_diff": -14,
+   "points": 2
+  }
+ ],
+ "form": [
+  {
+   "team": "Sp Lisbon",
+   "last5": "WWLWD"
+  },
+  {
+   "team": "Rio Ave",
+   "last5": "LLLWL"
+  },
+  {
+   "team": "Nacional",
+   "last5": "WLWLL"
+  },
+  {
+   "team": "Casa Pia",
+   "last5": "DLWLW"
+  },
+  {
+   "team": "Porto",
+   "last5": "WWWWW"
+  },
+  {
+   "team": "Gil Vicente",
+   "last5": "WDLWW"
+  },
+  {
+   "team": "Estoril",
+   "last5": "LLLLL"
+  },
+  {
+   "team": "Santa Clara",
+   "last5": "LWLWD"
+  },
+  {
+   "team": "Famalicao",
+   "last5": "WLWLW"
+  },
+  {
+   "team": "Benfica",
+   "last5": "WWWWL"
+  },
+  {
+   "team": "Moreirense",
+   "last5": "LWWLD"
+  },
+  {
+   "team": "Sp Braga",
+   "last5": "WWLLL"
+  },
+  {
+   "team": "Estrela",
+   "last5": "LLLLL"
+  },
+  {
+   "team": "Arouca",
+   "last5": "LWWWD"
+  },
+  {
+   "team": "Guimaraes",
+   "last5": "LDWLD"
+  },
+  {
+   "team": "Alverca",
+   "last5": "DLLWW"
+  },
+  {
+   "team": "Maritimo",
+   "last5": "LLLDL"
+  },
+  {
+   "team": "Academico Viseu",
+   "last5": "LWWWW"
+  }
+ ],
+ "recent": [
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T20:30:00.000Z",
+   "home": "Rio Ave",
+   "away": "Sp Braga",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T20:30:00.000Z",
+   "home": "Estrela",
+   "away": "Benfica",
+   "home_goals": 2,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T18:00:00.000Z",
+   "home": "Guimaraes",
+   "away": "Porto",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T15:30:00.000Z",
+   "home": "Nacional",
+   "away": "Academico Viseu",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T15:30:00.000Z",
+   "home": "Santa Clara",
+   "away": "Gil Vicente",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T20:30:00.000Z",
+   "home": "Sp Lisbon",
+   "away": "Moreirense",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T18:00:00.000Z",
+   "home": "Alverca",
+   "away": "Casa Pia",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-06",
+   "kickoff_utc": "2026-11-06T20:45:00.000Z",
+   "home": "Famalicao",
+   "away": "Arouca",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-02",
+   "kickoff_utc": "2026-11-02T20:15:00.000Z",
+   "home": "Gil Vicente",
+   "away": "Guimaraes",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-02",
+   "kickoff_utc": "2026-11-02T20:15:00.000Z",
+   "home": "Benfica",
+   "away": "Alverca",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-01",
+   "kickoff_utc": "2026-11-01T20:30:00.000Z",
+   "home": "Sp Braga",
+   "away": "Famalicao",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-01",
+   "kickoff_utc": "2026-11-01T18:00:00.000Z",
+   "home": "Maritimo",
+   "away": "Santa Clara",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-01",
+   "kickoff_utc": "2026-11-01T18:00:00.000Z",
+   "home": "Academico Viseu",
+   "away": "Rio Ave",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-01",
+   "kickoff_utc": "2026-11-01T15:30:00.000Z",
+   "home": "Arouca",
+   "away": "Nacional",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T20:30:00.000Z",
+   "home": "Porto",
+   "away": "Estoril",
+   "home_goals": 4,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T15:30:00.000Z",
+   "home": "Moreirense",
+   "away": "Estrela",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-30",
+   "kickoff_utc": "2026-10-30T20:15:00.000Z",
+   "home": "Casa Pia",
+   "away": "Sp Lisbon",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-26",
+   "kickoff_utc": "2026-10-26T18:45:00.000Z",
+   "home": "Santa Clara",
+   "away": "Benfica",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-25",
+   "kickoff_utc": "2026-10-25T20:30:00.000Z",
+   "home": "Sp Lisbon",
+   "away": "Academico Viseu",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-25",
+   "kickoff_utc": "2026-10-25T18:00:00.000Z",
+   "home": "Rio Ave",
+   "away": "Famalicao",
+   "home_goals": 0,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-25",
+   "kickoff_utc": "2026-10-25T18:00:00.000Z",
+   "home": "Nacional",
+   "away": "Sp Braga",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-25",
+   "kickoff_utc": "2026-10-25T15:30:00.000Z",
+   "home": "Estoril",
+   "away": "Moreirense",
+   "home_goals": 1,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T19:30:00.000Z",
+   "home": "Gil Vicente",
+   "away": "Porto",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T17:00:00.000Z",
+   "home": "Alverca",
+   "away": "Arouca",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T14:30:00.000Z",
+   "home": "Estrela",
+   "away": "Casa Pia",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-23",
+   "kickoff_utc": "2026-10-23T19:45:00.000Z",
+   "home": "Guimaraes",
+   "away": "Maritimo",
+   "home_goals": 5,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-19",
+   "kickoff_utc": "2026-10-19T19:15:00.000Z",
+   "home": "Sp Braga",
+   "away": "Gil Vicente",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-12",
+   "kickoff_utc": "2026-10-12T19:15:00.000Z",
+   "home": "Famalicao",
+   "away": "Alverca",
+   "home_goals": 1,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-11",
+   "kickoff_utc": "2026-10-11T19:30:00.000Z",
+   "home": "Arouca",
+   "away": "Estrela",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-11",
+   "kickoff_utc": "2026-10-11T17:00:00.000Z",
+   "home": "Benfica",
+   "away": "Guimaraes",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  }
+ ],
+ "upcoming": []
+}

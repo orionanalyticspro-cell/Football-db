@@ -1,0 +1,640 @@
+{
+ "competition": {
+  "id": 31,
+  "code": "SPAIN-2",
+  "name": "Segunda División",
+  "country": "Spain",
+  "level": 2
+ },
+ "season": "2026/2027",
+ "updated": "2026-11-18T11:59:54.541Z",
+ "standings": [
+  {
+   "position": 1,
+   "team": "Almeria",
+   "played": 14,
+   "won": 10,
+   "drawn": 2,
+   "lost": 2,
+   "goals_for": 26,
+   "goals_against": 11,
+   "goal_diff": 15,
+   "points": 32
+  },
+  {
+   "position": 2,
+   "team": "Castellon",
+   "played": 13,
+   "won": 9,
+   "drawn": 3,
+   "lost": 1,
+   "goals_for": 24,
+   "goals_against": 5,
+   "goal_diff": 19,
+   "points": 30
+  },
+  {
+   "position": 3,
+   "team": "Granada",
+   "played": 13,
+   "won": 8,
+   "drawn": 2,
+   "lost": 3,
+   "goals_for": 21,
+   "goals_against": 14,
+   "goal_diff": 7,
+   "points": 26
+  },
+  {
+   "position": 4,
+   "team": "Girona",
+   "played": 14,
+   "won": 7,
+   "drawn": 3,
+   "lost": 4,
+   "goals_for": 24,
+   "goals_against": 13,
+   "goal_diff": 11,
+   "points": 24
+  },
+  {
+   "position": 5,
+   "team": "Eibar",
+   "played": 13,
+   "won": 7,
+   "drawn": 3,
+   "lost": 3,
+   "goals_for": 22,
+   "goals_against": 15,
+   "goal_diff": 7,
+   "points": 24
+  },
+  {
+   "position": 6,
+   "team": "Burgos",
+   "played": 14,
+   "won": 7,
+   "drawn": 3,
+   "lost": 4,
+   "goals_for": 20,
+   "goals_against": 17,
+   "goal_diff": 3,
+   "points": 24
+  },
+  {
+   "position": 7,
+   "team": "Mallorca",
+   "played": 13,
+   "won": 6,
+   "drawn": 5,
+   "lost": 2,
+   "goals_for": 18,
+   "goals_against": 10,
+   "goal_diff": 8,
+   "points": 23
+  },
+  {
+   "position": 8,
+   "team": "Sp Gijon",
+   "played": 14,
+   "won": 7,
+   "drawn": 2,
+   "lost": 5,
+   "goals_for": 16,
+   "goals_against": 17,
+   "goal_diff": -1,
+   "points": 23
+  },
+  {
+   "position": 9,
+   "team": "Oviedo",
+   "played": 14,
+   "won": 6,
+   "drawn": 3,
+   "lost": 5,
+   "goals_for": 20,
+   "goals_against": 18,
+   "goal_diff": 2,
+   "points": 21
+  },
+  {
+   "position": 10,
+   "team": "Cordoba",
+   "played": 14,
+   "won": 6,
+   "drawn": 2,
+   "lost": 6,
+   "goals_for": 25,
+   "goals_against": 25,
+   "goal_diff": 0,
+   "points": 20
+  },
+  {
+   "position": 11,
+   "team": "Las Palmas",
+   "played": 14,
+   "won": 6,
+   "drawn": 2,
+   "lost": 6,
+   "goals_for": 19,
+   "goals_against": 22,
+   "goal_diff": -3,
+   "points": 20
+  },
+  {
+   "position": 12,
+   "team": "Valladolid",
+   "played": 14,
+   "won": 5,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 22,
+   "goals_against": 21,
+   "goal_diff": 1,
+   "points": 18
+  },
+  {
+   "position": 13,
+   "team": "Tenerife",
+   "played": 13,
+   "won": 4,
+   "drawn": 6,
+   "lost": 3,
+   "goals_for": 17,
+   "goals_against": 17,
+   "goal_diff": 0,
+   "points": 18
+  },
+  {
+   "position": 14,
+   "team": "Sabadell",
+   "played": 14,
+   "won": 4,
+   "drawn": 6,
+   "lost": 4,
+   "goals_for": 12,
+   "goals_against": 13,
+   "goal_diff": -1,
+   "points": 18
+  },
+  {
+   "position": 15,
+   "team": "Eldense",
+   "played": 14,
+   "won": 5,
+   "drawn": 2,
+   "lost": 7,
+   "goals_for": 15,
+   "goals_against": 19,
+   "goal_diff": -4,
+   "points": 17
+  },
+  {
+   "position": 16,
+   "team": "Leganes",
+   "played": 14,
+   "won": 4,
+   "drawn": 3,
+   "lost": 7,
+   "goals_for": 14,
+   "goals_against": 24,
+   "goal_diff": -10,
+   "points": 15
+  },
+  {
+   "position": 17,
+   "team": "Celta B",
+   "played": 14,
+   "won": 3,
+   "drawn": 4,
+   "lost": 7,
+   "goals_for": 19,
+   "goals_against": 26,
+   "goal_diff": -7,
+   "points": 13
+  },
+  {
+   "position": 18,
+   "team": "Sociedad B",
+   "played": 14,
+   "won": 3,
+   "drawn": 4,
+   "lost": 7,
+   "goals_for": 17,
+   "goals_against": 24,
+   "goal_diff": -7,
+   "points": 13
+  },
+  {
+   "position": 19,
+   "team": "Albacete",
+   "played": 14,
+   "won": 4,
+   "drawn": 1,
+   "lost": 9,
+   "goals_for": 14,
+   "goals_against": 24,
+   "goal_diff": -10,
+   "points": 13
+  },
+  {
+   "position": 20,
+   "team": "Cadiz",
+   "played": 14,
+   "won": 2,
+   "drawn": 5,
+   "lost": 7,
+   "goals_for": 17,
+   "goals_against": 19,
+   "goal_diff": -2,
+   "points": 11
+  },
+  {
+   "position": 21,
+   "team": "Andorra",
+   "played": 13,
+   "won": 3,
+   "drawn": 2,
+   "lost": 8,
+   "goals_for": 18,
+   "goals_against": 24,
+   "goal_diff": -6,
+   "points": 11
+  },
+  {
+   "position": 22,
+   "team": "Ceuta",
+   "played": 14,
+   "won": 1,
+   "drawn": 2,
+   "lost": 11,
+   "goals_for": 10,
+   "goals_against": 32,
+   "goal_diff": -22,
+   "points": 5
+  }
+ ],
+ "form": [
+  {
+   "team": "Girona",
+   "last5": "WLLWW"
+  },
+  {
+   "team": "Las Palmas",
+   "last5": "LWWWL"
+  },
+  {
+   "team": "Leganes",
+   "last5": "WLLDL"
+  },
+  {
+   "team": "Mallorca",
+   "last5": "DWDDW"
+  },
+  {
+   "team": "Valladolid",
+   "last5": "LWWLL"
+  },
+  {
+   "team": "Oviedo",
+   "last5": "LWLDW"
+  },
+  {
+   "team": "Granada",
+   "last5": "WWWWW"
+  },
+  {
+   "team": "Albacete",
+   "last5": "WWWWL"
+  },
+  {
+   "team": "Cordoba",
+   "last5": "DWDWW"
+  },
+  {
+   "team": "Cadiz",
+   "last5": "DLLWL"
+  },
+  {
+   "team": "Eibar",
+   "last5": "DDLDL"
+  },
+  {
+   "team": "Castellon",
+   "last5": "WDWWL"
+  },
+  {
+   "team": "Almeria",
+   "last5": "WWDDW"
+  },
+  {
+   "team": "Sp Gijon",
+   "last5": "DLWLW"
+  },
+  {
+   "team": "Burgos",
+   "last5": "LWDWW"
+  },
+  {
+   "team": "Eldense",
+   "last5": "WLLLW"
+  },
+  {
+   "team": "Tenerife",
+   "last5": "WDDDD"
+  },
+  {
+   "team": "Ceuta",
+   "last5": "LLLLL"
+  },
+  {
+   "team": "Sociedad B",
+   "last5": "DDWLL"
+  },
+  {
+   "team": "Andorra",
+   "last5": "LDLLW"
+  },
+  {
+   "team": "Celta B",
+   "last5": "LLDLD"
+  },
+  {
+   "team": "Sabadell",
+   "last5": "LDLDL"
+  }
+ ],
+ "recent": [
+  {
+   "date": "2026-11-16",
+   "kickoff_utc": "2026-11-16T19:30:00.000Z",
+   "home": "Albacete",
+   "away": "Celta B",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-15",
+   "kickoff_utc": "2026-11-15T17:30:00.000Z",
+   "home": "Eibar",
+   "away": "Cadiz",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-15",
+   "kickoff_utc": "2026-11-15T17:30:00.000Z",
+   "home": "Eldense",
+   "away": "Sabadell",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-15",
+   "kickoff_utc": "2026-11-15T15:15:00.000Z",
+   "home": "Granada",
+   "away": "Las Palmas",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-15",
+   "kickoff_utc": "2026-11-15T13:00:00.000Z",
+   "home": "Tenerife",
+   "away": "Ceuta",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-14",
+   "kickoff_utc": "2026-11-14T20:00:00.000Z",
+   "home": "Oviedo",
+   "away": "Girona",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-14",
+   "kickoff_utc": "2026-11-14T17:30:00.000Z",
+   "home": "Mallorca",
+   "away": "Cordoba",
+   "home_goals": 3,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-14",
+   "kickoff_utc": "2026-11-14T17:30:00.000Z",
+   "home": "Almeria",
+   "away": "Andorra",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-14",
+   "kickoff_utc": "2026-11-14T15:15:00.000Z",
+   "home": "Sociedad B",
+   "away": "Sp Gijon",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-14",
+   "kickoff_utc": "2026-11-14T13:00:00.000Z",
+   "home": "Valladolid",
+   "away": "Castellon",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-13",
+   "kickoff_utc": "2026-11-13T19:30:00.000Z",
+   "home": "Leganes",
+   "away": "Burgos",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-09",
+   "kickoff_utc": "2026-11-09T19:30:00.000Z",
+   "home": "Las Palmas",
+   "away": "Eldense",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-09",
+   "kickoff_utc": "2026-11-09T19:30:00.000Z",
+   "home": "Sabadell",
+   "away": "Sociedad B",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T17:30:00.000Z",
+   "home": "Sp Gijon",
+   "away": "Valladolid",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T15:15:00.000Z",
+   "home": "Girona",
+   "away": "Almeria",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T17:30:00.000Z",
+   "home": "Leganes",
+   "away": "Albacete",
+   "home_goals": 1,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T17:30:00.000Z",
+   "home": "Cordoba",
+   "away": "Ceuta",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T15:15:00.000Z",
+   "home": "Cadiz",
+   "away": "Oviedo",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T13:00:00.000Z",
+   "home": "Burgos",
+   "away": "Celta B",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-02",
+   "kickoff_utc": "2026-11-02T20:00:00.000Z",
+   "home": "Mallorca",
+   "away": "Cadiz",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-02",
+   "kickoff_utc": "2026-11-02T17:30:00.000Z",
+   "home": "Valladolid",
+   "away": "Leganes",
+   "home_goals": 4,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-02",
+   "kickoff_utc": "2026-11-02T15:15:00.000Z",
+   "home": "Oviedo",
+   "away": "Las Palmas",
+   "home_goals": 2,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-02",
+   "kickoff_utc": "2026-11-02T13:00:00.000Z",
+   "home": "Tenerife",
+   "away": "Andorra",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-01",
+   "kickoff_utc": "2026-11-01T17:30:00.000Z",
+   "home": "Burgos",
+   "away": "Castellon",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-01",
+   "kickoff_utc": "2026-11-01T15:15:00.000Z",
+   "home": "Ceuta",
+   "away": "Sp Gijon",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-01",
+   "kickoff_utc": "2026-11-01T13:00:00.000Z",
+   "home": "Eldense",
+   "away": "Granada",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T20:00:00.000Z",
+   "home": "Albacete",
+   "away": "Sabadell",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T17:30:00.000Z",
+   "home": "Celta B",
+   "away": "Cordoba",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T15:15:00.000Z",
+   "home": "Eibar",
+   "away": "Almeria",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T13:00:00.000Z",
+   "home": "Sociedad B",
+   "away": "Girona",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  }
+ ],
+ "upcoming": []
+}
