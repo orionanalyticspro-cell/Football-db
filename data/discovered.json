@@ -1,0 +1,34 @@
+[
+ {
+  "slug": "sau.1",
+  "name": "(erreur)",
+  "prefix": "sau",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "civ.1",
+  "name": "(erreur)",
+  "prefix": "civ",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "mar.1",
+  "name": "(erreur)",
+  "prefix": "mar",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "sui.1",
+  "name": "(erreur)",
+  "prefix": "sui",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ }
+]
