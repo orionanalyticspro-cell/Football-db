@@ -1,0 +1,14 @@
+{"events":[
+ {"date":"2026-11-15T16:00Z","status":{"type":{"state":"post","name":"STATUS_FULL_TIME","completed":true}},
+  "competitions":[{"competitors":[
+    {"homeAway":"home","score":"1","team":{"displayName":"Basel"}},
+    {"homeAway":"away","score":"1","team":{"displayName":"BSC Young Boys"}}]}]},
+ {"date":"2026-11-22T16:00Z","status":{"type":{"state":"pre","name":"STATUS_SCHEDULED","completed":false}},
+  "competitions":[{"competitors":[
+    {"homeAway":"home","score":"0","team":{"displayName":"Zurich"}},
+    {"homeAway":"away","score":"0","team":{"displayName":"Lugano"}}]}]},
+ {"date":"2026-11-16T18:00Z","status":{"type":{"state":"post","name":"STATUS_POSTPONED","completed":false}},
+  "competitions":[{"competitors":[
+    {"homeAway":"home","team":{"displayName":"Sion"}},
+    {"homeAway":"away","team":{"displayName":"Servette"}}]}]}
+]}

@@ -1,0 +1,6 @@
+{
+  "espn": [
+    { "slug": "sui.1", "code": "SWITZERLAND-1", "name": "Super League", "country": "Switzerland", "level": 1, "seasonMode": "split", "enabled": false },
+    { "slug": "sau.1", "code": "SAUDI-ARABIA-1", "name": "Saudi Pro League", "country": "Saudi Arabia", "level": 1, "seasonMode": "split", "enabled": true }
+  ]
+}
