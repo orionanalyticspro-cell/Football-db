@@ -22,13 +22,18 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: npm run discover -- ${{ github.event.inputs.args }}
+      - name: Test des ligues
+        timeout-minutes: 15            # si ça dépasse, l'étape s'arrête mais le rapport partiel est quand même publié
+        run: npm run discover -- ${{ github.event.inputs.args }}
         env:
           SCRAPER_UA: "football-db/0.1 (+${{ github.server_url }}/${{ github.repository }})"
+          REQUEST_DELAY_MS: "300"
+          REQUEST_TIMEOUT_MS: "15000"
       - name: Publication du rapport
+        if: always()
         run: |
           git config user.name  "football-db-bot"
           git config user.email "football-db-bot@users.noreply.github.com"
-          git add data/discovered.md data/discovered.json
+          git add data/discovered.md data/discovered.json || true
           git diff --cached --quiet || git commit -m "rapport: ligues ESPN disponibles"
           git push
