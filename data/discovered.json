@@ -1,32 +1,1760 @@
 [
  {
-  "slug": "sau.1",
+  "slug": "afc.asian.cup",
   "name": "(erreur)",
-  "prefix": "sau",
+  "prefix": "afc",
   "finished": 0,
   "upcoming": 0,
   "lastDate": null
  },
  {
-  "slug": "civ.1",
+  "slug": "afc.champions",
   "name": "(erreur)",
-  "prefix": "civ",
+  "prefix": "afc",
   "finished": 0,
   "upcoming": 0,
   "lastDate": null
  },
  {
-  "slug": "mar.1",
+  "slug": "afc.champions_qual",
   "name": "(erreur)",
-  "prefix": "mar",
+  "prefix": "afc",
   "finished": 0,
   "upcoming": 0,
   "lastDate": null
  },
  {
-  "slug": "sui.1",
+  "slug": "afc.cup",
   "name": "(erreur)",
-  "prefix": "sui",
+  "prefix": "afc",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "afc.cup_qual",
+  "name": "(erreur)",
+  "prefix": "afc",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "afc.cupq",
+  "name": "(erreur)",
+  "prefix": "afc",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "afc.saff.championship",
+  "name": "(erreur)",
+  "prefix": "afc",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "afc.w.asian.cup",
+  "name": "(erreur)",
+  "prefix": "afc",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "aff.championship",
+  "name": "(erreur)",
+  "prefix": "aff",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "arg.1",
+  "name": "(erreur)",
+  "prefix": "arg",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "arg.2",
+  "name": "(erreur)",
+  "prefix": "arg",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "arg.3",
+  "name": "(erreur)",
+  "prefix": "arg",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "arg.copa",
+  "name": "(erreur)",
+  "prefix": "arg",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "arg.copa_de_la_superliga",
+  "name": "(erreur)",
+  "prefix": "arg",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "arg.supercopa",
+  "name": "(erreur)",
+  "prefix": "arg",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "arg.supercopa.internacional",
+  "name": "(erreur)",
+  "prefix": "arg",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "arg.trofeo_de_la_campeones",
+  "name": "(erreur)",
+  "prefix": "arg",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "aus.1",
+  "name": "(erreur)",
+  "prefix": "aus",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "aus.w.1",
+  "name": "(erreur)",
+  "prefix": "aus",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "aut.1",
+  "name": "(erreur)",
+  "prefix": "aut",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "bel.1",
+  "name": "(erreur)",
+  "prefix": "bel",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "bel.promotion.relegation",
+  "name": "(erreur)",
+  "prefix": "bel",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "bol.1",
+  "name": "(erreur)",
+  "prefix": "bol",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "bol.copa",
+  "name": "(erreur)",
+  "prefix": "bol",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "bol.ply.rel",
+  "name": "(erreur)",
+  "prefix": "bol",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "bra.1",
+  "name": "(erreur)",
+  "prefix": "bra",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "bra.2",
+  "name": "(erreur)",
+  "prefix": "bra",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "bra.camp.carioca",
+  "name": "(erreur)",
+  "prefix": "bra",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "bra.camp.gaucho",
+  "name": "(erreur)",
+  "prefix": "bra",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "bra.camp.mineiro",
+  "name": "(erreur)",
+  "prefix": "bra",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "bra.camp.paulista",
+  "name": "(erreur)",
+  "prefix": "bra",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "bra.copa_do_brazil",
+  "name": "(erreur)",
+  "prefix": "bra",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "bra.supercopa_do_brazil",
+  "name": "(erreur)",
+  "prefix": "bra",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "caf.champions",
+  "name": "(erreur)",
+  "prefix": "caf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "caf.championship",
+  "name": "(erreur)",
+  "prefix": "caf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "caf.confed",
+  "name": "(erreur)",
+  "prefix": "caf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "caf.cosafa",
+  "name": "(erreur)",
+  "prefix": "caf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "caf.nations",
+  "name": "(erreur)",
+  "prefix": "caf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "caf.nations_qual",
+  "name": "(erreur)",
+  "prefix": "caf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "caf.w.nations",
+  "name": "(erreur)",
+  "prefix": "caf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "campeones.cup",
+  "name": "(erreur)",
+  "prefix": "campeones",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "can.w.nsl",
+  "name": "(erreur)",
+  "prefix": "can",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "chi.1",
+  "name": "(erreur)",
+  "prefix": "chi",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "chi.1.promotion.relegation",
+  "name": "(erreur)",
+  "prefix": "chi",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "chi.copa_chi",
+  "name": "(erreur)",
+  "prefix": "chi",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "chi.super_cup",
+  "name": "(erreur)",
+  "prefix": "chi",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "chn.1",
+  "name": "(erreur)",
+  "prefix": "chn",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "chn.1.promotion.relegation",
+  "name": "(erreur)",
+  "prefix": "chn",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "club.friendly",
+  "name": "(erreur)",
+  "prefix": "club",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "col.1",
+  "name": "(erreur)",
+  "prefix": "col",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "col.copa",
+  "name": "(erreur)",
+  "prefix": "col",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "col.superliga",
+  "name": "(erreur)",
+  "prefix": "col",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "concacaf.central.american.cup",
+  "name": "(erreur)",
+  "prefix": "concacaf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "concacaf.champions",
+  "name": "(erreur)",
+  "prefix": "concacaf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "concacaf.champions_cup",
+  "name": "(erreur)",
+  "prefix": "concacaf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "concacaf.confederations_playoff",
+  "name": "(erreur)",
+  "prefix": "concacaf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "concacaf.gold",
+  "name": "(erreur)",
+  "prefix": "concacaf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "concacaf.gold_qual",
+  "name": "(erreur)",
+  "prefix": "concacaf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "concacaf.leagues.cup",
+  "name": "(erreur)",
+  "prefix": "concacaf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "concacaf.nations.league",
+  "name": "(erreur)",
+  "prefix": "concacaf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "concacaf.u23",
+  "name": "(erreur)",
+  "prefix": "concacaf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "concacaf.w.champions_cup",
+  "name": "(erreur)",
+  "prefix": "concacaf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "concacaf.w.gold",
+  "name": "(erreur)",
+  "prefix": "concacaf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "concacaf.womens.championship",
+  "name": "(erreur)",
+  "prefix": "concacaf",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "conmebol.america",
+  "name": "(erreur)",
+  "prefix": "conmebol",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "conmebol.america.femenina",
+  "name": "(erreur)",
+  "prefix": "conmebol",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "conmebol.libertadores",
+  "name": "(erreur)",
+  "prefix": "conmebol",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "conmebol.recopa",
+  "name": "(erreur)",
+  "prefix": "conmebol",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "conmebol.sudamericana",
+  "name": "(erreur)",
+  "prefix": "conmebol",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "crc.1",
+  "name": "(erreur)",
+  "prefix": "crc",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "den.1",
+  "name": "(erreur)",
+  "prefix": "den",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ecu.1",
+  "name": "(erreur)",
+  "prefix": "ecu",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "eng.1",
+  "name": "(erreur)",
+  "prefix": "eng",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "eng.2",
+  "name": "(erreur)",
+  "prefix": "eng",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "eng.3",
+  "name": "(erreur)",
+  "prefix": "eng",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "eng.4",
+  "name": "(erreur)",
+  "prefix": "eng",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "eng.5",
+  "name": "(erreur)",
+  "prefix": "eng",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "eng.charity",
+  "name": "(erreur)",
+  "prefix": "eng",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "eng.fa",
+  "name": "(erreur)",
+  "prefix": "eng",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "eng.fa_qual",
+  "name": "(erreur)",
+  "prefix": "eng",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "eng.league_cup",
+  "name": "(erreur)",
+  "prefix": "eng",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "eng.trophy",
+  "name": "(erreur)",
+  "prefix": "eng",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "eng.w.1",
+  "name": "(erreur)",
+  "prefix": "eng",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "eng.w.fa",
+  "name": "(erreur)",
+  "prefix": "eng",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "eng.w.league_cup",
+  "name": "(erreur)",
+  "prefix": "eng",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "eng.w.promotion.relegation",
+  "name": "(erreur)",
+  "prefix": "eng",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "esp.1",
+  "name": "(erreur)",
+  "prefix": "esp",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "esp.2",
+  "name": "(erreur)",
+  "prefix": "esp",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "esp.copa_de_la_reina",
+  "name": "(erreur)",
+  "prefix": "esp",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "esp.copa_del_rey",
+  "name": "(erreur)",
+  "prefix": "esp",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "esp.joan_gamper",
+  "name": "(erreur)",
+  "prefix": "esp",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "esp.super_cup",
+  "name": "(erreur)",
+  "prefix": "esp",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "esp.w.1",
+  "name": "(erreur)",
+  "prefix": "esp",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.concacaf.olympicsq",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.conmebol.olympicsq",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.cwc",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.friendly",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.friendly.w",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.friendly_u21",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.intercontinental.cup",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.intercontinental_cup",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.olympics",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.shebelieves",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.w.champions_cup",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.w.concacaf.olympicsq",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.w.olympics",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.wcq.ply",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.world",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.world.u17",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.world.u20",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.worldq.afc",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.worldq.caf",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.worldq.concacaf",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.worldq.conmebol",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.worldq.ofc",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.worldq.uefa",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.wwc",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.wwcq.ply",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.wworld.u17",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fifa.wworldq.uefa",
+  "name": "(erreur)",
+  "prefix": "fifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fra.1",
+  "name": "(erreur)",
+  "prefix": "fra",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fra.1.promotion.relegation",
+  "name": "(erreur)",
+  "prefix": "fra",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fra.2",
+  "name": "(erreur)",
+  "prefix": "fra",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fra.coupe_de_france",
+  "name": "(erreur)",
+  "prefix": "fra",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fra.super_cup",
+  "name": "(erreur)",
+  "prefix": "fra",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "fra.w.1",
+  "name": "(erreur)",
+  "prefix": "fra",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "friendly.emirates_cup",
+  "name": "(erreur)",
+  "prefix": "friendly",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ger.1",
+  "name": "(erreur)",
+  "prefix": "ger",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ger.2",
+  "name": "(erreur)",
+  "prefix": "ger",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ger.2.promotion.relegation",
+  "name": "(erreur)",
+  "prefix": "ger",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ger.dfb_pokal",
+  "name": "(erreur)",
+  "prefix": "ger",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ger.playoff.relegation",
+  "name": "(erreur)",
+  "prefix": "ger",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ger.super_cup",
+  "name": "(erreur)",
+  "prefix": "ger",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "global.arnold.clark_cup",
+  "name": "(erreur)",
+  "prefix": "global",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "global.club_challenge",
+  "name": "(erreur)",
+  "prefix": "global",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "global.finalissima",
+  "name": "(erreur)",
+  "prefix": "global",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "global.gulf_cup",
+  "name": "(erreur)",
+  "prefix": "global",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "global.pinatar_cup",
+  "name": "(erreur)",
+  "prefix": "global",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "global.u20.intercontinental_cup",
+  "name": "(erreur)",
+  "prefix": "global",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "global.w.finalissima",
+  "name": "(erreur)",
+  "prefix": "global",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "gre.1",
+  "name": "(erreur)",
+  "prefix": "gre",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "gua.1",
+  "name": "(erreur)",
+  "prefix": "gua",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "hon.1",
+  "name": "(erreur)",
+  "prefix": "hon",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ind.1",
+  "name": "(erreur)",
+  "prefix": "ind",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ind.2",
+  "name": "(erreur)",
+  "prefix": "ind",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ita.1",
+  "name": "(erreur)",
+  "prefix": "ita",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ita.2",
+  "name": "(erreur)",
+  "prefix": "ita",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ita.coppa_italia",
+  "name": "(erreur)",
+  "prefix": "ita",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ita.super_cup",
+  "name": "(erreur)",
+  "prefix": "ita",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "jpn.1",
+  "name": "(erreur)",
+  "prefix": "jpn",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "jpn.world_challenge",
+  "name": "(erreur)",
+  "prefix": "jpn",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ksa.1",
+  "name": "(erreur)",
+  "prefix": "ksa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ksa.kings.cup",
+  "name": "(erreur)",
+  "prefix": "ksa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "mex.1",
+  "name": "(erreur)",
+  "prefix": "mex",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "mex.2",
+  "name": "(erreur)",
+  "prefix": "mex",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "mex.campeon",
+  "name": "(erreur)",
+  "prefix": "mex",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "mex.w.1",
+  "name": "(erreur)",
+  "prefix": "mex",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ned.1",
+  "name": "(erreur)",
+  "prefix": "ned",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ned.2",
+  "name": "(erreur)",
+  "prefix": "ned",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ned.3.promotion.relegation",
+  "name": "(erreur)",
+  "prefix": "ned",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ned.cup",
+  "name": "(erreur)",
+  "prefix": "ned",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ned.playoff.relegation",
+  "name": "(erreur)",
+  "prefix": "ned",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ned.supercup",
+  "name": "(erreur)",
+  "prefix": "ned",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ned.w.1",
+  "name": "(erreur)",
+  "prefix": "ned",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ned.w.knvb_cup",
+  "name": "(erreur)",
+  "prefix": "ned",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "nonfifa",
+  "name": "(erreur)",
+  "prefix": "nonfifa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "nor.1",
+  "name": "(erreur)",
+  "prefix": "nor",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "nor.1.promotion.relegation",
+  "name": "(erreur)",
+  "prefix": "nor",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "par.1",
+  "name": "(erreur)",
+  "prefix": "par",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "par.1.supercopa",
+  "name": "(erreur)",
+  "prefix": "par",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "per.1",
+  "name": "(erreur)",
+  "prefix": "per",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "por.1",
+  "name": "(erreur)",
+  "prefix": "por",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "por.1.promotion.relegation",
+  "name": "(erreur)",
+  "prefix": "por",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "por.taca.portugal",
+  "name": "(erreur)",
+  "prefix": "por",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "rsa.1",
+  "name": "(erreur)",
+  "prefix": "rsa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "rus.1",
+  "name": "(erreur)",
+  "prefix": "rus",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "rus.1.promotion.relegation",
+  "name": "(erreur)",
+  "prefix": "rus",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "sco.1",
+  "name": "(erreur)",
+  "prefix": "sco",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "sco.1.promotion.relegation",
+  "name": "(erreur)",
+  "prefix": "sco",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "sco.2",
+  "name": "(erreur)",
+  "prefix": "sco",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "sco.2.promotion.relegation",
+  "name": "(erreur)",
+  "prefix": "sco",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "sco.challenge",
+  "name": "(erreur)",
+  "prefix": "sco",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "sco.cis",
+  "name": "(erreur)",
+  "prefix": "sco",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "sco.tennents",
+  "name": "(erreur)",
+  "prefix": "sco",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "sco.tennents_qual",
+  "name": "(erreur)",
+  "prefix": "sco",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "slv.1",
+  "name": "(erreur)",
+  "prefix": "slv",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "swe.1",
+  "name": "(erreur)",
+  "prefix": "swe",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "swe.1.promotion.relegation",
+  "name": "(erreur)",
+  "prefix": "swe",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "tur.1",
+  "name": "(erreur)",
+  "prefix": "tur",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.champions",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.champions_qual",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.euro",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.euro.u19",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.euro_u21",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.euro_u21_qual",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.europa",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.europa.conf",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.europa.conf_qual",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.europa_qual",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.euroq",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.nations",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.super_cup",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.w.europa",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.w.nations",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.wchampions",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.wchampions_qual",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uefa.weuro",
+  "name": "(erreur)",
+  "prefix": "uefa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uru.1",
+  "name": "(erreur)",
+  "prefix": "uru",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "uru.2",
+  "name": "(erreur)",
+  "prefix": "uru",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "usa.1",
+  "name": "(erreur)",
+  "prefix": "usa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "usa.ncaa.m.1",
+  "name": "(erreur)",
+  "prefix": "usa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "usa.ncaa.w.1",
+  "name": "(erreur)",
+  "prefix": "usa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "usa.nwsl",
+  "name": "(erreur)",
+  "prefix": "usa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "usa.nwsl.cup",
+  "name": "(erreur)",
+  "prefix": "usa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "usa.open",
+  "name": "(erreur)",
+  "prefix": "usa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "usa.usl.1",
+  "name": "(erreur)",
+  "prefix": "usa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "usa.usl.l1",
+  "name": "(erreur)",
+  "prefix": "usa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "usa.usl.l1.cup",
+  "name": "(erreur)",
+  "prefix": "usa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "usa.w.usl.1",
+  "name": "(erreur)",
+  "prefix": "usa",
+  "finished": 0,
+  "upcoming": 0,
+  "lastDate": null
+ },
+ {
+  "slug": "ven.1",
+  "name": "(erreur)",
+  "prefix": "ven",
   "finished": 0,
   "upcoming": 0,
   "lastDate": null
