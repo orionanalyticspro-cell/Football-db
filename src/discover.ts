@@ -49,24 +49,31 @@ async function main() {
   }
   const from = new Date(Date.now() - days * 864e5), to = new Date(Date.now() + 14 * 864e5);
   const reports: LeagueReport[] = [];
-  for (const slug of slugs) {
+  const t0 = Date.now();
+  for (const [i, slug] of slugs.entries()) {
     try {
       const sb = await getJson<Scoreboard>(
-        `https://site.api.espn.com/apis/site/v2/sports/soccer/${slug}/scoreboard?dates=${ymd(from)}-${ymd(to)}&limit=500`);
+        `https://site.api.espn.com/apis/site/v2/sports/soccer/${slug}/scoreboard?dates=${ymd(from)}-${ymd(to)}&limit=500`, 1);
       reports.push(summarize(slug, sb));
     } catch {
       reports.push({ slug, name: "(erreur)", prefix: slug.split(".")[0], finished: 0, upcoming: 0, lastDate: null });
     }
+    const last = reports[reports.length - 1];
+    console.log(`[${i + 1}/${slugs.length}] ${slug} : ${last.finished} terminés, ${last.upcoming} à venir  (${Math.round((Date.now() - t0) / 1000)} s)`);
+    if ((i + 1) % 25 === 0) writeReport(reports, days, true); // sauvegarde intermédiaire
   }
-  reports.sort((a, b) => b.finished - a.finished);
-  const active = reports.filter((r) => r.finished > 0);
+  writeReport(reports, days, false);
+}
 
+function writeReport(reportsIn: LeagueReport[], days: number, partial: boolean) {
+  const reports = [...reportsIn].sort((a, b) => b.finished - a.finished);
+  const active = reports.filter((r) => r.finished > 0);
   mkdirSync("data", { recursive: true });
   writeFileSync("data/discovered.json", JSON.stringify(reports, null, 1));
   const md = [
-    `# Ligues ESPN testées (${new Date().toISOString().slice(0, 10)})`,
+    `# Ligues ESPN testées (${new Date().toISOString().slice(0, 10)})${partial ? " — RAPPORT PARTIEL" : ""}`,
     "",
-    `Fenêtre : ${days} derniers jours + 14 jours à venir. **${active.length}** compétition(s) avec des résultats sur ${reports.length}.`,
+    `Fenêtre : ${days} derniers jours + 14 jours à venir. **${active.length}** compétition(s) avec des résultats sur ${reports.length} testée(s).`,
     "",
     "## Avec résultats récents (utilisables)",
     "| Code ESPN | Nom | Matchs terminés | À venir | Dernier match |",
@@ -78,7 +85,7 @@ async function main() {
     "",
   ].join("\n");
   writeFileSync("data/discovered.md", md);
-  console.log(`\n${active.length}/${reports.length} compétitions avec résultats. Voir data/discovered.md`);
+  if (!partial) console.log(`\n${active.length}/${reports.length} compétitions avec résultats. Voir data/discovered.md`);
 }
 
 if (process.argv[1] && import.meta.url.endsWith(process.argv[1].split("/").pop()!)) {
