@@ -1,28 +1,16 @@
 {
  "competition": {
-  "id": 11,
+  "id": 33,
   "code": "POLAND-1",
   "name": "Ekstraklasa",
   "country": "Poland",
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-19T07:09:16.681Z",
+ "updated": "2026-11-19T09:47:35.015Z",
  "standings": [
   {
    "position": 1,
-   "team": "Wisla",
-   "played": 27,
-   "won": 11,
-   "drawn": 6,
-   "lost": 10,
-   "goals_for": 36,
-   "goals_against": 40,
-   "goal_diff": -4,
-   "points": 39
-  },
-  {
-   "position": 2,
    "team": "Lech Poznan",
    "played": 13,
    "won": 10,
@@ -31,10 +19,11 @@
    "goals_for": 34,
    "goals_against": 13,
    "goal_diff": 21,
-   "points": 32
+   "points": 32,
+   "flag": null
   },
   {
-   "position": 3,
+   "position": 2,
    "team": "Gornik Zabrze",
    "played": 14,
    "won": 9,
@@ -43,10 +32,11 @@
    "goals_for": 23,
    "goals_against": 12,
    "goal_diff": 11,
-   "points": 31
+   "points": 31,
+   "flag": null
   },
   {
-   "position": 4,
+   "position": 3,
    "team": "Legia Warszawa",
    "played": 14,
    "won": 6,
@@ -55,10 +45,11 @@
    "goals_for": 25,
    "goals_against": 15,
    "goal_diff": 10,
-   "points": 24
+   "points": 24,
+   "flag": null
   },
   {
-   "position": 5,
+   "position": 4,
    "team": "Pogon Szczecin",
    "played": 13,
    "won": 7,
@@ -67,7 +58,21 @@
    "goals_for": 20,
    "goals_against": 15,
    "goal_diff": 5,
-   "points": 24
+   "points": 24,
+   "flag": null
+  },
+  {
+   "position": 5,
+   "team": "Wisla",
+   "played": 14,
+   "won": 7,
+   "drawn": 3,
+   "lost": 4,
+   "goals_for": 22,
+   "goals_against": 19,
+   "goal_diff": 3,
+   "points": 24,
+   "flag": null
   },
   {
    "position": 6,
@@ -79,7 +84,8 @@
    "goals_for": 18,
    "goals_against": 17,
    "goal_diff": 1,
-   "points": 23
+   "points": 23,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,7 +97,8 @@
    "goals_for": 24,
    "goals_against": 20,
    "goal_diff": 4,
-   "points": 22
+   "points": 22,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,7 +110,8 @@
    "goals_for": 25,
    "goals_against": 20,
    "goal_diff": 5,
-   "points": 21
+   "points": 21,
+   "flag": null
   },
   {
    "position": 9,
@@ -115,7 +123,8 @@
    "goals_for": 18,
    "goals_against": 18,
    "goal_diff": 0,
-   "points": 21
+   "points": 21,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,7 +136,8 @@
    "goals_for": 22,
    "goals_against": 24,
    "goal_diff": -2,
-   "points": 19
+   "points": 19,
+   "flag": null
   },
   {
    "position": 11,
@@ -139,10 +149,24 @@
    "goals_for": 14,
    "goals_against": 21,
    "goal_diff": -7,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 12,
+   "team": "Wisla Plock",
+   "played": 13,
+   "won": 4,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 14,
+   "goals_against": 21,
+   "goal_diff": -7,
+   "points": 15,
+   "flag": null
+  },
+  {
+   "position": 13,
    "team": "Widzew Lodz",
    "played": 14,
    "won": 2,
@@ -151,10 +175,11 @@
    "goals_for": 20,
    "goals_against": 19,
    "goal_diff": 1,
-   "points": 14
+   "points": 14,
+   "flag": null
   },
   {
-   "position": 13,
+   "position": 14,
    "team": "Radomiak Radom",
    "played": 14,
    "won": 4,
@@ -163,10 +188,11 @@
    "goals_for": 17,
    "goals_against": 29,
    "goal_diff": -12,
-   "points": 14
+   "points": 14,
+   "flag": null
   },
   {
-   "position": 14,
+   "position": 15,
    "team": "Cracovia",
    "played": 14,
    "won": 3,
@@ -175,10 +201,11 @@
    "goals_for": 16,
    "goals_against": 23,
    "goal_diff": -7,
-   "points": 12
+   "points": 12,
+   "flag": null
   },
   {
-   "position": 15,
+   "position": 16,
    "team": "Rakow",
    "played": 14,
    "won": 4,
@@ -187,10 +214,11 @@
    "goals_for": 23,
    "goals_against": 31,
    "goal_diff": -8,
-   "points": 12
+   "points": 12,
+   "flag": null
   },
   {
-   "position": 16,
+   "position": 17,
    "team": "Slask Wroclaw",
    "played": 14,
    "won": 2,
@@ -199,10 +227,11 @@
    "goals_for": 17,
    "goals_against": 25,
    "goal_diff": -8,
-   "points": 10
+   "points": 10,
+   "flag": null
   },
   {
-   "position": 17,
+   "position": 18,
    "team": "Wieczysta Krakow",
    "played": 14,
    "won": 2,
@@ -211,7 +240,8 @@
    "goals_for": 18,
    "goals_against": 28,
    "goal_diff": -10,
-   "points": 8
+   "points": 8,
+   "flag": null
   }
  ],
  "form": [
@@ -249,7 +279,7 @@
   },
   {
    "team": "Wisla",
-   "last5": "WLLDL"
+   "last5": "WLWDL"
   },
   {
    "team": "Korona Kielce",
@@ -258,6 +288,10 @@
   {
    "team": "Cracovia",
    "last5": "LLLDW"
+  },
+  {
+   "team": "Wisla Plock",
+   "last5": "LDLWL"
   },
   {
    "team": "Rakow",
@@ -361,7 +395,7 @@
    "date": "2026-11-06",
    "kickoff_utc": "2026-11-06T17:00:00.000Z",
    "home": "Motor Lublin",
-   "away": "Wisla",
+   "away": "Wisla Plock",
    "home_goals": 3,
    "away_goals": 2,
    "status": "finished"
@@ -423,7 +457,7 @@
   {
    "date": "2026-10-31",
    "kickoff_utc": "2026-10-31T11:15:00.000Z",
-   "home": "Wisla",
+   "home": "Wisla Plock",
    "away": "Piast Gliwice",
    "home_goals": 2,
    "away_goals": 2,
@@ -460,7 +494,7 @@
    "date": "2026-10-25",
    "kickoff_utc": "2026-10-25T13:45:00.000Z",
    "home": "Jagiellonia",
-   "away": "Wisla",
+   "away": "Wisla Plock",
    "home_goals": 1,
    "away_goals": 0,
    "status": "finished"
@@ -531,7 +565,7 @@
   {
    "date": "2026-10-19",
    "kickoff_utc": "2026-10-19T17:00:00.000Z",
-   "home": "Wisla",
+   "home": "Wisla Plock",
    "away": "Radomiak Radom",
    "home_goals": 1,
    "away_goals": 0,

@@ -1,13 +1,13 @@
 {
  "competition": {
-  "id": 5,
+  "id": 27,
   "code": "DENMARK-1",
   "name": "Superliga",
   "country": "Denmark",
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-19T07:09:13.529Z",
+ "updated": "2026-11-19T09:47:29.582Z",
  "standings": [
   {
    "position": 1,
@@ -19,7 +19,8 @@
    "goals_for": 29,
    "goals_against": 12,
    "goal_diff": 17,
-   "points": 32
+   "points": 32,
+   "flag": null
   },
   {
    "position": 2,
@@ -31,7 +32,8 @@
    "goals_for": 29,
    "goals_against": 17,
    "goal_diff": 12,
-   "points": 32
+   "points": 32,
+   "flag": null
   },
   {
    "position": 3,
@@ -43,7 +45,8 @@
    "goals_for": 22,
    "goals_against": 13,
    "goal_diff": 9,
-   "points": 26
+   "points": 26,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,7 +58,8 @@
    "goals_for": 26,
    "goals_against": 18,
    "goal_diff": 8,
-   "points": 23
+   "points": 23,
+   "flag": null
   },
   {
    "position": 5,
@@ -67,7 +71,8 @@
    "goals_for": 23,
    "goals_against": 21,
    "goal_diff": 2,
-   "points": 22
+   "points": 22,
+   "flag": null
   },
   {
    "position": 6,
@@ -79,7 +84,8 @@
    "goals_for": 16,
    "goals_against": 19,
    "goal_diff": -3,
-   "points": 17
+   "points": 17,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,7 +97,8 @@
    "goals_for": 23,
    "goals_against": 23,
    "goal_diff": 0,
-   "points": 16
+   "points": 16,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,7 +110,8 @@
    "goals_for": 19,
    "goals_against": 21,
    "goal_diff": -2,
-   "points": 15
+   "points": 15,
+   "flag": null
   },
   {
    "position": 9,
@@ -115,7 +123,8 @@
    "goals_for": 18,
    "goals_against": 24,
    "goal_diff": -6,
-   "points": 15
+   "points": 15,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,7 +136,8 @@
    "goals_for": 19,
    "goals_against": 29,
    "goal_diff": -10,
-   "points": 11
+   "points": 11,
+   "flag": null
   },
   {
    "position": 11,
@@ -139,7 +149,8 @@
    "goals_for": 14,
    "goals_against": 27,
    "goal_diff": -13,
-   "points": 11
+   "points": 11,
+   "flag": null
   },
   {
    "position": 12,
@@ -151,7 +162,8 @@
    "goals_for": 19,
    "goals_against": 33,
    "goal_diff": -14,
-   "points": 9
+   "points": 9,
+   "flag": null
   }
  ],
  "form": [

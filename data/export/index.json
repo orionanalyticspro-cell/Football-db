@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:09:18.874Z",
+ "updated": "2026-11-19T09:47:38.854Z",
  "competitions": [
   {
    "code": "ARGENTINA-1",
@@ -23,7 +23,7 @@
    "country": "Belgium",
    "level": 1,
    "season": "2026/2027",
-   "teams": 17
+   "teams": 18
   },
   {
    "code": "BRAZIL-1",
@@ -39,7 +39,7 @@
    "country": "China",
    "level": 1,
    "season": "2026",
-   "teams": 15
+   "teams": 16
   },
   {
    "code": "DENMARK-1",
@@ -103,7 +103,7 @@
    "country": "France",
    "level": 1,
    "season": "2026/2027",
-   "teams": 17
+   "teams": 18
   },
   {
    "code": "FRANCE-2",
@@ -199,7 +199,7 @@
    "country": "Poland",
    "level": 1,
    "season": "2026/2027",
-   "teams": 17
+   "teams": 18
   },
   {
    "code": "PORTUGAL-1",
@@ -231,7 +231,7 @@
    "country": "Scotland",
    "level": 1,
    "season": "2026/2027",
-   "teams": 11
+   "teams": 12
   },
   {
    "code": "SCOTLAND-2",
@@ -303,7 +303,7 @@
    "country": "USA",
    "level": 1,
    "season": "2026",
-   "teams": 29
+   "teams": 30
   }
  ]
 }

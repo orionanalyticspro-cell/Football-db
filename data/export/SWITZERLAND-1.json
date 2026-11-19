@@ -1,13 +1,13 @@
 {
  "competition": {
-  "id": 15,
+  "id": 37,
   "code": "SWITZERLAND-1",
   "name": "Super League",
   "country": "Switzerland",
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-19T07:09:18.537Z",
+ "updated": "2026-11-19T09:47:38.267Z",
  "standings": [
   {
    "position": 1,
@@ -19,7 +19,8 @@
    "goals_for": 36,
    "goals_against": 15,
    "goal_diff": 21,
-   "points": 34
+   "points": 34,
+   "flag": null
   },
   {
    "position": 2,
@@ -31,7 +32,8 @@
    "goals_for": 41,
    "goals_against": 25,
    "goal_diff": 16,
-   "points": 28
+   "points": 28,
+   "flag": null
   },
   {
    "position": 3,
@@ -43,7 +45,8 @@
    "goals_for": 29,
    "goals_against": 18,
    "goal_diff": 11,
-   "points": 26
+   "points": 26,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,7 +58,8 @@
    "goals_for": 24,
    "goals_against": 22,
    "goal_diff": 2,
-   "points": 22
+   "points": 22,
+   "flag": null
   },
   {
    "position": 5,
@@ -67,7 +71,8 @@
    "goals_for": 25,
    "goals_against": 26,
    "goal_diff": -1,
-   "points": 21
+   "points": 21,
+   "flag": null
   },
   {
    "position": 6,
@@ -79,7 +84,8 @@
    "goals_for": 17,
    "goals_against": 16,
    "goal_diff": 1,
-   "points": 17
+   "points": 17,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,7 +97,8 @@
    "goals_for": 21,
    "goals_against": 25,
    "goal_diff": -4,
-   "points": 15
+   "points": 15,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,7 +110,8 @@
    "goals_for": 27,
    "goals_against": 37,
    "goal_diff": -10,
-   "points": 14
+   "points": 14,
+   "flag": null
   },
   {
    "position": 9,
@@ -115,7 +123,8 @@
    "goals_for": 21,
    "goals_against": 28,
    "goal_diff": -7,
-   "points": 13
+   "points": 13,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,7 +136,8 @@
    "goals_for": 16,
    "goals_against": 29,
    "goal_diff": -13,
-   "points": 11
+   "points": 11,
+   "flag": null
   },
   {
    "position": 11,
@@ -139,7 +149,8 @@
    "goals_for": 24,
    "goals_against": 29,
    "goal_diff": -5,
-   "points": 10
+   "points": 10,
+   "flag": null
   },
   {
    "position": 12,
@@ -151,7 +162,8 @@
    "goals_for": 12,
    "goals_against": 23,
    "goal_diff": -11,
-   "points": 7
+   "points": 7,
+   "flag": null
   }
  ],
  "form": [

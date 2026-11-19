@@ -1,13 +1,13 @@
 {
  "competition": {
-  "id": 24,
+  "id": 8,
   "code": "SCOTLAND-3",
   "name": "League One",
   "country": "Scotland",
   "level": 3
  },
  "season": "2026/2027",
- "updated": "2026-11-19T07:09:17.676Z",
+ "updated": "2026-11-19T09:47:36.790Z",
  "standings": [
   {
    "position": 1,
@@ -19,7 +19,8 @@
    "goals_for": 51,
    "goals_against": 10,
    "goal_diff": 41,
-   "points": 41
+   "points": 41,
+   "flag": null
   },
   {
    "position": 2,
@@ -31,7 +32,8 @@
    "goals_for": 28,
    "goals_against": 12,
    "goal_diff": 16,
-   "points": 33
+   "points": 33,
+   "flag": null
   },
   {
    "position": 3,
@@ -43,7 +45,8 @@
    "goals_for": 27,
    "goals_against": 19,
    "goal_diff": 8,
-   "points": 24
+   "points": 24,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,7 +58,8 @@
    "goals_for": 19,
    "goals_against": 26,
    "goal_diff": -7,
-   "points": 20
+   "points": 20,
+   "flag": null
   },
   {
    "position": 5,
@@ -67,7 +71,8 @@
    "goals_for": 15,
    "goals_against": 22,
    "goal_diff": -7,
-   "points": 19
+   "points": 19,
+   "flag": null
   },
   {
    "position": 6,
@@ -79,11 +84,12 @@
    "goals_for": 14,
    "goals_against": 17,
    "goal_diff": -3,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 7,
-   "team": "Rangers",
+   "team": "Cove Rangers",
    "played": 14,
    "won": 4,
    "drawn": 3,
@@ -91,7 +97,8 @@
    "goals_for": 17,
    "goals_against": 18,
    "goal_diff": -1,
-   "points": 15
+   "points": 15,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,7 +110,8 @@
    "goals_for": 12,
    "goals_against": 26,
    "goal_diff": -14,
-   "points": 13
+   "points": 13,
+   "flag": null
   },
   {
    "position": 9,
@@ -115,7 +123,8 @@
    "goals_for": 14,
    "goals_against": 40,
    "goal_diff": -26,
-   "points": 13
+   "points": 13,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,14 +136,11 @@
    "goals_for": 16,
    "goals_against": 23,
    "goal_diff": -7,
-   "points": 12
+   "points": 12,
+   "flag": null
   }
  ],
  "form": [
-  {
-   "team": "Rangers",
-   "last5": "WWWLD"
-  },
   {
    "team": "Ross County",
    "last5": "WWWDW"
@@ -154,6 +160,10 @@
   {
    "team": "Queen of Sth",
    "last5": "LLLWL"
+  },
+  {
+   "team": "Cove Rangers",
+   "last5": "WWWLD"
   },
   {
    "team": "Montrose",
@@ -185,18 +195,18 @@
   {
    "date": "2026-11-14",
    "kickoff_utc": "2026-11-14T15:00:00.000Z",
-   "home": "Rangers",
-   "away": "Montrose",
-   "home_goals": 3,
+   "home": "Airdrie Utd",
+   "away": "Queen of Sth",
+   "home_goals": 2,
    "away_goals": 0,
    "status": "finished"
   },
   {
    "date": "2026-11-14",
    "kickoff_utc": "2026-11-14T15:00:00.000Z",
-   "home": "Airdrie Utd",
-   "away": "Queen of Sth",
-   "home_goals": 2,
+   "home": "Cove Rangers",
+   "away": "Montrose",
+   "home_goals": 3,
    "away_goals": 0,
    "status": "finished"
   },
@@ -216,15 +226,6 @@
    "away": "Alloa",
    "home_goals": 4,
    "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T15:00:00.000Z",
-   "home": "Rangers",
-   "away": "Hamilton",
-   "home_goals": 4,
-   "away_goals": 0,
    "status": "finished"
   },
   {
@@ -257,6 +258,15 @@
   {
    "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T15:00:00.000Z",
+   "home": "Cove Rangers",
+   "away": "Hamilton",
+   "home_goals": 4,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T15:00:00.000Z",
    "home": "Montrose",
    "away": "East Fife",
    "home_goals": 1,
@@ -267,7 +277,7 @@
    "date": "2026-10-31",
    "kickoff_utc": "2026-10-31T15:00:00.000Z",
    "home": "Airdrie Utd",
-   "away": "Rangers",
+   "away": "Cove Rangers",
    "home_goals": 0,
    "away_goals": 1,
    "status": "finished"
@@ -375,7 +385,7 @@
    "date": "2026-10-17",
    "kickoff_utc": "2026-10-17T14:00:00.000Z",
    "home": "Peterhead",
-   "away": "Rangers",
+   "away": "Cove Rangers",
    "home_goals": 2,
    "away_goals": 0,
    "status": "finished"
@@ -401,19 +411,19 @@
   {
    "date": "2026-10-10",
    "kickoff_utc": "2026-10-10T14:00:00.000Z",
-   "home": "Rangers",
-   "away": "East Fife",
-   "home_goals": 1,
-   "away_goals": 1,
+   "home": "Alloa",
+   "away": "Hamilton",
+   "home_goals": 0,
+   "away_goals": 3,
    "status": "finished"
   },
   {
    "date": "2026-10-10",
    "kickoff_utc": "2026-10-10T14:00:00.000Z",
-   "home": "Alloa",
-   "away": "Hamilton",
-   "home_goals": 0,
-   "away_goals": 3,
+   "home": "Cove Rangers",
+   "away": "East Fife",
+   "home_goals": 1,
+   "away_goals": 1,
    "status": "finished"
   },
   {

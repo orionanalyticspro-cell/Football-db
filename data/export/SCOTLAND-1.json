@@ -1,28 +1,16 @@
 {
  "competition": {
-  "id": 22,
+  "id": 6,
   "code": "SCOTLAND-1",
   "name": "Premiership",
   "country": "Scotland",
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-19T07:09:17.342Z",
+ "updated": "2026-11-19T09:47:36.201Z",
  "standings": [
   {
    "position": 1,
-   "team": "Dundee United",
-   "played": 24,
-   "won": 9,
-   "drawn": 7,
-   "lost": 8,
-   "goals_for": 35,
-   "goals_against": 32,
-   "goal_diff": 3,
-   "points": 34
-  },
-  {
-   "position": 2,
    "team": "Celtic",
    "played": 13,
    "won": 10,
@@ -31,10 +19,11 @@
    "goals_for": 28,
    "goals_against": 10,
    "goal_diff": 18,
-   "points": 31
+   "points": 31,
+   "flag": null
   },
   {
-   "position": 3,
+   "position": 2,
    "team": "Rangers",
    "played": 12,
    "won": 8,
@@ -43,10 +32,11 @@
    "goals_for": 21,
    "goals_against": 9,
    "goal_diff": 12,
-   "points": 27
+   "points": 27,
+   "flag": null
   },
   {
-   "position": 4,
+   "position": 3,
    "team": "Falkirk",
    "played": 13,
    "won": 6,
@@ -55,10 +45,11 @@
    "goals_for": 20,
    "goals_against": 14,
    "goal_diff": 6,
-   "points": 21
+   "points": 21,
+   "flag": null
   },
   {
-   "position": 5,
+   "position": 4,
    "team": "Hearts",
    "played": 12,
    "won": 6,
@@ -67,10 +58,37 @@
    "goals_for": 26,
    "goals_against": 22,
    "goal_diff": 4,
-   "points": 20
+   "points": 20,
+   "flag": null
+  },
+  {
+   "position": 5,
+   "team": "Dundee",
+   "played": 12,
+   "won": 5,
+   "drawn": 2,
+   "lost": 5,
+   "goals_for": 18,
+   "goals_against": 15,
+   "goal_diff": 3,
+   "points": 17,
+   "flag": null
   },
   {
    "position": 6,
+   "team": "Dundee United",
+   "played": 12,
+   "won": 4,
+   "drawn": 5,
+   "lost": 3,
+   "goals_for": 17,
+   "goals_against": 17,
+   "goal_diff": 0,
+   "points": 17,
+   "flag": null
+  },
+  {
+   "position": 7,
    "team": "St Johnstone",
    "played": 13,
    "won": 4,
@@ -79,10 +97,11 @@
    "goals_for": 17,
    "goals_against": 20,
    "goal_diff": -3,
-   "points": 17
+   "points": 17,
+   "flag": null
   },
   {
-   "position": 7,
+   "position": 8,
    "team": "St Mirren",
    "played": 13,
    "won": 4,
@@ -91,10 +110,11 @@
    "goals_for": 12,
    "goals_against": 22,
    "goal_diff": -10,
-   "points": 14
+   "points": 14,
+   "flag": null
   },
   {
-   "position": 8,
+   "position": 9,
    "team": "Motherwell",
    "played": 13,
    "won": 3,
@@ -103,10 +123,11 @@
    "goals_for": 15,
    "goals_against": 21,
    "goal_diff": -6,
-   "points": 13
+   "points": 13,
+   "flag": null
   },
   {
-   "position": 9,
+   "position": 10,
    "team": "Hibernian",
    "played": 12,
    "won": 3,
@@ -115,10 +136,11 @@
    "goals_for": 15,
    "goals_against": 17,
    "goal_diff": -2,
-   "points": 11
+   "points": 11,
+   "flag": null
   },
   {
-   "position": 10,
+   "position": 11,
    "team": "Aberdeen",
    "played": 12,
    "won": 3,
@@ -127,10 +149,11 @@
    "goals_for": 12,
    "goals_against": 18,
    "goal_diff": -6,
-   "points": 11
+   "points": 11,
+   "flag": null
   },
   {
-   "position": 11,
+   "position": 12,
    "team": "Kilmarnock",
    "played": 13,
    "won": 2,
@@ -139,7 +162,8 @@
    "goals_for": 13,
    "goals_against": 29,
    "goal_diff": -16,
-   "points": 9
+   "points": 9,
+   "flag": null
   }
  ],
  "form": [
@@ -157,7 +181,11 @@
   },
   {
    "team": "Dundee United",
-   "last5": "DLWDW"
+   "last5": "DDWDW"
+  },
+  {
+   "team": "Dundee",
+   "last5": "LWLDW"
   },
   {
    "team": "St Mirren",
@@ -238,7 +266,7 @@
    "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T15:00:00.000Z",
    "home": "St Johnstone",
-   "away": "Dundee United",
+   "away": "Dundee",
    "home_goals": 2,
    "away_goals": 1,
    "status": "finished"
@@ -282,7 +310,7 @@
   {
    "date": "2026-10-28",
    "kickoff_utc": "2026-10-28T19:45:00.000Z",
-   "home": "Dundee United",
+   "home": "Dundee",
    "away": "Kilmarnock",
    "home_goals": 3,
    "away_goals": 1,
@@ -364,7 +392,7 @@
    "date": "2026-10-24",
    "kickoff_utc": "2026-10-24T14:00:00.000Z",
    "home": "St Mirren",
-   "away": "Dundee United",
+   "away": "Dundee",
    "home_goals": 2,
    "away_goals": 1,
    "status": "finished"
@@ -390,7 +418,7 @@
   {
    "date": "2026-10-17",
    "kickoff_utc": "2026-10-17T19:00:00.000Z",
-   "home": "Dundee United",
+   "home": "Dundee",
    "away": "Rangers",
    "home_goals": 2,
    "away_goals": 2,

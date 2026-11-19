@@ -1,13 +1,13 @@
 {
  "competition": {
-  "id": 23,
+  "id": 7,
   "code": "SCOTLAND-2",
   "name": "Championship",
   "country": "Scotland",
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-19T07:09:17.512Z",
+ "updated": "2026-11-19T09:47:36.497Z",
  "standings": [
   {
    "position": 1,
@@ -19,7 +19,8 @@
    "goals_for": 21,
    "goals_against": 9,
    "goal_diff": 12,
-   "points": 31
+   "points": 31,
+   "flag": null
   },
   {
    "position": 2,
@@ -31,7 +32,8 @@
    "goals_for": 18,
    "goals_against": 16,
    "goal_diff": 2,
-   "points": 26
+   "points": 26,
+   "flag": null
   },
   {
    "position": 3,
@@ -43,7 +45,8 @@
    "goals_for": 21,
    "goals_against": 12,
    "goal_diff": 9,
-   "points": 25
+   "points": 25,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,7 +58,8 @@
    "goals_for": 15,
    "goals_against": 7,
    "goal_diff": 8,
-   "points": 25
+   "points": 25,
+   "flag": null
   },
   {
    "position": 5,
@@ -67,7 +71,8 @@
    "goals_for": 21,
    "goals_against": 12,
    "goal_diff": 9,
-   "points": 24
+   "points": 24,
+   "flag": null
   },
   {
    "position": 6,
@@ -79,7 +84,8 @@
    "goals_for": 20,
    "goals_against": 20,
    "goal_diff": 0,
-   "points": 20
+   "points": 20,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,7 +97,8 @@
    "goals_for": 17,
    "goals_against": 19,
    "goal_diff": -2,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,7 +110,8 @@
    "goals_for": 11,
    "goals_against": 23,
    "goal_diff": -12,
-   "points": 14
+   "points": 14,
+   "flag": null
   },
   {
    "position": 9,
@@ -115,7 +123,8 @@
    "goals_for": 16,
    "goals_against": 25,
    "goal_diff": -9,
-   "points": 13
+   "points": 13,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,7 +136,8 @@
    "goals_for": 8,
    "goals_against": 25,
    "goal_diff": -17,
-   "points": 7
+   "points": 7,
+   "flag": null
   }
  ],
  "form": [

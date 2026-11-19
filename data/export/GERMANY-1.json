@@ -1,13 +1,13 @@
 {
  "competition": {
-  "id": 26,
+  "id": 10,
   "code": "GERMANY-1",
   "name": "Bundesliga",
   "country": "Germany",
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-19T07:09:15.060Z",
+ "updated": "2026-11-19T09:47:32.096Z",
  "standings": [
   {
    "position": 1,
@@ -19,11 +19,12 @@
    "goals_for": 29,
    "goals_against": 9,
    "goal_diff": 20,
-   "points": 21
+   "points": 21,
+   "flag": null
   },
   {
    "position": 2,
-   "team": "Dortmund",
+   "team": "Borussia Dortmund",
    "played": 9,
    "won": 6,
    "drawn": 3,
@@ -31,7 +32,8 @@
    "goals_for": 16,
    "goals_against": 7,
    "goal_diff": 9,
-   "points": 21
+   "points": 21,
+   "flag": null
   },
   {
    "position": 3,
@@ -43,7 +45,8 @@
    "goals_for": 20,
    "goals_against": 10,
    "goal_diff": 10,
-   "points": 19
+   "points": 19,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,11 +58,12 @@
    "goals_for": 27,
    "goals_against": 13,
    "goal_diff": 14,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 5,
-   "team": "Leverkusen",
+   "team": "Bayer Leverkusen",
    "played": 9,
    "won": 5,
    "drawn": 1,
@@ -67,7 +71,8 @@
    "goals_for": 20,
    "goals_against": 17,
    "goal_diff": 3,
-   "points": 16
+   "points": 16,
+   "flag": null
   },
   {
    "position": 6,
@@ -79,7 +84,8 @@
    "goals_for": 17,
    "goals_against": 15,
    "goal_diff": 2,
-   "points": 15
+   "points": 15,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,7 +97,8 @@
    "goals_for": 17,
    "goals_against": 18,
    "goal_diff": -1,
-   "points": 13
+   "points": 13,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,7 +110,8 @@
    "goals_for": 15,
    "goals_against": 15,
    "goal_diff": 0,
-   "points": 12
+   "points": 12,
+   "flag": null
   },
   {
    "position": 9,
@@ -115,11 +123,12 @@
    "goals_for": 16,
    "goals_against": 17,
    "goal_diff": -1,
-   "points": 12
+   "points": 12,
+   "flag": null
   },
   {
    "position": 10,
-   "team": "Ein Frankfurt",
+   "team": "Eintracht Frankfurt",
    "played": 9,
    "won": 3,
    "drawn": 3,
@@ -127,7 +136,8 @@
    "goals_for": 15,
    "goals_against": 20,
    "goal_diff": -5,
-   "points": 12
+   "points": 12,
+   "flag": null
   },
   {
    "position": 11,
@@ -139,7 +149,8 @@
    "goals_for": 10,
    "goals_against": 20,
    "goal_diff": -10,
-   "points": 12
+   "points": 12,
+   "flag": null
   },
   {
    "position": 12,
@@ -151,7 +162,8 @@
    "goals_for": 18,
    "goals_against": 19,
    "goal_diff": -1,
-   "points": 10
+   "points": 10,
+   "flag": null
   },
   {
    "position": 13,
@@ -163,7 +175,8 @@
    "goals_for": 8,
    "goals_against": 11,
    "goal_diff": -3,
-   "points": 10
+   "points": 10,
+   "flag": null
   },
   {
    "position": 14,
@@ -175,11 +188,12 @@
    "goals_for": 20,
    "goals_against": 20,
    "goal_diff": 0,
-   "points": 9
+   "points": 9,
+   "flag": null
   },
   {
    "position": 15,
-   "team": "FC Koln",
+   "team": "1. FC Köln",
    "played": 9,
    "won": 2,
    "drawn": 3,
@@ -187,7 +201,8 @@
    "goals_for": 10,
    "goals_against": 14,
    "goal_diff": -4,
-   "points": 9
+   "points": 9,
+   "flag": null
   },
   {
    "position": 16,
@@ -199,7 +214,8 @@
    "goals_for": 7,
    "goals_against": 21,
    "goal_diff": -14,
-   "points": 7
+   "points": 7,
+   "flag": null
   },
   {
    "position": 17,
@@ -211,11 +227,12 @@
    "goals_for": 5,
    "goals_against": 11,
    "goal_diff": -6,
-   "points": 6
+   "points": 6,
+   "flag": null
   },
   {
    "position": 18,
-   "team": "M'gladbach",
+   "team": "Borussia Mönchengladbach",
    "played": 9,
    "won": 1,
    "drawn": 1,
@@ -223,17 +240,34 @@
    "goals_for": 12,
    "goals_against": 25,
    "goal_diff": -13,
-   "points": 4
+   "points": 4,
+   "flag": null
   }
  ],
  "form": [
   {
-   "team": "M'gladbach",
+   "team": "Borussia Dortmund",
+   "last5": "WDWDD"
+  },
+  {
+   "team": "Borussia Mönchengladbach",
    "last5": "LDWLL"
   },
   {
-   "team": "Leverkusen",
+   "team": "Eintracht Frankfurt",
+   "last5": "DWLWL"
+  },
+  {
+   "team": "1. FC Köln",
+   "last5": "LDDLW"
+  },
+  {
+   "team": "Bayer Leverkusen",
    "last5": "WLLWW"
+  },
+  {
+   "team": "Bayern Munich",
+   "last5": "WDWWD"
   },
   {
    "team": "Augsburg",
@@ -266,22 +300,6 @@
   {
    "team": "RB Leipzig",
    "last5": "WWWLW"
-  },
-  {
-   "team": "Dortmund",
-   "last5": "WDWDD"
-  },
-  {
-   "team": "Ein Frankfurt",
-   "last5": "DWLWL"
-  },
-  {
-   "team": "Bayern Munich",
-   "last5": "WDWWD"
-  },
-  {
-   "team": "FC Koln",
-   "last5": "LDDLW"
   },
   {
    "team": "Hamburg",
@@ -322,8 +340,8 @@
   {
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T14:30:00.000Z",
-   "home": "FC Koln",
-   "away": "Leverkusen",
+   "home": "1. FC Köln",
+   "away": "Bayer Leverkusen",
    "home_goals": 1,
    "away_goals": 2,
    "status": "finished"
@@ -335,6 +353,15 @@
    "away": "Werder Bremen",
    "home_goals": 1,
    "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T14:30:00.000Z",
+   "home": "Borussia Dortmund",
+   "away": "Elversberg",
+   "home_goals": 2,
+   "away_goals": 1,
    "status": "finished"
   },
   {
@@ -358,17 +385,8 @@
   {
    "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T14:30:00.000Z",
-   "home": "Dortmund",
-   "away": "Elversberg",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T14:30:00.000Z",
    "home": "Paderborn",
-   "away": "Ein Frankfurt",
+   "away": "Eintracht Frankfurt",
    "home_goals": 2,
    "away_goals": 2,
    "status": "finished"
@@ -377,7 +395,7 @@
    "date": "2026-11-06",
    "kickoff_utc": "2026-11-06T19:30:00.000Z",
    "home": "Hamburg",
-   "away": "M'gladbach",
+   "away": "Borussia Mönchengladbach",
    "home_goals": 3,
    "away_goals": 1,
    "status": "finished"
@@ -385,7 +403,7 @@
   {
    "date": "2026-11-01",
    "kickoff_utc": "2026-11-01T16:30:00.000Z",
-   "home": "Ein Frankfurt",
+   "home": "Eintracht Frankfurt",
    "away": "Hamburg",
    "home_goals": 3,
    "away_goals": 1,
@@ -395,7 +413,7 @@
    "date": "2026-11-01",
    "kickoff_utc": "2026-11-01T14:30:00.000Z",
    "home": "Union Berlin",
-   "away": "FC Koln",
+   "away": "1. FC Köln",
    "home_goals": 1,
    "away_goals": 1,
    "status": "finished"
@@ -404,7 +422,7 @@
    "date": "2026-10-31",
    "kickoff_utc": "2026-10-31T17:30:00.000Z",
    "home": "Bayern Munich",
-   "away": "Dortmund",
+   "away": "Borussia Dortmund",
    "home_goals": 2,
    "away_goals": 2,
    "status": "finished"
@@ -412,7 +430,7 @@
   {
    "date": "2026-10-31",
    "kickoff_utc": "2026-10-31T14:30:00.000Z",
-   "home": "M'gladbach",
+   "home": "Borussia Mönchengladbach",
    "away": "Paderborn",
    "home_goals": 0,
    "away_goals": 0,
@@ -421,7 +439,7 @@
   {
    "date": "2026-10-31",
    "kickoff_utc": "2026-10-31T14:30:00.000Z",
-   "home": "Leverkusen",
+   "home": "Bayer Leverkusen",
    "away": "Stuttgart",
    "home_goals": 2,
    "away_goals": 4,
@@ -476,7 +494,7 @@
    "date": "2026-10-25",
    "kickoff_utc": "2026-10-25T14:30:00.000Z",
    "home": "Hoffenheim",
-   "away": "Leverkusen",
+   "away": "Bayer Leverkusen",
    "home_goals": 3,
    "away_goals": 0,
    "status": "finished"
@@ -484,9 +502,18 @@
   {
    "date": "2026-10-24",
    "kickoff_utc": "2026-10-24T16:30:00.000Z",
-   "home": "Dortmund",
-   "away": "Ein Frankfurt",
+   "home": "Borussia Dortmund",
+   "away": "Eintracht Frankfurt",
    "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T13:30:00.000Z",
+   "home": "1. FC Köln",
+   "away": "Schalke 04",
+   "home_goals": 0,
    "away_goals": 0,
    "status": "finished"
   },
@@ -520,15 +547,6 @@
   {
    "date": "2026-10-24",
    "kickoff_utc": "2026-10-24T13:30:00.000Z",
-   "home": "FC Koln",
-   "away": "Schalke 04",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T13:30:00.000Z",
    "home": "Paderborn",
    "away": "Hamburg",
    "home_goals": 1,
@@ -539,7 +557,7 @@
    "date": "2026-10-23",
    "kickoff_utc": "2026-10-23T18:30:00.000Z",
    "home": "Stuttgart",
-   "away": "M'gladbach",
+   "away": "Borussia Mönchengladbach",
    "home_goals": 2,
    "away_goals": 3,
    "status": "finished"
@@ -547,7 +565,7 @@
   {
    "date": "2026-10-18",
    "kickoff_utc": "2026-10-18T15:30:00.000Z",
-   "home": "M'gladbach",
+   "home": "Borussia Mönchengladbach",
    "away": "Hoffenheim",
    "home_goals": 1,
    "away_goals": 2,
@@ -556,7 +574,7 @@
   {
    "date": "2026-10-18",
    "kickoff_utc": "2026-10-18T13:30:00.000Z",
-   "home": "Leverkusen",
+   "home": "Bayer Leverkusen",
    "away": "Freiburg",
    "home_goals": 2,
    "away_goals": 1,

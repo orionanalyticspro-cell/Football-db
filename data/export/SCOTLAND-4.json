@@ -1,13 +1,13 @@
 {
  "competition": {
-  "id": 25,
+  "id": 9,
   "code": "SCOTLAND-4",
   "name": "League Two",
   "country": "Scotland",
   "level": 4
  },
  "season": "2026/2027",
- "updated": "2026-11-19T07:09:17.841Z",
+ "updated": "2026-11-19T09:47:37.085Z",
  "standings": [
   {
    "position": 1,
@@ -19,7 +19,8 @@
    "goals_for": 29,
    "goals_against": 9,
    "goal_diff": 20,
-   "points": 30
+   "points": 30,
+   "flag": null
   },
   {
    "position": 2,
@@ -31,7 +32,8 @@
    "goals_for": 36,
    "goals_against": 22,
    "goal_diff": 14,
-   "points": 30
+   "points": 30,
+   "flag": null
   },
   {
    "position": 3,
@@ -43,7 +45,8 @@
    "goals_for": 29,
    "goals_against": 21,
    "goal_diff": 8,
-   "points": 21
+   "points": 21,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,7 +58,8 @@
    "goals_for": 25,
    "goals_against": 26,
    "goal_diff": -1,
-   "points": 20
+   "points": 20,
+   "flag": null
   },
   {
    "position": 5,
@@ -67,11 +71,12 @@
    "goals_for": 28,
    "goals_against": 27,
    "goal_diff": 1,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 6,
-   "team": "Hearts",
+   "team": "Kelty Hearts",
    "played": 14,
    "won": 6,
    "drawn": 0,
@@ -79,7 +84,8 @@
    "goals_for": 18,
    "goals_against": 24,
    "goal_diff": -6,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,7 +97,8 @@
    "goals_for": 21,
    "goals_against": 30,
    "goal_diff": -9,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,7 +110,8 @@
    "goals_for": 15,
    "goals_against": 25,
    "goal_diff": -10,
-   "points": 16
+   "points": 16,
+   "flag": null
   },
   {
    "position": 9,
@@ -115,7 +123,8 @@
    "goals_for": 16,
    "goals_against": 26,
    "goal_diff": -10,
-   "points": 15
+   "points": 15,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,14 +136,11 @@
    "goals_for": 19,
    "goals_against": 26,
    "goal_diff": -7,
-   "points": 12
+   "points": 12,
+   "flag": null
   }
  ],
  "form": [
-  {
-   "team": "Hearts",
-   "last5": "LWLWL"
-  },
   {
    "team": "Annan Athletic",
    "last5": "WLLLL"
@@ -142,6 +148,10 @@
   {
    "team": "Dumbarton",
    "last5": "LWLDL"
+  },
+  {
+   "team": "Kelty Hearts",
+   "last5": "LWLWL"
   },
   {
    "team": "Edinburgh City",
@@ -176,19 +186,19 @@
   {
    "date": "2026-11-14",
    "kickoff_utc": "2026-11-14T15:00:00.000Z",
-   "home": "Hearts",
-   "away": "Stranraer",
+   "home": "Dumbarton",
+   "away": "Annan Athletic",
    "home_goals": 0,
-   "away_goals": 1,
+   "away_goals": 5,
    "status": "finished"
   },
   {
    "date": "2026-11-14",
    "kickoff_utc": "2026-11-14T15:00:00.000Z",
-   "home": "Dumbarton",
-   "away": "Annan Athletic",
+   "home": "Kelty Hearts",
+   "away": "Stranraer",
    "home_goals": 0,
-   "away_goals": 5,
+   "away_goals": 1,
    "status": "finished"
   },
   {
@@ -222,7 +232,7 @@
    "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T15:00:00.000Z",
    "home": "Annan Athletic",
-   "away": "Hearts",
+   "away": "Kelty Hearts",
    "home_goals": 1,
    "away_goals": 2,
    "status": "finished"
@@ -266,7 +276,7 @@
   {
    "date": "2026-10-31",
    "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Hearts",
+   "home": "Kelty Hearts",
    "away": "Elgin",
    "home_goals": 0,
    "away_goals": 1,
@@ -311,18 +321,18 @@
   {
    "date": "2026-10-17",
    "kickoff_utc": "2026-10-17T14:00:00.000Z",
-   "home": "Hearts",
-   "away": "Forfar",
-   "home_goals": 2,
+   "home": "Dumbarton",
+   "away": "Stirling",
+   "home_goals": 1,
    "away_goals": 1,
    "status": "finished"
   },
   {
    "date": "2026-10-17",
    "kickoff_utc": "2026-10-17T14:00:00.000Z",
-   "home": "Dumbarton",
-   "away": "Stirling",
-   "home_goals": 1,
+   "home": "Kelty Hearts",
+   "away": "Forfar",
+   "home_goals": 2,
    "away_goals": 1,
    "status": "finished"
   },
@@ -375,7 +385,7 @@
    "date": "2026-10-10",
    "kickoff_utc": "2026-10-10T14:00:00.000Z",
    "home": "Stirling",
-   "away": "Hearts",
+   "away": "Kelty Hearts",
    "home_goals": 2,
    "away_goals": 1,
    "status": "finished"
@@ -438,7 +448,7 @@
    "date": "2026-10-03",
    "kickoff_utc": "2026-10-03T14:00:00.000Z",
    "home": "Spartans",
-   "away": "Hearts",
+   "away": "Kelty Hearts",
    "home_goals": 0,
    "away_goals": 2,
    "status": "finished"

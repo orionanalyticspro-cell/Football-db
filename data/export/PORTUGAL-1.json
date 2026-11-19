@@ -1,13 +1,13 @@
 {
  "competition": {
-  "id": 36,
+  "id": 20,
   "code": "PORTUGAL-1",
   "name": "Primeira Liga",
   "country": "Portugal",
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-19T07:09:16.849Z",
+ "updated": "2026-11-19T09:47:35.310Z",
  "standings": [
   {
    "position": 1,
@@ -19,7 +19,8 @@
    "goals_for": 27,
    "goals_against": 5,
    "goal_diff": 22,
-   "points": 33
+   "points": 33,
+   "flag": null
   },
   {
    "position": 2,
@@ -31,11 +32,12 @@
    "goals_for": 30,
    "goals_against": 10,
    "goal_diff": 20,
-   "points": 28
+   "points": 28,
+   "flag": null
   },
   {
    "position": 3,
-   "team": "Sp Lisbon",
+   "team": "Sporting CP",
    "played": 11,
    "won": 7,
    "drawn": 3,
@@ -43,7 +45,8 @@
    "goals_for": 24,
    "goals_against": 11,
    "goal_diff": 13,
-   "points": 24
+   "points": 24,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,7 +58,8 @@
    "goals_for": 16,
    "goals_against": 8,
    "goal_diff": 8,
-   "points": 21
+   "points": 21,
+   "flag": null
   },
   {
    "position": 5,
@@ -67,7 +71,8 @@
    "goals_for": 13,
    "goals_against": 8,
    "goal_diff": 5,
-   "points": 20
+   "points": 20,
+   "flag": null
   },
   {
    "position": 6,
@@ -79,7 +84,8 @@
    "goals_for": 15,
    "goals_against": 13,
    "goal_diff": 2,
-   "points": 20
+   "points": 20,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,11 +97,12 @@
    "goals_for": 10,
    "goals_against": 8,
    "goal_diff": 2,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 8,
-   "team": "Sp Braga",
+   "team": "Sporting Braga",
    "played": 11,
    "won": 5,
    "drawn": 2,
@@ -103,7 +110,8 @@
    "goals_for": 13,
    "goals_against": 11,
    "goal_diff": 2,
-   "points": 17
+   "points": 17,
+   "flag": null
   },
   {
    "position": 9,
@@ -115,7 +123,8 @@
    "goals_for": 13,
    "goals_against": 18,
    "goal_diff": -5,
-   "points": 14
+   "points": 14,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,7 +136,8 @@
    "goals_for": 15,
    "goals_against": 14,
    "goal_diff": 1,
-   "points": 13
+   "points": 13,
+   "flag": null
   },
   {
    "position": 11,
@@ -139,7 +149,8 @@
    "goals_for": 14,
    "goals_against": 15,
    "goal_diff": -1,
-   "points": 12
+   "points": 12,
+   "flag": null
   },
   {
    "position": 12,
@@ -151,7 +162,8 @@
    "goals_for": 17,
    "goals_against": 22,
    "goal_diff": -5,
-   "points": 10
+   "points": 10,
+   "flag": null
   },
   {
    "position": 13,
@@ -163,7 +175,8 @@
    "goals_for": 11,
    "goals_against": 19,
    "goal_diff": -8,
-   "points": 10
+   "points": 10,
+   "flag": null
   },
   {
    "position": 14,
@@ -175,7 +188,8 @@
    "goals_for": 11,
    "goals_against": 12,
    "goal_diff": -1,
-   "points": 9
+   "points": 9,
+   "flag": null
   },
   {
    "position": 15,
@@ -187,7 +201,8 @@
    "goals_for": 9,
    "goals_against": 21,
    "goal_diff": -12,
-   "points": 8
+   "points": 8,
+   "flag": null
   },
   {
    "position": 16,
@@ -199,7 +214,8 @@
    "goals_for": 6,
    "goals_against": 20,
    "goal_diff": -14,
-   "points": 8
+   "points": 8,
+   "flag": null
   },
   {
    "position": 17,
@@ -211,7 +227,8 @@
    "goals_for": 9,
    "goals_against": 24,
    "goal_diff": -15,
-   "points": 7
+   "points": 7,
+   "flag": null
   },
   {
    "position": 18,
@@ -223,13 +240,18 @@
    "goals_for": 5,
    "goals_against": 19,
    "goal_diff": -14,
-   "points": 2
+   "points": 2,
+   "flag": null
   }
  ],
  "form": [
   {
-   "team": "Sp Lisbon",
+   "team": "Sporting CP",
    "last5": "WWLWD"
+  },
+  {
+   "team": "Sporting Braga",
+   "last5": "WWLLL"
   },
   {
    "team": "Rio Ave",
@@ -272,10 +294,6 @@
    "last5": "LWWLD"
   },
   {
-   "team": "Sp Braga",
-   "last5": "WWLLL"
-  },
-  {
    "team": "Estrela",
    "last5": "LLLLL"
   },
@@ -305,7 +323,7 @@
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T20:30:00.000Z",
    "home": "Rio Ave",
-   "away": "Sp Braga",
+   "away": "Sporting Braga",
    "home_goals": 0,
    "away_goals": 1,
    "status": "finished"
@@ -349,7 +367,7 @@
   {
    "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T20:30:00.000Z",
-   "home": "Sp Lisbon",
+   "home": "Sporting CP",
    "away": "Moreirense",
    "home_goals": 1,
    "away_goals": 0,
@@ -394,7 +412,7 @@
   {
    "date": "2026-11-01",
    "kickoff_utc": "2026-11-01T20:30:00.000Z",
-   "home": "Sp Braga",
+   "home": "Sporting Braga",
    "away": "Famalicao",
    "home_goals": 3,
    "away_goals": 0,
@@ -449,7 +467,7 @@
    "date": "2026-10-30",
    "kickoff_utc": "2026-10-30T20:15:00.000Z",
    "home": "Casa Pia",
-   "away": "Sp Lisbon",
+   "away": "Sporting CP",
    "home_goals": 0,
    "away_goals": 2,
    "status": "finished"
@@ -466,7 +484,7 @@
   {
    "date": "2026-10-25",
    "kickoff_utc": "2026-10-25T20:30:00.000Z",
-   "home": "Sp Lisbon",
+   "home": "Sporting CP",
    "away": "Academico Viseu",
    "home_goals": 1,
    "away_goals": 2,
@@ -485,7 +503,7 @@
    "date": "2026-10-25",
    "kickoff_utc": "2026-10-25T18:00:00.000Z",
    "home": "Nacional",
-   "away": "Sp Braga",
+   "away": "Sporting Braga",
    "home_goals": 1,
    "away_goals": 0,
    "status": "finished"
@@ -538,7 +556,7 @@
   {
    "date": "2026-10-19",
    "kickoff_utc": "2026-10-19T19:15:00.000Z",
-   "home": "Sp Braga",
+   "home": "Sporting Braga",
    "away": "Gil Vicente",
    "home_goals": 1,
    "away_goals": 2,

@@ -1,13 +1,13 @@
 {
  "competition": {
-  "id": 19,
+  "id": 3,
   "code": "ENGLAND-3",
   "name": "League One",
   "country": "England",
   "level": 3
  },
  "season": "2026/2027",
- "updated": "2026-11-19T07:09:14.064Z",
+ "updated": "2026-11-19T09:47:30.395Z",
  "standings": [
   {
    "position": 1,
@@ -19,7 +19,8 @@
    "goals_for": 28,
    "goals_against": 12,
    "goal_diff": 16,
-   "points": 29
+   "points": 29,
+   "flag": null
   },
   {
    "position": 2,
@@ -31,7 +32,8 @@
    "goals_for": 29,
    "goals_against": 15,
    "goal_diff": 14,
-   "points": 29
+   "points": 29,
+   "flag": null
   },
   {
    "position": 3,
@@ -43,7 +45,8 @@
    "goals_for": 22,
    "goals_against": 11,
    "goal_diff": 11,
-   "points": 26
+   "points": 26,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,11 +58,12 @@
    "goals_for": 27,
    "goals_against": 21,
    "goal_diff": 6,
-   "points": 24
+   "points": 24,
+   "flag": null
   },
   {
    "position": 5,
-   "team": "Sheffield Weds",
+   "team": "Sheffield Wednesday",
    "played": 14,
    "won": 6,
    "drawn": 5,
@@ -67,7 +71,8 @@
    "goals_for": 25,
    "goals_against": 14,
    "goal_diff": 11,
-   "points": 23
+   "points": 23,
+   "flag": null
   },
   {
    "position": 6,
@@ -79,7 +84,8 @@
    "goals_for": 21,
    "goals_against": 22,
    "goal_diff": -1,
-   "points": 23
+   "points": 23,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,7 +97,8 @@
    "goals_for": 26,
    "goals_against": 18,
    "goal_diff": 8,
-   "points": 22
+   "points": 22,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,7 +110,8 @@
    "goals_for": 10,
    "goals_against": 8,
    "goal_diff": 2,
-   "points": 22
+   "points": 22,
+   "flag": null
   },
   {
    "position": 9,
@@ -115,7 +123,8 @@
    "goals_for": 28,
    "goals_against": 22,
    "goal_diff": 6,
-   "points": 21
+   "points": 21,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,7 +136,8 @@
    "goals_for": 21,
    "goals_against": 21,
    "goal_diff": 0,
-   "points": 21
+   "points": 21,
+   "flag": null
   },
   {
    "position": 11,
@@ -139,7 +149,8 @@
    "goals_for": 22,
    "goals_against": 19,
    "goal_diff": 3,
-   "points": 19
+   "points": 19,
+   "flag": null
   },
   {
    "position": 12,
@@ -151,7 +162,8 @@
    "goals_for": 20,
    "goals_against": 18,
    "goal_diff": 2,
-   "points": 19
+   "points": 19,
+   "flag": null
   },
   {
    "position": 13,
@@ -163,7 +175,8 @@
    "goals_for": 21,
    "goals_against": 23,
    "goal_diff": -2,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 14,
@@ -175,7 +188,8 @@
    "goals_for": 19,
    "goals_against": 14,
    "goal_diff": 5,
-   "points": 17
+   "points": 17,
+   "flag": null
   },
   {
    "position": 15,
@@ -187,7 +201,8 @@
    "goals_for": 20,
    "goals_against": 27,
    "goal_diff": -7,
-   "points": 17
+   "points": 17,
+   "flag": null
   },
   {
    "position": 16,
@@ -199,7 +214,8 @@
    "goals_for": 17,
    "goals_against": 13,
    "goal_diff": 4,
-   "points": 16
+   "points": 16,
+   "flag": null
   },
   {
    "position": 17,
@@ -211,7 +227,8 @@
    "goals_for": 10,
    "goals_against": 21,
    "goal_diff": -11,
-   "points": 16
+   "points": 16,
+   "flag": null
   },
   {
    "position": 18,
@@ -223,7 +240,8 @@
    "goals_for": 13,
    "goals_against": 14,
    "goal_diff": -1,
-   "points": 14
+   "points": 14,
+   "flag": null
   },
   {
    "position": 19,
@@ -235,7 +253,8 @@
    "goals_for": 13,
    "goals_against": 23,
    "goal_diff": -10,
-   "points": 14
+   "points": 14,
+   "flag": null
   },
   {
    "position": 20,
@@ -247,7 +266,8 @@
    "goals_for": 17,
    "goals_against": 22,
    "goal_diff": -5,
-   "points": 12
+   "points": 12,
+   "flag": null
   },
   {
    "position": 21,
@@ -259,7 +279,8 @@
    "goals_for": 14,
    "goals_against": 22,
    "goal_diff": -8,
-   "points": 12
+   "points": 12,
+   "flag": null
   },
   {
    "position": 22,
@@ -271,7 +292,8 @@
    "goals_for": 11,
    "goals_against": 23,
    "goal_diff": -12,
-   "points": 10
+   "points": 10,
+   "flag": null
   },
   {
    "position": 23,
@@ -283,7 +305,8 @@
    "goals_for": 13,
    "goals_against": 24,
    "goal_diff": -11,
-   "points": 9
+   "points": 9,
+   "flag": null
   },
   {
    "position": 24,
@@ -295,10 +318,15 @@
    "goals_for": 13,
    "goals_against": 33,
    "goal_diff": -20,
-   "points": 9
+   "points": 9,
+   "flag": null
   }
  ],
  "form": [
+  {
+   "team": "Sheffield Wednesday",
+   "last5": "WDDLL"
+  },
   {
    "team": "Leicester",
    "last5": "DWLWW"
@@ -306,10 +334,6 @@
   {
    "team": "Oxford",
    "last5": "WDWDW"
-  },
-  {
-   "team": "Sheffield Weds",
-   "last5": "WDDLL"
   },
   {
    "team": "Plymouth",
@@ -400,7 +424,7 @@
   {
    "date": "2026-11-14",
    "kickoff_utc": "2026-11-14T15:00:00.000Z",
-   "home": "Sheffield Weds",
+   "home": "Sheffield Wednesday",
    "away": "Plymouth",
    "home_goals": 3,
    "away_goals": 0,
@@ -472,7 +496,7 @@
   {
    "date": "2026-11-01",
    "kickoff_utc": "2026-11-01T14:00:00.000Z",
-   "home": "Sheffield Weds",
+   "home": "Sheffield Wednesday",
    "away": "Blackpool",
    "home_goals": 1,
    "away_goals": 1,
@@ -580,6 +604,15 @@
   {
    "date": "2026-10-27",
    "kickoff_utc": "2026-10-27T19:45:00.000Z",
+   "home": "Sheffield Wednesday",
+   "away": "Cambridge",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-27",
+   "kickoff_utc": "2026-10-27T19:45:00.000Z",
    "home": "Leicester",
    "away": "Wigan",
    "home_goals": 3,
@@ -593,15 +626,6 @@
    "away": "Stockport",
    "home_goals": 1,
    "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-27",
-   "kickoff_utc": "2026-10-27T19:45:00.000Z",
-   "home": "Sheffield Weds",
-   "away": "Cambridge",
-   "home_goals": 1,
-   "away_goals": 1,
    "status": "finished"
   },
   {

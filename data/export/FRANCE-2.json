@@ -1,17 +1,17 @@
 {
  "competition": {
-  "id": 33,
+  "id": 17,
   "code": "FRANCE-2",
   "name": "Ligue 2",
   "country": "France",
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-19T07:09:14.896Z",
+ "updated": "2026-11-19T09:47:31.811Z",
  "standings": [
   {
    "position": 1,
-   "team": "St Etienne",
+   "team": "Saint-Étienne",
    "played": 12,
    "won": 9,
    "drawn": 1,
@@ -19,7 +19,8 @@
    "goals_for": 25,
    "goals_against": 11,
    "goal_diff": 14,
-   "points": 28
+   "points": 28,
+   "flag": null
   },
   {
    "position": 2,
@@ -31,7 +32,8 @@
    "goals_for": 17,
    "goals_against": 9,
    "goal_diff": 8,
-   "points": 25
+   "points": 25,
+   "flag": null
   },
   {
    "position": 3,
@@ -43,7 +45,8 @@
    "goals_for": 18,
    "goals_against": 9,
    "goal_diff": 9,
-   "points": 24
+   "points": 24,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,7 +58,8 @@
    "goals_for": 24,
    "goals_against": 15,
    "goal_diff": 9,
-   "points": 21
+   "points": 21,
+   "flag": null
   },
   {
    "position": 5,
@@ -67,7 +71,8 @@
    "goals_for": 16,
    "goals_against": 13,
    "goal_diff": 3,
-   "points": 20
+   "points": 20,
+   "flag": null
   },
   {
    "position": 6,
@@ -79,7 +84,8 @@
    "goals_for": 21,
    "goals_against": 19,
    "goal_diff": 2,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,7 +97,8 @@
    "goals_for": 20,
    "goals_against": 19,
    "goal_diff": 1,
-   "points": 17
+   "points": 17,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,7 +110,8 @@
    "goals_for": 14,
    "goals_against": 17,
    "goal_diff": -3,
-   "points": 17
+   "points": 17,
+   "flag": null
   },
   {
    "position": 9,
@@ -115,7 +123,8 @@
    "goals_for": 14,
    "goals_against": 18,
    "goal_diff": -4,
-   "points": 16
+   "points": 16,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,7 +136,8 @@
    "goals_for": 17,
    "goals_against": 17,
    "goal_diff": 0,
-   "points": 15
+   "points": 15,
+   "flag": null
   },
   {
    "position": 11,
@@ -139,7 +149,8 @@
    "goals_for": 16,
    "goals_against": 18,
    "goal_diff": -2,
-   "points": 14
+   "points": 14,
+   "flag": null
   },
   {
    "position": 12,
@@ -151,7 +162,8 @@
    "goals_for": 10,
    "goals_against": 8,
    "goal_diff": 2,
-   "points": 13
+   "points": 13,
+   "flag": null
   },
   {
    "position": 13,
@@ -163,7 +175,8 @@
    "goals_for": 17,
    "goals_against": 23,
    "goal_diff": -6,
-   "points": 13
+   "points": 13,
+   "flag": null
   },
   {
    "position": 14,
@@ -175,7 +188,8 @@
    "goals_for": 14,
    "goals_against": 18,
    "goal_diff": -4,
-   "points": 12
+   "points": 12,
+   "flag": null
   },
   {
    "position": 15,
@@ -187,7 +201,8 @@
    "goals_for": 11,
    "goals_against": 15,
    "goal_diff": -4,
-   "points": 11
+   "points": 11,
+   "flag": null
   },
   {
    "position": 16,
@@ -199,7 +214,8 @@
    "goals_for": 8,
    "goals_against": 15,
    "goal_diff": -7,
-   "points": 11
+   "points": 11,
+   "flag": null
   },
   {
    "position": 17,
@@ -211,7 +227,8 @@
    "goals_for": 13,
    "goals_against": 22,
    "goal_diff": -9,
-   "points": 11
+   "points": 11,
+   "flag": null
   },
   {
    "position": 18,
@@ -223,17 +240,18 @@
    "goals_for": 14,
    "goals_against": 23,
    "goal_diff": -9,
-   "points": 9
+   "points": 9,
+   "flag": null
   }
  ],
  "form": [
   {
-   "team": "Reims",
-   "last5": "LWDWD"
+   "team": "Saint-Étienne",
+   "last5": "WLWWW"
   },
   {
-   "team": "St Etienne",
-   "last5": "WLWWW"
+   "team": "Reims",
+   "last5": "LWDWD"
   },
   {
    "team": "Montpellier",
@@ -304,7 +322,7 @@
   {
    "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T19:00:00.000Z",
-   "home": "St Etienne",
+   "home": "Saint-Étienne",
    "away": "Laval",
    "home_goals": 2,
    "away_goals": 0,
@@ -404,7 +422,7 @@
    "date": "2026-10-31",
    "kickoff_utc": "2026-10-31T19:00:00.000Z",
    "home": "Guingamp",
-   "away": "St Etienne",
+   "away": "Saint-Étienne",
    "home_goals": 3,
    "away_goals": 0,
    "status": "finished"
@@ -484,7 +502,7 @@
   {
    "date": "2026-10-24",
    "kickoff_utc": "2026-10-24T18:45:00.000Z",
-   "home": "St Etienne",
+   "home": "Saint-Étienne",
    "away": "Nantes",
    "home_goals": 1,
    "away_goals": 0,
@@ -557,7 +575,7 @@
    "date": "2026-10-17",
    "kickoff_utc": "2026-10-17T18:00:00.000Z",
    "home": "Red Star",
-   "away": "St Etienne",
+   "away": "Saint-Étienne",
    "home_goals": 0,
    "away_goals": 1,
    "status": "finished"

@@ -1,13 +1,13 @@
 {
  "competition": {
-  "id": 28,
+  "id": 12,
   "code": "ITALY-1",
   "name": "Serie A",
   "country": "Italy",
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-19T07:09:15.696Z",
+ "updated": "2026-11-19T09:47:33.267Z",
  "standings": [
   {
    "position": 1,
@@ -19,7 +19,8 @@
    "goals_for": 25,
    "goals_against": 9,
    "goal_diff": 16,
-   "points": 29
+   "points": 29,
+   "flag": null
   },
   {
    "position": 2,
@@ -31,7 +32,8 @@
    "goals_for": 28,
    "goals_against": 13,
    "goal_diff": 15,
-   "points": 28
+   "points": 28,
+   "flag": null
   },
   {
    "position": 3,
@@ -43,7 +45,8 @@
    "goals_for": 31,
    "goals_against": 10,
    "goal_diff": 21,
-   "points": 27
+   "points": 27,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,7 +58,8 @@
    "goals_for": 23,
    "goals_against": 13,
    "goal_diff": 10,
-   "points": 24
+   "points": 24,
+   "flag": null
   },
   {
    "position": 5,
@@ -67,7 +71,8 @@
    "goals_for": 18,
    "goals_against": 10,
    "goal_diff": 8,
-   "points": 23
+   "points": 23,
+   "flag": null
   },
   {
    "position": 6,
@@ -79,7 +84,8 @@
    "goals_for": 24,
    "goals_against": 15,
    "goal_diff": 9,
-   "points": 20
+   "points": 20,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,7 +97,8 @@
    "goals_for": 15,
    "goals_against": 12,
    "goal_diff": 3,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,7 +110,8 @@
    "goals_for": 16,
    "goals_against": 14,
    "goal_diff": 2,
-   "points": 17
+   "points": 17,
+   "flag": null
   },
   {
    "position": 9,
@@ -115,7 +123,8 @@
    "goals_for": 10,
    "goals_against": 15,
    "goal_diff": -5,
-   "points": 16
+   "points": 16,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,7 +136,8 @@
    "goals_for": 18,
    "goals_against": 14,
    "goal_diff": 4,
-   "points": 15
+   "points": 15,
+   "flag": null
   },
   {
    "position": 11,
@@ -139,7 +149,8 @@
    "goals_for": 15,
    "goals_against": 17,
    "goal_diff": -2,
-   "points": 14
+   "points": 14,
+   "flag": null
   },
   {
    "position": 12,
@@ -151,7 +162,8 @@
    "goals_for": 17,
    "goals_against": 20,
    "goal_diff": -3,
-   "points": 14
+   "points": 14,
+   "flag": null
   },
   {
    "position": 13,
@@ -163,7 +175,8 @@
    "goals_for": 11,
    "goals_against": 16,
    "goal_diff": -5,
-   "points": 13
+   "points": 13,
+   "flag": null
   },
   {
    "position": 14,
@@ -175,7 +188,8 @@
    "goals_for": 12,
    "goals_against": 22,
    "goal_diff": -10,
-   "points": 10
+   "points": 10,
+   "flag": null
   },
   {
    "position": 15,
@@ -187,7 +201,8 @@
    "goals_for": 17,
    "goals_against": 25,
    "goal_diff": -8,
-   "points": 9
+   "points": 9,
+   "flag": null
   },
   {
    "position": 16,
@@ -199,7 +214,8 @@
    "goals_for": 9,
    "goals_against": 17,
    "goal_diff": -8,
-   "points": 8
+   "points": 8,
+   "flag": null
   },
   {
    "position": 17,
@@ -211,7 +227,8 @@
    "goals_for": 16,
    "goals_against": 29,
    "goal_diff": -13,
-   "points": 8
+   "points": 8,
+   "flag": null
   },
   {
    "position": 18,
@@ -223,7 +240,8 @@
    "goals_for": 17,
    "goals_against": 25,
    "goal_diff": -8,
-   "points": 7
+   "points": 7,
+   "flag": null
   },
   {
    "position": 19,
@@ -235,7 +253,8 @@
    "goals_for": 8,
    "goals_against": 21,
    "goal_diff": -13,
-   "points": 6
+   "points": 6,
+   "flag": null
   },
   {
    "position": 20,
@@ -247,17 +266,18 @@
    "goals_for": 12,
    "goals_against": 25,
    "goal_diff": -13,
-   "points": 5
+   "points": 5,
+   "flag": null
   }
  ],
  "form": [
   {
-   "team": "Genoa",
-   "last5": "LWWWL"
-  },
-  {
    "team": "Inter",
    "last5": "WLWWW"
+  },
+  {
+   "team": "Genoa",
+   "last5": "LWWWL"
   },
   {
    "team": "Parma",

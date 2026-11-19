@@ -1,13 +1,13 @@
 {
  "competition": {
-  "id": 9,
+  "id": 31,
   "code": "MEXICO-1",
   "name": "Liga MX",
   "country": "Mexico",
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-19T07:09:16.189Z",
+ "updated": "2026-11-19T09:47:34.137Z",
  "standings": [
   {
    "position": 1,
@@ -19,7 +19,8 @@
    "goals_for": 37,
    "goals_against": 26,
    "goal_diff": 11,
-   "points": 32
+   "points": 32,
+   "flag": null
   },
   {
    "position": 2,
@@ -31,7 +32,8 @@
    "goals_for": 38,
    "goals_against": 23,
    "goal_diff": 15,
-   "points": 30
+   "points": 30,
+   "flag": null
   },
   {
    "position": 3,
@@ -43,7 +45,8 @@
    "goals_for": 26,
    "goals_against": 15,
    "goal_diff": 11,
-   "points": 30
+   "points": 30,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,7 +58,8 @@
    "goals_for": 35,
    "goals_against": 21,
    "goal_diff": 14,
-   "points": 27
+   "points": 27,
+   "flag": null
   },
   {
    "position": 5,
@@ -67,7 +71,8 @@
    "goals_for": 27,
    "goals_against": 30,
    "goal_diff": -3,
-   "points": 27
+   "points": 27,
+   "flag": null
   },
   {
    "position": 6,
@@ -79,7 +84,8 @@
    "goals_for": 23,
    "goals_against": 20,
    "goal_diff": 3,
-   "points": 25
+   "points": 25,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,7 +97,8 @@
    "goals_for": 27,
    "goals_against": 25,
    "goal_diff": 2,
-   "points": 24
+   "points": 24,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,7 +110,8 @@
    "goals_for": 23,
    "goals_against": 21,
    "goal_diff": 2,
-   "points": 23
+   "points": 23,
+   "flag": null
   },
   {
    "position": 9,
@@ -115,7 +123,8 @@
    "goals_for": 29,
    "goals_against": 20,
    "goal_diff": 9,
-   "points": 22
+   "points": 22,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,7 +136,8 @@
    "goals_for": 25,
    "goals_against": 22,
    "goal_diff": 3,
-   "points": 22
+   "points": 22,
+   "flag": null
   },
   {
    "position": 11,
@@ -139,7 +149,8 @@
    "goals_for": 24,
    "goals_against": 26,
    "goal_diff": -2,
-   "points": 21
+   "points": 21,
+   "flag": null
   },
   {
    "position": 12,
@@ -151,7 +162,8 @@
    "goals_for": 18,
    "goals_against": 24,
    "goal_diff": -6,
-   "points": 20
+   "points": 20,
+   "flag": null
   },
   {
    "position": 13,
@@ -163,7 +175,8 @@
    "goals_for": 19,
    "goals_against": 23,
    "goal_diff": -4,
-   "points": 19
+   "points": 19,
+   "flag": null
   },
   {
    "position": 14,
@@ -175,7 +188,8 @@
    "goals_for": 19,
    "goals_against": 24,
    "goal_diff": -5,
-   "points": 19
+   "points": 19,
+   "flag": null
   },
   {
    "position": 15,
@@ -187,7 +201,8 @@
    "goals_for": 17,
    "goals_against": 25,
    "goal_diff": -8,
-   "points": 15
+   "points": 15,
+   "flag": null
   },
   {
    "position": 16,
@@ -199,7 +214,8 @@
    "goals_for": 16,
    "goals_against": 26,
    "goal_diff": -10,
-   "points": 14
+   "points": 14,
+   "flag": null
   },
   {
    "position": 17,
@@ -211,7 +227,8 @@
    "goals_for": 17,
    "goals_against": 28,
    "goal_diff": -11,
-   "points": 13
+   "points": 13,
+   "flag": null
   },
   {
    "position": 18,
@@ -223,7 +240,8 @@
    "goals_for": 13,
    "goals_against": 34,
    "goal_diff": -21,
-   "points": 11
+   "points": 11,
+   "flag": null
   }
  ],
  "form": [

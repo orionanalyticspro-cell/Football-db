@@ -1,13 +1,13 @@
 {
  "competition": {
-  "id": 17,
+  "id": 1,
   "code": "ENGLAND-1",
   "name": "Premier League",
   "country": "England",
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-19T07:09:13.702Z",
+ "updated": "2026-11-19T09:47:29.853Z",
  "standings": [
   {
    "position": 1,
@@ -19,11 +19,12 @@
    "goals_for": 15,
    "goals_against": 5,
    "goal_diff": 10,
-   "points": 27
+   "points": 27,
+   "flag": null
   },
   {
    "position": 2,
-   "team": "Brighton",
+   "team": "Brighton & Hove Albion",
    "played": 10,
    "won": 7,
    "drawn": 1,
@@ -31,11 +32,12 @@
    "goals_for": 26,
    "goals_against": 7,
    "goal_diff": 19,
-   "points": 22
+   "points": 22,
+   "flag": null
   },
   {
    "position": 3,
-   "team": "Man City",
+   "team": "Manchester City",
    "played": 10,
    "won": 7,
    "drawn": 0,
@@ -43,7 +45,8 @@
    "goals_for": 21,
    "goals_against": 13,
    "goal_diff": 8,
-   "points": 21
+   "points": 21,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,7 +58,8 @@
    "goals_for": 14,
    "goals_against": 10,
    "goal_diff": 4,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 5,
@@ -67,7 +71,8 @@
    "goals_for": 19,
    "goals_against": 16,
    "goal_diff": 3,
-   "points": 16
+   "points": 16,
+   "flag": null
   },
   {
    "position": 6,
@@ -79,7 +84,8 @@
    "goals_for": 12,
    "goals_against": 10,
    "goal_diff": 2,
-   "points": 16
+   "points": 16,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,7 +97,8 @@
    "goals_for": 16,
    "goals_against": 14,
    "goal_diff": 2,
-   "points": 15
+   "points": 15,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,11 +110,12 @@
    "goals_for": 16,
    "goals_against": 11,
    "goal_diff": 5,
-   "points": 14
+   "points": 14,
+   "flag": null
   },
   {
    "position": 9,
-   "team": "Leeds",
+   "team": "Leeds United",
    "played": 10,
    "won": 3,
    "drawn": 5,
@@ -115,7 +123,8 @@
    "goals_for": 10,
    "goals_against": 8,
    "goal_diff": 2,
-   "points": 14
+   "points": 14,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,11 +136,12 @@
    "goals_for": 14,
    "goals_against": 17,
    "goal_diff": -3,
-   "points": 13
+   "points": 13,
+   "flag": null
   },
   {
    "position": 11,
-   "team": "Tottenham",
+   "team": "Tottenham Hotspur",
    "played": 10,
    "won": 3,
    "drawn": 3,
@@ -139,11 +149,12 @@
    "goals_for": 10,
    "goals_against": 11,
    "goal_diff": -1,
-   "points": 12
+   "points": 12,
+   "flag": null
   },
   {
    "position": 12,
-   "team": "Newcastle",
+   "team": "Newcastle United",
    "played": 10,
    "won": 3,
    "drawn": 3,
@@ -151,7 +162,8 @@
    "goals_for": 13,
    "goals_against": 16,
    "goal_diff": -3,
-   "points": 12
+   "points": 12,
+   "flag": null
   },
   {
    "position": 13,
@@ -163,7 +175,8 @@
    "goals_for": 11,
    "goals_against": 11,
    "goal_diff": 0,
-   "points": 11
+   "points": 11,
+   "flag": null
   },
   {
    "position": 14,
@@ -175,7 +188,8 @@
    "goals_for": 15,
    "goals_against": 20,
    "goal_diff": -5,
-   "points": 11
+   "points": 11,
+   "flag": null
   },
   {
    "position": 15,
@@ -187,11 +201,12 @@
    "goals_for": 10,
    "goals_against": 12,
    "goal_diff": -2,
-   "points": 10
+   "points": 10,
+   "flag": null
   },
   {
    "position": 16,
-   "team": "Nott'm Forest",
+   "team": "Nottingham Forest",
    "played": 10,
    "won": 2,
    "drawn": 3,
@@ -199,7 +214,8 @@
    "goals_for": 9,
    "goals_against": 13,
    "goal_diff": -4,
-   "points": 9
+   "points": 9,
+   "flag": null
   },
   {
    "position": 17,
@@ -211,11 +227,12 @@
    "goals_for": 10,
    "goals_against": 19,
    "goal_diff": -9,
-   "points": 9
+   "points": 9,
+   "flag": null
   },
   {
    "position": 18,
-   "team": "Man United",
+   "team": "Manchester United",
    "played": 10,
    "won": 1,
    "drawn": 5,
@@ -223,7 +240,8 @@
    "goals_for": 14,
    "goals_against": 19,
    "goal_diff": -5,
-   "points": 8
+   "points": 8,
+   "flag": null
   },
   {
    "position": 19,
@@ -235,7 +253,8 @@
    "goals_for": 8,
    "goals_against": 17,
    "goal_diff": -9,
-   "points": 8
+   "points": 8,
+   "flag": null
   },
   {
    "position": 20,
@@ -247,13 +266,38 @@
    "goals_for": 10,
    "goals_against": 24,
    "goal_diff": -14,
-   "points": 7
+   "points": 7,
+   "flag": null
   }
  ],
  "form": [
   {
-   "team": "Man United",
+   "team": "Manchester City",
+   "last5": "LLLWW"
+  },
+  {
+   "team": "Manchester United",
    "last5": "DLLDD"
+  },
+  {
+   "team": "Nottingham Forest",
+   "last5": "WLDLL"
+  },
+  {
+   "team": "Tottenham Hotspur",
+   "last5": "LWWWD"
+  },
+  {
+   "team": "Newcastle United",
+   "last5": "DLWLL"
+  },
+  {
+   "team": "Brighton & Hove Albion",
+   "last5": "WWLWW"
+  },
+  {
+   "team": "Leeds United",
+   "last5": "WLDDL"
   },
   {
    "team": "Fulham",
@@ -276,18 +320,6 @@
    "last5": "WWLLD"
   },
   {
-   "team": "Brighton",
-   "last5": "WWLWW"
-  },
-  {
-   "team": "Newcastle",
-   "last5": "DLWLL"
-  },
-  {
-   "team": "Nott'm Forest",
-   "last5": "WLDLL"
-  },
-  {
    "team": "Bournemouth",
    "last5": "WWWWL"
   },
@@ -308,20 +340,8 @@
    "last5": "LWLWW"
   },
   {
-   "team": "Man City",
-   "last5": "LLLWW"
-  },
-  {
-   "team": "Tottenham",
-   "last5": "LWWWD"
-  },
-  {
    "team": "Sunderland",
    "last5": "WLDLL"
-  },
-  {
-   "team": "Leeds",
-   "last5": "WLDDL"
   },
   {
    "team": "Coventry",
@@ -336,10 +356,19 @@
   {
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T16:30:00.000Z",
-   "home": "Man United",
+   "home": "Manchester United",
    "away": "Aston Villa",
    "home_goals": 4,
    "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T14:00:00.000Z",
+   "home": "Brighton & Hove Albion",
+   "away": "Brentford",
+   "home_goals": 2,
+   "away_goals": 0,
    "status": "finished"
   },
   {
@@ -349,15 +378,6 @@
    "away": "Bournemouth",
    "home_goals": 1,
    "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T14:00:00.000Z",
-   "home": "Brighton",
-   "away": "Brentford",
-   "home_goals": 2,
-   "away_goals": 0,
    "status": "finished"
   },
   {
@@ -381,8 +401,8 @@
   {
    "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T17:30:00.000Z",
-   "home": "Nott'm Forest",
-   "away": "Man City",
+   "home": "Nottingham Forest",
+   "away": "Manchester City",
    "home_goals": 3,
    "away_goals": 1,
    "status": "finished"
@@ -391,7 +411,7 @@
    "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T15:00:00.000Z",
    "home": "Fulham",
-   "away": "Newcastle",
+   "away": "Newcastle United",
    "home_goals": 1,
    "away_goals": 1,
    "status": "finished"
@@ -408,8 +428,8 @@
   {
    "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T12:30:00.000Z",
-   "home": "Leeds",
-   "away": "Tottenham",
+   "home": "Leeds United",
+   "away": "Tottenham Hotspur",
    "home_goals": 1,
    "away_goals": 0,
    "status": "finished"
@@ -426,7 +446,7 @@
   {
    "date": "2026-11-02",
    "kickoff_utc": "2026-11-02T20:00:00.000Z",
-   "home": "Newcastle",
+   "home": "Newcastle United",
    "away": "Everton",
    "home_goals": 0,
    "away_goals": 1,
@@ -453,7 +473,7 @@
   {
    "date": "2026-10-31",
    "kickoff_utc": "2026-10-31T17:30:00.000Z",
-   "home": "Tottenham",
+   "home": "Tottenham Hotspur",
    "away": "Crystal Palace",
    "home_goals": 2,
    "away_goals": 0,
@@ -462,8 +482,17 @@
   {
    "date": "2026-10-31",
    "kickoff_utc": "2026-10-31T15:00:00.000Z",
+   "home": "Manchester City",
+   "away": "Brighton & Hove Albion",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T15:00:00.000Z",
    "home": "Bournemouth",
-   "away": "Leeds",
+   "away": "Leeds United",
    "home_goals": 2,
    "away_goals": 0,
    "status": "finished"
@@ -472,18 +501,9 @@
    "date": "2026-10-31",
    "kickoff_utc": "2026-10-31T15:00:00.000Z",
    "home": "Brentford",
-   "away": "Nott'm Forest",
+   "away": "Nottingham Forest",
    "home_goals": 2,
    "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Man City",
-   "away": "Brighton",
-   "home_goals": 0,
-   "away_goals": 1,
    "status": "finished"
   },
   {
@@ -508,7 +528,7 @@
    "date": "2026-10-31",
    "kickoff_utc": "2026-10-31T12:30:00.000Z",
    "home": "Chelsea",
-   "away": "Man United",
+   "away": "Manchester United",
    "home_goals": 2,
    "away_goals": 0,
    "status": "finished"
@@ -517,7 +537,7 @@
    "date": "2026-10-25",
    "kickoff_utc": "2026-10-25T16:30:00.000Z",
    "home": "Sunderland",
-   "away": "Leeds",
+   "away": "Leeds United",
    "home_goals": 0,
    "away_goals": 0,
    "status": "finished"
@@ -525,7 +545,7 @@
   {
    "date": "2026-10-25",
    "kickoff_utc": "2026-10-25T14:00:00.000Z",
-   "home": "Man United",
+   "home": "Manchester United",
    "away": "Bournemouth",
    "home_goals": 0,
    "away_goals": 3,
@@ -535,7 +555,7 @@
    "date": "2026-10-25",
    "kickoff_utc": "2026-10-25T14:00:00.000Z",
    "home": "Liverpool",
-   "away": "Brighton",
+   "away": "Brighton & Hove Albion",
    "home_goals": 2,
    "away_goals": 0,
    "status": "finished"
@@ -544,7 +564,7 @@
    "date": "2026-10-25",
    "kickoff_utc": "2026-10-25T14:00:00.000Z",
    "home": "Crystal Palace",
-   "away": "Newcastle",
+   "away": "Newcastle United",
    "home_goals": 0,
    "away_goals": 2,
    "status": "finished"
@@ -562,7 +582,7 @@
    "date": "2026-10-24",
    "kickoff_utc": "2026-10-24T16:30:00.000Z",
    "home": "Chelsea",
-   "away": "Tottenham",
+   "away": "Tottenham Hotspur",
    "home_goals": 0,
    "away_goals": 2,
    "status": "finished"
@@ -589,7 +609,7 @@
    "date": "2026-10-24",
    "kickoff_utc": "2026-10-24T11:30:00.000Z",
    "home": "Aston Villa",
-   "away": "Man City",
+   "away": "Manchester City",
    "home_goals": 2,
    "away_goals": 1,
    "status": "finished"
@@ -598,7 +618,7 @@
    "date": "2026-10-23",
    "kickoff_utc": "2026-10-23T19:00:00.000Z",
    "home": "Ipswich",
-   "away": "Nott'm Forest",
+   "away": "Nottingham Forest",
    "home_goals": 1,
    "away_goals": 1,
    "status": "finished"

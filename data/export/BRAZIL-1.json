@@ -1,17 +1,17 @@
 {
  "competition": {
-  "id": 3,
+  "id": 25,
   "code": "BRAZIL-1",
   "name": "Serie A",
   "country": "Brazil",
   "level": 1
  },
  "season": "2026",
- "updated": "2026-11-19T07:09:13.197Z",
+ "updated": "2026-11-19T09:47:29.030Z",
  "standings": [
   {
    "position": 1,
-   "team": "Flamengo RJ",
+   "team": "Flamengo",
    "played": 34,
    "won": 23,
    "drawn": 7,
@@ -19,7 +19,8 @@
    "goals_for": 71,
    "goals_against": 29,
    "goal_diff": 42,
-   "points": 76
+   "points": 76,
+   "flag": null
   },
   {
    "position": 2,
@@ -31,7 +32,8 @@
    "goals_for": 62,
    "goals_against": 23,
    "goal_diff": 39,
-   "points": 73
+   "points": 73,
+   "flag": null
   },
   {
    "position": 3,
@@ -43,7 +45,8 @@
    "goals_for": 55,
    "goals_against": 48,
    "goal_diff": 7,
-   "points": 60
+   "points": 60,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,7 +58,8 @@
    "goals_for": 55,
    "goals_against": 42,
    "goal_diff": 13,
-   "points": 57
+   "points": 57,
+   "flag": null
   },
   {
    "position": 5,
@@ -67,7 +71,8 @@
    "goals_for": 51,
    "goals_against": 43,
    "goal_diff": 8,
-   "points": 54
+   "points": 54,
+   "flag": null
   },
   {
    "position": 6,
@@ -79,7 +84,8 @@
    "goals_for": 50,
    "goals_against": 45,
    "goal_diff": 5,
-   "points": 53
+   "points": 53,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,7 +97,8 @@
    "goals_for": 44,
    "goals_against": 40,
    "goal_diff": 4,
-   "points": 51
+   "points": 51,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,7 +110,8 @@
    "goals_for": 44,
    "goals_against": 39,
    "goal_diff": 5,
-   "points": 47
+   "points": 47,
+   "flag": null
   },
   {
    "position": 9,
@@ -115,7 +123,8 @@
    "goals_for": 50,
    "goals_against": 49,
    "goal_diff": 1,
-   "points": 47
+   "points": 47,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,11 +136,12 @@
    "goals_for": 39,
    "goals_against": 39,
    "goal_diff": 0,
-   "points": 44
+   "points": 44,
+   "flag": null
   },
   {
    "position": 11,
-   "team": "Vasco",
+   "team": "Vasco da Gama",
    "played": 34,
    "won": 12,
    "drawn": 8,
@@ -139,7 +149,8 @@
    "goals_for": 45,
    "goals_against": 50,
    "goal_diff": -5,
-   "points": 44
+   "points": 44,
+   "flag": null
   },
   {
    "position": 12,
@@ -151,7 +162,8 @@
    "goals_for": 46,
    "goals_against": 53,
    "goal_diff": -7,
-   "points": 42
+   "points": 42,
+   "flag": null
   },
   {
    "position": 13,
@@ -163,7 +175,8 @@
    "goals_for": 40,
    "goals_against": 51,
    "goal_diff": -11,
-   "points": 42
+   "points": 42,
+   "flag": null
   },
   {
    "position": 14,
@@ -175,7 +188,8 @@
    "goals_for": 39,
    "goals_against": 48,
    "goal_diff": -9,
-   "points": 41
+   "points": 41,
+   "flag": null
   },
   {
    "position": 15,
@@ -187,7 +201,8 @@
    "goals_for": 38,
    "goals_against": 42,
    "goal_diff": -4,
-   "points": 38
+   "points": 38,
+   "flag": null
   },
   {
    "position": 16,
@@ -199,7 +214,8 @@
    "goals_for": 35,
    "goals_against": 51,
    "goal_diff": -16,
-   "points": 38
+   "points": 38,
+   "flag": null
   },
   {
    "position": 17,
@@ -211,7 +227,8 @@
    "goals_for": 36,
    "goals_against": 42,
    "goal_diff": -6,
-   "points": 37
+   "points": 37,
+   "flag": null
   },
   {
    "position": 18,
@@ -223,7 +240,8 @@
    "goals_for": 38,
    "goals_against": 47,
    "goal_diff": -9,
-   "points": 37
+   "points": 37,
+   "flag": null
   },
   {
    "position": 19,
@@ -235,7 +253,8 @@
    "goals_for": 37,
    "goals_against": 57,
    "goal_diff": -20,
-   "points": 29
+   "points": 29,
+   "flag": null
   },
   {
    "position": 20,
@@ -247,17 +266,22 @@
    "goals_for": 33,
    "goals_against": 70,
    "goal_diff": -37,
-   "points": 21
+   "points": 21,
+   "flag": null
   }
  ],
  "form": [
   {
-   "team": "Palmeiras",
-   "last5": "WDWWW"
+   "team": "Vasco da Gama",
+   "last5": "WWLWL"
   },
   {
-   "team": "Flamengo RJ",
+   "team": "Flamengo",
    "last5": "WWWWW"
+  },
+  {
+   "team": "Palmeiras",
+   "last5": "WDWWW"
   },
   {
    "team": "Botafogo RJ",
@@ -300,10 +324,6 @@
    "last5": "WWWWL"
   },
   {
-   "team": "Vasco",
-   "last5": "WWLWL"
-  },
-  {
    "team": "Gremio",
    "last5": "LWWLD"
   },
@@ -337,7 +357,7 @@
    "date": "2026-11-14",
    "kickoff_utc": "2026-11-14T23:30:00.000Z",
    "home": "Chapecoense-SC",
-   "away": "Vasco",
+   "away": "Vasco da Gama",
    "home_goals": 0,
    "away_goals": 2,
    "status": "finished"
@@ -399,7 +419,7 @@
   {
    "date": "2026-11-04",
    "kickoff_utc": "2026-11-04T22:30:00.000Z",
-   "home": "Flamengo RJ",
+   "home": "Flamengo",
    "away": "Gremio",
    "home_goals": 3,
    "away_goals": 1,
@@ -409,7 +429,7 @@
    "date": "2026-11-04",
    "kickoff_utc": "2026-11-04T22:30:00.000Z",
    "home": "Athletico-PR",
-   "away": "Vasco",
+   "away": "Vasco da Gama",
    "home_goals": 1,
    "away_goals": 3,
    "status": "finished"
@@ -471,8 +491,8 @@
   {
    "date": "2026-10-29",
    "kickoff_utc": "2026-10-29T23:00:00.000Z",
-   "home": "Vasco",
-   "away": "Flamengo RJ",
+   "home": "Vasco da Gama",
+   "away": "Flamengo",
    "home_goals": 1,
    "away_goals": 4,
    "status": "finished"
@@ -534,7 +554,7 @@
   {
    "date": "2026-10-26",
    "kickoff_utc": "2026-10-26T23:00:00.000Z",
-   "home": "Flamengo RJ",
+   "home": "Flamengo",
    "away": "Atletico-MG",
    "home_goals": 3,
    "away_goals": 2,
@@ -570,19 +590,19 @@
   {
    "date": "2026-10-24",
    "kickoff_utc": "2026-10-24T21:30:00.000Z",
-   "home": "Palmeiras",
-   "away": "Bragantino",
-   "home_goals": 2,
-   "away_goals": 0,
+   "home": "Vasco da Gama",
+   "away": "Corinthians",
+   "home_goals": 3,
+   "away_goals": 2,
    "status": "finished"
   },
   {
    "date": "2026-10-24",
    "kickoff_utc": "2026-10-24T21:30:00.000Z",
-   "home": "Vasco",
-   "away": "Corinthians",
-   "home_goals": 3,
-   "away_goals": 2,
+   "home": "Palmeiras",
+   "away": "Bragantino",
+   "home_goals": 2,
+   "away_goals": 0,
    "status": "finished"
   },
   {

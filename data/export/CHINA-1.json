@@ -1,28 +1,16 @@
 {
  "competition": {
-  "id": 4,
+  "id": 26,
   "code": "CHINA-1",
   "name": "Super League",
   "country": "China",
   "level": 1
  },
  "season": "2026",
- "updated": "2026-11-19T07:09:13.361Z",
+ "updated": "2026-11-19T09:47:29.309Z",
  "standings": [
   {
    "position": 1,
-   "team": "Qingdao FC",
-   "played": 60,
-   "won": 14,
-   "drawn": 19,
-   "lost": 27,
-   "goals_for": 68,
-   "goals_against": 106,
-   "goal_diff": -38,
-   "points": 61
-  },
-  {
-   "position": 2,
    "team": "Beijing Guoan",
    "played": 30,
    "won": 15,
@@ -31,10 +19,11 @@
    "goals_for": 58,
    "goals_against": 36,
    "goal_diff": 22,
-   "points": 55
+   "points": 55,
+   "flag": null
   },
   {
-   "position": 3,
+   "position": 2,
    "team": "Shandong Taishan",
    "played": 30,
    "won": 16,
@@ -43,10 +32,11 @@
    "goals_for": 60,
    "goals_against": 49,
    "goal_diff": 11,
-   "points": 53
+   "points": 53,
+   "flag": null
   },
   {
-   "position": 4,
+   "position": 3,
    "team": "Chengdu Rongcheng",
    "played": 30,
    "won": 15,
@@ -55,10 +45,11 @@
    "goals_for": 53,
    "goals_against": 38,
    "goal_diff": 15,
-   "points": 52
+   "points": 52,
+   "flag": null
   },
   {
-   "position": 5,
+   "position": 4,
    "team": "Dalian Yingbo",
    "played": 30,
    "won": 16,
@@ -67,10 +58,11 @@
    "goals_for": 49,
    "goals_against": 44,
    "goal_diff": 5,
-   "points": 52
+   "points": 52,
+   "flag": null
   },
   {
-   "position": 6,
+   "position": 5,
    "team": "Shanghai Port",
    "played": 30,
    "won": 14,
@@ -79,10 +71,11 @@
    "goals_for": 56,
    "goals_against": 37,
    "goal_diff": 19,
-   "points": 50
+   "points": 50,
+   "flag": null
   },
   {
-   "position": 7,
+   "position": 6,
    "team": "Shanghai Shenhua",
    "played": 30,
    "won": 15,
@@ -91,10 +84,11 @@
    "goals_for": 67,
    "goals_against": 50,
    "goal_diff": 17,
-   "points": 50
+   "points": 50,
+   "flag": null
   },
   {
-   "position": 8,
+   "position": 7,
    "team": "Yunnan Yukun",
    "played": 30,
    "won": 12,
@@ -103,10 +97,11 @@
    "goals_for": 59,
    "goals_against": 61,
    "goal_diff": -2,
-   "points": 43
+   "points": 43,
+   "flag": null
   },
   {
-   "position": 9,
+   "position": 8,
    "team": "Zhejiang Professional",
    "played": 30,
    "won": 12,
@@ -115,10 +110,11 @@
    "goals_for": 55,
    "goals_against": 54,
    "goal_diff": 1,
-   "points": 42
+   "points": 42,
+   "flag": null
   },
   {
-   "position": 10,
+   "position": 9,
    "team": "Tianjin Jinmen Tiger",
    "played": 30,
    "won": 11,
@@ -127,7 +123,21 @@
    "goals_for": 40,
    "goals_against": 38,
    "goal_diff": 2,
-   "points": 41
+   "points": 41,
+   "flag": null
+  },
+  {
+   "position": 10,
+   "team": "Qingdao West Coast",
+   "played": 30,
+   "won": 8,
+   "drawn": 15,
+   "lost": 7,
+   "goals_for": 32,
+   "goals_against": 42,
+   "goal_diff": -10,
+   "points": 39,
+   "flag": null
   },
   {
    "position": 11,
@@ -139,7 +149,8 @@
    "goals_for": 31,
    "goals_against": 35,
    "goal_diff": -4,
-   "points": 36
+   "points": 36,
+   "flag": null
   },
   {
    "position": 12,
@@ -151,11 +162,12 @@
    "goals_for": 38,
    "goals_against": 46,
    "goal_diff": -8,
-   "points": 34
+   "points": 34,
+   "flag": null
   },
   {
    "position": 13,
-   "team": "Shenzhen",
+   "team": "Shenzhen Xinpengcheng",
    "played": 30,
    "won": 9,
    "drawn": 6,
@@ -163,11 +175,12 @@
    "goals_for": 41,
    "goals_against": 53,
    "goal_diff": -12,
-   "points": 33
+   "points": 33,
+   "flag": null
   },
   {
    "position": 14,
-   "team": "Liaoning",
+   "team": "Liaoning Tieren",
    "played": 30,
    "won": 8,
    "drawn": 5,
@@ -175,11 +188,12 @@
    "goals_for": 42,
    "goals_against": 58,
    "goal_diff": -16,
-   "points": 29
+   "points": 29,
+   "flag": null
   },
   {
    "position": 15,
-   "team": "Wuhan FC",
+   "team": "Wuhan Three Towns",
    "played": 30,
    "won": 5,
    "drawn": 12,
@@ -187,7 +201,21 @@
    "goals_for": 45,
    "goals_against": 57,
    "goal_diff": -12,
-   "points": 27
+   "points": 27,
+   "flag": null
+  },
+  {
+   "position": 16,
+   "team": "Qingdao Hainiu",
+   "played": 30,
+   "won": 6,
+   "drawn": 4,
+   "lost": 20,
+   "goals_for": 36,
+   "goals_against": 64,
+   "goal_diff": -28,
+   "points": 22,
+   "flag": null
   }
  ],
  "form": [
@@ -200,28 +228,12 @@
    "last5": "WWWWD"
   },
   {
-   "team": "Liaoning",
-   "last5": "LLWDL"
-  },
-  {
    "team": "Shanghai Shenhua",
    "last5": "WLWWW"
   },
   {
    "team": "Tianjin Jinmen Tiger",
    "last5": "LLWWW"
-  },
-  {
-   "team": "Wuhan FC",
-   "last5": "LLLDL"
-  },
-  {
-   "team": "Shenzhen",
-   "last5": "DWLDD"
-  },
-  {
-   "team": "Qingdao FC",
-   "last5": "DLDLL"
   },
   {
    "team": "Shandong Taishan",
@@ -240,12 +252,32 @@
    "last5": "WWLLW"
   },
   {
+   "team": "Wuhan Three Towns",
+   "last5": "LLLDL"
+  },
+  {
+   "team": "Qingdao Hainiu",
+   "last5": "DLLLL"
+  },
+  {
+   "team": "Qingdao West Coast",
+   "last5": "LDLLD"
+  },
+  {
+   "team": "Shenzhen Xinpengcheng",
+   "last5": "DWLDD"
+  },
+  {
    "team": "Yunnan Yukun",
    "last5": "WDDLW"
   },
   {
    "team": "Dalian Yingbo",
    "last5": "WWWWW"
+  },
+  {
+   "team": "Liaoning Tieren",
+   "last5": "LLWDL"
   },
   {
    "team": "Chongqing Tonglianglong",
@@ -266,18 +298,9 @@
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T07:30:00.000Z",
    "home": "Shanghai Shenhua",
-   "away": "Qingdao FC",
+   "away": "Qingdao West Coast",
    "home_goals": 4,
    "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T07:30:00.000Z",
-   "home": "Qingdao FC",
-   "away": "Shenzhen",
-   "home_goals": 2,
-   "away_goals": 2,
    "status": "finished"
   },
   {
@@ -293,7 +316,7 @@
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T07:30:00.000Z",
    "home": "Shanghai Port",
-   "away": "Liaoning",
+   "away": "Liaoning Tieren",
    "home_goals": 6,
    "away_goals": 1,
    "status": "finished"
@@ -310,8 +333,17 @@
   {
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T07:30:00.000Z",
+   "home": "Qingdao Hainiu",
+   "away": "Shenzhen Xinpengcheng",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-08",
+   "kickoff_utc": "2026-11-08T07:30:00.000Z",
    "home": "Yunnan Yukun",
-   "away": "Wuhan FC",
+   "away": "Wuhan Three Towns",
    "home_goals": 2,
    "away_goals": 1,
    "status": "finished"
@@ -337,46 +369,10 @@
   {
    "date": "2026-10-24",
    "kickoff_utc": "2026-10-24T07:30:00.000Z",
-   "home": "Liaoning",
-   "away": "Zhejiang Professional",
-   "home_goals": 2,
-   "away_goals": 4,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T07:30:00.000Z",
    "home": "Tianjin Jinmen Tiger",
    "away": "Shanghai Port",
    "home_goals": 1,
    "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T07:30:00.000Z",
-   "home": "Wuhan FC",
-   "away": "Shandong Taishan",
-   "home_goals": 3,
-   "away_goals": 5,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T07:30:00.000Z",
-   "home": "Shenzhen",
-   "away": "Shanghai Shenhua",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T07:30:00.000Z",
-   "home": "Qingdao FC",
-   "away": "Yunnan Yukun",
-   "home_goals": 1,
-   "away_goals": 1,
    "status": "finished"
   },
   {
@@ -391,8 +387,44 @@
   {
    "date": "2026-10-24",
    "kickoff_utc": "2026-10-24T07:30:00.000Z",
+   "home": "Wuhan Three Towns",
+   "away": "Shandong Taishan",
+   "home_goals": 3,
+   "away_goals": 5,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T07:30:00.000Z",
+   "home": "Qingdao West Coast",
+   "away": "Yunnan Yukun",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T07:30:00.000Z",
+   "home": "Shenzhen Xinpengcheng",
+   "away": "Shanghai Shenhua",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T07:30:00.000Z",
+   "home": "Liaoning Tieren",
+   "away": "Zhejiang Professional",
+   "home_goals": 2,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T07:30:00.000Z",
    "home": "Chongqing Tonglianglong",
-   "away": "Qingdao FC",
+   "away": "Qingdao Hainiu",
    "home_goals": 2,
    "away_goals": 0,
    "status": "finished"
@@ -410,7 +442,7 @@
    "date": "2026-10-18",
    "kickoff_utc": "2026-10-18T11:00:00.000Z",
    "home": "Beijing Guoan",
-   "away": "Qingdao FC",
+   "away": "Qingdao West Coast",
    "home_goals": 1,
    "away_goals": 0,
    "status": "finished"
@@ -418,7 +450,7 @@
   {
    "date": "2026-10-18",
    "kickoff_utc": "2026-10-18T10:00:00.000Z",
-   "home": "Wuhan FC",
+   "home": "Wuhan Three Towns",
    "away": "Shanghai Shenhua",
    "home_goals": 1,
    "away_goals": 3,
@@ -436,8 +468,8 @@
   {
    "date": "2026-10-17",
    "kickoff_utc": "2026-10-17T11:35:00.000Z",
-   "home": "Qingdao FC",
-   "away": "Liaoning",
+   "home": "Qingdao Hainiu",
+   "away": "Liaoning Tieren",
    "home_goals": 0,
    "away_goals": 4,
    "status": "finished"
@@ -455,7 +487,7 @@
    "date": "2026-10-17",
    "kickoff_utc": "2026-10-17T11:00:00.000Z",
    "home": "Dalian Yingbo",
-   "away": "Shenzhen",
+   "away": "Shenzhen Xinpengcheng",
    "home_goals": 3,
    "away_goals": 1,
    "status": "finished"
@@ -472,8 +504,8 @@
   {
    "date": "2026-10-11",
    "kickoff_utc": "2026-10-11T11:35:00.000Z",
-   "home": "Liaoning",
-   "away": "Wuhan FC",
+   "home": "Liaoning Tieren",
+   "away": "Wuhan Three Towns",
    "home_goals": 1,
    "away_goals": 1,
    "status": "finished"
@@ -490,7 +522,7 @@
   {
    "date": "2026-10-11",
    "kickoff_utc": "2026-10-11T10:00:00.000Z",
-   "home": "Qingdao FC",
+   "home": "Qingdao West Coast",
    "away": "Dalian Yingbo",
    "home_goals": 0,
    "away_goals": 4,

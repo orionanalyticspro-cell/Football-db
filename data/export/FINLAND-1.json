@@ -1,13 +1,13 @@
 {
  "competition": {
-  "id": 6,
+  "id": 28,
   "code": "FINLAND-1",
   "name": "Veikkausliiga",
   "country": "Finland",
   "level": 1
  },
  "season": "2026",
- "updated": "2026-11-19T07:09:14.572Z",
+ "updated": "2026-11-19T09:47:31.236Z",
  "standings": [
   {
    "position": 1,
@@ -19,7 +19,8 @@
    "goals_for": 43,
    "goals_against": 27,
    "goal_diff": 16,
-   "points": 61
+   "points": 61,
+   "flag": null
   },
   {
    "position": 2,
@@ -31,7 +32,8 @@
    "goals_for": 66,
    "goals_against": 39,
    "goal_diff": 27,
-   "points": 59
+   "points": 59,
+   "flag": null
   },
   {
    "position": 3,
@@ -43,7 +45,8 @@
    "goals_for": 46,
    "goals_against": 33,
    "goal_diff": 13,
-   "points": 53
+   "points": 53,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,7 +58,8 @@
    "goals_for": 41,
    "goals_against": 40,
    "goal_diff": 1,
-   "points": 48
+   "points": 48,
+   "flag": null
   },
   {
    "position": 5,
@@ -67,7 +71,8 @@
    "goals_for": 52,
    "goals_against": 47,
    "goal_diff": 5,
-   "points": 46
+   "points": 46,
+   "flag": null
   },
   {
    "position": 6,
@@ -79,7 +84,8 @@
    "goals_for": 32,
    "goals_against": 43,
    "goal_diff": -11,
-   "points": 40
+   "points": 40,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,7 +97,8 @@
    "goals_for": 35,
    "goals_against": 26,
    "goal_diff": 9,
-   "points": 39
+   "points": 39,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,7 +110,8 @@
    "goals_for": 45,
    "goals_against": 39,
    "goal_diff": 6,
-   "points": 38
+   "points": 38,
+   "flag": null
   },
   {
    "position": 9,
@@ -115,7 +123,8 @@
    "goals_for": 29,
    "goals_against": 33,
    "goal_diff": -4,
-   "points": 32
+   "points": 32,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,7 +136,8 @@
    "goals_for": 29,
    "goals_against": 37,
    "goal_diff": -8,
-   "points": 27
+   "points": 27,
+   "flag": null
   },
   {
    "position": 11,
@@ -139,7 +149,8 @@
    "goals_for": 24,
    "goals_against": 50,
    "goal_diff": -26,
-   "points": 25
+   "points": 25,
+   "flag": null
   },
   {
    "position": 12,
@@ -151,11 +162,12 @@
    "goals_for": 22,
    "goals_against": 49,
    "goal_diff": -27,
-   "points": 19
+   "points": 19,
+   "flag": null
   },
   {
    "position": 13,
-   "team": "PK-35 Vantaa",
+   "team": "PK-35",
    "played": 2,
    "won": 0,
    "drawn": 1,
@@ -163,7 +175,8 @@
    "goals_for": 1,
    "goals_against": 2,
    "goal_diff": -1,
-   "points": 1
+   "points": 1,
+   "flag": "fragment"
   }
  ],
  "form": [
@@ -208,16 +221,16 @@
    "last5": "WDWWW"
   },
   {
-   "team": "PK-35 Vantaa",
-   "last5": "LD"
-  },
-  {
    "team": "AC Oulu",
    "last5": "DWDWW"
   },
   {
    "team": "Gnistan",
    "last5": "WLDLL"
+  },
+  {
+   "team": "PK-35",
+   "last5": "LD"
   }
  ],
  "recent": [
@@ -315,7 +328,7 @@
    "date": "2026-10-25",
    "kickoff_utc": "2026-10-25T12:00:00.000Z",
    "home": "Jaro",
-   "away": "PK-35 Vantaa",
+   "away": "PK-35",
    "home_goals": 1,
    "away_goals": 0,
    "status": "finished"
@@ -341,7 +354,7 @@
   {
    "date": "2026-10-21",
    "kickoff_utc": "2026-10-21T15:30:00.000Z",
-   "home": "PK-35 Vantaa",
+   "home": "PK-35",
    "away": "Jaro",
    "home_goals": 1,
    "away_goals": 1,

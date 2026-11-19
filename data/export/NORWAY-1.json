@@ -1,13 +1,13 @@
 {
  "competition": {
-  "id": 10,
+  "id": 32,
   "code": "NORWAY-1",
   "name": "Eliteserien",
   "country": "Norway",
   "level": 1
  },
  "season": "2026",
- "updated": "2026-11-19T07:09:16.515Z",
+ "updated": "2026-11-19T09:47:34.720Z",
  "standings": [
   {
    "position": 1,
@@ -19,7 +19,8 @@
    "goals_for": 69,
    "goals_against": 27,
    "goal_diff": 42,
-   "points": 62
+   "points": 62,
+   "flag": null
   },
   {
    "position": 2,
@@ -31,7 +32,8 @@
    "goals_for": 63,
    "goals_against": 23,
    "goal_diff": 40,
-   "points": 62
+   "points": 62,
+   "flag": null
   },
   {
    "position": 3,
@@ -43,7 +45,8 @@
    "goals_for": 53,
    "goals_against": 32,
    "goal_diff": 21,
-   "points": 46
+   "points": 46,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,7 +58,8 @@
    "goals_for": 39,
    "goals_against": 35,
    "goal_diff": 4,
-   "points": 45
+   "points": 45,
+   "flag": null
   },
   {
    "position": 5,
@@ -67,7 +71,8 @@
    "goals_for": 64,
    "goals_against": 44,
    "goal_diff": 20,
-   "points": 44
+   "points": 44,
+   "flag": null
   },
   {
    "position": 6,
@@ -79,7 +84,8 @@
    "goals_for": 43,
    "goals_against": 40,
    "goal_diff": 3,
-   "points": 40
+   "points": 40,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,7 +97,8 @@
    "goals_for": 47,
    "goals_against": 44,
    "goal_diff": 3,
-   "points": 33
+   "points": 33,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,7 +110,8 @@
    "goals_for": 43,
    "goals_against": 47,
    "goal_diff": -4,
-   "points": 32
+   "points": 32,
+   "flag": null
   },
   {
    "position": 9,
@@ -115,7 +123,8 @@
    "goals_for": 32,
    "goals_against": 42,
    "goal_diff": -10,
-   "points": 31
+   "points": 31,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,7 +136,8 @@
    "goals_for": 33,
    "goals_against": 46,
    "goal_diff": -13,
-   "points": 31
+   "points": 31,
+   "flag": null
   },
   {
    "position": 11,
@@ -139,7 +149,8 @@
    "goals_for": 38,
    "goals_against": 53,
    "goal_diff": -15,
-   "points": 30
+   "points": 30,
+   "flag": null
   },
   {
    "position": 12,
@@ -151,7 +162,8 @@
    "goals_for": 31,
    "goals_against": 46,
    "goal_diff": -15,
-   "points": 30
+   "points": 30,
+   "flag": null
   },
   {
    "position": 13,
@@ -163,7 +175,8 @@
    "goals_for": 31,
    "goals_against": 39,
    "goal_diff": -8,
-   "points": 28
+   "points": 28,
+   "flag": null
   },
   {
    "position": 14,
@@ -175,7 +188,8 @@
    "goals_for": 30,
    "goals_against": 51,
    "goal_diff": -21,
-   "points": 26
+   "points": 26,
+   "flag": null
   },
   {
    "position": 15,
@@ -187,7 +201,8 @@
    "goals_for": 45,
    "goals_against": 60,
    "goal_diff": -15,
-   "points": 24
+   "points": 24,
+   "flag": null
   },
   {
    "position": 16,
@@ -199,7 +214,8 @@
    "goals_for": 27,
    "goals_against": 59,
    "goal_diff": -32,
-   "points": 19
+   "points": 19,
+   "flag": null
   }
  ],
  "form": [

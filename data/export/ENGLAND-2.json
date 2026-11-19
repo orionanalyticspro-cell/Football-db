@@ -1,13 +1,13 @@
 {
  "competition": {
-  "id": 18,
+  "id": 2,
   "code": "ENGLAND-2",
   "name": "Championship",
   "country": "England",
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-19T07:09:13.884Z",
+ "updated": "2026-11-19T09:47:30.125Z",
  "standings": [
   {
    "position": 1,
@@ -19,7 +19,8 @@
    "goals_for": 28,
    "goals_against": 14,
    "goal_diff": 14,
-   "points": 29
+   "points": 29,
+   "flag": null
   },
   {
    "position": 2,
@@ -31,7 +32,8 @@
    "goals_for": 30,
    "goals_against": 19,
    "goal_diff": 11,
-   "points": 29
+   "points": 29,
+   "flag": null
   },
   {
    "position": 3,
@@ -43,7 +45,8 @@
    "goals_for": 24,
    "goals_against": 18,
    "goal_diff": 6,
-   "points": 29
+   "points": 29,
+   "flag": null
   },
   {
    "position": 4,
@@ -55,11 +58,12 @@
    "goals_for": 29,
    "goals_against": 15,
    "goal_diff": 14,
-   "points": 28
+   "points": 28,
+   "flag": null
   },
   {
    "position": 5,
-   "team": "Wolves",
+   "team": "Wolverhampton Wanderers",
    "played": 15,
    "won": 8,
    "drawn": 4,
@@ -67,11 +71,12 @@
    "goals_for": 26,
    "goals_against": 18,
    "goal_diff": 8,
-   "points": 28
+   "points": 28,
+   "flag": null
   },
   {
    "position": 6,
-   "team": "West Brom",
+   "team": "West Bromwich Albion",
    "played": 15,
    "won": 8,
    "drawn": 4,
@@ -79,7 +84,8 @@
    "goals_for": 23,
    "goals_against": 15,
    "goal_diff": 8,
-   "points": 28
+   "points": 28,
+   "flag": null
   },
   {
    "position": 7,
@@ -91,7 +97,8 @@
    "goals_for": 22,
    "goals_against": 18,
    "goal_diff": 4,
-   "points": 26
+   "points": 26,
+   "flag": null
   },
   {
    "position": 8,
@@ -103,11 +110,12 @@
    "goals_for": 24,
    "goals_against": 18,
    "goal_diff": 6,
-   "points": 24
+   "points": 24,
+   "flag": null
   },
   {
    "position": 9,
-   "team": "West Ham",
+   "team": "West Ham United",
    "played": 15,
    "won": 6,
    "drawn": 5,
@@ -115,7 +123,8 @@
    "goals_for": 37,
    "goals_against": 23,
    "goal_diff": 14,
-   "points": 23
+   "points": 23,
+   "flag": null
   },
   {
    "position": 10,
@@ -127,7 +136,8 @@
    "goals_for": 21,
    "goals_against": 19,
    "goal_diff": 2,
-   "points": 22
+   "points": 22,
+   "flag": null
   },
   {
    "position": 11,
@@ -139,7 +149,8 @@
    "goals_for": 20,
    "goals_against": 18,
    "goal_diff": 2,
-   "points": 22
+   "points": 22,
+   "flag": null
   },
   {
    "position": 12,
@@ -151,7 +162,8 @@
    "goals_for": 32,
    "goals_against": 24,
    "goal_diff": 8,
-   "points": 21
+   "points": 21,
+   "flag": null
   },
   {
    "position": 13,
@@ -163,7 +175,8 @@
    "goals_for": 22,
    "goals_against": 23,
    "goal_diff": -1,
-   "points": 21
+   "points": 21,
+   "flag": null
   },
   {
    "position": 14,
@@ -175,7 +188,8 @@
    "goals_for": 27,
    "goals_against": 27,
    "goal_diff": 0,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 15,
@@ -187,7 +201,8 @@
    "goals_for": 18,
    "goals_against": 20,
    "goal_diff": -2,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 16,
@@ -199,7 +214,8 @@
    "goals_for": 23,
    "goals_against": 27,
    "goal_diff": -4,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 17,
@@ -211,7 +227,8 @@
    "goals_for": 16,
    "goals_against": 24,
    "goal_diff": -8,
-   "points": 18
+   "points": 18,
+   "flag": null
   },
   {
    "position": 18,
@@ -223,7 +240,8 @@
    "goals_for": 20,
    "goals_against": 29,
    "goal_diff": -9,
-   "points": 17
+   "points": 17,
+   "flag": null
   },
   {
    "position": 19,
@@ -235,7 +253,8 @@
    "goals_for": 13,
    "goals_against": 23,
    "goal_diff": -10,
-   "points": 17
+   "points": 17,
+   "flag": null
   },
   {
    "position": 20,
@@ -247,7 +266,8 @@
    "goals_for": 13,
    "goals_against": 23,
    "goal_diff": -10,
-   "points": 15
+   "points": 15,
+   "flag": null
   },
   {
    "position": 21,
@@ -259,7 +279,8 @@
    "goals_for": 15,
    "goals_against": 26,
    "goal_diff": -11,
-   "points": 15
+   "points": 15,
+   "flag": null
   },
   {
    "position": 22,
@@ -271,7 +292,8 @@
    "goals_for": 22,
    "goals_against": 31,
    "goal_diff": -9,
-   "points": 10
+   "points": 10,
+   "flag": null
   },
   {
    "position": 23,
@@ -283,7 +305,8 @@
    "goals_for": 14,
    "goals_against": 30,
    "goal_diff": -16,
-   "points": 10
+   "points": 10,
+   "flag": null
   },
   {
    "position": 24,
@@ -295,21 +318,30 @@
    "goals_for": 13,
    "goals_against": 30,
    "goal_diff": -17,
-   "points": 8
+   "points": 8,
+   "flag": null
   }
  ],
  "form": [
   {
-   "team": "Wolves",
+   "team": "Wolverhampton Wanderers",
    "last5": "DWWWD"
+  },
+  {
+   "team": "West Ham United",
+   "last5": "LDLLW"
+  },
+  {
+   "team": "West Bromwich Albion",
+   "last5": "WDWDW"
+  },
+  {
+   "team": "Sheffield United",
+   "last5": "LWWDW"
   },
   {
    "team": "Southampton",
    "last5": "LDWWD"
-  },
-  {
-   "team": "West Ham",
-   "last5": "LDLLW"
   },
   {
    "team": "Burnley",
@@ -326,10 +358,6 @@
   {
    "team": "Preston",
    "last5": "WLLDL"
-  },
-  {
-   "team": "Sheffield United",
-   "last5": "LWWDW"
   },
   {
    "team": "Cardiff",
@@ -368,10 +396,6 @@
    "last5": "WDLWL"
   },
   {
-   "team": "West Brom",
-   "last5": "WDWDW"
-  },
-  {
    "team": "Stoke",
    "last5": "WWWDW"
   },
@@ -400,8 +424,17 @@
   {
    "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T15:00:00.000Z",
+   "home": "West Bromwich Albion",
+   "away": "Millwall",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T15:00:00.000Z",
    "home": "Blackburn",
-   "away": "West Ham",
+   "away": "West Ham United",
    "home_goals": 2,
    "away_goals": 1,
    "status": "finished"
@@ -445,15 +478,6 @@
   {
    "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T15:00:00.000Z",
-   "home": "West Brom",
-   "away": "Millwall",
-   "home_goals": 3,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T15:00:00.000Z",
    "home": "Birmingham",
    "away": "Swansea",
    "home_goals": 2,
@@ -491,7 +515,7 @@
    "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T12:30:00.000Z",
    "home": "Wrexham",
-   "away": "Wolves",
+   "away": "Wolverhampton Wanderers",
    "home_goals": 1,
    "away_goals": 1,
    "status": "finished"
@@ -509,7 +533,7 @@
    "date": "2026-11-04",
    "kickoff_utc": "2026-11-04T20:00:00.000Z",
    "home": "Bristol City",
-   "away": "Wolves",
+   "away": "Wolverhampton Wanderers",
    "home_goals": 1,
    "away_goals": 2,
    "status": "finished"
@@ -518,7 +542,7 @@
    "date": "2026-11-04",
    "kickoff_utc": "2026-11-04T19:45:00.000Z",
    "home": "Cardiff",
-   "away": "West Ham",
+   "away": "West Ham United",
    "home_goals": 3,
    "away_goals": 3,
    "status": "finished"
@@ -535,7 +559,7 @@
   {
    "date": "2026-11-03",
    "kickoff_utc": "2026-11-03T20:00:00.000Z",
-   "home": "West Brom",
+   "home": "West Bromwich Albion",
    "away": "Southampton",
    "home_goals": 1,
    "away_goals": 1,
@@ -616,10 +640,19 @@
   {
    "date": "2026-10-31",
    "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Wolves",
+   "home": "Wolverhampton Wanderers",
    "away": "Cardiff",
    "home_goals": 3,
    "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T15:00:00.000Z",
+   "home": "West Ham United",
+   "away": "West Bromwich Albion",
+   "home_goals": 1,
+   "away_goals": 3,
    "status": "finished"
   },
   {
@@ -629,15 +662,6 @@
    "away": "QPR",
    "home_goals": 4,
    "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "West Ham",
-   "away": "West Brom",
-   "home_goals": 1,
-   "away_goals": 3,
    "status": "finished"
   },
   {
