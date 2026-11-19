@@ -3,6 +3,7 @@
 //   out/<CODE>.json           -> classement + forme + derniers résultats + prochains matchs
 import { mkdirSync, writeFileSync } from "node:fs";
 import { openDb } from "./db.js";
+import { flagTeams } from "./quality.js";
 
 const OUT = process.env.EXPORT_DIR ?? "data/export";
 const db = openDb();
@@ -18,10 +19,13 @@ for (const c of comps) {
   ).get(c.id) as { season: string } | undefined)?.season;
   if (!season) continue;
 
-  const standings = db.prepare(
+  const rawStandings = db.prepare(
     `SELECT position, team, played, won, drawn, lost, goals_for, goals_against, goal_diff, points
      FROM v_standings WHERE competition_id = ? AND season = ? ORDER BY position, team`
-  ).all(c.id, season);
+  ).all(c.id, season) as { team: string; played: number }[];
+  // "flag" signale (sans supprimer) les lignes suspectes : doublon fusionné ou barrage isolé.
+  const flags = flagTeams(rawStandings);
+  const standings = rawStandings.map((r) => ({ ...r, flag: flags.get(r.team) ?? null }));
 
   const form = db.prepare(
     `SELECT t.name AS team, f.last5 FROM v_form f JOIN teams t ON t.id = f.team_id

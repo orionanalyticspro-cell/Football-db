@@ -53,78 +53,116 @@ export function ensureCompetition(db: Db, c: CompetitionInput): number {
   return row.id;
 }
 
-const NOT_SAME_TEAM = new Set([
-  "b", "c", "ii", "iii", "2", "3", "u17", "u18", "u19", "u20", "u21", "u23",
-  "reserves", "reserve", "res", "youth", "juniors", "w", "women", "ladies", "fem", "femenino",
-]);
-
-function fuzzyTeam(db: Db, norm: string, country: string): number | null {
-  const a = norm.split(" ");
-  const rows = db.prepare(`SELECT alias_norm, team_id FROM team_aliases WHERE country = ?`)
-    .all(country) as { alias_norm: string; team_id: number }[];
-  const hits = new Set<number>();
-  for (const r of rows) {
-    const b = r.alias_norm.split(" ");
-    const [short, long] = a.length <= b.length ? [a, b] : [b, a];
-    if (!short.every((t) => long.includes(t))) continue;
-    const shortStr = short.join(" ");
-    if (short.length < 2 && shortStr.length < 5) continue;       // trop court pour être sûr
-    const extra = long.filter((t) => !short.includes(t));
-    if (extra.some((t) => NOT_SAME_TEAM.has(t))) continue;       // équipe B, jeunes, féminines...
-    hits.add(r.team_id);
-  }
-  return hits.size === 1 ? [...hits][0] : null;
+/** Nom exact (après normalisation) ou alias connu. Jamais de rapprochement « approximatif » :
+ *  « Paris FC » → « paris » ⊂ « paris sg » avait fusionné deux clubs différents. */
+export function lookupTeam(db: Db, rawName: string, country: string): number | null {
+  const row = db.prepare(`SELECT team_id FROM team_aliases WHERE alias_norm = ? AND country = ?`)
+    .get(normalizeName(rawName), country) as { team_id: number } | undefined;
+  return row ? row.team_id : null;
 }
 
-export function resolveTeam(db: Db, rawName: string, country: string, source: string): number {
-  const norm = normalizeName(rawName);
-  const found = db.prepare(`SELECT team_id FROM team_aliases WHERE alias_norm = ? AND country = ?`)
-    .get(norm, country) as { team_id: number } | undefined;
-  if (found) return found.team_id;
+function addAlias(db: Db, rawName: string, country: string, teamId: number, source: string) {
+  db.prepare(`INSERT OR IGNORE INTO team_aliases (alias_norm, country, team_id, source) VALUES (?, ?, ?, ?)`)
+    .run(normalizeName(rawName), country, teamId, source);
+}
 
-  // Rapprochement approximatif : « young boys » ⊂ « bsc young boys ».
-  // Refusé s'il y a plusieurs candidats ou si la différence est une équipe B/réserve/jeunes/féminine.
-  const fuzzy = fuzzyTeam(db, norm, country);
-  if (fuzzy) {
-    db.prepare(`INSERT OR IGNORE INTO team_aliases (alias_norm, country, team_id, source) VALUES (?, ?, ?, ?)`)
-      .run(norm, country, fuzzy, `${source}:fuzzy`); // auditable : SELECT * FROM team_aliases WHERE source LIKE '%fuzzy'
-    return fuzzy;
-  }
+export function createTeam(db: Db, rawName: string, country: string, source: string): number {
   db.prepare(`INSERT OR IGNORE INTO teams (name, country) VALUES (?, ?)`).run(rawName.trim(), country);
   const team = db.prepare(`SELECT id FROM teams WHERE name = ? AND country = ?`)
     .get(rawName.trim(), country) as { id: number };
-  db.prepare(`INSERT OR IGNORE INTO team_aliases (alias_norm, country, team_id, source) VALUES (?, ?, ?, ?)`)
-    .run(norm, country, team.id, source);
+  addAlias(db, rawName, country, team.id, source);
   return team.id;
 }
 
-// Charge config/aliases.json : [{ country, team, aliases: [...] }]
-export function loadAliases(db: Db, file = "config/aliases.json"): number {
-  if (!existsSync(file)) return 0;
-  const list = JSON.parse(readFileSync(file, "utf8")) as { country: string; team: string; aliases: string[] }[];
+export function resolveTeam(db: Db, rawName: string, country: string, source: string): number {
+  return lookupTeam(db, rawName, country) ?? createTeam(db, rawName, country, source);
+}
+
+/**
+ * Rapprochement par le MATCH, pas par le nom : une équipe inconnue est reliée à une équipe existante
+ * seulement si le même match est déjà en base (même compétition, même créneau, même score) et sans ambiguïté.
+ *  - un côté déjà connu : l'adversaire du match existant (±1 jour) donne l'autre côté ;
+ *  - aucun côté connu : même score ET coup d'envoi à ±2 h ET un seul candidat.
+ * En cas de doute on ne relie pas (on crée une équipe) : mieux vaut un doublon repérable qu'une fusion silencieuse.
+ */
+export function linkByMatch(
+  db: Db, compId: number, kickoffIso: string,
+  homeId: number | null, awayId: number | null, hg: number | null, ag: number | null, source = "",
+): { homeId: number | null; awayId: number | null } {
+  // Une équipe que CETTE source a déjà nommée ne peut pas être la cible d'un rapprochement :
+  // si la source avait ce match, elle l'aurait déjà associé à ce nom (évite de fusionner 2 matchs de la même source).
+  const base = source.split(":")[0];
+  const knownBySource = (teamId: number) =>
+    base !== "" && !!db.prepare(`SELECT 1 FROM team_aliases WHERE team_id = ? AND (source = ? OR source LIKE ?) LIMIT 1`)
+      .get(teamId, base, `${base}:%`);
+  const rows = db.prepare(
+    `SELECT home_id, away_id, home_goals, away_goals, kickoff_utc FROM matches
+     WHERE competition_id = ? AND julianday(kickoff_utc) BETWEEN julianday(?) - 1 AND julianday(?) + 1`
+  ).all(compId, kickoffIso, kickoffIso) as
+    { home_id: number; away_id: number; home_goals: number | null; away_goals: number | null; kickoff_utc: string }[];
+
+  const hasScore = hg !== null && ag !== null;
+  const scoreOk = (r: typeof rows[number]) =>
+    !hasScore || r.home_goals === null || r.away_goals === null || (r.home_goals === hg && r.away_goals === ag);
+
+  if (homeId !== null && awayId === null) {
+    const c = rows.filter((r) => r.home_id === homeId && scoreOk(r) && !knownBySource(r.away_id));
+    return { homeId, awayId: c.length === 1 && c[0].away_id !== homeId ? c[0].away_id : null };
+  }
+  if (awayId !== null && homeId === null) {
+    const c = rows.filter((r) => r.away_id === awayId && scoreOk(r) && !knownBySource(r.home_id));
+    return { homeId: c.length === 1 && c[0].home_id !== awayId ? c[0].home_id : null, awayId };
+  }
+  if (homeId === null && awayId === null && hasScore) {
+    const t = Date.parse(kickoffIso);
+    const c = rows.filter((r) =>
+      r.home_goals === hg && r.away_goals === ag && Math.abs(Date.parse(r.kickoff_utc) - t) <= 2 * 3600e3
+      && !knownBySource(r.home_id) && !knownBySource(r.away_id));
+    if (c.length === 1) return { homeId: c[0].home_id, awayId: c[0].away_id };
+  }
+  return { homeId: null, awayId: null };
+}
+
+// Charge les alias : config/aliases.seed.json (fourni) puis config/aliases.json (les vôtres, prioritaires).
+// Format : [{ country, team, aliases: [...] }]
+export function loadAliases(db: Db, files: string[] = ["config/aliases.seed.json", "config/aliases.json"]): number {
   let n = 0;
-  const tx = db.transaction(() => {
-    for (const e of list) {
-      db.prepare(`INSERT OR IGNORE INTO teams (name, country) VALUES (?, ?)`).run(e.team, e.country);
-      const t = db.prepare(`SELECT id FROM teams WHERE name = ? AND country = ?`).get(e.team, e.country) as { id: number };
-      for (const a of [e.team, ...e.aliases]) {
-        db.prepare(
-          `INSERT INTO team_aliases (alias_norm, country, team_id, source) VALUES (?, ?, ?, 'manual')
-           ON CONFLICT(alias_norm, country) DO UPDATE SET team_id = excluded.team_id, source = 'manual'`
-        ).run(normalizeName(a), e.country, t.id);
-        n++;
+  for (const file of files) {
+    if (!existsSync(file)) continue;
+    const list = JSON.parse(readFileSync(file, "utf8")) as { country: string; team: string; aliases: string[] }[];
+    db.transaction(() => {
+      for (const e of list) {
+        db.prepare(`INSERT OR IGNORE INTO teams (name, country) VALUES (?, ?)`).run(e.team, e.country);
+        const t = db.prepare(`SELECT id FROM teams WHERE name = ? AND country = ?`).get(e.team, e.country) as { id: number };
+        for (const a of [e.team, ...e.aliases]) {
+          db.prepare(
+            `INSERT INTO team_aliases (alias_norm, country, team_id, source) VALUES (?, ?, ?, 'manual')
+             ON CONFLICT(alias_norm, country) DO UPDATE SET team_id = excluded.team_id, source = 'manual'`
+          ).run(normalizeName(a), e.country, t.id);
+          n++;
+        }
       }
-    }
-  });
-  tx();
+    })();
+  }
   return n;
 }
 
 export function upsertMatch(db: Db, m: MatchInput): number {
   const compId = ensureCompetition(db, m.competition);
   const country = m.competition.country;
-  const homeId = resolveTeam(db, m.homeName, country, m.source);
-  const awayId = resolveTeam(db, m.awayName, country, m.source);
+  let homeId = lookupTeam(db, m.homeName, country);
+  let awayId = lookupTeam(db, m.awayName, country);
+  if (homeId === null || awayId === null) {
+    const link = linkByMatch(db, compId, m.kickoffUtc, homeId, awayId, m.homeGoals, m.awayGoals, m.source);
+    if (homeId === null && link.homeId !== null && link.homeId !== awayId) {
+      homeId = link.homeId; addAlias(db, m.homeName, country, homeId, `${m.source}:matchlink`);
+    }
+    if (awayId === null && link.awayId !== null && link.awayId !== homeId) {
+      awayId = link.awayId; addAlias(db, m.awayName, country, awayId, `${m.source}:matchlink`);
+    }
+  }
+  homeId ??= createTeam(db, m.homeName, country, m.source);
+  awayId ??= createTeam(db, m.awayName, country, m.source);
   const date = m.kickoffUtc.slice(0, 10);
 
   db.prepare(

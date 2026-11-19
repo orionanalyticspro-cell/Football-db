@@ -50,14 +50,25 @@ Les classements, la forme (5 derniers matchs) et les totaux sont **recalculés**
   (voir `espn.ts` comme modèle : c'est ~50 lignes), puis branchez-la dans `src/run.ts`.
   Tout le reste (alias d'équipes, dédoublonnage, classement, export) est déjà fait.
 
-## Noms d'équipes
+## Noms d'équipes (important)
 
-Les noms sont normalisés (accents, FC/SC/AFC...) puis rapprochés de façon prudente (une équipe B, réserve, jeunes ou féminine n'est jamais fusionnée avec l'équipe première).
-Pour forcer un nom, éditez `config/aliases.json`. Pour auditer les rapprochements automatiques :
+Les noms sont normalisés (accents, FC/SC… ignorés) puis reconnus **uniquement** par nom exact ou par alias.
+**Il n'y a plus de rapprochement « approximatif »** : il avait fusionné des clubs différents (Paris SG / Paris FC, Club / Cercle Brugge, Dundee / Dundee United…).
+
+Quand deux sources donnent des noms différents pour la même équipe, le lien se fait **par le match** : même compétition, même créneau, même score, un seul candidat possible. En cas de doute rien n'est fusionné.
+Pour les cas restants, ajoutez vos alias dans `config/aliases.json` (le fichier `aliases.seed.json` fourni contient déjà les abréviations courantes : Man City, Ath Madrid, Sp Lisbon, Dortmund…). Audit des liens automatiques :
 
 ```sql
-SELECT a.alias_norm, t.name, a.source FROM team_aliases a JOIN teams t ON t.id = a.team_id WHERE a.source LIKE '%fuzzy';
+SELECT a.alias_norm, t.name, a.source FROM team_aliases a JOIN teams t ON t.id = a.team_id WHERE a.source LIKE '%matchlink';
 ```
+
+`npm run health` et le champ `flag` des exports signalent les lignes suspectes : `duplicate` (beaucoup plus de matchs que la médiane = deux clubs fusionnés), `fragment` (≤ 2 matchs dans une ligue avancée = barrages ou nom non rapproché) et les ligues figées.
+
+## Reconstruire la base après une correction
+
+La base est dérivée des sources : on peut la refaire à neuf sans rien perdre.
+*Actions* → « Mise à jour… » → *Run workflow* → args : `--reset --backfill 2425,2526,2627 --days-back 120`
+(`--reset` supprime l'ancienne base ; ne l'utilisez qu'une fois, puis laissez les mises à jour normales tourner.)
 
 ## Les 3 types de mise à jour
 

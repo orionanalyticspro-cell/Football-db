@@ -1,0 +1,252 @@
+[
+ {
+  "country": "England",
+  "team": "Manchester City",
+  "aliases": [
+   "Man City"
+  ]
+ },
+ {
+  "country": "England",
+  "team": "Manchester United",
+  "aliases": [
+   "Man United",
+   "Man Utd"
+  ]
+ },
+ {
+  "country": "England",
+  "team": "Nottingham Forest",
+  "aliases": [
+   "Nott'm Forest",
+   "Nottm Forest"
+  ]
+ },
+ {
+  "country": "England",
+  "team": "Wolverhampton Wanderers",
+  "aliases": [
+   "Wolves",
+   "Wolverhampton"
+  ]
+ },
+ {
+  "country": "England",
+  "team": "Tottenham Hotspur",
+  "aliases": [
+   "Tottenham",
+   "Spurs"
+  ]
+ },
+ {
+  "country": "England",
+  "team": "Newcastle United",
+  "aliases": [
+   "Newcastle"
+  ]
+ },
+ {
+  "country": "England",
+  "team": "West Ham United",
+  "aliases": [
+   "West Ham"
+  ]
+ },
+ {
+  "country": "England",
+  "team": "Brighton & Hove Albion",
+  "aliases": [
+   "Brighton"
+  ]
+ },
+ {
+  "country": "England",
+  "team": "Leeds United",
+  "aliases": [
+   "Leeds"
+  ]
+ },
+ {
+  "country": "England",
+  "team": "West Bromwich Albion",
+  "aliases": [
+   "West Brom"
+  ]
+ },
+ {
+  "country": "England",
+  "team": "Sheffield United",
+  "aliases": [
+   "Sheffield Utd"
+  ]
+ },
+ {
+  "country": "England",
+  "team": "Sheffield Wednesday",
+  "aliases": [
+   "Sheffield Weds"
+  ]
+ },
+ {
+  "country": "Spain",
+  "team": "Atlético Madrid",
+  "aliases": [
+   "Ath Madrid",
+   "Atletico Madrid"
+  ]
+ },
+ {
+  "country": "Spain",
+  "team": "Athletic Club",
+  "aliases": [
+   "Ath Bilbao",
+   "Athletic Bilbao"
+  ]
+ },
+ {
+  "country": "Spain",
+  "team": "Celta Vigo",
+  "aliases": [
+   "Celta"
+  ]
+ },
+ {
+  "country": "Spain",
+  "team": "Real Sociedad",
+  "aliases": [
+   "Sociedad"
+  ]
+ },
+ {
+  "country": "Spain",
+  "team": "Rayo Vallecano",
+  "aliases": [
+   "Vallecano"
+  ]
+ },
+ {
+  "country": "Spain",
+  "team": "Espanyol",
+  "aliases": [
+   "Espanol"
+  ]
+ },
+ {
+  "country": "Spain",
+  "team": "Alavés",
+  "aliases": [
+   "Alaves"
+  ]
+ },
+ {
+  "country": "Germany",
+  "team": "Borussia Dortmund",
+  "aliases": [
+   "Dortmund"
+  ]
+ },
+ {
+  "country": "Germany",
+  "team": "Borussia Mönchengladbach",
+  "aliases": [
+   "M'gladbach",
+   "Mgladbach",
+   "Monchengladbach"
+  ]
+ },
+ {
+  "country": "Germany",
+  "team": "Eintracht Frankfurt",
+  "aliases": [
+   "Ein Frankfurt"
+  ]
+ },
+ {
+  "country": "Germany",
+  "team": "1. FC Köln",
+  "aliases": [
+   "FC Koln",
+   "Koln",
+   "Köln"
+  ]
+ },
+ {
+  "country": "Germany",
+  "team": "Bayer Leverkusen",
+  "aliases": [
+   "Leverkusen"
+  ]
+ },
+ {
+  "country": "Germany",
+  "team": "Bayern Munich",
+  "aliases": [
+   "Bayern München",
+   "Bayern Munchen"
+  ]
+ },
+ {
+  "country": "France",
+  "team": "Paris Saint-Germain",
+  "aliases": [
+   "Paris SG",
+   "PSG",
+   "Paris Saint Germain"
+  ]
+ },
+ {
+  "country": "France",
+  "team": "Saint-Étienne",
+  "aliases": [
+   "St Etienne",
+   "Saint Etienne"
+  ]
+ },
+ {
+  "country": "Italy",
+  "team": "Inter",
+  "aliases": [
+   "Inter Milan",
+   "Internazionale"
+  ]
+ },
+ {
+  "country": "Portugal",
+  "team": "Sporting CP",
+  "aliases": [
+   "Sp Lisbon",
+   "Sporting Lisbon",
+   "Sporting"
+  ]
+ },
+ {
+  "country": "Portugal",
+  "team": "Sporting Braga",
+  "aliases": [
+   "Sp Braga",
+   "Braga"
+  ]
+ },
+ {
+  "country": "Brazil",
+  "team": "Vasco da Gama",
+  "aliases": [
+   "Vasco"
+  ]
+ },
+ {
+  "country": "Brazil",
+  "team": "Flamengo",
+  "aliases": [
+   "Flamengo RJ"
+  ]
+ },
+ {
+  "country": "Poland",
+  "team": "Legia Warszawa",
+  "aliases": [
+   "Legia Warsaw",
+   "Legia"
+  ]
+ }
+]

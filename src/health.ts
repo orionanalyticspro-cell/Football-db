@@ -1,6 +1,7 @@
 // Contrôle qualité : signale les compétitions « en saison » sans résultat récent
 // et les sources dont la dernière exécution a échoué. Code de sortie 1 si problème.
 import { openDb } from "./db.js";
+import { qualityIssues } from "./quality.js";
 
 const STALE_DAYS = Number(process.env.STALE_DAYS ?? 4);
 const db = openDb();
@@ -33,6 +34,8 @@ const empty = db.prepare(`
   WHERE id IN (SELECT MAX(id) FROM ingest_logs GROUP BY source, target) AND ok = 1 AND rows_read = 0
 `).all() as { source: string; target: string }[];
 for (const e of empty) { problems++; console.log(`⚠ ${e.source} ${e.target} : 0 ligne lue (le format de la source a peut-être changé)`); }
+
+for (const q of qualityIssues(db)) { problems++; console.log(`⚠ ${q.competition} [${q.kind}] ${q.detail}`); }
 
 console.log(problems ? `\n${problems} problème(s) détecté(s).` : "Tout est OK.");
 process.exit(problems ? 1 : 0);

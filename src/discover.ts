@@ -2,7 +2,10 @@
 //   npm run discover                    -> teste toutes les compétitions « soccer » d'ESPN
 //   npm run discover -- --slugs sau.1,civ.1,mar.1 --days 45
 // Écrit data/discovered.md (lisible sur GitHub) et data/discovered.json.
-import { mkdirSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { COUNTRY_BY_PREFIX } from "./countries.js";
+import { slug as slugify } from "./normalize.js";
+import type { EspnLeague } from "./sources/espn.js";
 import { getJson } from "./http.js";
 
 export function extractSlugs(listJson: unknown): string[] {
@@ -13,13 +16,14 @@ export function extractSlugs(listJson: unknown): string[] {
 }
 
 interface Scoreboard {
-  leagues?: { name?: string; abbreviation?: string }[];
+  leagues?: { name?: string; abbreviation?: string; season?: { startDate?: string; endDate?: string } }[];
   events?: { date?: string; status?: { type?: { state?: string } } }[];
 }
 
 export interface LeagueReport {
   slug: string; name: string; prefix: string;
   finished: number; upcoming: number; lastDate: string | null;
+  seasonStart?: string; seasonEnd?: string;
 }
 
 export function summarize(slug: string, sb: Scoreboard): LeagueReport {
@@ -30,7 +34,51 @@ export function summarize(slug: string, sb: Scoreboard): LeagueReport {
   return {
     slug, name: sb.leagues?.[0]?.name ?? "?", prefix: slug.split(".")[0],
     finished, upcoming, lastDate: dates.length ? dates[dates.length - 1].slice(0, 10) : null,
+    seasonStart: sb.leagues?.[0]?.season?.startDate, seasonEnd: sb.leagues?.[0]?.season?.endDate,
   };
+}
+
+/** Saison à cheval sur 2 années (août→mai) = « split » ; saison dans l'année civile = « calendar ». */
+export function seasonModeFrom(start?: string, end?: string): "split" | "calendar" {
+  if (!start || !end) return "split";
+  return start.slice(0, 4) !== end.slice(0, 4) ? "split" : "calendar";
+}
+
+/** Ligues nationales régulières uniquement (xxx.1, xxx.2…) : pas de coupes ni de compétitions internationales. */
+const LEAGUE_SLUG = /^([a-z]{3})\.(\d)$/;
+
+export function buildAutoEntries(reports: LeagueReport[]): EspnLeague[] {
+  const out: EspnLeague[] = [];
+  for (const r of reports) {
+    const m = LEAGUE_SLUG.exec(r.slug);
+    if (!m || (r.finished === 0 && r.upcoming === 0)) continue;
+    const level = Number(m[2]);
+    const country = COUNTRY_BY_PREFIX[m[1]] ?? m[1].toUpperCase();
+    out.push({
+      slug: r.slug,
+      code: `${slugify(country)}-${level}`.toUpperCase(),
+      name: r.name, country, level,
+      seasonMode: seasonModeFrom(r.seasonStart, r.seasonEnd),
+      enabled: true,
+    });
+  }
+  return out;
+}
+
+/** Fusionne avec la liste précédente : une ligue hors saison aujourd'hui n'est pas oubliée. */
+export function mergeAuto(previous: EspnLeague[], fresh: EspnLeague[]): EspnLeague[] {
+  const bySlug = new Map(previous.map((e) => [e.slug, e]));
+  for (const e of fresh) bySlug.set(e.slug, e);
+  return [...bySlug.values()].sort((a, b) => a.slug.localeCompare(b.slug));
+}
+
+export const AUTO_FILE = "config/sources.auto.json";
+function writeAuto(reports: LeagueReport[]) {
+  const prev = existsSync(AUTO_FILE) ? (JSON.parse(readFileSync(AUTO_FILE, "utf8")) as { espn: EspnLeague[] }).espn : [];
+  const merged = mergeAuto(prev, buildAutoEntries(reports));
+  mkdirSync("config", { recursive: true });
+  writeFileSync(AUTO_FILE, JSON.stringify({ espn: merged }, null, 1));
+  console.log(`${merged.length} ligue(s) dans ${AUTO_FILE} (ajoutées automatiquement aux mises à jour)`);
 }
 
 const ymd = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, "");
@@ -63,6 +111,7 @@ async function main() {
     if ((i + 1) % 25 === 0) writeReport(reports, days, true); // sauvegarde intermédiaire
   }
   writeReport(reports, days, false);
+  writeAuto(reports);
 }
 
 function writeReport(reportsIn: LeagueReport[], days: number, partial: boolean) {

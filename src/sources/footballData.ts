@@ -106,14 +106,18 @@ function buildMatch(
   };
 }
 
-export function parseMainCsv(text: string, div: MainDivision, seasonCode: string): MatchInput[] {
+function mainRows(rows: Row[], div: MainDivision, seasonCode: string): MatchInput[] {
   const comp = { code: `${slug(div.country)}-${div.level}`.toUpperCase(), name: div.name, country: div.country, level: div.level };
   const out: MatchInput[] = [];
-  for (const r of readCsv(text)) {
+  for (const r of rows) {
     const m = buildMatch(r, comp, seasonLabel(seasonCode), SOURCE_MAIN, r.HomeTeam, r.AwayTeam, r.FTHG, r.FTAG, r.HTHG, r.HTAG);
     if (m) out.push(m);
   }
   return out;
+}
+
+export function parseMainCsv(text: string, div: MainDivision, seasonCode: string): MatchInput[] {
+  return mainRows(readCsv(text), div, seasonCode);
 }
 
 export function parseExtraCsv(text: string): MatchInput[] {
@@ -131,12 +135,30 @@ export function parseExtraCsv(text: string): MatchInput[] {
   return out;
 }
 
+/** fixtures.csv : prochains matchs des ligues principales (mêmes colonnes que les résultats, sans score). */
+export function parseFixturesMain(text: string): MatchInput[] {
+  const out: MatchInput[] = [];
+  for (const r of readCsv(text)) {
+    const div = MAIN_DIVISIONS.find((d) => d.div === r.Div);
+    const date = parseDmy(r.Date ?? "");
+    if (!div || !date) continue;
+    out.push(...mainRows([r], div, seasonCodeFor(new Date(`${date}T12:00:00Z`))));
+  }
+  return out;
+}
+
 const BASE_MAIN = "https://www.football-data.co.uk/mmz4281";
 const BASE_EXTRA = "https://football-data.co.uk/new";
 
 export async function fetchMain(div: MainDivision, seasonCode: string): Promise<MatchInput[]> {
   const text = await getText(`${BASE_MAIN}/${seasonCode}/${div.div}.csv`);
   return parseMainCsv(text, div, seasonCode);
+}
+export async function fetchFixturesMain(): Promise<MatchInput[]> {
+  return parseFixturesMain(await getText("https://www.football-data.co.uk/fixtures.csv"));
+}
+export async function fetchExtraFixtures(): Promise<MatchInput[]> {
+  return parseExtraCsv(await getText("https://football-data.co.uk/new_league_fixtures.csv"));
 }
 export async function fetchExtraLatest(): Promise<MatchInput[]> {
   return parseExtraCsv(await getText(`${BASE_EXTRA}/Latest_Results.csv`));
