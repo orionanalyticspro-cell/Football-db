@@ -1,6 +1,7 @@
 // Source OpenFootball (CC0) : datasets textuels vérifiés pour certaines ligues nationales.
-// Ce collecteur est volontairement limité aux ligues dont le dépôt et le format sont connus.
+// Ce collecteur reste limité aux ligues dont le dépôt, la saison et le format sont connus.
 import { getText } from "../http.js";
+import { localToUtcIso } from "../normalize.js";
 import type { MatchInput } from "../db.js";
 
 export const SOURCE_OPENFOOTBALL = "openfootball";
@@ -21,9 +22,9 @@ export interface OpenFootballLeague {
 
 export const OPENFOOTBALL_LEAGUES: OpenFootballLeague[] = [
   { slug: "eng.1", code: "ENGLAND-1", name: "Premier League", country: "England", level: 1,
-    repo: "openfootball/england", seasonDir: "2026-27", files: ["1-premierleague.txt"], seasonMode: "split" },
+    repo: "openfootball/england", seasonDir: "2026-27", files: ["1-premierleague.txt"], seasonMode: "split", enabled: true },
   { slug: "eng.2", code: "ENGLAND-2", name: "Championship", country: "England", level: 2,
-    repo: "openfootball/england", seasonDir: "2026-27", files: ["2-championship.txt"], seasonMode: "split" },
+    repo: "openfootball/england", seasonDir: "2026-27", files: ["2-championship.txt"], seasonMode: "split", enabled: true },
 ];
 
 const MONTHS: Record<string, number> = {
@@ -31,16 +32,16 @@ const MONTHS: Record<string, number> = {
   Aug: 7, Sep: 8, Oct: 9, Nov: 10, Dec: 11,
 };
 
-function seasonFor(date: Date, mode: "split" | "calendar"): string {
+export function seasonFor(date: Date, mode: "split" | "calendar"): string {
   const y = date.getUTCFullYear();
   if (mode === "calendar") return String(y);
   return date.getUTCMonth() >= 6 ? `${y}/${y + 1}` : `${y - 1}/${y}`;
 }
 
-function isoUtc(date: Date, time: string): string {
+function dateIso(date: Date, time: string): string {
   const [h, m] = time.split(":").map(Number);
-  const d = new Date(Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate(), h, m));
-  return d.toISOString();
+  const iso = `${date.getUTCFullYear()}-${String(date.getUTCMonth() + 1).padStart(2, "0")}-${String(date.getUTCDate()).padStart(2, "0")}`;
+  return localToUtcIso(iso, `${String(h).padStart(2, "0")}:${String(m).padStart(2, "0")}`, "Europe/London");
 }
 
 export function parseOpenFootballText(text: string, lg: OpenFootballLeague): MatchInput[] {
@@ -70,7 +71,7 @@ export function parseOpenFootballText(text: string, lg: OpenFootballLeague): Mat
     if (!match || !date) continue;
     const [, time, homeName, awayName, hg, ag] = match;
     const finished = hg !== undefined && ag !== undefined;
-    const kickoffUtc = isoUtc(date, time);
+    const kickoffUtc = dateIso(date, time);
     out.push({
       competition: { code: lg.code, name: lg.name, country: lg.country, level: lg.level },
       season: seasonFor(new Date(kickoffUtc), lg.seasonMode),
@@ -90,13 +91,7 @@ export async function fetchOpenFootball(lg: OpenFootballLeague): Promise<MatchIn
   const out: MatchInput[] = [];
   for (const file of lg.files) {
     const url = `https://raw.githubusercontent.com/${lg.repo}/${branch}/${lg.seasonDir}/${file}`;
-    try {
-      out.push(...parseOpenFootballText(await getText(url), lg));
-    } catch (e) {
-      // Une variante absente est ignorée, mais une erreur d'accès est visible via le run.
-      const fatal = (e as { fatal?: boolean }).fatal;
-      if (!fatal) throw e;
-    }
+    out.push(...parseOpenFootballText(await getText(url), lg));
   }
   return out;
 }
@@ -106,4 +101,8 @@ export function openFootballSeasonDir(date = new Date(), mode: "split" | "calend
   const start = date.getUTCMonth() >= 6 ? date.getUTCFullYear() : date.getUTCFullYear() - 1;
   const yy = (n: number) => String(n).slice(-2);
   return `${yy(start)}-${yy(start + 1)}`;
+}
+
+export function leaguesForCurrentSeason(date = new Date(): Date): OpenFootballLeague[] {
+  return OPENFOOTBALL_LEAGUES.map((lg) => ({ ...lg, seasonDir: openFootballSeasonDir(date, lg.seasonMode) }));
 }

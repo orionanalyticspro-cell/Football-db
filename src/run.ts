@@ -3,6 +3,7 @@
 //   npm run update -- --source fd-main --backfill 2223,2324,2425,2526,2627
 //   npm run update -- --source fd-extra --backfill
 //   npm run update -- --source espn --days-back 3 --days-forward 10
+//   npm run update -- --source openfootball
 import { existsSync, readFileSync, rmSync } from "node:fs";
 import { loadAliases, logRun, openDb, upsertMatch, type Db, type MatchInput } from "./db.js";
 import {
@@ -10,6 +11,7 @@ import {
   fetchFixturesMain, fetchMain, seasonCodeFor,
 } from "./sources/footballData.js";
 import { SOURCE_ESPN, fetchEspn, type EspnLeague } from "./sources/espn.js";
+import { SOURCE_OPENFOOTBALL, fetchOpenFootball, leaguesForCurrentSeason } from "./sources/openfootball.js";
 
 function arg(name: string): string | undefined {
   const i = process.argv.indexOf(`--${name}`);
@@ -32,23 +34,20 @@ async function step(db: Db, source: string, target: string, job: () => Promise<M
     logRun(db, { source, target, startedAt, read: rows.length, upserted, ok: true });
     console.log(`✓ ${source} ${target}: ${rows.length} lignes`);
   } catch (e) {
-    // Une source en panne ne doit jamais bloquer les autres.
     logRun(db, { source, target, startedAt, read: 0, upserted: 0, ok: false, error: String(e) });
     console.warn(`✗ ${source} ${target}: ${e}`);
   }
 }
 
-/** Ligues ESPN = découvertes automatiquement (sources.auto.json) + choix manuels (sources.json, prioritaires). */
 export function loadEspnLeagues(): EspnLeague[] {
   const read = (f: string): EspnLeague[] => (existsSync(f) ? (JSON.parse(readFileSync(f, "utf8")) as { espn: EspnLeague[] }).espn : []);
   const bySlug = new Map<string, EspnLeague>();
   for (const l of read("config/sources.auto.json")) bySlug.set(l.slug, l);
-  for (const l of read("config/sources.json")) bySlug.set(l.slug, l); // le manuel gagne (et peut désactiver avec enabled:false)
+  for (const l of read("config/sources.json")) bySlug.set(l.slug, l);
   return [...bySlug.values()];
 }
 
 async function main() {
-  // --reset : repart d'une base vide (utile après une correction du rapprochement des équipes).
   if (arg("reset")) {
     const f = process.env.FOOTBALL_DB ?? "data/football.db";
     for (const suffix of ["", "-wal", "-shm"]) rmSync(f + suffix, { force: true });
@@ -85,7 +84,12 @@ async function main() {
     for (const lg of cfg.espn.filter((l) => l.enabled !== false && (!only || only.includes(l.slug))))
       await step(db, SOURCE_ESPN, lg.slug, () => fetchEspn(lg, from, to));
   }
-  // Un match resté « à venir » depuis plus de 7 jours sans score a été reporté/déplacé : on le retire.
+
+  if (source === "all" || source === SOURCE_OPENFOOTBALL) {
+    for (const lg of leaguesForCurrentSeason().filter((l) => l.enabled !== false && (!only || only.includes(l.slug))))
+      await step(db, SOURCE_OPENFOOTBALL, lg.slug, () => fetchOpenFootball(lg));
+  }
+
   const purged = db.prepare(
     `DELETE FROM matches WHERE status = 'scheduled' AND home_goals IS NULL AND match_date < date('now', '-7 days')`
   ).run().changes;
@@ -93,7 +97,6 @@ async function main() {
   db.close();
 }
 
-// Ne lance main() que si le fichier est exécuté directement (pas importé par les tests).
 if (process.argv[1] && import.meta.url.endsWith(process.argv[1].split("/").pop()!)) {
   main().catch((e) => { console.error(e); process.exit(1); });
 }
