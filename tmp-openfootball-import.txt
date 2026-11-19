@@ -1,0 +1,2 @@
+// Ajout OpenFootball au pipeline.
+import { SOURCE_OPENFOOTBALL, OPENFOOTBALL_LEAGUES, openFootballSeasonDir, fetchOpenFootball } from "./sources/openfootball.js";
