@@ -103,6 +103,6 @@ export function openFootballSeasonDir(date = new Date(), mode: "split" | "calend
   return `${yy(start)}-${yy(start + 1)}`;
 }
 
-export function leaguesForCurrentSeason(date = new Date(): Date): OpenFootballLeague[] {
+export function leaguesForCurrentSeason(date = new Date(), _mode: "split" | "calendar" = "split"): OpenFootballLeague[] {
   return OPENFOOTBALL_LEAGUES.map((lg) => ({ ...lg, seasonDir: openFootballSeasonDir(date, lg.seasonMode) }));
 }
