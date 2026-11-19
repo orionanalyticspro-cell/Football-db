@@ -7,7 +7,7 @@
     "update": "tsx src/run.ts",
     "export": "tsx src/export.ts",
     "health": "tsx src/health.ts",
-    "test": "tsx test/pipeline.test.ts",
+    "test": "tsx test/pipeline.test.ts && tsx test/openfootball.test.ts",
     "discover": "tsx src/discover.ts"
   },
   "dependencies": {
