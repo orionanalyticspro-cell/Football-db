@@ -39,7 +39,6 @@ export const OPENFOOTBALL_LEAGUES: OpenFootballLeague[] = [
   { slug: "col.1", code: "COLOMBIA-1", name: "Primera A", country: "Colombia", level: 1, repo: "openfootball/south-america", seasonDir: "colombia", files: ["{year}_co1.txt"], seasonMode: "calendar", timeZone: "America/Bogota", yearFallback: 3, enabled: true },
   { slug: "ecu.1", code: "ECUADOR-1", name: "Serie A", country: "Ecuador", level: 1, repo: "openfootball/south-america", seasonDir: "ecuador", files: ["{year}_ec1.txt"], seasonMode: "calendar", timeZone: "America/Guayaquil", yearFallback: 3, enabled: true },
   { slug: "par.1", code: "PARAGUAY-1", name: "Primera División", country: "Paraguay", level: 1, repo: "openfootball/south-america", seasonDir: "paraguay", files: ["{year}_py1.txt"], seasonMode: "calendar", timeZone: "America/Asuncion", yearFallback: 3, enabled: true },
-
   { slug: "ken.1", code: "KENYA-1", name: "Premier League", country: "Kenya", level: 1, repo: "openfootball/world", seasonDir: "africa/kenya", files: ["{season}_ke1.txt"], seasonMode: "split", timeZone: "Africa/Nairobi", yearFallback: 3, enabled: true },
   { slug: "sen.1", code: "SENEGAL-1", name: "Ligue 1", country: "Senegal", level: 1, repo: "openfootball/world", seasonDir: "africa/senegal", files: ["{season}_sn1.txt"], seasonMode: "split", timeZone: "Africa/Dakar", yearFallback: 3, enabled: true },
   { slug: "nga.1", code: "NIGERIA-1", name: "Nigeria Premier Football League", country: "Nigeria", level: 1, repo: "openfootball/world", seasonDir: "africa/nigeria", files: ["{season}_ng1.txt"], seasonMode: "split", timeZone: "Africa/Lagos", yearFallback: 3, enabled: true },
@@ -50,10 +49,7 @@ export const OPENFOOTBALL_LEAGUES: OpenFootballLeague[] = [
   { slug: "rsa.1", code: "SOUTH-AFRICA-1", name: "Premier Division", country: "South Africa", level: 1, repo: "openfootball/world", seasonDir: "africa/south-africa", files: ["{season}_za1.txt"], seasonMode: "split", timeZone: "Africa/Johannesburg", yearFallback: 3, enabled: true },
 ];
 
-const MONTHS: Record<string, number> = {
-  Jan: 0, Feb: 1, Mar: 2, Apr: 3, May: 4, Jun: 5, Jul: 6,
-  Aug: 7, Sep: 8, Oct: 9, Nov: 10, Dec: 11,
-};
+const MONTHS: Record<string, number> = { Jan: 0, Feb: 1, Mar: 2, Apr: 3, May: 4, Jun: 5, Jul: 6, Aug: 7, Sep: 8, Oct: 9, Nov: 10, Dec: 11 };
 
 export function seasonFor(date: Date, mode: "split" | "calendar"): string {
   const y = date.getUTCFullYear();
@@ -78,7 +74,6 @@ export function parseOpenFootballText(text: string, lg: OpenFootballLeague): Mat
   const out: MatchInput[] = [];
   let year: number | null = null;
   let date: Date | null = null;
-
   for (const raw of text.split(/\r?\n/)) {
     const line = raw.trim();
     const dateLine = line.match(/^(?:(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\s+)?([A-Z][a-z]{2})\s+(\d{1,2})(?:\s+(\d{4}))?$/);
@@ -88,19 +83,12 @@ export function parseOpenFootballText(text: string, lg: OpenFootballLeague): Mat
       if (year !== null && month !== undefined) date = new Date(Date.UTC(year, month, Number(dateLine[2])));
       continue;
     }
-
     const match = line.match(/^([0-2]?\d:[0-5]\d)\s+(.+?)\s+v\s+(.+?)(?:\s+(\d+)-(\d+)(?:\s+\(\d+-\d+\))?)?\s*$/);
     if (!match || !date) continue;
     const [, time, homeName, awayName, hg, ag] = match;
     const finished = hg !== undefined && ag !== undefined;
     const kickoffUtc = kickoffIso(date, time, lg.timeZone);
-    out.push({
-      competition: { code: lg.code, name: lg.name, country: lg.country, level: lg.level },
-      season: seasonFor(new Date(kickoffUtc), lg.seasonMode), kickoffUtc,
-      homeName: homeName.trim(), awayName: awayName.trim(),
-      homeGoals: finished ? Number(hg) : null, awayGoals: finished ? Number(ag) : null,
-      status: finished ? "finished" : "scheduled", source: SOURCE_OPENFOOTBALL,
-    });
+    out.push({ competition: { code: lg.code, name: lg.name, country: lg.country, level: lg.level }, season: seasonFor(new Date(kickoffUtc), lg.seasonMode), kickoffUtc, homeName: homeName.trim(), awayName: awayName.trim(), homeGoals: finished ? Number(hg) : null, awayGoals: finished ? Number(ag) : null, status: finished ? "finished" : "scheduled", source: SOURCE_OPENFOOTBALL });
   }
   return out;
 }
@@ -110,7 +98,6 @@ export async function fetchOpenFootball(lg: OpenFootballLeague, date = new Date(
   const currentYear = date.getUTCFullYear();
   let lastError: unknown;
   const split = openFootballSeasonDir(date, "split");
-
   for (let offset = 0; offset <= (lg.yearFallback ?? 0); offset++) {
     const year = String(currentYear - offset);
     const season = lg.seasonMode === "calendar" ? year : (lg.yearFallback && offset ? openFootballSeasonDir(new Date(Date.UTC(currentYear - offset, 6, 1)), "split") : split);
@@ -118,16 +105,10 @@ export async function fetchOpenFootball(lg: OpenFootballLeague, date = new Date(
       const file = fileTemplate.replaceAll("{season}", season).replaceAll("{year}", year);
       const path = lg.seasonDir ? `${lg.seasonDir}/${file}` : file;
       const url = `https://raw.githubusercontent.com/${lg.repo}/${branch}/${path}`;
-      try {
-        return parseOpenFootballText(await getText(url), lg);
-      } catch (e) {
-        lastError = e;
-      }
+      try { return parseOpenFootballText(await getText(url), lg); } catch (e) { lastError = e; }
     }
   }
   throw lastError ?? new Error(`No OpenFootball file found for ${lg.slug}`);
 }
 
-export function leaguesForCurrentSeason(_date = new Date()): OpenFootballLeague[] {
-  return OPENFOOTBALL_LEAGUES.map((lg) => ({ ...lg }));
-}
+export function leaguesForCurrentSeason(_date = new Date()): OpenFootballLeague[] { return OPENFOOTBALL_LEAGUES.map((lg) => ({ ...lg })); }
