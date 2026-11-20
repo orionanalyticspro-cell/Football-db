@@ -1,4 +1,4 @@
-# Ligues ESPN testées (2026-11-19)
+# Ligues ESPN testées (2026-11-20)
 
 Fenêtre : 30 derniers jours + 14 jours à venir. **0** compétition(s) avec des résultats sur 220 testée(s).
 
