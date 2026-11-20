@@ -1,9 +1,9 @@
 # Football-db
 
-## Sources OpenFootball additionnelles
+## Sources OpenFootball
 
-Le collecteur OpenFootball CC0 est intégré au pipeline. La couverture européenne actuelle comprend Angleterre D1-D2, Espagne D1, Allemagne D1, Italie D1, Belgique D1, Autriche D1, France D1, Pays-Bas D1, Portugal D1, Écosse D1 et Suisse D1. Les premières divisions d'Argentine, Colombie, Équateur et Paraguay utilisent les dernières saisons annuelles publiées par OpenFootball; le Brésil Série A est également configuré.
+Le collecteur OpenFootball couvre notamment les premières divisions vérifiées d'Europe, d'Amérique du Sud et d'Afrique. Le lot africain comprend actuellement le Kenya, le Sénégal, le Nigeria, l'Algérie, l'Égypte, le Maroc, le Ghana et l'Afrique du Sud.
 
-Lancement ciblé : `npm run update -- --source openfootball --only arg.1,col.1,ecu.1,par.1`. Les calendriers et résultats sont lus dans les fichiers publics disponibles, avec conversion des horaires depuis les fuseaux locaux. La disponibilité annuelle varie selon la ligue; certains fichiers sud-américains ne publient pas encore la saison courante et le collecteur utilise alors la dernière saison publiée (jusqu'à trois ans en arrière).
+Les fichiers sont lus dans `openfootball/world/africa/{pays}`. Lorsqu'une saison récente n'est pas publiée, le collecteur essaie jusqu'à trois saisons précédentes. Les limites doivent être confirmées par un test réseau avant de considérer la couverture réelle sur toute une saison.
 
-Copa Libertadores et UEFA Champions League restent à part : leurs fichiers sont identifiés, mais leurs règles de score (tirs au but, prolongations, équipe/pays) nécessitent un importeur dédié avant ingestion fiable. Elles ne sont donc pas activées comme couvertes.
+Lancement ciblé : `npm run update -- --source openfootball --only ken.1,sen.1,nga.1,alg.1,egy.1,mar.1,gha.1,rsa.1`.

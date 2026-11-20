@@ -1,9 +1,4 @@
 // Point d'entrée des mises à jour.
-//   npm run update                       -> mise à jour courante de toutes les sources
-//   npm run update -- --source fd-main --backfill 2223,2324,2425,2526,2627
-//   npm run update -- --source fd-extra --backfill
-//   npm run update -- --source espn --days-back 3 --days-forward 10
-//   npm run update -- --source openfootball
 import { existsSync, readFileSync, rmSync } from "node:fs";
 import { loadAliases, logRun, openDb, upsertMatch, type Db, type MatchInput } from "./db.js";
 import {
@@ -51,7 +46,6 @@ async function main() {
   if (arg("reset")) {
     const f = process.env.FOOTBALL_DB ?? "data/football.db";
     for (const suffix of ["", "-wal", "-shm"]) rmSync(f + suffix, { force: true });
-    console.log(`Base ${f} supprimée : reconstruction complète.`);
   }
   const db = openDb();
   loadAliases(db);
@@ -69,8 +63,7 @@ async function main() {
 
   if (source === "all" || source === SOURCE_EXTRA) {
     if (backfill) {
-      for (const code of EXTRA_FILES.filter((c) => !only || only.includes(c)))
-        await step(db, SOURCE_EXTRA, code, () => fetchExtraFile(code));
+      for (const code of EXTRA_FILES.filter((c) => !only || only.includes(c))) await step(db, SOURCE_EXTRA, code, () => fetchExtraFile(code));
     } else {
       await step(db, SOURCE_EXTRA, "Latest_Results", fetchExtraLatest);
       await step(db, SOURCE_EXTRA, "fixtures", fetchExtraFixtures);
@@ -78,10 +71,9 @@ async function main() {
   }
 
   if (source === "all" || source === SOURCE_ESPN) {
-    const cfg = { espn: loadEspnLeagues() };
     const back = Number(arg("days-back") ?? 3), fwd = Number(arg("days-forward") ?? 10);
     const from = new Date(Date.now() - back * 864e5), to = new Date(Date.now() + fwd * 864e5);
-    for (const lg of cfg.espn.filter((l) => l.enabled !== false && (!only || only.includes(l.slug))))
+    for (const lg of loadEspnLeagues().filter((l) => l.enabled !== false && (!only || only.includes(l.slug))))
       await step(db, SOURCE_ESPN, lg.slug, () => fetchEspn(lg, from, to));
   }
 
@@ -90,9 +82,7 @@ async function main() {
       await step(db, SOURCE_OPENFOOTBALL, lg.slug, () => fetchOpenFootball(lg));
   }
 
-  const purged = db.prepare(
-    `DELETE FROM matches WHERE status = 'scheduled' AND home_goals IS NULL AND match_date < date('now', '-7 days')`
-  ).run().changes;
+  const purged = db.prepare(`DELETE FROM matches WHERE status = 'scheduled' AND home_goals IS NULL AND match_date < date('now', '-7 days')`).run().changes;
   if (purged) console.log(`${purged} match(s) à venir périmé(s) retiré(s)`);
   db.close();
 }
