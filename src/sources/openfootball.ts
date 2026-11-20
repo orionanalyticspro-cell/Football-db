@@ -1,5 +1,5 @@
 // Source OpenFootball (CC0) : dépôts et fichiers de ligues vérifiés.
-// La couverture reste déclarative : ne configurer que les chemins réellement présents.
+// Ne configurer que les chemins publiés et dont le format est pris en charge.
 import { getText } from "../http.js";
 import { localToUtcIso } from "../normalize.js";
 import type { MatchInput } from "../db.js";
@@ -14,29 +14,31 @@ export interface OpenFootballLeague {
   level: number;
   repo: string;
   branch?: string;
+  /** Saison-directory for direct files, country directory for {season}/{year} templates. */
   seasonDir: string;
   files: string[];
   seasonMode: "split" | "calendar";
   timeZone?: string;
+  /** For annual datasets that publish late, retry this many prior calendar-year files. */
+  yearFallback?: number;
   enabled?: boolean;
 }
 
-// Fichiers 2026-27 vérifiés dans les dépôts OpenFootball.
 export const OPENFOOTBALL_LEAGUES: OpenFootballLeague[] = [
   { slug: "eng.1", code: "ENGLAND-1", name: "Premier League", country: "England", level: 1,
-    repo: "openfootball/england", seasonDir: "2026-27", files: ["1-premierleague.txt"], seasonMode: "split", timeZone: "Europe/London", enabled: true },
+    repo: "openfootball/england", seasonDir: "", files: ["{season}/1-premierleague.txt"], seasonMode: "split", timeZone: "Europe/London", enabled: true },
   { slug: "eng.2", code: "ENGLAND-2", name: "Championship", country: "England", level: 2,
-    repo: "openfootball/england", seasonDir: "2026-27", files: ["2-championship.txt"], seasonMode: "split", timeZone: "Europe/London", enabled: true },
+    repo: "openfootball/england", seasonDir: "", files: ["{season}/2-championship.txt"], seasonMode: "split", timeZone: "Europe/London", enabled: true },
   { slug: "esp.1", code: "SPAIN-1", name: "Primera División", country: "Spain", level: 1,
-    repo: "openfootball/espana", seasonDir: "2026-27", files: ["1-liga.txt"], seasonMode: "split", timeZone: "Europe/Madrid", enabled: true },
+    repo: "openfootball/espana", seasonDir: "", files: ["{season}/1-liga.txt"], seasonMode: "split", timeZone: "Europe/Madrid", enabled: true },
   { slug: "ger.1", code: "GERMANY-1", name: "Bundesliga", country: "Germany", level: 1,
-    repo: "openfootball/deutschland", seasonDir: "2026-27", files: ["1-bundesliga.txt"], seasonMode: "split", timeZone: "Europe/Berlin", enabled: true },
+    repo: "openfootball/deutschland", seasonDir: "", files: ["{season}/1-bundesliga.txt"], seasonMode: "split", timeZone: "Europe/Berlin", enabled: true },
   { slug: "ita.1", code: "ITALY-1", name: "Serie A", country: "Italy", level: 1,
-    repo: "openfootball/italy", seasonDir: "2026-27", files: ["1-seriea.txt"], seasonMode: "split", timeZone: "Europe/Rome", enabled: true },
+    repo: "openfootball/italy", seasonDir: "", files: ["{season}/1-seriea.txt"], seasonMode: "split", timeZone: "Europe/Rome", enabled: true },
   { slug: "bel.1", code: "BELGIUM-1", name: "Jupiler Pro League", country: "Belgium", level: 1,
-    repo: "openfootball/belgium", seasonDir: "2026-27", files: ["be1.txt"], seasonMode: "split", timeZone: "Europe/Brussels", enabled: true },
+    repo: "openfootball/belgium", seasonDir: "", files: ["{season}/be1.txt"], seasonMode: "split", timeZone: "Europe/Brussels", enabled: true },
   { slug: "aut.1", code: "AUSTRIA-1", name: "Bundesliga", country: "Austria", level: 1,
-    repo: "openfootball/austria", seasonDir: "2026-27", files: ["1-bundesliga.txt"], seasonMode: "split", timeZone: "Europe/Vienna", enabled: true },
+    repo: "openfootball/austria", seasonDir: "", files: ["{season}/1-bundesliga.txt"], seasonMode: "split", timeZone: "Europe/Vienna", enabled: true },
   { slug: "fra.1", code: "FRANCE-1", name: "Ligue 1", country: "France", level: 1,
     repo: "openfootball/europe", seasonDir: "france", files: ["{season}_fr1.txt"], seasonMode: "split", timeZone: "Europe/Paris", enabled: true },
   { slug: "ned.1", code: "NETHERLANDS-1", name: "Eredivisie", country: "Netherlands", level: 1,
@@ -49,6 +51,14 @@ export const OPENFOOTBALL_LEAGUES: OpenFootballLeague[] = [
     repo: "openfootball/europe", seasonDir: "switzerland", files: ["{season}_ch1.txt"], seasonMode: "split", timeZone: "Europe/Zurich", enabled: true },
   { slug: "bra.1", code: "BRAZIL-1", name: "Série A", country: "Brazil", level: 1,
     repo: "openfootball/south-america", seasonDir: "brazil", files: ["{year}_br1.txt"], seasonMode: "calendar", timeZone: "America/Sao_Paulo", enabled: true },
+  { slug: "arg.1", code: "ARGENTINA-1", name: "Primera División", country: "Argentina", level: 1,
+    repo: "openfootball/south-america", seasonDir: "argentina", files: ["{year}_ar1.txt"], seasonMode: "calendar", timeZone: "America/Argentina/Buenos_Aires", yearFallback: 3, enabled: true },
+  { slug: "col.1", code: "COLOMBIA-1", name: "Primera A", country: "Colombia", level: 1,
+    repo: "openfootball/south-america", seasonDir: "colombia", files: ["{year}_co1.txt"], seasonMode: "calendar", timeZone: "America/Bogota", yearFallback: 3, enabled: true },
+  { slug: "ecu.1", code: "ECUADOR-1", name: "Serie A", country: "Ecuador", level: 1,
+    repo: "openfootball/south-america", seasonDir: "ecuador", files: ["{year}_ec1.txt"], seasonMode: "calendar", timeZone: "America/Guayaquil", yearFallback: 3, enabled: true },
+  { slug: "par.1", code: "PARAGUAY-1", name: "Primera División", country: "Paraguay", level: 1,
+    repo: "openfootball/south-america", seasonDir: "paraguay", files: ["{year}_py1.txt"], seasonMode: "calendar", timeZone: "America/Asuncion", yearFallback: 3, enabled: true },
 ];
 
 const MONTHS: Record<string, number> = {
@@ -84,7 +94,6 @@ export function parseOpenFootballText(text: string, lg: OpenFootballLeague): Mat
   const out: MatchInput[] = [];
   let year: number | null = null;
   let date: Date | null = null;
-
   for (const raw of text.split(/\r?\n/)) {
     const line = raw.trim();
     const dateLine = line.match(/^(?:(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\s+)?([A-Z][a-z]{2})\s+(\d{1,2})(?:\s+(\d{4}))?$/);
@@ -95,7 +104,6 @@ export function parseOpenFootballText(text: string, lg: OpenFootballLeague): Mat
       continue;
     }
 
-    // football.txt usual format: time home v away [score].
     const vMatch = line.match(/^([0-2]?\d:[0-5]\d)\s+(.+?)\s+v\s+(.+?)(?:\s+(\d+)-(\d+)(?:\s+\(\d+-\d+\))?)?\s*$/);
     if (vMatch && date) {
       const [, time, home, away, hg, ag] = vMatch;
@@ -103,7 +111,7 @@ export function parseOpenFootballText(text: string, lg: OpenFootballLeague): Mat
       continue;
     }
 
-    // Some league files place the score between home and away: time home 1-0 (...) away.
+    // OpenFootball Europe files can place the score before the v marker.
     const scoreMatch = line.match(/^([0-2]?\d:[0-5]\d)\s+(.+?)\s+(\d+)-(\d+)(?:\s+\(\d+-\d+\))?\s+v\s+(.+?)\s*$/);
     if (scoreMatch && date) {
       const [, time, home, hg, ag, away] = scoreMatch;
@@ -116,14 +124,29 @@ export function parseOpenFootballText(text: string, lg: OpenFootballLeague): Mat
 export async function fetchOpenFootball(lg: OpenFootballLeague, date = new Date()): Promise<MatchInput[]> {
   const branch = lg.branch ?? "master";
   const splitSeason = openFootballSeasonDir(date, "split");
-  const calendarSeason = String(date.getUTCFullYear());
-  const seasonLabel = lg.seasonMode === "calendar" ? calendarSeason : splitSeason;
-  const seasonDir = lg.slug === "bra.1" ? lg.seasonDir : splitSeason;
+  const currentYear = date.getUTCFullYear();
   const out: MatchInput[] = [];
   for (const template of lg.files) {
-    const file = template.replaceAll("{year}", calendarSeason).replaceAll("{season}", seasonLabel);
-    const url = `https://raw.githubusercontent.com/${lg.repo}/${branch}/${seasonDir}/${file}`;
-    out.push(...parseOpenFootballText(await getText(url), lg));
+    let lastError: unknown;
+    const attempts = template.includes("{year}") ? (lg.yearFallback ?? 0) + 1 : 1;
+    let fetched = false;
+    for (let offset = 0; offset < attempts; offset++) {
+      const year = String(currentYear - offset);
+      const season = lg.seasonMode === "calendar" ? year : splitSeason;
+      const filename = template.replaceAll("{year}", year).replaceAll("{season}", season);
+      const directory = template.includes("{season}") || template.includes("{year}") ? lg.seasonDir : splitSeason;
+      const path = [directory, filename].filter(Boolean).join("/");
+      const url = `https://raw.githubusercontent.com/${lg.repo}/${branch}/${path}`;
+      try {
+        out.push(...parseOpenFootballText(await getText(url), lg));
+        fetched = true;
+        break;
+      } catch (e) {
+        lastError = e;
+        if (!(e as { fatal?: boolean }).fatal) throw e;
+      }
+    }
+    if (!fetched) throw lastError ?? new Error(`No OpenFootball file found for ${lg.slug}`);
   }
   return out;
 }
@@ -135,12 +158,6 @@ export function openFootballSeasonDir(date = new Date(), mode: "split" | "calend
   return `${yy(start)}-${yy(start + 1)}`;
 }
 
-export function leaguesForCurrentSeason(date = new Date()): OpenFootballLeague[] {
-  const split = openFootballSeasonDir(date, "split");
-  const year = String(date.getUTCFullYear());
-  return OPENFOOTBALL_LEAGUES.map((lg) => ({
-    ...lg,
-    seasonDir: lg.slug === "bra.1" ? lg.seasonDir : split,
-    files: lg.files.map((file) => file.replaceAll("{year}", year).replaceAll("{season}", lg.seasonMode === "calendar" ? year : split)),
-  }));
+export function leaguesForCurrentSeason(_date = new Date()): OpenFootballLeague[] {
+  return OPENFOOTBALL_LEAGUES.map((lg) => ({ ...lg }));
 }

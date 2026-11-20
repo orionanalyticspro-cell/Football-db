@@ -2,8 +2,8 @@
 
 ## Sources OpenFootball additionnelles
 
-Le collecteur OpenFootball CC0 est intégré au pipeline. Il couvre actuellement les premières divisions d'Angleterre, d'Espagne, d'Allemagne, d'Italie, de Belgique, d'Autriche, de France, des Pays-Bas, du Portugal, d'Écosse et de Suisse, plus le Brésil Série A. Les données ne sont ingérées que depuis les fichiers effectivement publiés pour la saison.
+Le collecteur OpenFootball CC0 est intégré au pipeline. La couverture européenne actuelle comprend Angleterre D1-D2, Espagne D1, Allemagne D1, Italie D1, Belgique D1, Autriche D1, France D1, Pays-Bas D1, Portugal D1, Écosse D1 et Suisse D1. Les premières divisions d'Argentine, Colombie, Équateur et Paraguay utilisent les dernières saisons annuelles publiées par OpenFootball; le Brésil Série A est également configuré.
 
-Lancement ciblé : `npm run update -- --source openfootball --only fra.1,sui.1`. Les dates/heures sont converties depuis le fuseau local indiqué par la compétition. La collecte ne représente pas un flux temps réel et la disponibilité varie selon la ligue.
+Lancement ciblé : `npm run update -- --source openfootball --only arg.1,col.1,ecu.1,par.1`. Les calendriers et résultats sont lus dans les fichiers publics disponibles, avec conversion des horaires depuis les fuseaux locaux. La disponibilité annuelle varie selon la ligue; certains fichiers sud-américains ne publient pas encore la saison courante et le collecteur utilise alors la dernière saison publiée (jusqu'à trois ans en arrière).
 
-Les compétitions nationales non listées et les coupes internationales restent à auditer avant d'être annoncées comme couvertes.
+Copa Libertadores et UEFA Champions League restent à part : leurs fichiers sont identifiés, mais leurs règles de score (tirs au but, prolongations, équipe/pays) nécessitent un importeur dédié avant ingestion fiable. Elles ne sont donc pas activées comme couvertes.
