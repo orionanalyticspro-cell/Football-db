@@ -30,10 +30,11 @@ assert.deepEqual(africanSlugs.map((slug) => OPENFOOTBALL_LEAGUES.find((l) => l.s
 const kenya = OPENFOOTBALL_LEAGUES.find((l) => l.slug === "ken.1")!;
 const kenyaMatch = parseOpenFootballText(`Sat Aug 23 2025
 19:00  Gor Mahia FC v AFC Leopards 1-0 (1-0)`, kenya)[0];
-assert.equal(kenyaMatch.country, undefined);
+assert.ok(kenyaMatch, "Kenya sample fixture should parse");
 assert.equal(kenyaMatch.competition.country, "Kenya");
 assert.equal(kenyaMatch.competition.code, "KENYA-1");
 assert.equal(kenyaMatch.homeGoals, 1);
+assert.equal(kenyaMatch.season, "2025/2026");
 
 const nigeria = OPENFOOTBALL_LEAGUES.find((l) => l.slug === "nga.1")!;
 assert.equal(nigeria.seasonMode, "split");
