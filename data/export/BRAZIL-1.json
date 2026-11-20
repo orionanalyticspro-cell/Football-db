@@ -6,60 +6,628 @@
   "country": "Brazil",
   "level": 1
  },
- "season": "unknown",
- "updated": "2026-11-20T10:38:17.351Z",
- "standings": [],
- "form": [],
- "recent": [],
- "upcoming": [
+ "season": "2026",
+ "updated": "2026-11-20T13:04:38.945Z",
+ "standings": [
   {
-   "date": "2026-11-19",
-   "kickoff_utc": "2026-11-19T00:30:00.000Z",
-   "home": "Corinthians",
-   "away": "Botafogo RJ",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
+   "position": 1,
+   "team": "Palmeiras",
+   "played": 39,
+   "won": 25,
+   "drawn": 10,
+   "lost": 4,
+   "goals_for": 76,
+   "goals_against": 28,
+   "goal_diff": 48,
+   "points": 85,
+   "flag": null
   },
   {
-   "date": "2026-11-19",
-   "kickoff_utc": "2026-11-19T00:30:00.000Z",
-   "home": "Gremio",
-   "away": "Bahia",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
+   "position": 2,
+   "team": "Flamengo",
+   "played": 36,
+   "won": 25,
+   "drawn": 7,
+   "lost": 4,
+   "goals_for": 75,
+   "goals_against": 30,
+   "goal_diff": 45,
+   "points": 82,
+   "flag": null
+  },
+  {
+   "position": 3,
+   "team": "Cruzeiro",
+   "played": 37,
+   "won": 20,
+   "drawn": 6,
+   "lost": 11,
+   "goals_for": 59,
+   "goals_against": 52,
+   "goal_diff": 7,
+   "points": 66,
+   "flag": null
+  },
+  {
+   "position": 4,
+   "team": "Fluminense",
+   "played": 37,
+   "won": 17,
+   "drawn": 9,
+   "lost": 11,
+   "goals_for": 59,
+   "goals_against": 47,
+   "goal_diff": 12,
+   "points": 60,
+   "flag": null
+  },
+  {
+   "position": 5,
+   "team": "Athletico-PR",
+   "played": 36,
+   "won": 16,
+   "drawn": 9,
+   "lost": 11,
+   "goals_for": 54,
+   "goals_against": 46,
+   "goal_diff": 8,
+   "points": 57,
+   "flag": null
+  },
+  {
+   "position": 6,
+   "team": "Bahia",
+   "played": 36,
+   "won": 15,
+   "drawn": 12,
+   "lost": 9,
+   "goals_for": 51,
+   "goals_against": 45,
+   "goal_diff": 6,
+   "points": 57,
+   "flag": null
+  },
+  {
+   "position": 7,
+   "team": "Atletico-MG",
+   "played": 35,
+   "won": 14,
+   "drawn": 9,
+   "lost": 12,
+   "goals_for": 44,
+   "goals_against": 40,
+   "goal_diff": 4,
+   "points": 51,
+   "flag": null
+  },
+  {
+   "position": 8,
+   "team": "Santos",
+   "played": 35,
+   "won": 13,
+   "drawn": 11,
+   "lost": 11,
+   "goals_for": 51,
+   "goals_against": 49,
+   "goal_diff": 2,
+   "points": 50,
+   "flag": null
+  },
+  {
+   "position": 9,
+   "team": "Vasco da Gama",
+   "played": 37,
+   "won": 14,
+   "drawn": 8,
+   "lost": 15,
+   "goals_for": 50,
+   "goals_against": 54,
+   "goal_diff": -4,
+   "points": 50,
+   "flag": null
+  },
+  {
+   "position": 10,
+   "team": "Bragantino",
+   "played": 35,
+   "won": 13,
+   "drawn": 8,
+   "lost": 14,
+   "goals_for": 45,
+   "goals_against": 41,
+   "goal_diff": 4,
+   "points": 47,
+   "flag": null
+  },
+  {
+   "position": 11,
+   "team": "Sao Paulo",
+   "played": 36,
+   "won": 12,
+   "drawn": 8,
+   "lost": 16,
+   "goals_for": 40,
+   "goals_against": 42,
+   "goal_diff": -2,
+   "points": 44,
+   "flag": null
+  },
+  {
+   "position": 12,
+   "team": "Botafogo RJ",
+   "played": 35,
+   "won": 11,
+   "drawn": 9,
+   "lost": 15,
+   "goals_for": 46,
+   "goals_against": 57,
+   "goal_diff": -11,
+   "points": 42,
+   "flag": null
+  },
+  {
+   "position": 13,
+   "team": "Coritiba",
+   "played": 35,
+   "won": 11,
+   "drawn": 9,
+   "lost": 15,
+   "goals_for": 40,
+   "goals_against": 52,
+   "goal_diff": -12,
+   "points": 42,
+   "flag": null
+  },
+  {
+   "position": 14,
+   "team": "Mirassol",
+   "played": 35,
+   "won": 10,
+   "drawn": 11,
+   "lost": 14,
+   "goals_for": 39,
+   "goals_against": 48,
+   "goal_diff": -9,
+   "points": 41,
+   "flag": null
+  },
+  {
+   "position": 15,
+   "team": "Vitoria",
+   "played": 37,
+   "won": 11,
+   "drawn": 8,
+   "lost": 18,
+   "goals_for": 38,
+   "goals_against": 61,
+   "goal_diff": -23,
+   "points": 41,
+   "flag": null
+  },
+  {
+   "position": 16,
+   "team": "Corinthians",
+   "played": 35,
+   "won": 10,
+   "drawn": 10,
+   "lost": 15,
+   "goals_for": 40,
+   "goals_against": 42,
+   "goal_diff": -2,
+   "points": 40,
+   "flag": null
+  },
+  {
+   "position": 17,
+   "team": "Internacional",
+   "played": 36,
+   "won": 9,
+   "drawn": 11,
+   "lost": 16,
+   "goals_for": 40,
+   "goals_against": 46,
+   "goal_diff": -6,
+   "points": 38,
+   "flag": null
+  },
+  {
+   "position": 18,
+   "team": "Gremio",
+   "played": 36,
+   "won": 9,
+   "drawn": 11,
+   "lost": 16,
+   "goals_for": 39,
+   "goals_against": 49,
+   "goal_diff": -10,
+   "points": 38,
+   "flag": null
+  },
+  {
+   "position": 19,
+   "team": "Remo",
+   "played": 35,
+   "won": 7,
+   "drawn": 11,
+   "lost": 17,
+   "goals_for": 39,
+   "goals_against": 57,
+   "goal_diff": -18,
+   "points": 32,
+   "flag": null
+  },
+  {
+   "position": 20,
+   "team": "Chapecoense-SC",
+   "played": 35,
+   "won": 4,
+   "drawn": 9,
+   "lost": 22,
+   "goals_for": 33,
+   "goals_against": 72,
+   "goal_diff": -39,
+   "points": 21,
+   "flag": null
+  }
+ ],
+ "form": [
+  {
+   "team": "Vasco da Gama",
+   "last5": "WWWLW"
+  },
+  {
+   "team": "Flamengo",
+   "last5": "WWWWW"
+  },
+  {
+   "team": "Palmeiras",
+   "last5": "LWDWW"
+  },
+  {
+   "team": "Botafogo RJ",
+   "last5": "LWLLW"
+  },
+  {
+   "team": "Sao Paulo",
+   "last5": "LDLDW"
+  },
+  {
+   "team": "Corinthians",
+   "last5": "WDWLD"
+  },
+  {
+   "team": "Fluminense",
+   "last5": "WWWLL"
+  },
+  {
+   "team": "Internacional",
+   "last5": "LWLWL"
+  },
+  {
+   "team": "Coritiba",
+   "last5": "LLWLL"
+  },
+  {
+   "team": "Atletico-MG",
+   "last5": "DLLLW"
+  },
+  {
+   "team": "Bahia",
+   "last5": "DLWDL"
+  },
+  {
+   "team": "Santos",
+   "last5": "WLDDW"
+  },
+  {
+   "team": "Cruzeiro",
+   "last5": "WWWWW"
+  },
+  {
+   "team": "Gremio",
+   "last5": "DLWWL"
+  },
+  {
+   "team": "Vitoria",
+   "last5": "WLLDD"
+  },
+  {
+   "team": "Athletico-PR",
+   "last5": "LLLDL"
+  },
+  {
+   "team": "Chapecoense-SC",
+   "last5": "LLLLW"
+  },
+  {
+   "team": "Bragantino",
+   "last5": "LWWLD"
+  },
+  {
+   "team": "Mirassol",
+   "last5": "DWLDW"
+  },
+  {
+   "team": "Remo",
+   "last5": "WLWLD"
+  }
+ ],
+ "recent": [
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T00:30:00.000Z",
+   "home": "Sao Paulo",
+   "away": "Fluminense",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
   },
   {
    "date": "2026-11-19",
    "kickoff_utc": "2026-11-19T22:30:00.000Z",
    "home": "Vasco da Gama",
    "away": "Internacional",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
   },
   {
    "date": "2026-11-19",
    "kickoff_utc": "2026-11-19T22:30:00.000Z",
    "home": "Vitoria",
    "away": "Bragantino",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
   },
   {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T00:30:00.000Z",
-   "home": "Sao Paulo",
-   "away": "Fluminense",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
+   "date": "2026-11-19",
+   "kickoff_utc": "2026-11-19T00:30:00.000Z",
+   "home": "Corinthians",
+   "away": "Botafogo RJ",
+   "home_goals": 4,
+   "away_goals": 0,
+   "status": "finished"
   },
+  {
+   "date": "2026-11-19",
+   "kickoff_utc": "2026-11-19T00:30:00.000Z",
+   "home": "Gremio",
+   "away": "Bahia",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-18",
+   "kickoff_utc": "2026-11-18T15:00:00.000Z",
+   "home": "Flamengo",
+   "away": "Athletico-PR",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-18",
+   "kickoff_utc": "2026-11-18T15:00:00.000Z",
+   "home": "Coritiba",
+   "away": "Santos",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-18",
+   "kickoff_utc": "2026-11-18T15:00:00.000Z",
+   "home": "Cruzeiro",
+   "away": "Palmeiras",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-18",
+   "kickoff_utc": "2026-11-18T15:00:00.000Z",
+   "home": "Remo",
+   "away": "Chapecoense-SC",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-14",
+   "kickoff_utc": "2026-11-14T23:30:00.000Z",
+   "home": "Chapecoense-SC",
+   "away": "Vasco da Gama",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-14",
+   "kickoff_utc": "2026-11-14T21:30:00.000Z",
+   "home": "Mirassol",
+   "away": "Atletico-MG",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-06",
+   "kickoff_utc": "2026-11-06T23:00:00.000Z",
+   "home": "Vitoria",
+   "away": "Fluminense",
+   "home_goals": 0,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-06",
+   "kickoff_utc": "2026-11-06T00:30:00.000Z",
+   "home": "Cruzeiro",
+   "away": "Bahia",
+   "home_goals": 3,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-05",
+   "kickoff_utc": "2026-11-05T22:30:00.000Z",
+   "home": "Palmeiras",
+   "away": "Remo",
+   "home_goals": 6,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-05",
+   "kickoff_utc": "2026-11-05T00:30:00.000Z",
+   "home": "Botafogo RJ",
+   "away": "Atletico-MG",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-05",
+   "kickoff_utc": "2026-11-05T00:30:00.000Z",
+   "home": "Sao Paulo",
+   "away": "Corinthians",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-04",
+   "kickoff_utc": "2026-11-04T15:00:00.000Z",
+   "home": "Flamengo",
+   "away": "Gremio",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-04",
+   "kickoff_utc": "2026-11-04T15:00:00.000Z",
+   "home": "Internacional",
+   "away": "Coritiba",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-04",
+   "kickoff_utc": "2026-11-04T15:00:00.000Z",
+   "home": "Athletico-PR",
+   "away": "Vasco da Gama",
+   "home_goals": 1,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-03",
+   "kickoff_utc": "2026-11-03T22:30:00.000Z",
+   "home": "Chapecoense-SC",
+   "away": "Mirassol",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-02",
+   "kickoff_utc": "2026-11-02T23:00:00.000Z",
+   "home": "Bragantino",
+   "away": "Santos",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T19:00:00.000Z",
+   "home": "Coritiba",
+   "away": "Vitoria",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-30",
+   "kickoff_utc": "2026-10-30T23:00:00.000Z",
+   "home": "Corinthians",
+   "away": "Mirassol",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-30",
+   "kickoff_utc": "2026-10-30T00:30:00.000Z",
+   "home": "Gremio",
+   "away": "Athletico-PR",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-29",
+   "kickoff_utc": "2026-10-29T23:00:00.000Z",
+   "home": "Vasco da Gama",
+   "away": "Flamengo",
+   "home_goals": 1,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-29",
+   "kickoff_utc": "2026-10-29T22:30:00.000Z",
+   "home": "Atletico-MG",
+   "away": "Cruzeiro",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-29",
+   "kickoff_utc": "2026-10-29T00:30:00.000Z",
+   "home": "Bahia",
+   "away": "Sao Paulo",
+   "home_goals": 3,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-29",
+   "kickoff_utc": "2026-10-29T00:30:00.000Z",
+   "home": "Remo",
+   "away": "Botafogo RJ",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-28",
+   "kickoff_utc": "2026-10-28T15:00:00.000Z",
+   "home": "Fluminense",
+   "away": "Internacional",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-28",
+   "kickoff_utc": "2026-10-28T15:00:00.000Z",
+   "home": "Santos",
+   "away": "Palmeiras",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  }
+ ],
+ "upcoming": [
   {
    "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T19:30:00.000Z",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
    "home": "Palmeiras",
    "away": "Flamengo",
    "home_goals": null,
@@ -68,61 +636,7 @@
   },
   {
    "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T20:30:00.000Z",
-   "home": "Bahia",
-   "away": "Coritiba",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T00:00:00.000Z",
-   "home": "Chapecoense-SC",
-   "away": "Cruzeiro",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T19:00:00.000Z",
-   "home": "Athletico-PR",
-   "away": "Remo",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T21:30:00.000Z",
-   "home": "Fluminense",
-   "away": "Mirassol",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T22:30:00.000Z",
-   "home": "Bragantino",
-   "away": "Vasco da Gama",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-23",
-   "kickoff_utc": "2026-11-23T22:30:00.000Z",
-   "home": "Internacional",
-   "away": "Vitoria",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-23",
-   "kickoff_utc": "2026-11-23T23:00:00.000Z",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
    "home": "Botafogo RJ",
    "away": "Sao Paulo",
    "home_goals": null,
@@ -130,10 +644,253 @@
    "status": "scheduled"
   },
   {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T00:00:00.000Z",
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Fluminense",
+   "away": "Mirassol",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Internacional",
+   "away": "Vitoria",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Atletico-MG",
+   "away": "Corinthians",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Bahia",
+   "away": "Coritiba",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
    "home": "Santos",
    "away": "Gremio",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Athletico-PR",
+   "away": "Remo",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Chapecoense-SC",
+   "away": "Cruzeiro",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Bragantino",
+   "away": "Vasco da Gama",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Botafogo RJ",
+   "away": "Bahia",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Sao Paulo",
+   "away": "Remo",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Corinthians",
+   "away": "Gremio",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Fluminense",
+   "away": "Cruzeiro",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Internacional",
+   "away": "Bragantino",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Coritiba",
+   "away": "Flamengo",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Atletico-MG",
+   "away": "Vasco da Gama",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Vitoria",
+   "away": "Santos",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Chapecoense-SC",
+   "away": "Palmeiras",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Mirassol",
+   "away": "Athletico-PR",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-02",
+   "kickoff_utc": "2026-12-02T15:00:00.000Z",
+   "home": "Vasco da Gama",
+   "away": "Vitoria",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-02",
+   "kickoff_utc": "2026-12-02T15:00:00.000Z",
+   "home": "Flamengo",
+   "away": "Chapecoense-SC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-02",
+   "kickoff_utc": "2026-12-02T15:00:00.000Z",
+   "home": "Palmeiras",
+   "away": "Coritiba",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-02",
+   "kickoff_utc": "2026-12-02T15:00:00.000Z",
+   "home": "Bahia",
+   "away": "Atletico-MG",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-02",
+   "kickoff_utc": "2026-12-02T15:00:00.000Z",
+   "home": "Santos",
+   "away": "Botafogo RJ",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-02",
+   "kickoff_utc": "2026-12-02T15:00:00.000Z",
+   "home": "Cruzeiro",
+   "away": "Internacional",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-02",
+   "kickoff_utc": "2026-12-02T15:00:00.000Z",
+   "home": "Gremio",
+   "away": "Mirassol",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-02",
+   "kickoff_utc": "2026-12-02T15:00:00.000Z",
+   "home": "Athletico-PR",
+   "away": "Sao Paulo",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-02",
+   "kickoff_utc": "2026-12-02T15:00:00.000Z",
+   "home": "Bragantino",
+   "away": "Fluminense",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-02",
+   "kickoff_utc": "2026-12-02T15:00:00.000Z",
+   "home": "Remo",
+   "away": "Corinthians",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

@@ -7,7 +7,7 @@
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-20T10:38:18.996Z",
+ "updated": "2026-11-20T13:04:40.608Z",
  "standings": [
   {
    "position": 1,
@@ -424,51 +424,6 @@
   {
    "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T15:00:00.000Z",
-   "home": "West Bromwich Albion",
-   "away": "Millwall",
-   "home_goals": 3,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T15:00:00.000Z",
-   "home": "Blackburn",
-   "away": "West Ham United",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T15:00:00.000Z",
-   "home": "Preston",
-   "away": "Southampton",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T15:00:00.000Z",
-   "home": "Cardiff",
-   "away": "Burnley",
-   "home_goals": 5,
-   "away_goals": 4,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T15:00:00.000Z",
-   "home": "Watford",
-   "away": "Middlesbrough",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T15:00:00.000Z",
    "home": "QPR",
    "away": "Lincoln",
    "home_goals": 2,
@@ -477,25 +432,52 @@
   },
   {
    "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T15:00:00.000Z",
-   "home": "Birmingham",
-   "away": "Swansea",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T15:00:00.000Z",
-   "home": "Charlton",
-   "away": "Sheffield United",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T12:30:00.000Z",
+   "home": "Wrexham",
+   "away": "Wolverhampton Wanderers",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T12:00:00.000Z",
+   "home": "West Bromwich Albion",
+   "away": "Millwall",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T12:00:00.000Z",
+   "home": "Blackburn",
+   "away": "West Ham United",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T12:00:00.000Z",
+   "home": "Preston",
+   "away": "Southampton",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T12:00:00.000Z",
+   "home": "Cardiff",
+   "away": "Burnley",
+   "home_goals": 5,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T12:00:00.000Z",
    "home": "Bristol City",
    "away": "Norwich",
    "home_goals": 0,
@@ -504,7 +486,7 @@
   },
   {
    "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T12:30:00.000Z",
+   "kickoff_utc": "2026-11-07T12:00:00.000Z",
    "home": "Portsmouth",
    "away": "Stoke",
    "home_goals": 1,
@@ -513,10 +495,28 @@
   },
   {
    "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T12:30:00.000Z",
-   "home": "Wrexham",
-   "away": "Wolverhampton Wanderers",
-   "home_goals": 1,
+   "kickoff_utc": "2026-11-07T12:00:00.000Z",
+   "home": "Watford",
+   "away": "Middlesbrough",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T12:00:00.000Z",
+   "home": "Birmingham",
+   "away": "Swansea",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T12:00:00.000Z",
+   "home": "Charlton",
+   "away": "Sheffield United",
+   "home_goals": 2,
    "away_goals": 1,
    "status": "finished"
   },
@@ -549,7 +549,7 @@
   },
   {
    "date": "2026-11-04",
-   "kickoff_utc": "2026-11-04T19:45:00.000Z",
+   "kickoff_utc": "2026-11-04T12:00:00.000Z",
    "home": "Wrexham",
    "away": "Middlesbrough",
    "home_goals": 2,
@@ -567,60 +567,6 @@
   },
   {
    "date": "2026-11-03",
-   "kickoff_utc": "2026-11-03T20:00:00.000Z",
-   "home": "Birmingham",
-   "away": "Millwall",
-   "home_goals": 3,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-03",
-   "kickoff_utc": "2026-11-03T19:45:00.000Z",
-   "home": "Blackburn",
-   "away": "Stoke",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-03",
-   "kickoff_utc": "2026-11-03T19:45:00.000Z",
-   "home": "Derby",
-   "away": "Norwich",
-   "home_goals": 0,
-   "away_goals": 4,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-03",
-   "kickoff_utc": "2026-11-03T19:45:00.000Z",
-   "home": "Preston",
-   "away": "Sheffield United",
-   "home_goals": 2,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-03",
-   "kickoff_utc": "2026-11-03T19:45:00.000Z",
-   "home": "Portsmouth",
-   "away": "Swansea",
-   "home_goals": 3,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-03",
-   "kickoff_utc": "2026-11-03T19:45:00.000Z",
-   "home": "Watford",
-   "away": "Lincoln",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-03",
    "kickoff_utc": "2026-11-03T19:45:00.000Z",
    "home": "QPR",
    "away": "Burnley",
@@ -630,7 +576,61 @@
   },
   {
    "date": "2026-11-03",
-   "kickoff_utc": "2026-11-03T19:45:00.000Z",
+   "kickoff_utc": "2026-11-03T12:00:00.000Z",
+   "home": "Blackburn",
+   "away": "Stoke",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-03",
+   "kickoff_utc": "2026-11-03T12:00:00.000Z",
+   "home": "Derby",
+   "away": "Norwich",
+   "home_goals": 0,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-03",
+   "kickoff_utc": "2026-11-03T12:00:00.000Z",
+   "home": "Preston",
+   "away": "Sheffield United",
+   "home_goals": 2,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-03",
+   "kickoff_utc": "2026-11-03T12:00:00.000Z",
+   "home": "Portsmouth",
+   "away": "Swansea",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-03",
+   "kickoff_utc": "2026-11-03T12:00:00.000Z",
+   "home": "Watford",
+   "away": "Lincoln",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-03",
+   "kickoff_utc": "2026-11-03T12:00:00.000Z",
+   "home": "Birmingham",
+   "away": "Millwall",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-03",
+   "kickoff_utc": "2026-11-03T12:00:00.000Z",
    "home": "Charlton",
    "away": "Bolton",
    "home_goals": 0,
@@ -648,7 +648,16 @@
   },
   {
    "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
+   "kickoff_utc": "2026-10-31T12:30:00.000Z",
+   "home": "Stoke",
+   "away": "Preston",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-31",
+   "kickoff_utc": "2026-10-31T12:00:00.000Z",
    "home": "West Ham United",
    "away": "West Bromwich Albion",
    "home_goals": 1,
@@ -657,7 +666,7 @@
   },
   {
    "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
+   "kickoff_utc": "2026-10-31T12:00:00.000Z",
    "home": "Southampton",
    "away": "QPR",
    "home_goals": 4,
@@ -666,7 +675,7 @@
   },
   {
    "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
+   "kickoff_utc": "2026-10-31T12:00:00.000Z",
    "home": "Burnley",
    "away": "Portsmouth",
    "home_goals": 0,
@@ -675,24 +684,96 @@
   },
   {
    "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
+   "kickoff_utc": "2026-10-31T12:00:00.000Z",
    "home": "Middlesbrough",
    "away": "Charlton",
    "home_goals": 3,
    "away_goals": 0,
    "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Swansea",
-   "away": "Blackburn",
-   "home_goals": 4,
-   "away_goals": 0,
-   "status": "finished"
   }
  ],
  "upcoming": [
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Wolverhampton Wanderers",
+   "away": "Charlton",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "West Ham United",
+   "away": "Preston",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Southampton",
+   "away": "Derby",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Middlesbrough",
+   "away": "Bristol City",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Millwall",
+   "away": "QPR",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Norwich",
+   "away": "Cardiff",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Stoke",
+   "away": "Birmingham",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Bolton",
+   "away": "Portsmouth",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Lincoln",
+   "away": "Wrexham",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
   {
    "date": "2026-11-21",
    "kickoff_utc": "2026-11-21T12:30:00.000Z",
@@ -704,90 +785,9 @@
   },
   {
    "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T12:30:00.000Z",
-   "home": "Southampton",
-   "away": "Derby",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T12:30:00.000Z",
-   "home": "Millwall",
-   "away": "QPR",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T12:30:00.000Z",
-   "home": "Norwich",
-   "away": "Cardiff",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T15:00:00.000Z",
-   "home": "Wolverhampton Wanderers",
-   "away": "Charlton",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T15:00:00.000Z",
-   "home": "West Ham United",
-   "away": "Preston",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T15:00:00.000Z",
-   "home": "Middlesbrough",
-   "away": "Bristol City",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
    "kickoff_utc": "2026-11-21T15:00:00.000Z",
    "home": "Swansea",
    "away": "West Bromwich Albion",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T15:00:00.000Z",
-   "home": "Stoke",
-   "away": "Birmingham",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T15:00:00.000Z",
-   "home": "Bolton",
-   "away": "Portsmouth",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T15:00:00.000Z",
-   "home": "Lincoln",
-   "away": "Wrexham",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -797,6 +797,60 @@
    "kickoff_utc": "2026-11-22T12:00:00.000Z",
    "home": "Burnley",
    "away": "Blackburn",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T12:00:00.000Z",
+   "home": "Sheffield United",
+   "away": "Southampton",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T12:00:00.000Z",
+   "home": "Bristol City",
+   "away": "Wrexham",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T12:00:00.000Z",
+   "home": "Portsmouth",
+   "away": "West Ham United",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T12:00:00.000Z",
+   "home": "Middlesbrough",
+   "away": "Swansea",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T12:00:00.000Z",
+   "home": "Norwich",
+   "away": "QPR",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T12:00:00.000Z",
+   "home": "Charlton",
+   "away": "Lincoln",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -815,6 +869,24 @@
    "kickoff_utc": "2026-11-24T20:00:00.000Z",
    "home": "Wolverhampton Wanderers",
    "away": "Derby",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-25",
+   "kickoff_utc": "2026-11-25T12:00:00.000Z",
+   "home": "Burnley",
+   "away": "Birmingham",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-25",
+   "kickoff_utc": "2026-11-25T12:00:00.000Z",
+   "home": "Bolton",
+   "away": "West Bromwich Albion",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -848,117 +920,45 @@
   },
   {
    "date": "2026-11-28",
-   "kickoff_utc": "2026-11-28T12:30:00.000Z",
-   "home": "Blackburn",
-   "away": "Charlton",
+   "kickoff_utc": "2026-11-28T12:00:00.000Z",
+   "home": "West Ham United",
+   "away": "Stoke",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
   },
   {
    "date": "2026-11-28",
-   "kickoff_utc": "2026-11-28T15:00:00.000Z",
-   "home": "Wrexham",
-   "away": "Portsmouth",
+   "kickoff_utc": "2026-11-28T12:00:00.000Z",
+   "home": "West Bromwich Albion",
+   "away": "Bristol City",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
   },
   {
-   "date": "2026-11-29",
-   "kickoff_utc": "2026-11-29T12:00:00.000Z",
-   "home": "Swansea",
-   "away": "Cardiff",
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T12:00:00.000Z",
+   "home": "Derby",
+   "away": "Watford",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
   },
   {
-   "date": "2026-12-04",
-   "kickoff_utc": "2026-12-04T20:00:00.000Z",
-   "home": "Sheffield United",
-   "away": "West Ham United",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-05",
-   "kickoff_utc": "2026-12-05T12:30:00.000Z",
-   "home": "Bristol City",
-   "away": "Swansea",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-05",
-   "kickoff_utc": "2026-12-05T15:00:00.000Z",
-   "home": "Cardiff",
-   "away": "Lincoln",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-06",
-   "kickoff_utc": "2026-12-06T12:00:00.000Z",
-   "home": "Burnley",
-   "away": "Preston",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-08",
-   "kickoff_utc": "2026-12-08T19:45:00.000Z",
-   "home": "Blackburn",
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T12:00:00.000Z",
+   "home": "Preston",
    "away": "Norwich",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
   },
   {
-   "date": "2026-12-08",
-   "kickoff_utc": "2026-12-08T20:45:00.000Z",
-   "home": "West Ham United",
-   "away": "Middlesbrough",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-09",
-   "kickoff_utc": "2026-12-09T19:45:00.000Z",
-   "home": "Preston",
-   "away": "Portsmouth",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-09",
-   "kickoff_utc": "2026-12-09T20:00:00.000Z",
-   "home": "Southampton",
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T12:00:00.000Z",
+   "home": "Millwall",
    "away": "Burnley",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-11",
-   "kickoff_utc": "2026-12-11T20:00:00.000Z",
-   "home": "Bolton",
-   "away": "Wrexham",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-12",
-   "kickoff_utc": "2026-12-12T12:30:00.000Z",
-   "home": "Preston",
-   "away": "Middlesbrough",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

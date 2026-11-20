@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-20T10:38:20.997Z",
+ "updated": "2026-11-20T13:04:42.648Z",
  "standings": [
   {
    "position": 1,
@@ -358,24 +358,6 @@
   {
    "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T14:30:00.000Z",
-   "home": "Borussia Dortmund",
-   "away": "Elversberg",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T14:30:00.000Z",
-   "home": "Mainz",
-   "away": "Bayern Munich",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T14:30:00.000Z",
    "home": "RB Leipzig",
    "away": "Augsburg",
    "home_goals": 5,
@@ -384,7 +366,25 @@
   },
   {
    "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T14:30:00.000Z",
+   "kickoff_utc": "2026-11-07T11:00:00.000Z",
+   "home": "Borussia Dortmund",
+   "away": "Elversberg",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T11:00:00.000Z",
+   "home": "Mainz",
+   "away": "Bayern Munich",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T11:00:00.000Z",
    "home": "Paderborn",
    "away": "Eintracht Frankfurt",
    "home_goals": 2,
@@ -438,7 +438,7 @@
   },
   {
    "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T14:30:00.000Z",
+   "kickoff_utc": "2026-10-31T11:00:00.000Z",
    "home": "Bayer Leverkusen",
    "away": "Stuttgart",
    "home_goals": 2,
@@ -447,7 +447,7 @@
   },
   {
    "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T14:30:00.000Z",
+   "kickoff_utc": "2026-10-31T11:00:00.000Z",
    "home": "Augsburg",
    "away": "Freiburg",
    "home_goals": 1,
@@ -456,7 +456,7 @@
   },
   {
    "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T14:30:00.000Z",
+   "kickoff_utc": "2026-10-31T11:00:00.000Z",
    "home": "Werder Bremen",
    "away": "Hoffenheim",
    "home_goals": 2,
@@ -465,7 +465,7 @@
   },
   {
    "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T14:30:00.000Z",
+   "kickoff_utc": "2026-10-31T11:00:00.000Z",
    "home": "Schalke 04",
    "away": "RB Leipzig",
    "home_goals": 0,
@@ -511,24 +511,6 @@
   {
    "date": "2026-10-24",
    "kickoff_utc": "2026-10-24T13:30:00.000Z",
-   "home": "1. FC Köln",
-   "away": "Schalke 04",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T13:30:00.000Z",
-   "home": "Augsburg",
-   "away": "Union Berlin",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T13:30:00.000Z",
    "home": "Mainz",
    "away": "Werder Bremen",
    "home_goals": 2,
@@ -537,7 +519,25 @@
   },
   {
    "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T13:30:00.000Z",
+   "kickoff_utc": "2026-10-24T10:00:00.000Z",
+   "home": "1. FC Köln",
+   "away": "Schalke 04",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T10:00:00.000Z",
+   "home": "Augsburg",
+   "away": "Union Berlin",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-10-24",
+   "kickoff_utc": "2026-10-24T10:00:00.000Z",
    "home": "RB Leipzig",
    "away": "Elversberg",
    "home_goals": 4,
@@ -546,7 +546,7 @@
   },
   {
    "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T13:30:00.000Z",
+   "kickoff_utc": "2026-10-24T10:00:00.000Z",
    "home": "Paderborn",
    "away": "Hamburg",
    "home_goals": 1,
@@ -602,7 +602,7 @@
   },
   {
    "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T14:30:00.000Z",
+   "kickoff_utc": "2026-11-21T11:00:00.000Z",
    "home": "Borussia Mönchengladbach",
    "away": "Borussia Dortmund",
    "home_goals": null,
@@ -611,9 +611,27 @@
   },
   {
    "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T14:30:00.000Z",
+   "kickoff_utc": "2026-11-21T11:00:00.000Z",
    "home": "Eintracht Frankfurt",
    "away": "Hoffenheim",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T11:00:00.000Z",
+   "home": "Union Berlin",
+   "away": "RB Leipzig",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T11:00:00.000Z",
+   "home": "Elversberg",
+   "away": "Freiburg",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -623,24 +641,6 @@
    "kickoff_utc": "2026-11-21T14:30:00.000Z",
    "home": "Bayer Leverkusen",
    "away": "Paderborn",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T14:30:00.000Z",
-   "home": "Union Berlin",
-   "away": "RB Leipzig",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T14:30:00.000Z",
-   "home": "Elversberg",
-   "away": "Freiburg",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -677,6 +677,33 @@
    "kickoff_utc": "2026-11-27T19:30:00.000Z",
    "home": "Werder Bremen",
    "away": "Borussia Mönchengladbach",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T11:00:00.000Z",
+   "home": "Mainz",
+   "away": "Union Berlin",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T11:00:00.000Z",
+   "home": "Hamburg",
+   "away": "Bayern Munich",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T11:00:00.000Z",
+   "home": "Paderborn",
+   "away": "Schalke 04",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -727,10 +754,109 @@
    "status": "scheduled"
   },
   {
-   "date": "2027-05-22",
-   "kickoff_utc": "2027-05-22T13:30:00.000Z",
-   "home": "RB Leipzig",
+   "date": "2026-12-05",
+   "kickoff_utc": "2026-12-05T11:00:00.000Z",
+   "home": "Eintracht Frankfurt",
+   "away": "Werder Bremen",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-05",
+   "kickoff_utc": "2026-12-05T11:00:00.000Z",
+   "home": "Bayer Leverkusen",
+   "away": "Borussia Mönchengladbach",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-05",
+   "kickoff_utc": "2026-12-05T11:00:00.000Z",
+   "home": "Bayern Munich",
+   "away": "Paderborn",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-05",
+   "kickoff_utc": "2026-12-05T11:00:00.000Z",
+   "home": "Augsburg",
+   "away": "1. FC Köln",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-05",
+   "kickoff_utc": "2026-12-05T11:00:00.000Z",
+   "home": "Freiburg",
    "away": "Hoffenheim",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-05",
+   "kickoff_utc": "2026-12-05T11:00:00.000Z",
+   "home": "Union Berlin",
+   "away": "Hamburg",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-05",
+   "kickoff_utc": "2026-12-05T11:00:00.000Z",
+   "home": "RB Leipzig",
+   "away": "Mainz",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-05",
+   "kickoff_utc": "2026-12-05T11:00:00.000Z",
+   "home": "Elversberg",
+   "away": "Stuttgart",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-05",
+   "kickoff_utc": "2026-12-05T11:00:00.000Z",
+   "home": "Schalke 04",
+   "away": "Borussia Dortmund",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-12",
+   "kickoff_utc": "2026-12-12T11:00:00.000Z",
+   "home": "Borussia Dortmund",
+   "away": "Augsburg",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-12",
+   "kickoff_utc": "2026-12-12T11:00:00.000Z",
+   "home": "Borussia Mönchengladbach",
+   "away": "Eintracht Frankfurt",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-12",
+   "kickoff_utc": "2026-12-12T11:00:00.000Z",
+   "home": "1. FC Köln",
+   "away": "RB Leipzig",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

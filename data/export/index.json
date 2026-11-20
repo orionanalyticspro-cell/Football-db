@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T10:38:28.044Z",
+ "updated": "2026-11-20T13:04:49.682Z",
  "competitions": [
   {
    "code": "ARGENTINA-1",
@@ -30,8 +30,8 @@
    "name": "Serie A",
    "country": "Brazil",
    "level": 1,
-   "season": "unknown",
-   "teams": 0
+   "season": "2026",
+   "teams": 20
   },
   {
    "code": "CHINA-1",
