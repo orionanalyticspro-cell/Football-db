@@ -47,6 +47,12 @@ export const OPENFOOTBALL_LEAGUES: OpenFootballLeague[] = [
   { slug: "mar.1", code: "MOROCCO-1", name: "Botola Pro", country: "Morocco", level: 1, repo: "openfootball/world", seasonDir: "africa/morocco", files: ["{season}_ma1.txt"], seasonMode: "split", timeZone: "Africa/Casablanca", yearFallback: 3, enabled: true },
   { slug: "gha.1", code: "GHANA-1", name: "Premier League", country: "Ghana", level: 1, repo: "openfootball/world", seasonDir: "africa/ghana", files: ["{season}_gh1.txt"], seasonMode: "split", timeZone: "Africa/Accra", yearFallback: 3, enabled: true },
   { slug: "rsa.1", code: "SOUTH-AFRICA-1", name: "Premier Division", country: "South Africa", level: 1, repo: "openfootball/world", seasonDir: "africa/south-africa", files: ["{season}_za1.txt"], seasonMode: "split", timeZone: "Africa/Johannesburg", yearFallback: 3, enabled: true },
+  { slug: "tan.1", code: "TANZANIA-1", name: "Premier League", country: "Tanzania", level: 1, repo: "openfootball/world", seasonDir: "africa/tanzania", files: ["{season}_tz1.txt"], seasonMode: "split", timeZone: "Africa/Dar_es_Salaam", yearFallback: 3, enabled: true },
+  { slug: "uga.1", code: "UGANDA-1", name: "Premier League", country: "Uganda", level: 1, repo: "openfootball/world", seasonDir: "africa/uganda", files: ["{season}_ug1.txt"], seasonMode: "split", timeZone: "Africa/Kampala", yearFallback: 3, enabled: true },
+  { slug: "zam.1", code: "ZAMBIA-1", name: "Super League", country: "Zambia", level: 1, repo: "openfootball/world", seasonDir: "africa/zambia", files: ["{season}_zm1.txt"], seasonMode: "split", timeZone: "Africa/Lusaka", yearFallback: 3, enabled: true },
+  { slug: "rwa.1", code: "RWANDA-1", name: "Premier League", country: "Rwanda", level: 1, repo: "openfootball/world", seasonDir: "africa/rwanda", files: ["{season}_rw1.txt"], seasonMode: "split", timeZone: "Africa/Kigali", yearFallback: 3, enabled: true },
+  { slug: "chn.1", code: "CHINA-1", name: "Super League", country: "China", level: 1, repo: "openfootball/world", seasonDir: "asia/china", files: ["{year}_cn1.txt"], seasonMode: "calendar", timeZone: "Asia/Shanghai", yearFallback: 3, enabled: true },
+  { slug: "jpn.1", code: "JAPAN-1", name: "J1 League", country: "Japan", level: 1, repo: "openfootball/world", seasonDir: "asia/japan", files: ["{year}_jp1.txt"], seasonMode: "calendar", timeZone: "Asia/Tokyo", yearFallback: 3, enabled: true },
 ];
 
 const MONTHS: Record<string, number> = { Jan: 0, Feb: 1, Mar: 2, Apr: 3, May: 4, Jun: 5, Jul: 6, Aug: 7, Sep: 8, Oct: 9, Nov: 10, Dec: 11 };
@@ -74,21 +80,36 @@ export function parseOpenFootballText(text: string, lg: OpenFootballLeague): Mat
   const out: MatchInput[] = [];
   let year: number | null = null;
   let date: Date | null = null;
+  let previousMonth: number | null = null;
   for (const raw of text.split(/\r?\n/)) {
     const line = raw.trim();
     const dateLine = line.match(/^(?:(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\s+)?([A-Z][a-z]{2})\s+(\d{1,2})(?:\s+(\d{4}))?$/);
     if (dateLine) {
       const month = MONTHS[dateLine[1]];
       if (dateLine[3]) year = Number(dateLine[3]);
-      if (year !== null && month !== undefined) date = new Date(Date.UTC(year, month, Number(dateLine[2])));
+      else if (year !== null && previousMonth !== null && previousMonth >= 10 && month !== undefined && month <= 1) year++;
+      if (year !== null && month !== undefined) {
+        date = new Date(Date.UTC(year, month, Number(dateLine[2])));
+        previousMonth = month;
+      }
       continue;
     }
-    const match = line.match(/^([0-2]?\d:[0-5]\d)\s+(.+?)\s+v\s+(.+?)(?:\s+(\d+)-(\d+)(?:\s+\(\d+-\d+\))?)?\s*$/);
-    if (!match || !date) continue;
-    const [, time, homeName, awayName, hg, ag] = match;
+
+    const timed = line.match(/^([0-2]?\d:[0-5]\d)\s+(.+)$/);
+    const time = timed?.[1] ?? "12:00";
+    const fixture = (timed?.[2] ?? line).match(/^(.+?)\s+v\s+(.+?)(?:\s+(\d+)-(\d+)(?:\s+\(\d+-\d+\))?)?(?:\s+\[([^\]]+)\])?\s*$/);
+    if (!fixture || !date) continue;
+    const [, homeName, awayName, hg, ag, annotation] = fixture;
+    if (annotation && /cancelled|abandoned|postponed/i.test(annotation)) continue;
     const finished = hg !== undefined && ag !== undefined;
     const kickoffUtc = kickoffIso(date, time, lg.timeZone);
-    out.push({ competition: { code: lg.code, name: lg.name, country: lg.country, level: lg.level }, season: seasonFor(new Date(kickoffUtc), lg.seasonMode), kickoffUtc, homeName: homeName.trim(), awayName: awayName.trim(), homeGoals: finished ? Number(hg) : null, awayGoals: finished ? Number(ag) : null, status: finished ? "finished" : "scheduled", source: SOURCE_OPENFOOTBALL });
+    out.push({
+      competition: { code: lg.code, name: lg.name, country: lg.country, level: lg.level },
+      season: seasonFor(date, lg.seasonMode), kickoffUtc,
+      homeName: homeName.trim(), awayName: awayName.trim(),
+      homeGoals: finished ? Number(hg) : null, awayGoals: finished ? Number(ag) : null,
+      status: finished ? "finished" : "scheduled", source: SOURCE_OPENFOOTBALL,
+    });
   }
   return out;
 }
@@ -100,7 +121,7 @@ export async function fetchOpenFootball(lg: OpenFootballLeague, date = new Date(
   const split = openFootballSeasonDir(date, "split");
   for (let offset = 0; offset <= (lg.yearFallback ?? 0); offset++) {
     const year = String(currentYear - offset);
-    const season = lg.seasonMode === "calendar" ? year : (lg.yearFallback && offset ? openFootballSeasonDir(new Date(Date.UTC(currentYear - offset, 6, 1)), "split") : split);
+    const season = lg.seasonMode === "calendar" ? year : openFootballSeasonDir(new Date(Date.UTC(currentYear - offset, 6, 1)), "split");
     for (const fileTemplate of lg.files) {
       const file = fileTemplate.replaceAll("{season}", season).replaceAll("{year}", year);
       const path = lg.seasonDir ? `${lg.seasonDir}/${file}` : file;
