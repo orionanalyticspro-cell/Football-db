@@ -6,555 +6,83 @@
   "country": "Norway",
   "level": 1
  },
- "season": "2026",
- "updated": "2026-11-20T07:09:55.164Z",
- "standings": [
+ "season": "unknown",
+ "updated": "2026-11-20T10:38:23.619Z",
+ "standings": [],
+ "form": [],
+ "recent": [],
+ "upcoming": [
   {
-   "position": 1,
-   "team": "Viking",
-   "played": 26,
-   "won": 20,
-   "drawn": 2,
-   "lost": 4,
-   "goals_for": 69,
-   "goals_against": 27,
-   "goal_diff": 42,
-   "points": 62,
-   "flag": null
-  },
-  {
-   "position": 2,
-   "team": "Bodo/Glimt",
-   "played": 26,
-   "won": 20,
-   "drawn": 2,
-   "lost": 4,
-   "goals_for": 63,
-   "goals_against": 23,
-   "goal_diff": 40,
-   "points": 62,
-   "flag": null
-  },
-  {
-   "position": 3,
-   "team": "Rosenborg",
-   "played": 26,
-   "won": 14,
-   "drawn": 4,
-   "lost": 8,
-   "goals_for": 53,
-   "goals_against": 32,
-   "goal_diff": 21,
-   "points": 46,
-   "flag": null
-  },
-  {
-   "position": 4,
-   "team": "Lillestrom",
-   "played": 26,
-   "won": 14,
-   "drawn": 3,
-   "lost": 9,
-   "goals_for": 39,
-   "goals_against": 35,
-   "goal_diff": 4,
-   "points": 45,
-   "flag": null
-  },
-  {
-   "position": 5,
-   "team": "Molde",
-   "played": 26,
-   "won": 13,
-   "drawn": 5,
-   "lost": 8,
-   "goals_for": 64,
-   "goals_against": 44,
-   "goal_diff": 20,
-   "points": 44,
-   "flag": null
-  },
-  {
-   "position": 6,
-   "team": "Tromso",
-   "played": 26,
-   "won": 11,
-   "drawn": 7,
-   "lost": 8,
-   "goals_for": 43,
-   "goals_against": 40,
-   "goal_diff": 3,
-   "points": 40,
-   "flag": null
-  },
-  {
-   "position": 7,
-   "team": "Brann",
-   "played": 26,
-   "won": 10,
-   "drawn": 3,
-   "lost": 13,
-   "goals_for": 47,
-   "goals_against": 44,
-   "goal_diff": 3,
-   "points": 33,
-   "flag": null
-  },
-  {
-   "position": 8,
-   "team": "Valerenga",
-   "played": 26,
-   "won": 9,
-   "drawn": 5,
-   "lost": 12,
-   "goals_for": 43,
-   "goals_against": 47,
-   "goal_diff": -4,
-   "points": 32,
-   "flag": null
-  },
-  {
-   "position": 9,
-   "team": "Sarpsborg 08",
-   "played": 26,
-   "won": 8,
-   "drawn": 7,
-   "lost": 11,
-   "goals_for": 32,
-   "goals_against": 42,
-   "goal_diff": -10,
-   "points": 31,
-   "flag": null
-  },
-  {
-   "position": 10,
-   "team": "KFUM Oslo",
-   "played": 26,
-   "won": 8,
-   "drawn": 7,
-   "lost": 11,
-   "goals_for": 33,
-   "goals_against": 46,
-   "goal_diff": -13,
-   "points": 31,
-   "flag": null
-  },
-  {
-   "position": 11,
-   "team": "HamKam",
-   "played": 26,
-   "won": 8,
-   "drawn": 6,
-   "lost": 12,
-   "goals_for": 38,
-   "goals_against": 53,
-   "goal_diff": -15,
-   "points": 30,
-   "flag": null
-  },
-  {
-   "position": 12,
-   "team": "Fredrikstad",
-   "played": 26,
-   "won": 8,
-   "drawn": 6,
-   "lost": 12,
-   "goals_for": 31,
-   "goals_against": 46,
-   "goal_diff": -15,
-   "points": 30,
-   "flag": null
-  },
-  {
-   "position": 13,
-   "team": "Sandefjord",
-   "played": 26,
-   "won": 7,
-   "drawn": 7,
-   "lost": 12,
-   "goals_for": 31,
-   "goals_against": 39,
-   "goal_diff": -8,
-   "points": 28,
-   "flag": null
-  },
-  {
-   "position": 14,
-   "team": "Kristiansund",
-   "played": 26,
-   "won": 7,
-   "drawn": 5,
-   "lost": 14,
-   "goals_for": 30,
-   "goals_against": 51,
-   "goal_diff": -21,
-   "points": 26,
-   "flag": null
-  },
-  {
-   "position": 15,
-   "team": "Aalesund",
-   "played": 26,
-   "won": 5,
-   "drawn": 9,
-   "lost": 12,
-   "goals_for": 45,
-   "goals_against": 60,
-   "goal_diff": -15,
-   "points": 24,
-   "flag": null
-  },
-  {
-   "position": 16,
-   "team": "Start",
-   "played": 26,
-   "won": 5,
-   "drawn": 4,
-   "lost": 17,
-   "goals_for": 27,
-   "goals_against": 59,
-   "goal_diff": -32,
-   "points": 19,
-   "flag": null
-  }
- ],
- "form": [
-  {
-   "team": "Molde",
-   "last5": "DLWWD"
-  },
-  {
-   "team": "Lillestrom",
-   "last5": "WWWWD"
-  },
-  {
-   "team": "Aalesund",
-   "last5": "LLLWL"
-  },
-  {
-   "team": "Tromso",
-   "last5": "LLLDD"
-  },
-  {
-   "team": "Fredrikstad",
-   "last5": "DLLLD"
-  },
-  {
-   "team": "Valerenga",
-   "last5": "LWWWL"
-  },
-  {
-   "team": "Rosenborg",
-   "last5": "WWWWD"
-  },
-  {
-   "team": "Brann",
-   "last5": "DWLLL"
-  },
-  {
-   "team": "Viking",
-   "last5": "WLWWW"
-  },
-  {
-   "team": "Sarpsborg 08",
-   "last5": "LLWLW"
-  },
-  {
-   "team": "Start",
-   "last5": "LLWLL"
-  },
-  {
-   "team": "Bodo/Glimt",
-   "last5": "WWLWW"
-  },
-  {
-   "team": "Sandefjord",
-   "last5": "DWLLD"
-  },
-  {
-   "team": "Kristiansund",
-   "last5": "WWDLL"
-  },
-  {
-   "team": "HamKam",
-   "last5": "WDLLW"
-  },
-  {
-   "team": "KFUM Oslo",
-   "last5": "LDDDW"
-  }
- ],
- "recent": [
-  {
-   "date": "2026-11-09",
-   "kickoff_utc": "2026-11-09T18:00:00.000Z",
-   "home": "Kristiansund",
-   "away": "Valerenga",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T18:15:00.000Z",
-   "home": "Fredrikstad",
-   "away": "Brann",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T16:00:00.000Z",
-   "home": "Lillestrom",
-   "away": "Aalesund",
-   "home_goals": 3,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T16:00:00.000Z",
-   "home": "Viking",
-   "away": "KFUM Oslo",
-   "home_goals": 5,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T16:00:00.000Z",
-   "home": "Sandefjord",
-   "away": "Molde",
-   "home_goals": 5,
-   "away_goals": 5,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T16:00:00.000Z",
-   "home": "HamKam",
-   "away": "Sarpsborg 08",
-   "home_goals": 3,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T13:30:00.000Z",
-   "home": "Tromso",
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T18:00:00.000Z",
+   "home": "Molde",
    "away": "Bodo/Glimt",
-   "home_goals": 0,
-   "away_goals": 2,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T17:00:00.000Z",
-   "home": "Rosenborg",
-   "away": "Start",
-   "home_goals": 4,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T18:15:00.000Z",
-   "home": "Valerenga",
-   "away": "Tromso",
-   "home_goals": 4,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T16:00:00.000Z",
-   "home": "Sarpsborg 08",
-   "away": "Kristiansund",
-   "home_goals": 2,
-   "away_goals": 4,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T16:00:00.000Z",
-   "home": "Start",
-   "away": "Lillestrom",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T16:00:00.000Z",
-   "home": "KFUM Oslo",
-   "away": "HamKam",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T13:30:00.000Z",
-   "home": "Brann",
-   "away": "Molde",
-   "home_goals": 3,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T17:00:00.000Z",
-   "home": "Aalesund",
-   "away": "Sandefjord",
-   "home_goals": 3,
-   "away_goals": 4,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Fredrikstad",
-   "away": "Rosenborg",
-   "home_goals": 0,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-30",
-   "kickoff_utc": "2026-10-30T18:00:00.000Z",
-   "home": "Bodo/Glimt",
-   "away": "Viking",
-   "home_goals": 3,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T18:15:00.000Z",
-   "home": "Molde",
-   "away": "Fredrikstad",
-   "home_goals": 5,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T16:00:00.000Z",
-   "home": "Lillestrom",
-   "away": "Brann",
-   "home_goals": 3,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T16:00:00.000Z",
-   "home": "Sarpsborg 08",
-   "away": "Aalesund",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T16:00:00.000Z",
-   "home": "Start",
-   "away": "Sandefjord",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T16:00:00.000Z",
-   "home": "Kristiansund",
-   "away": "KFUM Oslo",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T13:30:00.000Z",
-   "home": "Viking",
-   "away": "Tromso",
-   "home_goals": 3,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T16:00:00.000Z",
-   "home": "HamKam",
-   "away": "Rosenborg",
-   "home_goals": 0,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T14:00:00.000Z",
-   "home": "Bodo/Glimt",
-   "away": "Valerenga",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T17:15:00.000Z",
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T13:00:00.000Z",
    "home": "Tromso",
-   "away": "KFUM Oslo",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
+   "away": "Viking",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T15:00:00.000Z",
-   "home": "Molde",
-   "away": "Start",
-   "home_goals": 6,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T15:00:00.000Z",
-   "home": "Valerenga",
-   "away": "Brann",
-   "home_goals": 3,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T15:00:00.000Z",
-   "home": "Sandefjord",
-   "away": "Lillestrom",
-   "home_goals": 0,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T12:30:00.000Z",
-   "home": "Sarpsborg 08",
-   "away": "Rosenborg",
-   "home_goals": 0,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-17",
-   "kickoff_utc": "2026-10-17T16:00:00.000Z",
-   "home": "Viking",
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "HamKam",
    "away": "Fredrikstad",
-   "home_goals": 3,
-   "away_goals": 2,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T17:00:00.000Z",
+   "home": "Valerenga",
+   "away": "Start",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T16:00:00.000Z",
+   "home": "Aalesund",
+   "away": "Rosenborg",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T16:00:00.000Z",
+   "home": "Kristiansund",
+   "away": "Sandefjord",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T16:00:00.000Z",
+   "home": "KFUM Oslo",
+   "away": "Brann",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T18:15:00.000Z",
+   "home": "Sarpsborg 08",
+   "away": "Lillestrom",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   }
- ],
- "upcoming": []
+ ]
 }

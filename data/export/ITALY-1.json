@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-20T07:09:54.373Z",
+ "updated": "2026-11-20T10:38:22.160Z",
  "standings": [
   {
    "position": 1,
@@ -624,5 +624,105 @@
    "status": "finished"
   }
  ],
- "upcoming": []
+ "upcoming": [
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T14:00:00.000Z",
+   "home": "Lazio",
+   "away": "Lecce",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T14:00:00.000Z",
+   "home": "Como",
+   "away": "Cagliari",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T17:00:00.000Z",
+   "home": "Parma",
+   "away": "Roma",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T19:45:00.000Z",
+   "home": "Napoli",
+   "away": "Torino",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T11:30:00.000Z",
+   "home": "Juventus",
+   "away": "Venezia",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T11:30:00.000Z",
+   "home": "Sassuolo",
+   "away": "Genoa",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T14:00:00.000Z",
+   "home": "Milan",
+   "away": "Frosinone",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T17:00:00.000Z",
+   "home": "Bologna",
+   "away": "Udinese",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T19:45:00.000Z",
+   "home": "Atalanta",
+   "away": "Inter",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T17:30:00.000Z",
+   "home": "Monza",
+   "away": "Fiorentina",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T19:45:00.000Z",
+   "home": "Juventus",
+   "away": "Venezia",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  }
+ ]
 }

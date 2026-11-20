@@ -6,555 +6,83 @@
   "country": "Sweden",
   "level": 1
  },
- "season": "2026",
- "updated": "2026-11-20T07:09:56.875Z",
- "standings": [
+ "season": "unknown",
+ "updated": "2026-11-20T10:38:27.167Z",
+ "standings": [],
+ "form": [],
+ "recent": [],
+ "upcoming": [
   {
-   "position": 1,
-   "team": "Hammarby",
-   "played": 28,
-   "won": 18,
-   "drawn": 4,
-   "lost": 6,
-   "goals_for": 60,
-   "goals_against": 23,
-   "goal_diff": 37,
-   "points": 58,
-   "flag": null
-  },
-  {
-   "position": 2,
-   "team": "Sirius",
-   "played": 28,
-   "won": 18,
-   "drawn": 4,
-   "lost": 6,
-   "goals_for": 58,
-   "goals_against": 35,
-   "goal_diff": 23,
-   "points": 58,
-   "flag": null
-  },
-  {
-   "position": 3,
-   "team": "Djurgarden",
-   "played": 28,
-   "won": 16,
-   "drawn": 4,
-   "lost": 8,
-   "goals_for": 56,
-   "goals_against": 27,
-   "goal_diff": 29,
-   "points": 52,
-   "flag": null
-  },
-  {
-   "position": 4,
-   "team": "Hacken",
-   "played": 28,
-   "won": 13,
-   "drawn": 10,
-   "lost": 5,
-   "goals_for": 50,
-   "goals_against": 33,
-   "goal_diff": 17,
-   "points": 49,
-   "flag": null
-  },
-  {
-   "position": 5,
-   "team": "Elfsborg",
-   "played": 28,
-   "won": 12,
-   "drawn": 10,
-   "lost": 6,
-   "goals_for": 42,
-   "goals_against": 31,
-   "goal_diff": 11,
-   "points": 46,
-   "flag": null
-  },
-  {
-   "position": 6,
-   "team": "Vasteras SK",
-   "played": 28,
-   "won": 13,
-   "drawn": 6,
-   "lost": 9,
-   "goals_for": 40,
-   "goals_against": 38,
-   "goal_diff": 2,
-   "points": 45,
-   "flag": null
-  },
-  {
-   "position": 7,
-   "team": "Malmo FF",
-   "played": 28,
-   "won": 12,
-   "drawn": 5,
-   "lost": 11,
-   "goals_for": 42,
-   "goals_against": 36,
-   "goal_diff": 6,
-   "points": 41,
-   "flag": null
-  },
-  {
-   "position": 8,
-   "team": "AIK",
-   "played": 28,
-   "won": 11,
-   "drawn": 8,
-   "lost": 9,
-   "goals_for": 46,
-   "goals_against": 49,
-   "goal_diff": -3,
-   "points": 41,
-   "flag": null
-  },
-  {
-   "position": 9,
-   "team": "GAIS",
-   "played": 28,
-   "won": 11,
-   "drawn": 7,
-   "lost": 10,
-   "goals_for": 36,
-   "goals_against": 28,
-   "goal_diff": 8,
-   "points": 40,
-   "flag": null
-  },
-  {
-   "position": 10,
-   "team": "Goteborg",
-   "played": 28,
-   "won": 10,
-   "drawn": 9,
-   "lost": 9,
-   "goals_for": 36,
-   "goals_against": 46,
-   "goal_diff": -10,
-   "points": 39,
-   "flag": null
-  },
-  {
-   "position": 11,
-   "team": "Brommapojkarna",
-   "played": 28,
-   "won": 9,
-   "drawn": 8,
-   "lost": 11,
-   "goals_for": 39,
-   "goals_against": 44,
-   "goal_diff": -5,
-   "points": 35,
-   "flag": null
-  },
-  {
-   "position": 12,
-   "team": "Mjallby",
-   "played": 28,
-   "won": 6,
-   "drawn": 10,
-   "lost": 12,
-   "goals_for": 30,
-   "goals_against": 43,
-   "goal_diff": -13,
-   "points": 28,
-   "flag": null
-  },
-  {
-   "position": 13,
-   "team": "Kalmar",
-   "played": 28,
-   "won": 7,
-   "drawn": 5,
-   "lost": 16,
-   "goals_for": 24,
-   "goals_against": 42,
-   "goal_diff": -18,
-   "points": 26,
-   "flag": null
-  },
-  {
-   "position": 14,
-   "team": "Degerfors",
-   "played": 28,
-   "won": 5,
-   "drawn": 5,
-   "lost": 18,
-   "goals_for": 23,
-   "goals_against": 48,
-   "goal_diff": -25,
-   "points": 20,
-   "flag": null
-  },
-  {
-   "position": 15,
-   "team": "Orgryte",
-   "played": 28,
-   "won": 4,
-   "drawn": 8,
-   "lost": 16,
-   "goals_for": 33,
-   "goals_against": 60,
-   "goal_diff": -27,
-   "points": 20,
-   "flag": null
-  },
-  {
-   "position": 16,
-   "team": "Halmstad",
-   "played": 28,
-   "won": 5,
-   "drawn": 5,
-   "lost": 18,
-   "goals_for": 20,
-   "goals_against": 52,
-   "goal_diff": -32,
-   "points": 20,
-   "flag": null
-  }
- ],
- "form": [
-  {
-   "team": "Elfsborg",
-   "last5": "LWDDD"
-  },
-  {
-   "team": "Djurgarden",
-   "last5": "LWDDW"
-  },
-  {
-   "team": "GAIS",
-   "last5": "WWWDL"
-  },
-  {
-   "team": "Hacken",
-   "last5": "LWDWW"
-  },
-  {
-   "team": "Kalmar",
-   "last5": "WDLLW"
-  },
-  {
-   "team": "AIK",
-   "last5": "WLDWD"
-  },
-  {
-   "team": "Mjallby",
-   "last5": "DDWLL"
-  },
-  {
-   "team": "Goteborg",
-   "last5": "DLDDD"
-  },
-  {
-   "team": "Malmo FF",
-   "last5": "DLWDL"
-  },
-  {
-   "team": "Halmstad",
-   "last5": "WLLWL"
-  },
-  {
-   "team": "Brommapojkarna",
-   "last5": "DLDWL"
-  },
-  {
-   "team": "Hammarby",
-   "last5": "WWWWW"
-  },
-  {
-   "team": "Sirius",
-   "last5": "LWLLD"
-  },
-  {
-   "team": "Degerfors",
-   "last5": "LLLLL"
-  },
-  {
-   "team": "Vasteras SK",
-   "last5": "DWWLW"
-  },
-  {
-   "team": "Orgryte",
-   "last5": "DLLDW"
-  }
- ],
- "recent": [
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T15:30:00.000Z",
-   "home": "Kalmar",
-   "away": "Sirius",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T15:30:00.000Z",
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T14:00:00.000Z",
    "home": "AIK",
-   "away": "Hacken",
-   "home_goals": 3,
-   "away_goals": 2,
-   "status": "finished"
+   "away": "Degerfors",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T15:30:00.000Z",
-   "home": "Brommapojkarna",
-   "away": "Mjallby",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T13:00:00.000Z",
-   "home": "Goteborg",
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T14:00:00.000Z",
+   "home": "Mjallby",
    "away": "Malmo FF",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T13:00:00.000Z",
-   "home": "Halmstad",
-   "away": "Djurgarden",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T16:30:00.000Z",
-   "home": "Degerfors",
-   "away": "GAIS",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T16:30:00.000Z",
-   "home": "Orgryte",
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T16:30:00.000Z",
+   "home": "GAIS",
    "away": "Vasteras SK",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-11-06",
-   "kickoff_utc": "2026-11-06T18:00:00.000Z",
-   "home": "Hammarby",
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T13:00:00.000Z",
+   "home": "Hacken",
    "away": "Elfsborg",
-   "home_goals": 4,
-   "away_goals": 1,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-11-03",
-   "kickoff_utc": "2026-11-03T18:00:00.000Z",
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T13:00:00.000Z",
    "home": "Sirius",
+   "away": "Djurgarden",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T15:30:00.000Z",
+   "home": "Brommapojkarna",
    "away": "Halmstad",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-11-02",
-   "kickoff_utc": "2026-11-02T18:00:00.000Z",
-   "home": "GAIS",
-   "away": "AIK",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-02",
-   "kickoff_utc": "2026-11-02T18:00:00.000Z",
-   "home": "Mjallby",
-   "away": "Kalmar",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T15:30:00.000Z",
-   "home": "Elfsborg",
-   "away": "Orgryte",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T15:30:00.000Z",
-   "home": "Hacken",
-   "away": "Goteborg",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T15:30:00.000Z",
-   "home": "Vasteras SK",
-   "away": "Brommapojkarna",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T13:00:00.000Z",
-   "home": "Djurgarden",
-   "away": "Degerfors",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T13:00:00.000Z",
-   "home": "Malmo FF",
-   "away": "Hammarby",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-29",
-   "kickoff_utc": "2026-10-29T18:00:00.000Z",
-   "home": "Kalmar",
-   "away": "GAIS",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-29",
-   "kickoff_utc": "2026-10-29T18:00:00.000Z",
-   "home": "Orgryte",
-   "away": "Mjallby",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-29",
-   "kickoff_utc": "2026-10-29T17:45:00.000Z",
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T18:00:00.000Z",
    "home": "Hammarby",
-   "away": "Sirius",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-28",
-   "kickoff_utc": "2026-10-28T18:00:00.000Z",
-   "home": "Goteborg",
-   "away": "Djurgarden",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-28",
-   "kickoff_utc": "2026-10-28T18:00:00.000Z",
-   "home": "Halmstad",
-   "away": "Malmo FF",
-   "home_goals": 0,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-28",
-   "kickoff_utc": "2026-10-28T18:00:00.000Z",
-   "home": "Brommapojkarna",
-   "away": "Hacken",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-28",
-   "kickoff_utc": "2026-10-28T18:00:00.000Z",
-   "home": "Degerfors",
-   "away": "Vasteras SK",
-   "home_goals": 0,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-27",
-   "kickoff_utc": "2026-10-27T18:00:00.000Z",
-   "home": "AIK",
-   "away": "Elfsborg",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T15:30:00.000Z",
-   "home": "Mjallby",
-   "away": "Hammarby",
-   "home_goals": 0,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T13:00:00.000Z",
-   "home": "GAIS",
    "away": "Goteborg",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T15:30:00.000Z",
-   "home": "Djurgarden",
-   "away": "Orgryte",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T15:30:00.000Z",
-   "home": "Kalmar",
-   "away": "Brommapojkarna",
-   "home_goals": 0,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T13:00:00.000Z",
-   "home": "Hacken",
-   "away": "Degerfors",
-   "home_goals": 4,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T13:00:00.000Z",
-   "home": "Sirius",
-   "away": "AIK",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T18:00:00.000Z",
+   "home": "Orgryte",
+   "away": "Kalmar",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   }
- ],
- "upcoming": []
+ ]
 }

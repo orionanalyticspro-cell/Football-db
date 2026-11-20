@@ -1,0 +1,492 @@
+{
+ "competition": {
+  "id": 41,
+  "code": "PARAGUAY-1",
+  "name": "Primera División",
+  "country": "Paraguay",
+  "level": 1
+ },
+ "season": "2025",
+ "updated": "2026-11-20T10:38:23.909Z",
+ "standings": [
+  {
+   "position": 1,
+   "team": "Libertad",
+   "played": 17,
+   "won": 10,
+   "drawn": 6,
+   "lost": 1,
+   "goals_for": 31,
+   "goals_against": 12,
+   "goal_diff": 19,
+   "points": 36,
+   "flag": null
+  },
+  {
+   "position": 2,
+   "team": "Guaraní",
+   "played": 17,
+   "won": 10,
+   "drawn": 2,
+   "lost": 5,
+   "goals_for": 21,
+   "goals_against": 15,
+   "goal_diff": 6,
+   "points": 32,
+   "flag": null
+  },
+  {
+   "position": 3,
+   "team": "Club Olimpia",
+   "played": 17,
+   "won": 8,
+   "drawn": 5,
+   "lost": 4,
+   "goals_for": 25,
+   "goals_against": 17,
+   "goal_diff": 8,
+   "points": 29,
+   "flag": null
+  },
+  {
+   "position": 4,
+   "team": "Cerro Porteño",
+   "played": 17,
+   "won": 8,
+   "drawn": 4,
+   "lost": 5,
+   "goals_for": 22,
+   "goals_against": 15,
+   "goal_diff": 7,
+   "points": 28,
+   "flag": null
+  },
+  {
+   "position": 5,
+   "team": "Sportivo Ameliano",
+   "played": 17,
+   "won": 5,
+   "drawn": 6,
+   "lost": 6,
+   "goals_for": 17,
+   "goals_against": 17,
+   "goal_diff": 0,
+   "points": 21,
+   "flag": null
+  },
+  {
+   "position": 6,
+   "team": "Deportivo Recoleta",
+   "played": 17,
+   "won": 5,
+   "drawn": 6,
+   "lost": 6,
+   "goals_for": 25,
+   "goals_against": 27,
+   "goal_diff": -2,
+   "points": 21,
+   "flag": null
+  },
+  {
+   "position": 7,
+   "team": "Sportivo Trinidense",
+   "played": 16,
+   "won": 4,
+   "drawn": 8,
+   "lost": 4,
+   "goals_for": 17,
+   "goals_against": 17,
+   "goal_diff": 0,
+   "points": 20,
+   "flag": null
+  },
+  {
+   "position": 8,
+   "team": "Atlético Tembetary",
+   "played": 17,
+   "won": 3,
+   "drawn": 8,
+   "lost": 6,
+   "goals_for": 13,
+   "goals_against": 18,
+   "goal_diff": -5,
+   "points": 17,
+   "flag": null
+  },
+  {
+   "position": 9,
+   "team": "General Caballero DJLM",
+   "played": 16,
+   "won": 4,
+   "drawn": 5,
+   "lost": 7,
+   "goals_for": 11,
+   "goals_against": 17,
+   "goal_diff": -6,
+   "points": 17,
+   "flag": null
+  },
+  {
+   "position": 10,
+   "team": "Sportivo Luqueño",
+   "played": 17,
+   "won": 3,
+   "drawn": 8,
+   "lost": 6,
+   "goals_for": 11,
+   "goals_against": 19,
+   "goal_diff": -8,
+   "points": 17,
+   "flag": null
+  },
+  {
+   "position": 11,
+   "team": "2 de Mayo",
+   "played": 17,
+   "won": 2,
+   "drawn": 9,
+   "lost": 6,
+   "goals_for": 12,
+   "goals_against": 21,
+   "goal_diff": -9,
+   "points": 15,
+   "flag": null
+  },
+  {
+   "position": 12,
+   "team": "Club Nacional",
+   "played": 17,
+   "won": 4,
+   "drawn": 3,
+   "lost": 10,
+   "goals_for": 12,
+   "goals_against": 22,
+   "goal_diff": -10,
+   "points": 15,
+   "flag": null
+  }
+ ],
+ "form": [
+  {
+   "team": "Sportivo Trinidense",
+   "last5": "DLLDW"
+  },
+  {
+   "team": "Sportivo Ameliano",
+   "last5": "WDWLD"
+  },
+  {
+   "team": "Sportivo Luqueño",
+   "last5": "DDLWD"
+  },
+  {
+   "team": "Atlético Tembetary",
+   "last5": "DDWLD"
+  },
+  {
+   "team": "2 de Mayo",
+   "last5": "DDLWL"
+  },
+  {
+   "team": "Club Nacional",
+   "last5": "LLDLL"
+  },
+  {
+   "team": "General Caballero DJLM",
+   "last5": "DLWDL"
+  },
+  {
+   "team": "Deportivo Recoleta",
+   "last5": "LLDDW"
+  },
+  {
+   "team": "Club Olimpia",
+   "last5": "WDWWD"
+  },
+  {
+   "team": "Guaraní",
+   "last5": "WWWLD"
+  },
+  {
+   "team": "Cerro Porteño",
+   "last5": "LWWWD"
+  },
+  {
+   "team": "Libertad",
+   "last5": "DDLDW"
+  }
+ ],
+ "recent": [
+  {
+   "date": "2025-05-04",
+   "kickoff_utc": "2025-05-04T22:15:00.000Z",
+   "home": "Libertad",
+   "away": "Atlético Tembetary",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-04",
+   "kickoff_utc": "2025-05-04T20:00:00.000Z",
+   "home": "Club Nacional",
+   "away": "Sportivo Ameliano",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-03",
+   "kickoff_utc": "2025-05-03T19:30:00.000Z",
+   "home": "Cerro Porteño",
+   "away": "Club Olimpia",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-02",
+   "kickoff_utc": "2025-05-02T22:15:00.000Z",
+   "home": "Deportivo Recoleta",
+   "away": "Guaraní",
+   "home_goals": 0,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-02",
+   "kickoff_utc": "2025-05-02T20:00:00.000Z",
+   "home": "2 de Mayo",
+   "away": "Sportivo Luqueño",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-28",
+   "kickoff_utc": "2025-04-28T22:15:00.000Z",
+   "home": "Deportivo Recoleta",
+   "away": "Cerro Porteño",
+   "home_goals": 1,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-28",
+   "kickoff_utc": "2025-04-28T20:00:00.000Z",
+   "home": "Sportivo Trinidense",
+   "away": "Club Olimpia",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-27",
+   "kickoff_utc": "2025-04-27T22:15:00.000Z",
+   "home": "Sportivo Ameliano",
+   "away": "Libertad",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-27",
+   "kickoff_utc": "2025-04-27T20:00:00.000Z",
+   "home": "Sportivo Luqueño",
+   "away": "General Caballero DJLM",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-26",
+   "kickoff_utc": "2025-04-26T21:00:00.000Z",
+   "home": "Guaraní",
+   "away": "Club Nacional",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-25",
+   "kickoff_utc": "2025-04-25T21:00:00.000Z",
+   "home": "Atlético Tembetary",
+   "away": "2 de Mayo",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-21",
+   "kickoff_utc": "2025-04-21T22:15:00.000Z",
+   "home": "Club Nacional",
+   "away": "Deportivo Recoleta",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-21",
+   "kickoff_utc": "2025-04-21T20:00:00.000Z",
+   "home": "2 de Mayo",
+   "away": "Sportivo Ameliano",
+   "home_goals": 1,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-20",
+   "kickoff_utc": "2025-04-20T22:15:00.000Z",
+   "home": "Cerro Porteño",
+   "away": "Sportivo Trinidense",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-20",
+   "kickoff_utc": "2025-04-20T20:00:00.000Z",
+   "home": "General Caballero DJLM",
+   "away": "Atlético Tembetary",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-19",
+   "kickoff_utc": "2025-04-19T22:15:00.000Z",
+   "home": "Club Olimpia",
+   "away": "Sportivo Luqueño",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-19",
+   "kickoff_utc": "2025-04-19T20:00:00.000Z",
+   "home": "Libertad",
+   "away": "Guaraní",
+   "home_goals": 1,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-16",
+   "kickoff_utc": "2025-04-16T22:30:00.000Z",
+   "home": "Atlético Tembetary",
+   "away": "Club Olimpia",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-16",
+   "kickoff_utc": "2025-04-16T20:15:00.000Z",
+   "home": "Guaraní",
+   "away": "2 de Mayo",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-16",
+   "kickoff_utc": "2025-04-16T18:00:00.000Z",
+   "home": "Sportivo Ameliano",
+   "away": "General Caballero DJLM",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-15",
+   "kickoff_utc": "2025-04-15T22:15:00.000Z",
+   "home": "Club Nacional",
+   "away": "Cerro Porteño",
+   "home_goals": 1,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-15",
+   "kickoff_utc": "2025-04-15T20:00:00.000Z",
+   "home": "Sportivo Luqueño",
+   "away": "Sportivo Trinidense",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-14",
+   "kickoff_utc": "2025-04-14T20:30:00.000Z",
+   "home": "Deportivo Recoleta",
+   "away": "Libertad",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-13",
+   "kickoff_utc": "2025-04-13T22:15:00.000Z",
+   "home": "General Caballero DJLM",
+   "away": "Guaraní",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-13",
+   "kickoff_utc": "2025-04-13T20:00:00.000Z",
+   "home": "Club Olimpia",
+   "away": "Sportivo Ameliano",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-12",
+   "kickoff_utc": "2025-04-12T20:30:00.000Z",
+   "home": "Cerro Porteño",
+   "away": "Sportivo Luqueño",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-11",
+   "kickoff_utc": "2025-04-11T20:30:00.000Z",
+   "home": "Libertad",
+   "away": "Club Nacional",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-10",
+   "kickoff_utc": "2025-04-10T22:15:00.000Z",
+   "home": "Sportivo Trinidense",
+   "away": "Atlético Tembetary",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-10",
+   "kickoff_utc": "2025-04-10T20:00:00.000Z",
+   "home": "2 de Mayo",
+   "away": "Deportivo Recoleta",
+   "home_goals": 0,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-06",
+   "kickoff_utc": "2025-04-06T22:30:00.000Z",
+   "home": "Club Nacional",
+   "away": "2 de Mayo",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  }
+ ],
+ "upcoming": []
+}

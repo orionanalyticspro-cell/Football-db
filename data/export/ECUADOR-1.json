@@ -1,0 +1,560 @@
+{
+ "competition": {
+  "id": 40,
+  "code": "ECUADOR-1",
+  "name": "Serie A",
+  "country": "Ecuador",
+  "level": 1
+ },
+ "season": "2025",
+ "updated": "2026-11-20T10:38:18.449Z",
+ "standings": [
+  {
+   "position": 1,
+   "team": "Barcelona",
+   "played": 10,
+   "won": 8,
+   "drawn": 0,
+   "lost": 2,
+   "goals_for": 16,
+   "goals_against": 11,
+   "goal_diff": 5,
+   "points": 24,
+   "flag": null
+  },
+  {
+   "position": 2,
+   "team": "Independiente del Valle",
+   "played": 11,
+   "won": 6,
+   "drawn": 3,
+   "lost": 2,
+   "goals_for": 21,
+   "goals_against": 10,
+   "goal_diff": 11,
+   "points": 21,
+   "flag": null
+  },
+  {
+   "position": 3,
+   "team": "Vinotinto",
+   "played": 11,
+   "won": 5,
+   "drawn": 3,
+   "lost": 3,
+   "goals_for": 19,
+   "goals_against": 12,
+   "goal_diff": 7,
+   "points": 18,
+   "flag": null
+  },
+  {
+   "position": 4,
+   "team": "Libertad de Loja",
+   "played": 10,
+   "won": 5,
+   "drawn": 3,
+   "lost": 2,
+   "goals_for": 18,
+   "goals_against": 14,
+   "goal_diff": 4,
+   "points": 18,
+   "flag": null
+  },
+  {
+   "position": 5,
+   "team": "LDU Quito",
+   "played": 10,
+   "won": 4,
+   "drawn": 4,
+   "lost": 2,
+   "goals_for": 16,
+   "goals_against": 8,
+   "goal_diff": 8,
+   "points": 16,
+   "flag": null
+  },
+  {
+   "position": 6,
+   "team": "Universidad Catolica",
+   "played": 11,
+   "won": 4,
+   "drawn": 4,
+   "lost": 3,
+   "goals_for": 18,
+   "goals_against": 12,
+   "goal_diff": 6,
+   "points": 16,
+   "flag": null
+  },
+  {
+   "position": 7,
+   "team": "Deportivo Cuenca",
+   "played": 11,
+   "won": 5,
+   "drawn": 1,
+   "lost": 5,
+   "goals_for": 9,
+   "goals_against": 11,
+   "goal_diff": -2,
+   "points": 16,
+   "flag": null
+  },
+  {
+   "position": 8,
+   "team": "Aucas",
+   "played": 10,
+   "won": 4,
+   "drawn": 3,
+   "lost": 3,
+   "goals_for": 15,
+   "goals_against": 13,
+   "goal_diff": 2,
+   "points": 15,
+   "flag": null
+  },
+  {
+   "position": 9,
+   "team": "Mushuc Runa",
+   "played": 11,
+   "won": 4,
+   "drawn": 3,
+   "lost": 4,
+   "goals_for": 15,
+   "goals_against": 14,
+   "goal_diff": 1,
+   "points": 15,
+   "flag": null
+  },
+  {
+   "position": 10,
+   "team": "Orense SC",
+   "played": 11,
+   "won": 4,
+   "drawn": 2,
+   "lost": 5,
+   "goals_for": 10,
+   "goals_against": 16,
+   "goal_diff": -6,
+   "points": 14,
+   "flag": null
+  },
+  {
+   "position": 11,
+   "team": "Emelec",
+   "played": 11,
+   "won": 3,
+   "drawn": 4,
+   "lost": 4,
+   "goals_for": 8,
+   "goals_against": 13,
+   "goal_diff": -5,
+   "points": 13,
+   "flag": null
+  },
+  {
+   "position": 12,
+   "team": "Macará",
+   "played": 11,
+   "won": 2,
+   "drawn": 4,
+   "lost": 5,
+   "goals_for": 8,
+   "goals_against": 11,
+   "goal_diff": -3,
+   "points": 10,
+   "flag": null
+  },
+  {
+   "position": 13,
+   "team": "Técnico Universitario",
+   "played": 11,
+   "won": 2,
+   "drawn": 4,
+   "lost": 5,
+   "goals_for": 10,
+   "goals_against": 16,
+   "goal_diff": -6,
+   "points": 10,
+   "flag": null
+  },
+  {
+   "position": 14,
+   "team": "Manta",
+   "played": 11,
+   "won": 2,
+   "drawn": 4,
+   "lost": 5,
+   "goals_for": 14,
+   "goals_against": 21,
+   "goal_diff": -7,
+   "points": 10,
+   "flag": null
+  },
+  {
+   "position": 15,
+   "team": "El Nacional",
+   "played": 11,
+   "won": 2,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 13,
+   "goals_against": 17,
+   "goal_diff": -4,
+   "points": 9,
+   "flag": null
+  },
+  {
+   "position": 16,
+   "team": "Delfín SC",
+   "played": 11,
+   "won": 1,
+   "drawn": 5,
+   "lost": 5,
+   "goals_for": 7,
+   "goals_against": 18,
+   "goal_diff": -11,
+   "points": 8,
+   "flag": null
+  }
+ ],
+ "form": [
+  {
+   "team": "Manta",
+   "last5": "LDLWD"
+  },
+  {
+   "team": "Barcelona",
+   "last5": "WWWLW"
+  },
+  {
+   "team": "Aucas",
+   "last5": "WLWDL"
+  },
+  {
+   "team": "Técnico Universitario",
+   "last5": "DWLLD"
+  },
+  {
+   "team": "Libertad de Loja",
+   "last5": "WWDLD"
+  },
+  {
+   "team": "Independiente del Valle",
+   "last5": "LWWWW"
+  },
+  {
+   "team": "Macará",
+   "last5": "LLDLL"
+  },
+  {
+   "team": "Orense SC",
+   "last5": "DLLWD"
+  },
+  {
+   "team": "LDU Quito",
+   "last5": "DDWLW"
+  },
+  {
+   "team": "Vinotinto",
+   "last5": "LLWWD"
+  },
+  {
+   "team": "El Nacional",
+   "last5": "DWLLW"
+  },
+  {
+   "team": "Deportivo Cuenca",
+   "last5": "WWLWL"
+  },
+  {
+   "team": "Emelec",
+   "last5": "WLWDD"
+  },
+  {
+   "team": "Universidad Catolica",
+   "last5": "DLWLW"
+  },
+  {
+   "team": "Mushuc Runa",
+   "last5": "WLLWD"
+  },
+  {
+   "team": "Delfín SC",
+   "last5": "DLDLD"
+  }
+ ],
+ "recent": [
+  {
+   "date": "2025-05-04",
+   "kickoff_utc": "2025-05-04T23:00:00.000Z",
+   "home": "Independiente del Valle",
+   "away": "Emelec",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-04",
+   "kickoff_utc": "2025-05-04T21:30:00.000Z",
+   "home": "Barcelona",
+   "away": "Vinotinto",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-04",
+   "kickoff_utc": "2025-05-04T18:00:00.000Z",
+   "home": "Delfín SC",
+   "away": "Orense SC",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-04",
+   "kickoff_utc": "2025-05-04T00:00:00.000Z",
+   "home": "Mushuc Runa",
+   "away": "Macará",
+   "home_goals": 4,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-03",
+   "kickoff_utc": "2025-05-03T21:30:00.000Z",
+   "home": "Técnico Universitario",
+   "away": "Universidad Catolica",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-03",
+   "kickoff_utc": "2025-05-03T19:00:00.000Z",
+   "home": "LDU Quito",
+   "away": "El Nacional",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-03",
+   "kickoff_utc": "2025-05-03T00:00:00.000Z",
+   "home": "Deportivo Cuenca",
+   "away": "Manta",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-29",
+   "kickoff_utc": "2025-04-29T00:00:00.000Z",
+   "home": "Libertad de Loja",
+   "away": "Universidad Catolica",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-27",
+   "kickoff_utc": "2025-04-27T23:00:00.000Z",
+   "home": "Emelec",
+   "away": "Técnico Universitario",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-27",
+   "kickoff_utc": "2025-04-27T20:30:00.000Z",
+   "home": "Orense SC",
+   "away": "Independiente del Valle",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-27",
+   "kickoff_utc": "2025-04-27T18:00:00.000Z",
+   "home": "Aucas",
+   "away": "Mushuc Runa",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-27",
+   "kickoff_utc": "2025-04-27T00:00:00.000Z",
+   "home": "Macará",
+   "away": "Barcelona",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-26",
+   "kickoff_utc": "2025-04-26T21:30:00.000Z",
+   "home": "Manta",
+   "away": "LDU Quito",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-26",
+   "kickoff_utc": "2025-04-26T19:00:00.000Z",
+   "home": "Vinotinto",
+   "away": "Deportivo Cuenca",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-26",
+   "kickoff_utc": "2025-04-26T00:00:00.000Z",
+   "home": "El Nacional",
+   "away": "Delfín SC",
+   "home_goals": 3,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-20",
+   "kickoff_utc": "2025-04-20T23:00:00.000Z",
+   "home": "Delfín SC",
+   "away": "Macará",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-20",
+   "kickoff_utc": "2025-04-20T20:30:00.000Z",
+   "home": "Universidad Catolica",
+   "away": "Orense SC",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-20",
+   "kickoff_utc": "2025-04-20T18:00:00.000Z",
+   "home": "Técnico Universitario",
+   "away": "Vinotinto",
+   "home_goals": 1,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-20",
+   "kickoff_utc": "2025-04-20T00:00:00.000Z",
+   "home": "Independiente del Valle",
+   "away": "Manta",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-19",
+   "kickoff_utc": "2025-04-19T21:30:00.000Z",
+   "home": "Deportivo Cuenca",
+   "away": "Emelec",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-19",
+   "kickoff_utc": "2025-04-19T19:00:00.000Z",
+   "home": "Libertad de Loja",
+   "away": "Mushuc Runa",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-19",
+   "kickoff_utc": "2025-04-19T00:00:00.000Z",
+   "home": "Barcelona",
+   "away": "El Nacional",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-18",
+   "kickoff_utc": "2025-04-18T21:30:00.000Z",
+   "home": "LDU Quito",
+   "away": "Aucas",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-16",
+   "kickoff_utc": "2025-04-16T00:00:00.000Z",
+   "home": "Aucas",
+   "away": "Universidad Catolica",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-15",
+   "kickoff_utc": "2025-04-15T00:00:00.000Z",
+   "home": "Orense SC",
+   "away": "Barcelona",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-14",
+   "kickoff_utc": "2025-04-14T21:30:00.000Z",
+   "home": "El Nacional",
+   "away": "Independiente del Valle",
+   "home_goals": 1,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-14",
+   "kickoff_utc": "2025-04-14T19:00:00.000Z",
+   "home": "Mushuc Runa",
+   "away": "LDU Quito",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-12",
+   "kickoff_utc": "2025-04-12T00:00:00.000Z",
+   "home": "Emelec",
+   "away": "Libertad de Loja",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-11",
+   "kickoff_utc": "2025-04-11T00:00:00.000Z",
+   "home": "Manta",
+   "away": "Técnico Universitario",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-10",
+   "kickoff_utc": "2025-04-10T21:30:00.000Z",
+   "home": "Macará",
+   "away": "Deportivo Cuenca",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  }
+ ],
+ "upcoming": []
+}

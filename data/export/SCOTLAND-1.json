@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-20T07:09:55.952Z",
+ "updated": "2026-11-20T10:38:25.374Z",
  "standings": [
   {
    "position": 1,
@@ -488,5 +488,60 @@
    "status": "finished"
   }
  ],
- "upcoming": []
+ "upcoming": [
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Hibernian",
+   "away": "Dundee United",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Celtic",
+   "away": "St Mirren",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Kilmarnock",
+   "away": "Aberdeen",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Falkirk",
+   "away": "St Johnstone",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T17:45:00.000Z",
+   "home": "Dundee",
+   "away": "Hearts",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T20:00:00.000Z",
+   "home": "Motherwell",
+   "away": "Rangers",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  }
+ ]
 }

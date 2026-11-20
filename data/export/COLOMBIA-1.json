@@ -1,0 +1,628 @@
+{
+ "competition": {
+  "id": 39,
+  "code": "COLOMBIA-1",
+  "name": "Primera A",
+  "country": "Colombia",
+  "level": 1
+ },
+ "season": "2025",
+ "updated": "2026-11-20T10:38:17.901Z",
+ "standings": [
+  {
+   "position": 1,
+   "team": "América de Cali",
+   "played": 18,
+   "won": 9,
+   "drawn": 6,
+   "lost": 3,
+   "goals_for": 25,
+   "goals_against": 12,
+   "goal_diff": 13,
+   "points": 33,
+   "flag": null
+  },
+  {
+   "position": 2,
+   "team": "Atlético Nacional",
+   "played": 17,
+   "won": 9,
+   "drawn": 5,
+   "lost": 3,
+   "goals_for": 32,
+   "goals_against": 15,
+   "goal_diff": 17,
+   "points": 32,
+   "flag": null
+  },
+  {
+   "position": 3,
+   "team": "Atlético Junior",
+   "played": 17,
+   "won": 8,
+   "drawn": 7,
+   "lost": 2,
+   "goals_for": 20,
+   "goals_against": 11,
+   "goal_diff": 9,
+   "points": 31,
+   "flag": null
+  },
+  {
+   "position": 4,
+   "team": "Millonarios",
+   "played": 16,
+   "won": 9,
+   "drawn": 3,
+   "lost": 4,
+   "goals_for": 23,
+   "goals_against": 13,
+   "goal_diff": 10,
+   "points": 30,
+   "flag": null
+  },
+  {
+   "position": 5,
+   "team": "Independiente Medellín",
+   "played": 16,
+   "won": 7,
+   "drawn": 8,
+   "lost": 1,
+   "goals_for": 17,
+   "goals_against": 6,
+   "goal_diff": 11,
+   "points": 29,
+   "flag": null
+  },
+  {
+   "position": 6,
+   "team": "Santa Fe",
+   "played": 17,
+   "won": 7,
+   "drawn": 6,
+   "lost": 4,
+   "goals_for": 23,
+   "goals_against": 16,
+   "goal_diff": 7,
+   "points": 27,
+   "flag": null
+  },
+  {
+   "position": 7,
+   "team": "Deportes Tolima",
+   "played": 16,
+   "won": 7,
+   "drawn": 6,
+   "lost": 3,
+   "goals_for": 22,
+   "goals_against": 15,
+   "goal_diff": 7,
+   "points": 27,
+   "flag": null
+  },
+  {
+   "position": 8,
+   "team": "Once Caldas",
+   "played": 16,
+   "won": 8,
+   "drawn": 2,
+   "lost": 6,
+   "goals_for": 19,
+   "goals_against": 18,
+   "goal_diff": 1,
+   "points": 26,
+   "flag": null
+  },
+  {
+   "position": 9,
+   "team": "Deportivo Pasto",
+   "played": 17,
+   "won": 7,
+   "drawn": 5,
+   "lost": 5,
+   "goals_for": 17,
+   "goals_against": 16,
+   "goal_diff": 1,
+   "points": 26,
+   "flag": null
+  },
+  {
+   "position": 10,
+   "team": "Deportivo Cali",
+   "played": 17,
+   "won": 5,
+   "drawn": 9,
+   "lost": 3,
+   "goals_for": 14,
+   "goals_against": 12,
+   "goal_diff": 2,
+   "points": 24,
+   "flag": null
+  },
+  {
+   "position": 11,
+   "team": "Alianza FC",
+   "played": 17,
+   "won": 6,
+   "drawn": 5,
+   "lost": 6,
+   "goals_for": 14,
+   "goals_against": 18,
+   "goal_diff": -4,
+   "points": 23,
+   "flag": null
+  },
+  {
+   "position": 12,
+   "team": "Deportivo Pereira",
+   "played": 16,
+   "won": 5,
+   "drawn": 6,
+   "lost": 5,
+   "goals_for": 18,
+   "goals_against": 19,
+   "goal_diff": -1,
+   "points": 21,
+   "flag": null
+  },
+  {
+   "position": 13,
+   "team": "Atlético Bucaramanga",
+   "played": 17,
+   "won": 5,
+   "drawn": 5,
+   "lost": 7,
+   "goals_for": 16,
+   "goals_against": 18,
+   "goal_diff": -2,
+   "points": 20,
+   "flag": null
+  },
+  {
+   "position": 14,
+   "team": "Envigado FC",
+   "played": 16,
+   "won": 5,
+   "drawn": 3,
+   "lost": 8,
+   "goals_for": 15,
+   "goals_against": 23,
+   "goal_diff": -8,
+   "points": 18,
+   "flag": null
+  },
+  {
+   "position": 15,
+   "team": "Llaneros FC",
+   "played": 17,
+   "won": 5,
+   "drawn": 2,
+   "lost": 10,
+   "goals_for": 16,
+   "goals_against": 22,
+   "goal_diff": -6,
+   "points": 17,
+   "flag": null
+  },
+  {
+   "position": 16,
+   "team": "Fortaleza FC",
+   "played": 17,
+   "won": 4,
+   "drawn": 5,
+   "lost": 8,
+   "goals_for": 10,
+   "goals_against": 22,
+   "goal_diff": -12,
+   "points": 17,
+   "flag": null
+  },
+  {
+   "position": 17,
+   "team": "Boyacá Chicó",
+   "played": 17,
+   "won": 2,
+   "drawn": 8,
+   "lost": 7,
+   "goals_for": 9,
+   "goals_against": 26,
+   "goal_diff": -17,
+   "points": 14,
+   "flag": null
+  },
+  {
+   "position": 18,
+   "team": "Águilas Doradas",
+   "played": 17,
+   "won": 1,
+   "drawn": 9,
+   "lost": 7,
+   "goals_for": 11,
+   "goals_against": 17,
+   "goal_diff": -6,
+   "points": 12,
+   "flag": null
+  },
+  {
+   "position": 19,
+   "team": "La Equidad",
+   "played": 17,
+   "won": 2,
+   "drawn": 4,
+   "lost": 11,
+   "goals_for": 12,
+   "goals_against": 24,
+   "goal_diff": -12,
+   "points": 10,
+   "flag": null
+  },
+  {
+   "position": 20,
+   "team": "Unión Magdalena",
+   "played": 16,
+   "won": 0,
+   "drawn": 8,
+   "lost": 8,
+   "goals_for": 12,
+   "goals_against": 22,
+   "goal_diff": -10,
+   "points": 8,
+   "flag": null
+  }
+ ],
+ "form": [
+  {
+   "team": "Boyacá Chicó",
+   "last5": "DLLDD"
+  },
+  {
+   "team": "Atlético Bucaramanga",
+   "last5": "LLDWW"
+  },
+  {
+   "team": "América de Cali",
+   "last5": "DWWLD"
+  },
+  {
+   "team": "Llaneros FC",
+   "last5": "WLLLW"
+  },
+  {
+   "team": "Atlético Nacional",
+   "last5": "DWLWD"
+  },
+  {
+   "team": "Once Caldas",
+   "last5": "WLWDW"
+  },
+  {
+   "team": "Santa Fe",
+   "last5": "WDLLD"
+  },
+  {
+   "team": "Deportivo Pereira",
+   "last5": "DWWDD"
+  },
+  {
+   "team": "Atlético Junior",
+   "last5": "DLWDD"
+  },
+  {
+   "team": "Deportivo Cali",
+   "last5": "DLWLD"
+  },
+  {
+   "team": "Alianza FC",
+   "last5": "WDLWW"
+  },
+  {
+   "team": "Independiente Medellín",
+   "last5": "DDWWL"
+  },
+  {
+   "team": "Águilas Doradas",
+   "last5": "DLDLD"
+  },
+  {
+   "team": "La Equidad",
+   "last5": "LLWLW"
+  },
+  {
+   "team": "Deportes Tolima",
+   "last5": "DWLDW"
+  },
+  {
+   "team": "Deportivo Pasto",
+   "last5": "WLWLD"
+  },
+  {
+   "team": "Fortaleza FC",
+   "last5": "LDWWL"
+  },
+  {
+   "team": "Envigado FC",
+   "last5": "LWWLD"
+  },
+  {
+   "team": "Unión Magdalena",
+   "last5": "LDDDL"
+  },
+  {
+   "team": "Millonarios",
+   "last5": "WDDWW"
+  }
+ ],
+ "recent": [
+  {
+   "date": "2025-05-05",
+   "kickoff_utc": "2025-05-05T01:30:00.000Z",
+   "home": "Águilas Doradas",
+   "away": "Deportivo Pereira",
+   "home_goals": 3,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-04",
+   "kickoff_utc": "2025-05-04T21:10:00.000Z",
+   "home": "Independiente Medellín",
+   "away": "Atlético Nacional",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-04",
+   "kickoff_utc": "2025-05-04T19:00:00.000Z",
+   "home": "Deportivo Pasto",
+   "away": "Fortaleza FC",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-04",
+   "kickoff_utc": "2025-05-04T01:20:00.000Z",
+   "home": "Atlético Junior",
+   "away": "América de Cali",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-03",
+   "kickoff_utc": "2025-05-03T23:10:00.000Z",
+   "home": "Deportivo Cali",
+   "away": "Deportes Tolima",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-03",
+   "kickoff_utc": "2025-05-03T21:00:00.000Z",
+   "home": "Llaneros FC",
+   "away": "Atlético Bucaramanga",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-03",
+   "kickoff_utc": "2025-05-03T00:00:00.000Z",
+   "home": "La Equidad",
+   "away": "Alianza FC",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-01",
+   "kickoff_utc": "2025-05-01T19:00:00.000Z",
+   "home": "Envigado FC",
+   "away": "Once Caldas",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2025-05-01",
+   "kickoff_utc": "2025-05-01T01:10:00.000Z",
+   "home": "Llaneros FC",
+   "away": "Santa Fe",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-30",
+   "kickoff_utc": "2025-04-30T23:00:00.000Z",
+   "home": "Águilas Doradas",
+   "away": "América de Cali",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-30",
+   "kickoff_utc": "2025-04-30T00:30:00.000Z",
+   "home": "Atlético Nacional",
+   "away": "Deportivo Pasto",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-28",
+   "kickoff_utc": "2025-04-28T01:30:00.000Z",
+   "home": "Atlético Bucaramanga",
+   "away": "Millonarios",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-27",
+   "kickoff_utc": "2025-04-27T23:20:00.000Z",
+   "home": "América de Cali",
+   "away": "Deportivo Cali",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-27",
+   "kickoff_utc": "2025-04-27T21:10:00.000Z",
+   "home": "Fortaleza FC",
+   "away": "Independiente Medellín",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-27",
+   "kickoff_utc": "2025-04-27T19:00:00.000Z",
+   "home": "Santa Fe",
+   "away": "Boyacá Chicó",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-27",
+   "kickoff_utc": "2025-04-27T01:30:00.000Z",
+   "home": "Deportivo Pereira",
+   "away": "Atlético Junior",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-26",
+   "kickoff_utc": "2025-04-26T23:20:00.000Z",
+   "home": "Deportes Tolima",
+   "away": "La Equidad",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-26",
+   "kickoff_utc": "2025-04-26T21:10:00.000Z",
+   "home": "Alianza FC",
+   "away": "Águilas Doradas",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-26",
+   "kickoff_utc": "2025-04-26T19:00:00.000Z",
+   "home": "Envigado FC",
+   "away": "Unión Magdalena",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-22",
+   "kickoff_utc": "2025-04-22T01:10:00.000Z",
+   "home": "Deportivo Pasto",
+   "away": "Águilas Doradas",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-21",
+   "kickoff_utc": "2025-04-21T23:00:00.000Z",
+   "home": "Boyacá Chicó",
+   "away": "Fortaleza FC",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-20",
+   "kickoff_utc": "2025-04-20T23:20:00.000Z",
+   "home": "Deportivo Cali",
+   "away": "Atlético Nacional",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-20",
+   "kickoff_utc": "2025-04-20T21:10:00.000Z",
+   "home": "Unión Magdalena",
+   "away": "Atlético Bucaramanga",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-20",
+   "kickoff_utc": "2025-04-20T19:00:00.000Z",
+   "home": "Envigado FC",
+   "away": "Deportes Tolima",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-20",
+   "kickoff_utc": "2025-04-20T01:20:00.000Z",
+   "home": "Independiente Medellín",
+   "away": "Once Caldas",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-19",
+   "kickoff_utc": "2025-04-19T23:10:00.000Z",
+   "home": "Atlético Junior",
+   "away": "Alianza FC",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-19",
+   "kickoff_utc": "2025-04-19T21:00:00.000Z",
+   "home": "La Equidad",
+   "away": "América de Cali",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-18",
+   "kickoff_utc": "2025-04-18T00:00:00.000Z",
+   "home": "Fortaleza FC",
+   "away": "Llaneros FC",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-17",
+   "kickoff_utc": "2025-04-17T21:00:00.000Z",
+   "home": "Atlético Bucaramanga",
+   "away": "Envigado FC",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2025-04-17",
+   "kickoff_utc": "2025-04-17T01:30:00.000Z",
+   "home": "América de Cali",
+   "away": "Millonarios",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  }
+ ],
+ "upcoming": []
+}

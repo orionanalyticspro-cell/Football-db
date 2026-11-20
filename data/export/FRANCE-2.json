@@ -7,7 +7,7 @@
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-20T07:09:53.588Z",
+ "updated": "2026-11-20T10:38:20.703Z",
  "standings": [
   {
    "position": 1,
@@ -590,5 +590,87 @@
    "status": "finished"
   }
  ],
- "upcoming": []
+ "upcoming": [
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:00:00.000Z",
+   "home": "Metz",
+   "away": "Boulogne",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:00:00.000Z",
+   "home": "Red Star",
+   "away": "Pau FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:00:00.000Z",
+   "home": "Annecy",
+   "away": "Clermont",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:00:00.000Z",
+   "home": "Guingamp",
+   "away": "Rodez",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:00:00.000Z",
+   "home": "Nancy",
+   "away": "Dijon",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T13:00:00.000Z",
+   "home": "Laval",
+   "away": "Montpellier",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T19:00:00.000Z",
+   "home": "Reims",
+   "away": "Saint-Étienne",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T19:45:00.000Z",
+   "home": "Nantes",
+   "away": "Grenoble",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T19:45:00.000Z",
+   "home": "Sochaux",
+   "away": "Dunkerque",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  }
+ ]
 }

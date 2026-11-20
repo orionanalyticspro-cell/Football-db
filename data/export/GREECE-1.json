@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-20T07:09:54.061Z",
+ "updated": "2026-11-20T10:38:21.579Z",
  "standings": [
   {
    "position": 1,
@@ -522,5 +522,69 @@
    "status": "finished"
   }
  ],
- "upcoming": []
+ "upcoming": [
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T17:30:00.000Z",
+   "home": "Kalamata",
+   "away": "AEK",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T14:00:00.000Z",
+   "home": "Levadeiakos",
+   "away": "Atromitos",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T15:00:00.000Z",
+   "home": "Panetolikos",
+   "away": "Volos NFC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T15:30:00.000Z",
+   "home": "Panathinaikos",
+   "away": "OFI Crete",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T17:00:00.000Z",
+   "home": "Olympiakos",
+   "away": "Iraklis",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T17:30:00.000Z",
+   "home": "PAOK",
+   "away": "Kifisia",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T15:00:00.000Z",
+   "home": "Asteras Tripolis",
+   "away": "Aris",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  }
+ ]
 }

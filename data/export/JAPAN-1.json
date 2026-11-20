@@ -6,623 +6,101 @@
   "country": "Japan",
   "level": 1
  },
- "season": "2026/2027",
- "updated": "2026-11-20T07:09:54.692Z",
- "standings": [
+ "season": "unknown",
+ "updated": "2026-11-20T10:38:22.747Z",
+ "standings": [],
+ "form": [],
+ "recent": [],
+ "upcoming": [
   {
-   "position": 1,
-   "team": "FC Tokyo",
-   "played": 14,
-   "won": 10,
-   "drawn": 3,
-   "lost": 1,
-   "goals_for": 33,
-   "goals_against": 8,
-   "goal_diff": 25,
-   "points": 33,
-   "flag": null
-  },
-  {
-   "position": 2,
-   "team": "Kashiwa Reysol",
-   "played": 14,
-   "won": 10,
-   "drawn": 1,
-   "lost": 3,
-   "goals_for": 31,
-   "goals_against": 20,
-   "goal_diff": 11,
-   "points": 31,
-   "flag": null
-  },
-  {
-   "position": 3,
-   "team": "Sanfrecce Hiroshima",
-   "played": 14,
-   "won": 9,
-   "drawn": 3,
-   "lost": 2,
-   "goals_for": 32,
-   "goals_against": 10,
-   "goal_diff": 22,
-   "points": 30,
-   "flag": null
-  },
-  {
-   "position": 4,
-   "team": "Machida",
-   "played": 14,
-   "won": 8,
-   "drawn": 5,
-   "lost": 1,
-   "goals_for": 30,
-   "goals_against": 10,
-   "goal_diff": 20,
-   "points": 29,
-   "flag": null
-  },
-  {
-   "position": 5,
-   "team": "Vissel Kobe",
-   "played": 14,
-   "won": 8,
-   "drawn": 3,
-   "lost": 3,
-   "goals_for": 23,
-   "goals_against": 14,
-   "goal_diff": 9,
-   "points": 27,
-   "flag": null
-  },
-  {
-   "position": 6,
-   "team": "Kashima Antlers",
-   "played": 14,
-   "won": 7,
-   "drawn": 2,
-   "lost": 5,
-   "goals_for": 29,
-   "goals_against": 24,
-   "goal_diff": 5,
-   "points": 23,
-   "flag": null
-  },
-  {
-   "position": 7,
-   "team": "Yokohama F. Marinos",
-   "played": 14,
-   "won": 5,
-   "drawn": 7,
-   "lost": 2,
-   "goals_for": 21,
-   "goals_against": 15,
-   "goal_diff": 6,
-   "points": 22,
-   "flag": null
-  },
-  {
-   "position": 8,
-   "team": "Kawasaki Frontale",
-   "played": 14,
-   "won": 6,
-   "drawn": 4,
-   "lost": 4,
-   "goals_for": 28,
-   "goals_against": 24,
-   "goal_diff": 4,
-   "points": 22,
-   "flag": null
-  },
-  {
-   "position": 9,
-   "team": "Urawa Reds",
-   "played": 14,
-   "won": 7,
-   "drawn": 1,
-   "lost": 6,
-   "goals_for": 23,
-   "goals_against": 29,
-   "goal_diff": -6,
-   "points": 22,
-   "flag": null
-  },
-  {
-   "position": 10,
-   "team": "Okayama",
-   "played": 14,
-   "won": 5,
-   "drawn": 2,
-   "lost": 7,
-   "goals_for": 16,
-   "goals_against": 22,
-   "goal_diff": -6,
-   "points": 17,
-   "flag": null
-  },
-  {
-   "position": 11,
-   "team": "Cerezo Osaka",
-   "played": 14,
-   "won": 4,
-   "drawn": 5,
-   "lost": 5,
-   "goals_for": 16,
-   "goals_against": 25,
-   "goal_diff": -9,
-   "points": 17,
-   "flag": null
-  },
-  {
-   "position": 12,
-   "team": "Kyoto",
-   "played": 14,
-   "won": 4,
-   "drawn": 4,
-   "lost": 6,
-   "goals_for": 19,
-   "goals_against": 23,
-   "goal_diff": -4,
-   "points": 16,
-   "flag": null
-  },
-  {
-   "position": 13,
-   "team": "Nagoya Grampus",
-   "played": 14,
-   "won": 4,
-   "drawn": 2,
-   "lost": 8,
-   "goals_for": 15,
-   "goals_against": 23,
-   "goal_diff": -8,
-   "points": 14,
-   "flag": null
-  },
-  {
-   "position": 14,
-   "team": "Verdy",
-   "played": 14,
-   "won": 3,
-   "drawn": 5,
-   "lost": 6,
-   "goals_for": 12,
-   "goals_against": 22,
-   "goal_diff": -10,
-   "points": 14,
-   "flag": null
-  },
-  {
-   "position": 15,
-   "team": "Shimizu S-Pulse",
-   "played": 14,
-   "won": 4,
-   "drawn": 2,
-   "lost": 8,
-   "goals_for": 10,
-   "goals_against": 23,
-   "goal_diff": -13,
-   "points": 14,
-   "flag": null
-  },
-  {
-   "position": 16,
-   "team": "V-Varen Nagasaki",
-   "played": 14,
-   "won": 3,
-   "drawn": 4,
-   "lost": 7,
-   "goals_for": 17,
-   "goals_against": 22,
-   "goal_diff": -5,
-   "points": 13,
-   "flag": null
-  },
-  {
-   "position": 17,
-   "team": "Chiba",
-   "played": 14,
-   "won": 3,
-   "drawn": 4,
-   "lost": 7,
-   "goals_for": 16,
-   "goals_against": 24,
-   "goal_diff": -8,
-   "points": 13,
-   "flag": null
-  },
-  {
-   "position": 18,
-   "team": "Gamba Osaka",
-   "played": 14,
-   "won": 2,
-   "drawn": 6,
-   "lost": 6,
-   "goals_for": 16,
-   "goals_against": 24,
-   "goal_diff": -8,
-   "points": 12,
-   "flag": null
-  },
-  {
-   "position": 19,
-   "team": "Mito",
-   "played": 14,
-   "won": 2,
-   "drawn": 3,
-   "lost": 9,
-   "goals_for": 12,
-   "goals_against": 26,
-   "goal_diff": -14,
-   "points": 9,
-   "flag": null
-  },
-  {
-   "position": 20,
-   "team": "Avispa Fukuoka",
-   "played": 14,
-   "won": 2,
-   "drawn": 2,
-   "lost": 10,
-   "goals_for": 14,
-   "goals_against": 25,
-   "goal_diff": -11,
-   "points": 8,
-   "flag": null
-  }
- ],
- "form": [
-  {
-   "team": "Gamba Osaka",
-   "last5": "LDDWD"
-  },
-  {
-   "team": "Vissel Kobe",
-   "last5": "DWDLW"
-  },
-  {
-   "team": "Sanfrecce Hiroshima",
-   "last5": "DWWLW"
-  },
-  {
-   "team": "Urawa Reds",
-   "last5": "DLWWW"
-  },
-  {
-   "team": "Nagoya Grampus",
-   "last5": "LLDDW"
-  },
-  {
-   "team": "Shimizu S-Pulse",
-   "last5": "LLLLD"
-  },
-  {
-   "team": "Cerezo Osaka",
-   "last5": "WLDDL"
-  },
-  {
-   "team": "Kashima Antlers",
-   "last5": "LWLDW"
-  },
-  {
-   "team": "Kawasaki Frontale",
-   "last5": "LLWWW"
-  },
-  {
-   "team": "FC Tokyo",
-   "last5": "WWWDW"
-  },
-  {
-   "team": "Kashiwa Reysol",
-   "last5": "WWWDL"
-  },
-  {
-   "team": "Yokohama F. Marinos",
-   "last5": "DWDDD"
-  },
-  {
-   "team": "Avispa Fukuoka",
-   "last5": "DLLLL"
-  },
-  {
-   "team": "V-Varen Nagasaki",
-   "last5": "DLLWL"
-  },
-  {
-   "team": "Verdy",
-   "last5": "WWWDL"
-  },
-  {
-   "team": "Kyoto",
-   "last5": "WWDDL"
-  },
-  {
-   "team": "Okayama",
-   "last5": "DLLWL"
-  },
-  {
-   "team": "Machida",
-   "last5": "DDDWW"
-  },
-  {
-   "team": "Mito",
-   "last5": "LLLLL"
-  },
-  {
-   "team": "Chiba",
-   "last5": "WWDLD"
-  }
- ],
- "recent": [
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T08:00:00.000Z",
-   "home": "Chiba",
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T10:00:00.000Z",
+   "home": "Vissel Kobe",
    "away": "Mito",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T06:00:00.000Z",
-   "home": "Gamba Osaka",
-   "away": "Cerezo Osaka",
-   "home_goals": 2,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T05:00:00.000Z",
-   "home": "Vissel Kobe",
-   "away": "Urawa Reds",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T05:00:00.000Z",
-   "home": "Machida",
-   "away": "Sanfrecce Hiroshima",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T07:00:00.000Z",
-   "home": "Kashiwa Reysol",
-   "away": "Kawasaki Frontale",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T06:00:00.000Z",
-   "home": "FC Tokyo",
-   "away": "Kashima Antlers",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T06:00:00.000Z",
-   "home": "Avispa Fukuoka",
-   "away": "V-Varen Nagasaki",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T05:00:00.000Z",
-   "home": "Nagoya Grampus",
-   "away": "Kyoto",
-   "home_goals": 0,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T05:00:00.000Z",
-   "home": "Yokohama F. Marinos",
-   "away": "Okayama",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T04:00:00.000Z",
-   "home": "Shimizu S-Pulse",
-   "away": "Verdy",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T07:00:00.000Z",
-   "home": "Machida",
-   "away": "Gamba Osaka",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T05:00:00.000Z",
-   "home": "V-Varen Nagasaki",
-   "away": "Verdy",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T05:00:00.000Z",
-   "home": "Chiba",
-   "away": "Avispa Fukuoka",
-   "home_goals": 3,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T04:00:00.000Z",
-   "home": "Yokohama F. Marinos",
-   "away": "Kawasaki Frontale",
-   "home_goals": 4,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T07:00:00.000Z",
-   "home": "Kashiwa Reysol",
-   "away": "Urawa Reds",
-   "home_goals": 4,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T06:00:00.000Z",
-   "home": "Vissel Kobe",
-   "away": "Nagoya Grampus",
-   "home_goals": 3,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T06:00:00.000Z",
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T10:00:00.000Z",
    "home": "Kashima Antlers",
-   "away": "Cerezo Osaka",
-   "home_goals": 4,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T05:00:00.000Z",
-   "home": "Kyoto",
    "away": "Shimizu S-Pulse",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T05:00:00.000Z",
-   "home": "Okayama",
-   "away": "FC Tokyo",
-   "home_goals": 0,
-   "away_goals": 4,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T05:00:00.000Z",
-   "home": "Mito",
-   "away": "Sanfrecce Hiroshima",
-   "home_goals": 0,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T07:00:00.000Z",
-   "home": "Kawasaki Frontale",
-   "away": "Okayama",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T07:00:00.000Z",
-   "home": "FC Tokyo",
-   "away": "Mito",
-   "home_goals": 6,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T06:00:00.000Z",
-   "home": "Urawa Reds",
-   "away": "V-Varen Nagasaki",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T06:00:00.000Z",
-   "home": "Cerezo Osaka",
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T10:00:00.000Z",
+   "home": "Kashiwa Reysol",
    "away": "Chiba",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T05:00:00.000Z",
-   "home": "Nagoya Grampus",
-   "away": "Yokohama F. Marinos",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T07:00:00.000Z",
-   "home": "Gamba Osaka",
-   "away": "Kyoto",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T06:00:00.000Z",
-   "home": "Vissel Kobe",
-   "away": "Machida",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T06:00:00.000Z",
-   "home": "Kashima Antlers",
-   "away": "Kashiwa Reysol",
-   "home_goals": 2,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T06:00:00.000Z",
-   "home": "Verdy",
-   "away": "Avispa Fukuoka",
-   "home_goals": 3,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T05:00:00.000Z",
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T05:00:00.000Z",
    "home": "Sanfrecce Hiroshima",
-   "away": "Shimizu S-Pulse",
-   "home_goals": 4,
-   "away_goals": 0,
-   "status": "finished"
+   "away": "Yokohama F. Marinos",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T05:00:00.000Z",
+   "home": "Verdy",
+   "away": "Nagoya Grampus",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T05:00:00.000Z",
+   "home": "Kyoto",
+   "away": "Urawa Reds",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T05:00:00.000Z",
+   "home": "Machida",
+   "away": "V-Varen Nagasaki",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T06:00:00.000Z",
+   "home": "Cerezo Osaka",
+   "away": "FC Tokyo",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T06:00:00.000Z",
+   "home": "Kawasaki Frontale",
+   "away": "Avispa Fukuoka",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T07:00:00.000Z",
+   "home": "Gamba Osaka",
+   "away": "Okayama",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   }
- ],
- "upcoming": []
+ ]
 }

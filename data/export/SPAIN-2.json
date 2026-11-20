@@ -7,7 +7,7 @@
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-20T07:09:56.723Z",
+ "updated": "2026-11-20T10:38:26.875Z",
  "standings": [
   {
    "position": 1,
@@ -658,5 +658,105 @@
    "status": "finished"
   }
  ],
- "upcoming": []
+ "upcoming": [
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:30:00.000Z",
+   "home": "Andorra",
+   "away": "Leganes",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T13:00:00.000Z",
+   "home": "Sabadell",
+   "away": "Granada",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:15:00.000Z",
+   "home": "Sociedad B",
+   "away": "Cadiz",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T17:30:00.000Z",
+   "home": "Castellon",
+   "away": "Eldense",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T20:00:00.000Z",
+   "home": "Tenerife",
+   "away": "Mallorca",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T13:00:00.000Z",
+   "home": "Cordoba",
+   "away": "Oviedo",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T15:15:00.000Z",
+   "home": "Sp Gijon",
+   "away": "Las Palmas",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T17:30:00.000Z",
+   "home": "Girona",
+   "away": "Eibar",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T17:30:00.000Z",
+   "home": "Celta B",
+   "away": "Valladolid",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T20:00:00.000Z",
+   "home": "Burgos",
+   "away": "Albacete",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T19:30:00.000Z",
+   "home": "Ceuta",
+   "away": "Almeria",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  }
+ ]
 }

@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-20T07:09:52.066Z",
+ "updated": "2026-11-20T10:38:17.351Z",
  "standings": [],
  "form": [],
  "recent": [],
@@ -53,6 +53,87 @@
    "kickoff_utc": "2026-11-20T00:30:00.000Z",
    "home": "Sao Paulo",
    "away": "Fluminense",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T19:30:00.000Z",
+   "home": "Palmeiras",
+   "away": "Flamengo",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T20:30:00.000Z",
+   "home": "Bahia",
+   "away": "Coritiba",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T00:00:00.000Z",
+   "home": "Chapecoense-SC",
+   "away": "Cruzeiro",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T19:00:00.000Z",
+   "home": "Athletico-PR",
+   "away": "Remo",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T21:30:00.000Z",
+   "home": "Fluminense",
+   "away": "Mirassol",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T22:30:00.000Z",
+   "home": "Bragantino",
+   "away": "Vasco da Gama",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T22:30:00.000Z",
+   "home": "Internacional",
+   "away": "Vitoria",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T23:00:00.000Z",
+   "home": "Botafogo RJ",
+   "away": "Sao Paulo",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T00:00:00.000Z",
+   "home": "Santos",
+   "away": "Gremio",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

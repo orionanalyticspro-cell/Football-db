@@ -6,487 +6,65 @@
   "country": "Denmark",
   "level": 1
  },
- "season": "2026/2027",
- "updated": "2026-11-20T07:09:52.377Z",
- "standings": [
+ "season": "unknown",
+ "updated": "2026-11-20T10:38:18.175Z",
+ "standings": [],
+ "form": [],
+ "recent": [],
+ "upcoming": [
   {
-   "position": 1,
-   "team": "FC Copenhagen",
-   "played": 14,
-   "won": 10,
-   "drawn": 2,
-   "lost": 2,
-   "goals_for": 29,
-   "goals_against": 12,
-   "goal_diff": 17,
-   "points": 32,
-   "flag": null
-  },
-  {
-   "position": 2,
-   "team": "Midtjylland",
-   "played": 14,
-   "won": 9,
-   "drawn": 5,
-   "lost": 0,
-   "goals_for": 29,
-   "goals_against": 17,
-   "goal_diff": 12,
-   "points": 32,
-   "flag": null
-  },
-  {
-   "position": 3,
-   "team": "Viborg",
-   "played": 14,
-   "won": 8,
-   "drawn": 2,
-   "lost": 4,
-   "goals_for": 22,
-   "goals_against": 13,
-   "goal_diff": 9,
-   "points": 26,
-   "flag": null
-  },
-  {
-   "position": 4,
-   "team": "Nordsjaelland",
-   "played": 14,
-   "won": 6,
-   "drawn": 5,
-   "lost": 3,
-   "goals_for": 26,
-   "goals_against": 18,
-   "goal_diff": 8,
-   "points": 23,
-   "flag": null
-  },
-  {
-   "position": 5,
-   "team": "Brondby",
-   "played": 14,
-   "won": 7,
-   "drawn": 1,
-   "lost": 6,
-   "goals_for": 23,
-   "goals_against": 21,
-   "goal_diff": 2,
-   "points": 22,
-   "flag": null
-  },
-  {
-   "position": 6,
-   "team": "Odense",
-   "played": 14,
-   "won": 4,
-   "drawn": 5,
-   "lost": 5,
-   "goals_for": 16,
-   "goals_against": 19,
-   "goal_diff": -3,
-   "points": 17,
-   "flag": null
-  },
-  {
-   "position": 7,
-   "team": "Horsens",
-   "played": 14,
-   "won": 4,
-   "drawn": 4,
-   "lost": 6,
-   "goals_for": 23,
-   "goals_against": 23,
-   "goal_diff": 0,
-   "points": 16,
-   "flag": null
-  },
-  {
-   "position": 8,
-   "team": "Aarhus",
-   "played": 14,
-   "won": 3,
-   "drawn": 6,
-   "lost": 5,
-   "goals_for": 19,
-   "goals_against": 21,
-   "goal_diff": -2,
-   "points": 15,
-   "flag": null
-  },
-  {
-   "position": 9,
-   "team": "Silkeborg",
-   "played": 14,
-   "won": 3,
-   "drawn": 6,
-   "lost": 5,
-   "goals_for": 18,
-   "goals_against": 24,
-   "goal_diff": -6,
-   "points": 15,
-   "flag": null
-  },
-  {
-   "position": 10,
-   "team": "Lyngby",
-   "played": 14,
-   "won": 2,
-   "drawn": 5,
-   "lost": 7,
-   "goals_for": 19,
-   "goals_against": 29,
-   "goal_diff": -10,
-   "points": 11,
-   "flag": null
-  },
-  {
-   "position": 11,
-   "team": "Randers FC",
-   "played": 14,
-   "won": 3,
-   "drawn": 2,
-   "lost": 9,
-   "goals_for": 14,
-   "goals_against": 27,
-   "goal_diff": -13,
-   "points": 11,
-   "flag": null
-  },
-  {
-   "position": 12,
-   "team": "Sonderjyske",
-   "played": 14,
-   "won": 2,
-   "drawn": 3,
-   "lost": 9,
-   "goals_for": 19,
-   "goals_against": 33,
-   "goal_diff": -14,
-   "points": 9,
-   "flag": null
-  }
- ],
- "form": [
-  {
-   "team": "Aarhus",
-   "last5": "WLWDW"
-  },
-  {
-   "team": "Sonderjyske",
-   "last5": "DLLWL"
-  },
-  {
-   "team": "Randers FC",
-   "last5": "LLLDL"
-  },
-  {
-   "team": "Silkeborg",
-   "last5": "WLDLD"
-  },
-  {
-   "team": "Brondby",
-   "last5": "LWWLW"
-  },
-  {
-   "team": "Odense",
-   "last5": "LWDWD"
-  },
-  {
-   "team": "FC Copenhagen",
-   "last5": "WWDDL"
-  },
-  {
-   "team": "Midtjylland",
-   "last5": "DWWWW"
-  },
-  {
-   "team": "Horsens",
-   "last5": "LLWDD"
-  },
-  {
-   "team": "Nordsjaelland",
-   "last5": "WLDDD"
-  },
-  {
-   "team": "Viborg",
-   "last5": "WWLLW"
-  },
-  {
-   "team": "Lyngby",
-   "last5": "LWLDL"
-  }
- ],
- "recent": [
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T17:00:00.000Z",
-   "home": "Midtjylland",
-   "away": "Sonderjyske",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T15:00:00.000Z",
-   "home": "Randers FC",
-   "away": "Nordsjaelland",
-   "home_goals": 1,
-   "away_goals": 6,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T13:00:00.000Z",
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T18:00:00.000Z",
    "home": "Aarhus",
-   "away": "Horsens",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T11:00:00.000Z",
-   "home": "FC Copenhagen",
-   "away": "Brondby",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T17:00:00.000Z",
-   "home": "Odense",
-   "away": "Viborg",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-06",
-   "kickoff_utc": "2026-11-06T18:00:00.000Z",
-   "home": "Silkeborg",
    "away": "Lyngby",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-11-02",
-   "kickoff_utc": "2026-11-02T18:00:00.000Z",
-   "home": "Sonderjyske",
-   "away": "FC Copenhagen",
-   "home_goals": 0,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T17:00:00.000Z",
-   "home": "Brondby",
-   "away": "Aarhus",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T15:00:00.000Z",
-   "home": "Nordsjaelland",
-   "away": "Midtjylland",
-   "home_goals": 2,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T13:00:00.000Z",
-   "home": "Odense",
-   "away": "Silkeborg",
-   "home_goals": 4,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T13:00:00.000Z",
-   "home": "Viborg",
-   "away": "Horsens",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-30",
-   "kickoff_utc": "2026-10-30T18:00:00.000Z",
-   "home": "Lyngby",
-   "away": "Randers FC",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-26",
-   "kickoff_utc": "2026-10-26T18:00:00.000Z",
-   "home": "FC Copenhagen",
-   "away": "Odense",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T17:00:00.000Z",
-   "home": "Aarhus",
-   "away": "Viborg",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T15:00:00.000Z",
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T13:00:00.000Z",
    "home": "Horsens",
-   "away": "Sonderjyske",
-   "home_goals": 5,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T13:00:00.000Z",
-   "home": "Silkeborg",
-   "away": "Nordsjaelland",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T13:00:00.000Z",
-   "home": "Midtjylland",
-   "away": "Lyngby",
-   "home_goals": 3,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-23",
-   "kickoff_utc": "2026-10-23T17:00:00.000Z",
-   "home": "Randers FC",
-   "away": "Brondby",
-   "home_goals": 1,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-19",
-   "kickoff_utc": "2026-10-19T17:00:00.000Z",
-   "home": "Viborg",
-   "away": "Midtjylland",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T16:00:00.000Z",
-   "home": "FC Copenhagen",
-   "away": "Aarhus",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T14:00:00.000Z",
-   "home": "Odense",
-   "away": "Brondby",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T12:00:00.000Z",
-   "home": "Sonderjyske",
    "away": "Silkeborg",
-   "home_goals": 4,
-   "away_goals": 0,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T12:00:00.000Z",
-   "home": "Lyngby",
-   "away": "Nordsjaelland",
-   "home_goals": 3,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-16",
-   "kickoff_utc": "2026-10-16T17:00:00.000Z",
-   "home": "Horsens",
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T13:00:00.000Z",
+   "home": "Viborg",
    "away": "Randers FC",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-10-12",
-   "kickoff_utc": "2026-10-12T17:00:00.000Z",
-   "home": "Aarhus",
-   "away": "Sonderjyske",
-   "home_goals": 3,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-11",
-   "kickoff_utc": "2026-10-11T16:00:00.000Z",
-   "home": "Midtjylland",
-   "away": "FC Copenhagen",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-11",
-   "kickoff_utc": "2026-10-11T14:00:00.000Z",
-   "home": "Brondby",
-   "away": "Lyngby",
-   "home_goals": 5,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-11",
-   "kickoff_utc": "2026-10-11T12:00:00.000Z",
-   "home": "Randers FC",
-   "away": "Viborg",
-   "home_goals": 0,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-11",
-   "kickoff_utc": "2026-10-11T12:00:00.000Z",
-   "home": "Silkeborg",
-   "away": "Horsens",
-   "home_goals": 3,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-09",
-   "kickoff_utc": "2026-10-09T17:00:00.000Z",
-   "home": "Nordsjaelland",
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T15:00:00.000Z",
+   "home": "Sonderjyske",
    "away": "Odense",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T17:00:00.000Z",
+   "home": "Nordsjaelland",
+   "away": "FC Copenhagen",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T18:00:00.000Z",
+   "home": "Brondby",
+   "away": "Midtjylland",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   }
- ],
- "upcoming": []
+ ]
 }

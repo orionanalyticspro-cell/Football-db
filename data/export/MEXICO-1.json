@@ -6,589 +6,92 @@
   "country": "Mexico",
   "level": 1
  },
- "season": "2026/2027",
- "updated": "2026-11-20T07:09:54.848Z",
- "standings": [
+ "season": "unknown",
+ "updated": "2026-11-20T10:38:23.040Z",
+ "standings": [],
+ "form": [],
+ "recent": [],
+ "upcoming": [
   {
-   "position": 1,
-   "team": "Cruz Azul",
-   "played": 16,
-   "won": 10,
-   "drawn": 2,
-   "lost": 4,
-   "goals_for": 37,
-   "goals_against": 26,
-   "goal_diff": 11,
-   "points": 32,
-   "flag": null
-  },
-  {
-   "position": 2,
-   "team": "Club America",
-   "played": 16,
-   "won": 8,
-   "drawn": 6,
-   "lost": 2,
-   "goals_for": 38,
-   "goals_against": 23,
-   "goal_diff": 15,
-   "points": 30,
-   "flag": null
-  },
-  {
-   "position": 3,
-   "team": "Guadalajara Chivas",
-   "played": 16,
-   "won": 8,
-   "drawn": 6,
-   "lost": 2,
-   "goals_for": 26,
-   "goals_against": 15,
-   "goal_diff": 11,
-   "points": 30,
-   "flag": null
-  },
-  {
-   "position": 4,
-   "team": "Toluca",
-   "played": 16,
-   "won": 7,
-   "drawn": 6,
-   "lost": 3,
-   "goals_for": 35,
-   "goals_against": 21,
-   "goal_diff": 14,
-   "points": 27,
-   "flag": null
-  },
-  {
-   "position": 5,
-   "team": "Atlas",
-   "played": 16,
-   "won": 8,
-   "drawn": 3,
-   "lost": 5,
-   "goals_for": 27,
-   "goals_against": 30,
-   "goal_diff": -3,
-   "points": 27,
-   "flag": null
-  },
-  {
-   "position": 6,
-   "team": "Santos Laguna",
-   "played": 16,
-   "won": 8,
-   "drawn": 1,
-   "lost": 7,
-   "goals_for": 23,
-   "goals_against": 20,
-   "goal_diff": 3,
-   "points": 25,
-   "flag": null
-  },
-  {
-   "position": 7,
-   "team": "Monterrey",
-   "played": 16,
-   "won": 7,
-   "drawn": 3,
-   "lost": 6,
-   "goals_for": 27,
-   "goals_against": 25,
-   "goal_diff": 2,
-   "points": 24,
-   "flag": null
-  },
-  {
-   "position": 8,
-   "team": "Club Leon",
-   "played": 16,
-   "won": 6,
-   "drawn": 5,
-   "lost": 5,
-   "goals_for": 23,
-   "goals_against": 21,
-   "goal_diff": 2,
-   "points": 23,
-   "flag": null
-  },
-  {
-   "position": 9,
-   "team": "Pachuca",
-   "played": 16,
-   "won": 6,
-   "drawn": 4,
-   "lost": 6,
-   "goals_for": 29,
-   "goals_against": 20,
-   "goal_diff": 9,
-   "points": 22,
-   "flag": null
-  },
-  {
-   "position": 10,
-   "team": "Club Tijuana",
-   "played": 16,
-   "won": 5,
-   "drawn": 7,
-   "lost": 4,
-   "goals_for": 25,
-   "goals_against": 22,
-   "goal_diff": 3,
-   "points": 22,
-   "flag": null
-  },
-  {
-   "position": 11,
-   "team": "UNAM Pumas",
-   "played": 16,
-   "won": 5,
-   "drawn": 6,
-   "lost": 5,
-   "goals_for": 24,
-   "goals_against": 26,
-   "goal_diff": -2,
-   "points": 21,
-   "flag": null
-  },
-  {
-   "position": 12,
-   "team": "Queretaro",
-   "played": 16,
-   "won": 6,
-   "drawn": 2,
-   "lost": 8,
-   "goals_for": 18,
-   "goals_against": 24,
-   "goal_diff": -6,
-   "points": 20,
-   "flag": null
-  },
-  {
-   "position": 13,
-   "team": "Puebla",
-   "played": 16,
-   "won": 5,
-   "drawn": 4,
-   "lost": 7,
-   "goals_for": 19,
-   "goals_against": 23,
-   "goal_diff": -4,
-   "points": 19,
-   "flag": null
-  },
-  {
-   "position": 14,
-   "team": "Atl. San Luis",
-   "played": 16,
-   "won": 5,
-   "drawn": 4,
-   "lost": 7,
-   "goals_for": 19,
-   "goals_against": 24,
-   "goal_diff": -5,
-   "points": 19,
-   "flag": null
-  },
-  {
-   "position": 15,
-   "team": "Tigres UANL",
-   "played": 16,
-   "won": 3,
-   "drawn": 6,
-   "lost": 7,
-   "goals_for": 17,
-   "goals_against": 25,
-   "goal_diff": -8,
-   "points": 15,
-   "flag": null
-  },
-  {
-   "position": 16,
-   "team": "Atlante",
-   "played": 16,
-   "won": 3,
-   "drawn": 5,
-   "lost": 8,
-   "goals_for": 16,
-   "goals_against": 26,
-   "goal_diff": -10,
-   "points": 14,
-   "flag": null
-  },
-  {
-   "position": 17,
-   "team": "Necaxa",
-   "played": 16,
-   "won": 3,
-   "drawn": 4,
-   "lost": 9,
-   "goals_for": 17,
-   "goals_against": 28,
-   "goal_diff": -11,
-   "points": 13,
-   "flag": null
-  },
-  {
-   "position": 18,
-   "team": "Juarez",
-   "played": 16,
-   "won": 3,
-   "drawn": 2,
-   "lost": 11,
-   "goals_for": 13,
-   "goals_against": 34,
-   "goal_diff": -21,
-   "points": 11,
-   "flag": null
-  }
- ],
- "form": [
-  {
-   "team": "Tigres UANL",
-   "last5": "LLDLD"
-  },
-  {
-   "team": "Club Tijuana",
-   "last5": "LDDWD"
-  },
-  {
-   "team": "Puebla",
-   "last5": "WLLLD"
-  },
-  {
-   "team": "Cruz Azul",
-   "last5": "WWWWW"
-  },
-  {
-   "team": "Queretaro",
-   "last5": "LLLLL"
-  },
-  {
-   "team": "Club Leon",
-   "last5": "DLDWL"
-  },
-  {
-   "team": "Monterrey",
-   "last5": "WLDLW"
-  },
-  {
-   "team": "Club America",
-   "last5": "DDDLW"
-  },
-  {
-   "team": "Santos Laguna",
-   "last5": "WWLWW"
-  },
-  {
-   "team": "Atl. San Luis",
-   "last5": "LLWWD"
-  },
-  {
-   "team": "Atlas",
-   "last5": "LWWLW"
-  },
-  {
-   "team": "UNAM Pumas",
-   "last5": "DWDLW"
-  },
-  {
-   "team": "Toluca",
-   "last5": "WDDDD"
-  },
-  {
-   "team": "Guadalajara Chivas",
-   "last5": "DWWWD"
-  },
-  {
-   "team": "Atlante",
-   "last5": "LLLWL"
-  },
-  {
-   "team": "Pachuca",
-   "last5": "WWWLL"
-  },
-  {
-   "team": "Necaxa",
-   "last5": "WLDLL"
-  },
-  {
-   "team": "Juarez",
-   "last5": "WWDLL"
-  }
- ],
- "recent": [
-  {
-   "date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T23:00:00.000Z",
-   "home": "Queretaro",
-   "away": "Monterrey",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-09",
-   "kickoff_utc": "2026-11-09T02:10:00.000Z",
-   "home": "Club Leon",
-   "away": "Guadalajara Chivas",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-09",
-   "kickoff_utc": "2026-11-09T00:00:00.000Z",
-   "home": "Queretaro",
-   "away": "Puebla",
-   "home_goals": 0,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T03:10:00.000Z",
-   "home": "UNAM Pumas",
-   "away": "Club America",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T01:00:00.000Z",
-   "home": "Tigres UANL",
-   "away": "Cruz Azul",
-   "home_goals": 2,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T01:00:00.000Z",
-   "home": "Toluca",
-   "away": "Monterrey",
-   "home_goals": 4,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T23:00:00.000Z",
-   "home": "Atlas",
-   "away": "Pachuca",
-   "home_goals": 1,
-   "away_goals": 4,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T03:00:00.000Z",
-   "home": "Atlante",
-   "away": "Santos Laguna",
-   "home_goals": 0,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T01:00:00.000Z",
-   "home": "Atl. San Luis",
-   "away": "Juarez",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T01:00:00.000Z",
-   "home": "Necaxa",
-   "away": "Club Tijuana",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-02",
-   "kickoff_utc": "2026-11-02T01:10:00.000Z",
-   "home": "Cruz Azul",
-   "away": "Club Leon",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T23:00:00.000Z",
-   "home": "Santos Laguna",
-   "away": "Necaxa",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T03:10:00.000Z",
-   "home": "Club America",
-   "away": "Toluca",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T01:07:00.000Z",
-   "home": "Guadalajara Chivas",
-   "away": "Atlante",
-   "home_goals": 4,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T01:05:00.000Z",
-   "home": "Monterrey",
-   "away": "Club Tijuana",
-   "home_goals": 3,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T23:00:00.000Z",
-   "home": "Pachuca",
-   "away": "Tigres UANL",
-   "home_goals": 3,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T03:00:00.000Z",
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T01:00:00.000Z",
    "home": "Puebla",
-   "away": "UNAM Pumas",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T01:00:00.000Z",
-   "home": "Atl. San Luis",
-   "away": "Atlas",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T01:00:00.000Z",
-   "home": "Juarez",
-   "away": "Queretaro",
-   "home_goals": 3,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-29",
-   "kickoff_utc": "2026-10-29T03:00:00.000Z",
-   "home": "Club America",
-   "away": "Club Tijuana",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-26",
-   "kickoff_utc": "2026-10-26T03:00:00.000Z",
-   "home": "Club Tijuana",
-   "away": "Santos Laguna",
-   "home_goals": 4,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-26",
-   "kickoff_utc": "2026-10-26T01:05:00.000Z",
-   "home": "Club America",
-   "away": "Pachuca",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-26",
-   "kickoff_utc": "2026-10-26T01:00:00.000Z",
-   "home": "Queretaro",
-   "away": "Cruz Azul",
-   "home_goals": 1,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T23:00:00.000Z",
-   "home": "Atlas",
-   "away": "Puebla",
-   "home_goals": 4,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T03:10:00.000Z",
-   "home": "UNAM Pumas",
-   "away": "Tigres UANL",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T01:00:00.000Z",
-   "home": "Monterrey",
-   "away": "Guadalajara Chivas",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T23:00:00.000Z",
-   "home": "Club Leon",
-   "away": "Toluca",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T03:00:00.000Z",
-   "home": "Atlante",
    "away": "Atl. San Luis",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T01:00:00.000Z",
-   "home": "Necaxa",
-   "away": "Juarez",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T03:00:00.000Z",
+   "home": "Juarez",
+   "away": "Atlas",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-10-22",
-   "kickoff_utc": "2026-10-22T03:10:00.000Z",
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T03:10:00.000Z",
+   "home": "Club Tijuana",
+   "away": "Atlante",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T22:50:00.000Z",
+   "home": "Pachuca",
+   "away": "Toluca",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T23:00:00.000Z",
    "home": "Santos Laguna",
-   "away": "UNAM Pumas",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
+   "away": "Club Leon",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T01:00:00.000Z",
+   "home": "UNAM Pumas",
+   "away": "Monterrey",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T03:00:00.000Z",
+   "home": "Tigres UANL",
+   "away": "Club America",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T23:07:00.000Z",
+   "home": "Guadalajara Chivas",
+   "away": "Cruz Azul",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T01:10:00.000Z",
+   "home": "Queretaro",
+   "away": "Necaxa",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   }
- ],
- "upcoming": []
+ ]
 }

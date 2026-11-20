@@ -7,7 +7,7 @@
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-20T07:09:54.531Z",
+ "updated": "2026-11-20T10:38:22.457Z",
  "standings": [
   {
    "position": 1,
@@ -624,5 +624,96 @@
    "status": "finished"
   }
  ],
- "upcoming": []
+ "upcoming": [
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:30:00.000Z",
+   "home": "Verona",
+   "away": "Cesena",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T14:00:00.000Z",
+   "home": "Sudtirol",
+   "away": "Cremonese",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T14:00:00.000Z",
+   "home": "Modena",
+   "away": "Juve Stabia",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T14:00:00.000Z",
+   "home": "Carrarese",
+   "away": "Virtus Entella",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T14:00:00.000Z",
+   "home": "Sampdoria",
+   "away": "Benevento",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T14:00:00.000Z",
+   "home": "Ascoli",
+   "away": "Vicenza",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T16:15:00.000Z",
+   "home": "Catanzaro",
+   "away": "Palermo",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T18:30:00.000Z",
+   "home": "Empoli",
+   "away": "Pisa",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T14:00:00.000Z",
+   "home": "Avellino",
+   "away": "Mantova",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T16:15:00.000Z",
+   "home": "Arezzo",
+   "away": "Padova",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  }
+ ]
 }
