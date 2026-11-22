@@ -7,38 +7,11 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-21T18:44:30.284Z",
+ "updated": "2026-11-22T00:59:56.161Z",
  "standings": [],
  "form": [],
  "recent": [],
  "upcoming": [
-  {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T10:00:00.000Z",
-   "home": "Vissel Kobe",
-   "away": "Mito",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T10:00:00.000Z",
-   "home": "Kashima Antlers",
-   "away": "Shimizu S-Pulse",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T10:00:00.000Z",
-   "home": "Kashiwa Reysol",
-   "away": "Chiba",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-21",
    "kickoff_utc": "2026-11-21T05:00:00.000Z",

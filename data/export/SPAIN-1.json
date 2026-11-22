@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-21T18:44:32.618Z",
+ "updated": "2026-11-22T00:59:58.050Z",
  "standings": [
   {
    "position": 1,
@@ -626,15 +626,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T20:00:00.000Z",
-   "home": "Athletic Club",
-   "away": "Espanyol",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
    "date": "2026-11-21",
    "kickoff_utc": "2026-11-21T13:00:00.000Z",
    "home": "Alavés",
@@ -891,6 +882,15 @@
    "kickoff_utc": "2026-12-06T11:00:00.000Z",
    "home": "Alavés",
    "away": "Espanyol",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-06",
+   "kickoff_utc": "2026-12-06T11:00:00.000Z",
+   "home": "Getafe",
+   "away": "Valencia",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

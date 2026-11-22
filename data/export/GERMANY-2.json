@@ -7,7 +7,7 @@
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-21T18:44:29.387Z",
+ "updated": "2026-11-22T00:59:55.427Z",
  "standings": [
   {
    "position": 1,
@@ -591,24 +591,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T17:30:00.000Z",
-   "home": "Darmstadt",
-   "away": "Heidenheim",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T17:30:00.000Z",
-   "home": "Bielefeld",
-   "away": "Magdeburg",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-21",
    "kickoff_utc": "2026-11-21T12:00:00.000Z",

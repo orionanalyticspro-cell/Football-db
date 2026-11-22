@@ -7,7 +7,7 @@
   "level": 3
  },
  "season": "2026/2027",
- "updated": "2026-11-21T18:44:28.124Z",
+ "updated": "2026-11-22T00:59:54.410Z",
  "standings": [
   {
    "position": 1,
@@ -693,15 +693,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T20:00:00.000Z",
-   "home": "Barnsley",
-   "away": "Sheffield Wednesday",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-21",
    "kickoff_utc": "2026-11-21T12:30:00.000Z",

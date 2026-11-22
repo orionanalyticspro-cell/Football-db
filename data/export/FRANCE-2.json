@@ -7,7 +7,7 @@
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-21T18:44:29.027Z",
+ "updated": "2026-11-22T00:59:55.137Z",
  "standings": [
   {
    "position": 1,
@@ -591,51 +591,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T19:00:00.000Z",
-   "home": "Metz",
-   "away": "Boulogne",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T19:00:00.000Z",
-   "home": "Red Star",
-   "away": "Pau FC",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T19:00:00.000Z",
-   "home": "Annecy",
-   "away": "Clermont",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T19:00:00.000Z",
-   "home": "Guingamp",
-   "away": "Rodez",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T19:00:00.000Z",
-   "home": "Nancy",
-   "away": "Dijon",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-21",
    "kickoff_utc": "2026-11-21T13:00:00.000Z",

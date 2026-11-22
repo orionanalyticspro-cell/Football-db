@@ -7,7 +7,7 @@
   "level": 5
  },
  "season": "2026/2027",
- "updated": "2026-11-21T18:44:28.488Z",
+ "updated": "2026-11-22T00:59:54.706Z",
  "standings": [
   {
    "position": 1,
@@ -693,15 +693,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T19:45:00.000Z",
-   "home": "Southend",
-   "away": "Boreham Wood",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-21",
    "kickoff_utc": "2026-11-21T12:30:00.000Z",
