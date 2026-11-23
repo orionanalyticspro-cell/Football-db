@@ -7,7 +7,7 @@
   "level": 3
  },
  "season": "2026/2027",
- "updated": "2026-11-22T18:44:46.839Z",
+ "updated": "2026-11-23T01:02:33.670Z",
  "standings": [
   {
    "position": 1,
@@ -454,51 +454,5 @@
    "status": "finished"
   }
  ],
- "upcoming": [
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T15:00:00.000Z",
-   "home": "Ross County",
-   "away": "Cove Rangers",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T15:00:00.000Z",
-   "home": "Queen of Sth",
-   "away": "Hamilton",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T15:00:00.000Z",
-   "home": "Peterhead",
-   "away": "East Kilbride",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T15:00:00.000Z",
-   "home": "East Fife",
-   "away": "Airdrie Utd",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T17:30:00.000Z",
-   "home": "Montrose",
-   "away": "Alloa",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  }
- ]
+ "upcoming": []
 }

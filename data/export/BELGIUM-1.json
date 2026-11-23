@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-22T18:44:37.828Z",
+ "updated": "2026-11-23T01:02:27.442Z",
  "standings": [
   {
    "position": 1,
@@ -591,42 +591,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T15:00:00.000Z",
-   "home": "Charleroi",
-   "away": "St Truiden",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T17:15:00.000Z",
-   "home": "Genk",
-   "away": "RAAL La Louviere",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T19:45:00.000Z",
-   "home": "Mechelen",
-   "away": "Club Brugge",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T19:45:00.000Z",
-   "home": "Waregem",
-   "away": "Antwerp",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-22",
    "kickoff_utc": "2026-11-22T12:30:00.000Z",

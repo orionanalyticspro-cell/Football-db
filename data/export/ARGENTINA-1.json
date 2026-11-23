@@ -7,29 +7,11 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-22T18:44:37.255Z",
+ "updated": "2026-11-23T01:02:27.074Z",
  "standings": [],
  "form": [],
  "recent": [],
  "upcoming": [
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T18:00:00.000Z",
-   "home": "Defensa y Justicia",
-   "away": "Barracas Central",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T20:00:00.000Z",
-   "home": "Argentinos Jrs",
-   "away": "Independiente",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-22",
    "kickoff_utc": "2026-11-22T19:00:00.000Z",

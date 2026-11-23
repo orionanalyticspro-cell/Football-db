@@ -7,38 +7,11 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-22T18:44:45.074Z",
+ "updated": "2026-11-23T01:02:32.441Z",
  "standings": [],
  "form": [],
  "recent": [],
  "upcoming": [
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T13:45:00.000Z",
-   "home": "Cracovia",
-   "away": "Jagiellonia",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T16:30:00.000Z",
-   "home": "Zaglebie",
-   "away": "Gornik Zabrze",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T19:15:00.000Z",
-   "home": "Radomiak Radom",
-   "away": "Wisla",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-22",
    "kickoff_utc": "2026-11-22T11:15:00.000Z",

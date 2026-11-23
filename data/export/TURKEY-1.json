@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-22T18:44:48.599Z",
+ "updated": "2026-11-23T01:02:34.918Z",
  "standings": [
   {
    "position": 1,
@@ -591,42 +591,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T10:30:00.000Z",
-   "home": "Genclerbirligi",
-   "away": "Gaziantep",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T13:00:00.000Z",
-   "home": "Galatasaray",
-   "away": "Samsunspor",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T13:00:00.000Z",
-   "home": "Amedspor",
-   "away": "Rizespor",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T16:00:00.000Z",
-   "home": "Kocaelispor",
-   "away": "Fenerbahce",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-22",
    "kickoff_utc": "2026-11-22T10:30:00.000Z",

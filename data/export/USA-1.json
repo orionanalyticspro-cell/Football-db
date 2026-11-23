@@ -7,38 +7,11 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-22T18:44:48.890Z",
+ "updated": "2026-11-23T01:02:35.121Z",
  "standings": [],
  "form": [],
  "recent": [],
  "upcoming": [
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T19:00:00.000Z",
-   "home": "New England Revolution",
-   "away": "Philadelphia Union",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T21:00:00.000Z",
-   "home": "FC Dallas",
-   "away": "Portland Timbers",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T23:00:00.000Z",
-   "home": "Inter Miami",
-   "away": "Columbus Crew",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-22",
    "kickoff_utc": "2026-11-22T21:00:00.000Z",

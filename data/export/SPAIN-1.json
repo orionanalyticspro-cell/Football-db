@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-22T18:44:47.420Z",
+ "updated": "2026-11-23T01:02:34.085Z",
  "standings": [
   {
    "position": 1,
@@ -626,42 +626,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T13:00:00.000Z",
-   "home": "Alavés",
-   "away": "La Coruna",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T15:15:00.000Z",
-   "home": "Rayo Vallecano",
-   "away": "Valencia",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T17:30:00.000Z",
-   "home": "Sevilla",
-   "away": "Betis",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T20:00:00.000Z",
-   "home": "Real Madrid",
-   "away": "Celta Vigo",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
    "date": "2026-11-22",
    "kickoff_utc": "2026-11-22T11:00:00.000Z",
    "home": "Athletic Club",
@@ -891,6 +855,42 @@
    "kickoff_utc": "2026-12-06T11:00:00.000Z",
    "home": "Getafe",
    "away": "Valencia",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-06",
+   "kickoff_utc": "2026-12-06T11:00:00.000Z",
+   "home": "Sevilla",
+   "away": "Malaga",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-06",
+   "kickoff_utc": "2026-12-06T11:00:00.000Z",
+   "home": "Osasuna",
+   "away": "Elche",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-06",
+   "kickoff_utc": "2026-12-06T11:00:00.000Z",
+   "home": "Barcelona",
+   "away": "Celta Vigo",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-06",
+   "kickoff_utc": "2026-12-06T11:00:00.000Z",
+   "home": "Villarreal",
+   "away": "Real Sociedad",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

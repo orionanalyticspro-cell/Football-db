@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-22T18:44:37.548Z",
+ "updated": "2026-11-23T01:02:27.262Z",
  "standings": [
   {
    "position": 1,
@@ -490,33 +490,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T11:00:00.000Z",
-   "home": "LASK Linz",
-   "away": "Hartberg",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T16:00:00.000Z",
-   "home": "Tirol",
-   "away": "A. Lustenau",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T18:30:00.000Z",
-   "home": "Grazer AK",
-   "away": "Rapid Wien",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
    "date": "2026-11-22",
    "kickoff_utc": "2026-11-22T11:00:00.000Z",
    "home": "Altach",
@@ -755,6 +728,33 @@
    "kickoff_utc": "2027-01-23T11:00:00.000Z",
    "home": "A. Lustenau",
    "away": "Salzburg",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2027-01-30",
+   "kickoff_utc": "2027-01-30T11:00:00.000Z",
+   "home": "Salzburg",
+   "away": "Ried",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2027-01-30",
+   "kickoff_utc": "2027-01-30T11:00:00.000Z",
+   "home": "Wolfsberger AC",
+   "away": "Hartberg",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2027-01-30",
+   "kickoff_utc": "2027-01-30T11:00:00.000Z",
+   "home": "Altach",
+   "away": "A. Lustenau",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

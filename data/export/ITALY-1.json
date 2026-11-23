@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-22T18:44:43.029Z",
+ "updated": "2026-11-23T01:02:31.042Z",
  "standings": [
   {
    "position": 1,
@@ -626,42 +626,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T11:00:00.000Z",
-   "home": "Lazio",
-   "away": "Lecce",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T14:00:00.000Z",
-   "home": "Como",
-   "away": "Cagliari",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T17:00:00.000Z",
-   "home": "Parma",
-   "away": "Roma",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T19:45:00.000Z",
-   "home": "Napoli",
-   "away": "Torino",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
    "date": "2026-11-22",
    "kickoff_utc": "2026-11-22T11:30:00.000Z",
    "home": "Juventus",
@@ -891,6 +855,42 @@
    "kickoff_utc": "2026-12-06T11:00:00.000Z",
    "home": "Juventus",
    "away": "Udinese",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-06",
+   "kickoff_utc": "2026-12-06T11:00:00.000Z",
+   "home": "Frosinone",
+   "away": "Inter",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-13",
+   "kickoff_utc": "2026-12-13T11:00:00.000Z",
+   "home": "Inter",
+   "away": "Torino",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-13",
+   "kickoff_utc": "2026-12-13T11:00:00.000Z",
+   "home": "Parma",
+   "away": "Fiorentina",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-13",
+   "kickoff_utc": "2026-12-13T11:00:00.000Z",
+   "home": "Udinese",
+   "away": "Frosinone",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

@@ -7,7 +7,7 @@
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-22T18:44:41.550Z",
+ "updated": "2026-11-23T01:02:30.008Z",
  "standings": [
   {
    "position": 1,
@@ -591,24 +591,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T13:00:00.000Z",
-   "home": "Laval",
-   "away": "Montpellier",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T19:00:00.000Z",
-   "home": "Reims",
-   "away": "Saint-Étienne",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-23",
    "kickoff_utc": "2026-11-23T19:45:00.000Z",

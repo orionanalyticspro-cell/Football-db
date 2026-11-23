@@ -7,73 +7,9 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-22T18:44:43.611Z",
+ "updated": "2026-11-23T01:02:31.429Z",
  "standings": [],
  "form": [],
  "recent": [],
- "upcoming": [
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T05:00:00.000Z",
-   "home": "Sanfrecce Hiroshima",
-   "away": "Yokohama F. Marinos",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T05:00:00.000Z",
-   "home": "Verdy",
-   "away": "Nagoya Grampus",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T05:00:00.000Z",
-   "home": "Kyoto",
-   "away": "Urawa Reds",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T05:00:00.000Z",
-   "home": "Machida",
-   "away": "V-Varen Nagasaki",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T06:00:00.000Z",
-   "home": "Cerezo Osaka",
-   "away": "FC Tokyo",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T06:00:00.000Z",
-   "home": "Kawasaki Frontale",
-   "away": "Avispa Fukuoka",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T07:00:00.000Z",
-   "home": "Gamba Osaka",
-   "away": "Okayama",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  }
- ]
+ "upcoming": []
 }
