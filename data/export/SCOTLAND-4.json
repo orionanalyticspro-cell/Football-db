@@ -7,62 +7,75 @@
   "level": 4
  },
  "season": "2026/2027",
- "updated": "2026-11-23T13:13:14.720Z",
+ "updated": "2026-11-23T18:59:01.713Z",
  "standings": [
   {
    "position": 1,
    "team": "Stranraer",
-   "played": 14,
-   "won": 9,
+   "played": 15,
+   "won": 10,
    "drawn": 3,
    "lost": 2,
-   "goals_for": 29,
+   "goals_for": 32,
    "goals_against": 9,
-   "goal_diff": 20,
-   "points": 30,
+   "goal_diff": 23,
+   "points": 33,
    "flag": null
   },
   {
    "position": 2,
    "team": "Clyde",
-   "played": 14,
-   "won": 9,
+   "played": 15,
+   "won": 10,
    "drawn": 3,
    "lost": 2,
-   "goals_for": 36,
-   "goals_against": 22,
-   "goal_diff": 14,
-   "points": 30,
+   "goals_for": 40,
+   "goals_against": 25,
+   "goal_diff": 15,
+   "points": 33,
    "flag": null
   },
   {
    "position": 3,
    "team": "Elgin",
-   "played": 14,
+   "played": 15,
    "won": 6,
    "drawn": 3,
-   "lost": 5,
+   "lost": 6,
    "goals_for": 29,
-   "goals_against": 21,
-   "goal_diff": 8,
+   "goals_against": 24,
+   "goal_diff": 5,
    "points": 21,
    "flag": null
   },
   {
    "position": 4,
-   "team": "Edinburgh City",
-   "played": 14,
-   "won": 5,
-   "drawn": 5,
-   "lost": 4,
-   "goals_for": 25,
-   "goals_against": 26,
-   "goal_diff": -1,
-   "points": 20,
+   "team": "Kelty Hearts",
+   "played": 15,
+   "won": 7,
+   "drawn": 0,
+   "lost": 8,
+   "goals_for": 19,
+   "goals_against": 24,
+   "goal_diff": -5,
+   "points": 21,
    "flag": null
   },
   {
    "position": 5,
+   "team": "Edinburgh City",
+   "played": 15,
+   "won": 5,
+   "drawn": 5,
+   "lost": 5,
+   "goals_for": 25,
+   "goals_against": 27,
+   "goal_diff": -2,
+   "points": 20,
+   "flag": null
+  },
+  {
+   "position": 6,
    "team": "Spartans",
    "played": 14,
    "won": 5,
@@ -75,33 +88,33 @@
    "flag": null
   },
   {
-   "position": 6,
-   "team": "Kelty Hearts",
-   "played": 14,
-   "won": 6,
-   "drawn": 0,
-   "lost": 8,
-   "goals_for": 18,
-   "goals_against": 24,
-   "goal_diff": -6,
-   "points": 18,
-   "flag": null
-  },
-  {
    "position": 7,
    "team": "Stirling",
-   "played": 14,
+   "played": 15,
    "won": 5,
    "drawn": 3,
-   "lost": 6,
-   "goals_for": 21,
-   "goals_against": 30,
-   "goal_diff": -9,
+   "lost": 7,
+   "goals_for": 24,
+   "goals_against": 34,
+   "goal_diff": -10,
    "points": 18,
    "flag": null
   },
   {
    "position": 8,
+   "team": "Forfar",
+   "played": 15,
+   "won": 4,
+   "drawn": 4,
+   "lost": 7,
+   "goals_for": 17,
+   "goals_against": 27,
+   "goal_diff": -10,
+   "points": 16,
+   "flag": null
+  },
+  {
+   "position": 9,
    "team": "Dumbarton",
    "played": 14,
    "won": 5,
@@ -114,36 +127,23 @@
    "flag": null
   },
   {
-   "position": 9,
-   "team": "Forfar",
-   "played": 14,
-   "won": 4,
-   "drawn": 3,
-   "lost": 7,
-   "goals_for": 16,
-   "goals_against": 26,
-   "goal_diff": -10,
-   "points": 15,
-   "flag": null
-  },
-  {
    "position": 10,
    "team": "Annan Athletic",
-   "played": 14,
+   "played": 15,
    "won": 4,
-   "drawn": 0,
+   "drawn": 1,
    "lost": 10,
-   "goals_for": 19,
-   "goals_against": 26,
+   "goals_for": 20,
+   "goals_against": 27,
    "goal_diff": -7,
-   "points": 12,
+   "points": 13,
    "flag": null
   }
  ],
  "form": [
   {
    "team": "Annan Athletic",
-   "last5": "WLLLL"
+   "last5": "DWLLL"
   },
   {
    "team": "Dumbarton",
@@ -151,31 +151,31 @@
   },
   {
    "team": "Kelty Hearts",
-   "last5": "LWLWL"
+   "last5": "WLWLW"
   },
   {
    "team": "Edinburgh City",
-   "last5": "LDWDL"
+   "last5": "LLDWD"
   },
   {
    "team": "Stirling",
-   "last5": "WLWDW"
+   "last5": "LWLWD"
   },
   {
    "team": "Elgin",
-   "last5": "LLWDW"
+   "last5": "LLLWD"
   },
   {
    "team": "Forfar",
-   "last5": "WDLLL"
+   "last5": "DWDLL"
   },
   {
    "team": "Clyde",
-   "last5": "WWDWW"
+   "last5": "WWWDW"
   },
   {
    "team": "Stranraer",
-   "last5": "WWDWW"
+   "last5": "WWWDW"
   },
   {
    "team": "Spartans",
@@ -183,6 +183,42 @@
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Annan Athletic",
+   "away": "Forfar",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Edinburgh City",
+   "away": "Kelty Hearts",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Clyde",
+   "away": "Stirling",
+   "home_goals": 4,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Stranraer",
+   "away": "Elgin",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
   {
    "date": "2026-11-14",
    "kickoff_utc": "2026-11-14T15:00:00.000Z",
@@ -415,42 +451,6 @@
    "away": "Stirling",
    "home_goals": 0,
    "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-03",
-   "kickoff_utc": "2026-10-03T14:00:00.000Z",
-   "home": "Dumbarton",
-   "away": "Forfar",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-03",
-   "kickoff_utc": "2026-10-03T14:00:00.000Z",
-   "home": "Elgin",
-   "away": "Clyde",
-   "home_goals": 6,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-03",
-   "kickoff_utc": "2026-10-03T14:00:00.000Z",
-   "home": "Stranraer",
-   "away": "Edinburgh City",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-03",
-   "kickoff_utc": "2026-10-03T14:00:00.000Z",
-   "home": "Spartans",
-   "away": "Kelty Hearts",
-   "home_goals": 0,
-   "away_goals": 2,
    "status": "finished"
   }
  ],

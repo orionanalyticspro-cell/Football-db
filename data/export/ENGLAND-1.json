@@ -7,75 +7,88 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-23T13:13:10.272Z",
+ "updated": "2026-11-23T18:58:56.719Z",
  "standings": [
   {
    "position": 1,
    "team": "Arsenal",
-   "played": 10,
+   "played": 11,
    "won": 9,
-   "drawn": 0,
+   "drawn": 1,
    "lost": 1,
-   "goals_for": 15,
-   "goals_against": 5,
+   "goals_for": 17,
+   "goals_against": 7,
    "goal_diff": 10,
-   "points": 27,
+   "points": 28,
    "flag": null
   },
   {
    "position": 2,
    "team": "Brighton & Hove Albion",
-   "played": 10,
+   "played": 11,
    "won": 7,
    "drawn": 1,
-   "lost": 2,
+   "lost": 3,
    "goals_for": 26,
-   "goals_against": 7,
-   "goal_diff": 19,
+   "goals_against": 9,
+   "goal_diff": 17,
    "points": 22,
    "flag": null
   },
   {
    "position": 3,
    "team": "Manchester City",
-   "played": 10,
+   "played": 11,
    "won": 7,
-   "drawn": 0,
+   "drawn": 1,
    "lost": 3,
-   "goals_for": 21,
-   "goals_against": 13,
+   "goals_for": 22,
+   "goals_against": 14,
    "goal_diff": 8,
-   "points": 21,
+   "points": 22,
    "flag": null
   },
   {
    "position": 4,
    "team": "Liverpool",
-   "played": 10,
-   "won": 5,
+   "played": 11,
+   "won": 6,
    "drawn": 3,
    "lost": 2,
-   "goals_for": 14,
+   "goals_for": 18,
    "goals_against": 10,
+   "goal_diff": 8,
+   "points": 21,
+   "flag": null
+  },
+  {
+   "position": 5,
+   "team": "Bournemouth",
+   "played": 11,
+   "won": 5,
+   "drawn": 3,
+   "lost": 3,
+   "goals_for": 18,
+   "goals_against": 14,
    "goal_diff": 4,
    "points": 18,
    "flag": null
   },
   {
-   "position": 5,
-   "team": "Chelsea",
-   "played": 10,
-   "won": 5,
-   "drawn": 1,
-   "lost": 4,
-   "goals_for": 19,
-   "goals_against": 16,
-   "goal_diff": 3,
-   "points": 16,
+   "position": 6,
+   "team": "Leeds United",
+   "played": 11,
+   "won": 4,
+   "drawn": 5,
+   "lost": 2,
+   "goals_for": 14,
+   "goals_against": 9,
+   "goal_diff": 5,
+   "points": 17,
    "flag": null
   },
   {
-   "position": 6,
+   "position": 7,
    "team": "Everton",
    "played": 10,
    "won": 4,
@@ -88,20 +101,33 @@
    "flag": null
   },
   {
-   "position": 7,
-   "team": "Bournemouth",
-   "played": 10,
+   "position": 8,
+   "team": "Chelsea",
+   "played": 11,
+   "won": 5,
+   "drawn": 1,
+   "lost": 5,
+   "goals_for": 20,
+   "goals_against": 20,
+   "goal_diff": 0,
+   "points": 16,
+   "flag": null
+  },
+  {
+   "position": 9,
+   "team": "Tottenham Hotspur",
+   "played": 11,
    "won": 4,
    "drawn": 3,
-   "lost": 3,
-   "goals_for": 16,
-   "goals_against": 14,
-   "goal_diff": 2,
+   "lost": 4,
+   "goals_for": 12,
+   "goals_against": 11,
+   "goal_diff": 1,
    "points": 15,
    "flag": null
   },
   {
-   "position": 8,
+   "position": 10,
    "team": "Brentford",
    "played": 10,
    "won": 3,
@@ -114,144 +140,118 @@
    "flag": null
   },
   {
-   "position": 9,
-   "team": "Leeds United",
-   "played": 10,
+   "position": 11,
+   "team": "Hull",
+   "played": 11,
    "won": 3,
    "drawn": 5,
-   "lost": 2,
-   "goals_for": 10,
-   "goals_against": 8,
+   "lost": 3,
+   "goals_for": 13,
+   "goals_against": 11,
    "goal_diff": 2,
    "points": 14,
    "flag": null
   },
   {
-   "position": 10,
+   "position": 12,
    "team": "Aston Villa",
-   "played": 10,
+   "played": 11,
    "won": 3,
-   "drawn": 4,
+   "drawn": 5,
    "lost": 3,
    "goals_for": 14,
    "goals_against": 17,
+   "goal_diff": -3,
+   "points": 14,
+   "flag": null
+  },
+  {
+   "position": 13,
+   "team": "Newcastle United",
+   "played": 11,
+   "won": 3,
+   "drawn": 4,
+   "lost": 4,
+   "goals_for": 15,
+   "goals_against": 18,
    "goal_diff": -3,
    "points": 13,
    "flag": null
   },
   {
-   "position": 11,
-   "team": "Tottenham Hotspur",
-   "played": 10,
-   "won": 3,
-   "drawn": 3,
-   "lost": 4,
-   "goals_for": 10,
-   "goals_against": 11,
-   "goal_diff": -1,
-   "points": 12,
-   "flag": null
-  },
-  {
-   "position": 12,
-   "team": "Newcastle United",
-   "played": 10,
-   "won": 3,
-   "drawn": 3,
-   "lost": 4,
-   "goals_for": 13,
-   "goals_against": 16,
-   "goal_diff": -3,
-   "points": 12,
-   "flag": null
-  },
-  {
-   "position": 13,
-   "team": "Hull",
-   "played": 10,
-   "won": 2,
-   "drawn": 5,
-   "lost": 3,
-   "goals_for": 11,
-   "goals_against": 11,
-   "goal_diff": 0,
-   "points": 11,
-   "flag": null
-  },
-  {
    "position": 14,
-   "team": "Ipswich",
-   "played": 10,
-   "won": 3,
-   "drawn": 2,
-   "lost": 5,
-   "goals_for": 15,
-   "goals_against": 20,
-   "goal_diff": -5,
-   "points": 11,
+   "team": "Coventry",
+   "played": 11,
+   "won": 4,
+   "drawn": 0,
+   "lost": 7,
+   "goals_for": 13,
+   "goals_against": 21,
+   "goal_diff": -8,
+   "points": 12,
    "flag": null
   },
   {
    "position": 15,
    "team": "Fulham",
-   "played": 10,
+   "played": 11,
    "won": 2,
-   "drawn": 4,
+   "drawn": 5,
    "lost": 4,
-   "goals_for": 10,
-   "goals_against": 12,
+   "goals_for": 11,
+   "goals_against": 13,
    "goal_diff": -2,
-   "points": 10,
+   "points": 11,
    "flag": null
   },
   {
    "position": 16,
-   "team": "Nottingham Forest",
-   "played": 10,
-   "won": 2,
-   "drawn": 3,
-   "lost": 5,
-   "goals_for": 9,
-   "goals_against": 13,
-   "goal_diff": -4,
-   "points": 9,
+   "team": "Ipswich",
+   "played": 11,
+   "won": 3,
+   "drawn": 2,
+   "lost": 6,
+   "goals_for": 15,
+   "goals_against": 22,
+   "goal_diff": -7,
+   "points": 11,
    "flag": null
   },
   {
    "position": 17,
-   "team": "Coventry",
-   "played": 10,
-   "won": 3,
-   "drawn": 0,
-   "lost": 7,
-   "goals_for": 10,
-   "goals_against": 19,
-   "goal_diff": -9,
+   "team": "Nottingham Forest",
+   "played": 11,
+   "won": 2,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 9,
+   "goals_against": 15,
+   "goal_diff": -6,
    "points": 9,
    "flag": null
   },
   {
    "position": 18,
-   "team": "Manchester United",
-   "played": 10,
-   "won": 1,
-   "drawn": 5,
-   "lost": 4,
-   "goals_for": 14,
-   "goals_against": 19,
-   "goal_diff": -5,
-   "points": 8,
+   "team": "Sunderland",
+   "played": 11,
+   "won": 2,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 8,
+   "goals_against": 17,
+   "goal_diff": -9,
+   "points": 9,
    "flag": null
   },
   {
    "position": 19,
-   "team": "Sunderland",
-   "played": 10,
-   "won": 2,
-   "drawn": 2,
-   "lost": 6,
-   "goals_for": 8,
-   "goals_against": 17,
+   "team": "Manchester United",
+   "played": 11,
+   "won": 1,
+   "drawn": 5,
+   "lost": 5,
+   "goals_for": 14,
+   "goals_against": 23,
    "goal_diff": -9,
    "points": 8,
    "flag": null
@@ -259,13 +259,13 @@
   {
    "position": 20,
    "team": "Crystal Palace",
-   "played": 10,
+   "played": 11,
    "won": 2,
    "drawn": 1,
-   "lost": 7,
-   "goals_for": 10,
-   "goals_against": 24,
-   "goal_diff": -14,
+   "lost": 8,
+   "goals_for": 12,
+   "goals_against": 27,
+   "goal_diff": -15,
    "points": 7,
    "flag": null
   }
@@ -273,47 +273,47 @@
  "form": [
   {
    "team": "Manchester City",
-   "last5": "LLLWW"
+   "last5": "DLLLW"
   },
   {
    "team": "Manchester United",
-   "last5": "DLLDD"
+   "last5": "LDLLD"
   },
   {
    "team": "Nottingham Forest",
-   "last5": "WLDLL"
+   "last5": "LWLDL"
   },
   {
    "team": "Tottenham Hotspur",
-   "last5": "LWWWD"
+   "last5": "WLWWW"
   },
   {
    "team": "Newcastle United",
-   "last5": "DLWLL"
+   "last5": "DDLWL"
   },
   {
    "team": "Brighton & Hove Albion",
-   "last5": "WWLWW"
+   "last5": "LWWLW"
   },
   {
    "team": "Leeds United",
-   "last5": "WLDDL"
+   "last5": "WWLDD"
   },
   {
    "team": "Fulham",
-   "last5": "DDWWL"
+   "last5": "DDDWW"
   },
   {
    "team": "Ipswich",
-   "last5": "LDDLW"
+   "last5": "LLDDL"
   },
   {
    "team": "Liverpool",
-   "last5": "WLWWL"
+   "last5": "WWLWW"
   },
   {
    "team": "Arsenal",
-   "last5": "WWWWW"
+   "last5": "DWWWW"
   },
   {
    "team": "Everton",
@@ -321,11 +321,11 @@
   },
   {
    "team": "Bournemouth",
-   "last5": "WWWWL"
+   "last5": "WWWWW"
   },
   {
    "team": "Aston Villa",
-   "last5": "DDWWD"
+   "last5": "DDDWW"
   },
   {
    "team": "Brentford",
@@ -333,26 +333,107 @@
   },
   {
    "team": "Crystal Palace",
-   "last5": "LLLLW"
+   "last5": "LLLLL"
   },
   {
    "team": "Chelsea",
-   "last5": "LWLWW"
+   "last5": "LLWLW"
   },
   {
    "team": "Sunderland",
-   "last5": "WLDLL"
+   "last5": "DWLDL"
   },
   {
    "team": "Coventry",
-   "last5": "LWLLW"
+   "last5": "WLWLL"
   },
   {
    "team": "Hull",
-   "last5": "LDDLD"
+   "last5": "WLDDL"
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T16:30:00.000Z",
+   "home": "Liverpool",
+   "away": "Manchester United",
+   "home_goals": 4,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T14:00:00.000Z",
+   "home": "Hull",
+   "away": "Brighton & Hove Albion",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Chelsea",
+   "away": "Leeds United",
+   "home_goals": 1,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Manchester City",
+   "away": "Fulham",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Tottenham Hotspur",
+   "away": "Ipswich",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Newcastle United",
+   "away": "Arsenal",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Bournemouth",
+   "away": "Nottingham Forest",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Aston Villa",
+   "away": "Sunderland",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Coventry",
+   "away": "Crystal Palace",
+   "home_goals": 3,
+   "away_goals": 2,
+   "status": "finished"
+  },
   {
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T16:30:00.000Z",
@@ -541,108 +622,9 @@
    "home_goals": 0,
    "away_goals": 0,
    "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T14:00:00.000Z",
-   "home": "Liverpool",
-   "away": "Brighton & Hove Albion",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T12:00:00.000Z",
-   "home": "Manchester United",
-   "away": "Bournemouth",
-   "home_goals": 0,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T12:00:00.000Z",
-   "home": "Crystal Palace",
-   "away": "Newcastle United",
-   "home_goals": 0,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T12:00:00.000Z",
-   "home": "Hull",
-   "away": "Brentford",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T16:30:00.000Z",
-   "home": "Chelsea",
-   "away": "Tottenham Hotspur",
-   "home_goals": 0,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T14:00:00.000Z",
-   "home": "Arsenal",
-   "away": "Everton",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T11:30:00.000Z",
-   "home": "Aston Villa",
-   "away": "Manchester City",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T11:00:00.000Z",
-   "home": "Coventry",
-   "away": "Fulham",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-23",
-   "kickoff_utc": "2026-10-23T19:00:00.000Z",
-   "home": "Ipswich",
-   "away": "Nottingham Forest",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T14:00:00.000Z",
-   "home": "Hull",
-   "away": "Brighton & Hove Albion",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T16:30:00.000Z",
-   "home": "Liverpool",
-   "away": "Manchester United",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-23",
    "kickoff_utc": "2026-11-23T20:00:00.000Z",
@@ -891,6 +873,24 @@
    "kickoff_utc": "2026-12-05T12:00:00.000Z",
    "home": "Aston Villa",
    "away": "Crystal Palace",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-05",
+   "kickoff_utc": "2026-12-05T12:00:00.000Z",
+   "home": "Brentford",
+   "away": "Manchester City",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-05",
+   "kickoff_utc": "2026-12-05T12:00:00.000Z",
+   "home": "Chelsea",
+   "away": "Liverpool",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

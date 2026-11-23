@@ -7,147 +7,147 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-23T13:13:14.171Z",
+ "updated": "2026-11-23T18:59:01.134Z",
  "standings": [
   {
    "position": 1,
    "team": "Celtic",
-   "played": 13,
-   "won": 10,
+   "played": 14,
+   "won": 11,
    "drawn": 1,
    "lost": 2,
-   "goals_for": 28,
-   "goals_against": 10,
-   "goal_diff": 18,
-   "points": 31,
+   "goals_for": 32,
+   "goals_against": 11,
+   "goal_diff": 21,
+   "points": 34,
    "flag": null
   },
   {
    "position": 2,
    "team": "Rangers",
-   "played": 12,
-   "won": 8,
+   "played": 13,
+   "won": 9,
    "drawn": 3,
    "lost": 1,
-   "goals_for": 21,
-   "goals_against": 9,
-   "goal_diff": 12,
-   "points": 27,
+   "goals_for": 23,
+   "goals_against": 10,
+   "goal_diff": 13,
+   "points": 30,
    "flag": null
   },
   {
    "position": 3,
    "team": "Falkirk",
-   "played": 13,
-   "won": 6,
+   "played": 14,
+   "won": 7,
    "drawn": 3,
    "lost": 4,
-   "goals_for": 20,
-   "goals_against": 14,
-   "goal_diff": 6,
-   "points": 21,
+   "goals_for": 22,
+   "goals_against": 15,
+   "goal_diff": 7,
+   "points": 24,
    "flag": null
   },
   {
    "position": 4,
    "team": "Hearts",
-   "played": 12,
-   "won": 6,
+   "played": 13,
+   "won": 7,
    "drawn": 2,
    "lost": 4,
-   "goals_for": 26,
+   "goals_for": 34,
    "goals_against": 22,
+   "goal_diff": 12,
+   "points": 23,
+   "flag": null
+  },
+  {
+   "position": 5,
+   "team": "Dundee United",
+   "played": 13,
+   "won": 5,
+   "drawn": 5,
+   "lost": 3,
+   "goals_for": 21,
+   "goals_against": 17,
    "goal_diff": 4,
    "points": 20,
    "flag": null
   },
   {
-   "position": 5,
-   "team": "Dundee",
-   "played": 12,
-   "won": 5,
-   "drawn": 2,
-   "lost": 5,
-   "goals_for": 18,
-   "goals_against": 15,
-   "goal_diff": 3,
-   "points": 17,
-   "flag": null
-  },
-  {
    "position": 6,
-   "team": "Dundee United",
-   "played": 12,
+   "team": "St Johnstone",
+   "played": 14,
    "won": 4,
    "drawn": 5,
-   "lost": 3,
-   "goals_for": 17,
-   "goals_against": 17,
-   "goal_diff": 0,
+   "lost": 5,
+   "goals_for": 18,
+   "goals_against": 22,
+   "goal_diff": -4,
    "points": 17,
    "flag": null
   },
   {
    "position": 7,
-   "team": "St Johnstone",
+   "team": "Dundee",
    "played": 13,
-   "won": 4,
-   "drawn": 5,
-   "lost": 4,
-   "goals_for": 17,
-   "goals_against": 20,
-   "goal_diff": -3,
+   "won": 5,
+   "drawn": 2,
+   "lost": 6,
+   "goals_for": 18,
+   "goals_against": 23,
+   "goal_diff": -5,
    "points": 17,
    "flag": null
   },
   {
    "position": 8,
-   "team": "St Mirren",
+   "team": "Aberdeen",
    "played": 13,
    "won": 4,
    "drawn": 2,
    "lost": 7,
-   "goals_for": 12,
-   "goals_against": 22,
-   "goal_diff": -10,
+   "goals_for": 16,
+   "goals_against": 20,
+   "goal_diff": -4,
    "points": 14,
    "flag": null
   },
   {
    "position": 9,
-   "team": "Motherwell",
-   "played": 13,
-   "won": 3,
-   "drawn": 4,
-   "lost": 6,
-   "goals_for": 15,
-   "goals_against": 21,
-   "goal_diff": -6,
-   "points": 13,
+   "team": "St Mirren",
+   "played": 14,
+   "won": 4,
+   "drawn": 2,
+   "lost": 8,
+   "goals_for": 13,
+   "goals_against": 26,
+   "goal_diff": -13,
+   "points": 14,
    "flag": null
   },
   {
    "position": 10,
-   "team": "Hibernian",
-   "played": 12,
+   "team": "Motherwell",
+   "played": 14,
    "won": 3,
-   "drawn": 2,
+   "drawn": 4,
    "lost": 7,
-   "goals_for": 15,
-   "goals_against": 17,
-   "goal_diff": -2,
-   "points": 11,
+   "goals_for": 16,
+   "goals_against": 23,
+   "goal_diff": -7,
+   "points": 13,
    "flag": null
   },
   {
    "position": 11,
-   "team": "Aberdeen",
-   "played": 12,
+   "team": "Hibernian",
+   "played": 13,
    "won": 3,
    "drawn": 2,
-   "lost": 7,
-   "goals_for": 12,
-   "goals_against": 18,
+   "lost": 8,
+   "goals_for": 15,
+   "goals_against": 21,
    "goal_diff": -6,
    "points": 11,
    "flag": null
@@ -155,13 +155,13 @@
   {
    "position": 12,
    "team": "Kilmarnock",
-   "played": 13,
+   "played": 14,
    "won": 2,
    "drawn": 3,
-   "lost": 8,
-   "goals_for": 13,
-   "goals_against": 29,
-   "goal_diff": -16,
+   "lost": 9,
+   "goals_for": 15,
+   "goals_against": 33,
+   "goal_diff": -18,
    "points": 9,
    "flag": null
   }
@@ -169,47 +169,47 @@
  "form": [
   {
    "team": "Hearts",
-   "last5": "LDWLW"
+   "last5": "WLDWL"
   },
   {
    "team": "Rangers",
-   "last5": "WDWDW"
+   "last5": "WWDWD"
   },
   {
    "team": "Motherwell",
-   "last5": "DWDLL"
+   "last5": "LDWDL"
   },
   {
    "team": "Dundee United",
-   "last5": "DDWDW"
+   "last5": "WDDWD"
   },
   {
    "team": "Dundee",
-   "last5": "LWLDW"
+   "last5": "LLWLD"
   },
   {
    "team": "St Mirren",
-   "last5": "LLDWL"
+   "last5": "LLLDW"
   },
   {
    "team": "Hibernian",
-   "last5": "WDLLL"
+   "last5": "LWDLL"
   },
   {
    "team": "Celtic",
-   "last5": "WLDWW"
+   "last5": "WWLDW"
   },
   {
    "team": "Kilmarnock",
-   "last5": "LDLLW"
+   "last5": "LLDLL"
   },
   {
    "team": "St Johnstone",
-   "last5": "WDDLD"
+   "last5": "LWDDL"
   },
   {
    "team": "Aberdeen",
-   "last5": "LLLWL"
+   "last5": "WLLLW"
   },
   {
    "team": "Falkirk",
@@ -217,6 +217,60 @@
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T20:00:00.000Z",
+   "home": "Motherwell",
+   "away": "Rangers",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T17:45:00.000Z",
+   "home": "Dundee",
+   "away": "Hearts",
+   "home_goals": 0,
+   "away_goals": 8,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Hibernian",
+   "away": "Dundee United",
+   "home_goals": 0,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Celtic",
+   "away": "St Mirren",
+   "home_goals": 4,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Kilmarnock",
+   "away": "Aberdeen",
+   "home_goals": 2,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Falkirk",
+   "away": "St Johnstone",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
   {
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T16:00:00.000Z",
@@ -431,60 +485,6 @@
    "away": "Falkirk",
    "home_goals": 1,
    "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-17",
-   "kickoff_utc": "2026-10-17T14:00:00.000Z",
-   "home": "Kilmarnock",
-   "away": "Motherwell",
-   "home_goals": 3,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-17",
-   "kickoff_utc": "2026-10-17T14:00:00.000Z",
-   "home": "St Johnstone",
-   "away": "Dundee United",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-17",
-   "kickoff_utc": "2026-10-17T14:00:00.000Z",
-   "home": "Aberdeen",
-   "away": "St Mirren",
-   "home_goals": 3,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-11",
-   "kickoff_utc": "2026-10-11T13:00:00.000Z",
-   "home": "Aberdeen",
-   "away": "St Johnstone",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-11",
-   "kickoff_utc": "2026-10-11T11:00:00.000Z",
-   "home": "Motherwell",
-   "away": "Celtic",
-   "home_goals": 0,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-10",
-   "kickoff_utc": "2026-10-10T14:00:00.000Z",
-   "home": "Hearts",
-   "away": "St Mirren",
-   "home_goals": 5,
-   "away_goals": 0,
    "status": "finished"
   }
  ],

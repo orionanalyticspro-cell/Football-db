@@ -7,239 +7,239 @@
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-23T13:13:11.787Z",
+ "updated": "2026-11-23T18:58:58.432Z",
  "standings": [
   {
    "position": 1,
    "team": "Hertha",
-   "played": 11,
-   "won": 10,
+   "played": 12,
+   "won": 11,
    "drawn": 1,
    "lost": 0,
-   "goals_for": 25,
+   "goals_for": 29,
    "goals_against": 9,
-   "goal_diff": 16,
-   "points": 31,
+   "goal_diff": 20,
+   "points": 34,
    "flag": null
   },
   {
    "position": 2,
    "team": "Nurnberg",
-   "played": 11,
+   "played": 12,
    "won": 7,
    "drawn": 3,
-   "lost": 1,
-   "goals_for": 26,
-   "goals_against": 13,
-   "goal_diff": 13,
+   "lost": 2,
+   "goals_for": 27,
+   "goals_against": 15,
+   "goal_diff": 12,
    "points": 24,
    "flag": null
   },
   {
    "position": 3,
-   "team": "Kaiserslautern",
-   "played": 11,
-   "won": 6,
-   "drawn": 3,
-   "lost": 2,
-   "goals_for": 10,
-   "goals_against": 7,
-   "goal_diff": 3,
-   "points": 21,
+   "team": "Magdeburg",
+   "played": 12,
+   "won": 7,
+   "drawn": 2,
+   "lost": 3,
+   "goals_for": 27,
+   "goals_against": 15,
+   "goal_diff": 12,
+   "points": 23,
    "flag": null
   },
   {
    "position": 4,
-   "team": "Magdeburg",
-   "played": 11,
+   "team": "Wolfsburg",
+   "played": 12,
    "won": 6,
-   "drawn": 2,
-   "lost": 3,
-   "goals_for": 25,
-   "goals_against": 14,
-   "goal_diff": 11,
-   "points": 20,
+   "drawn": 4,
+   "lost": 2,
+   "goals_for": 29,
+   "goals_against": 16,
+   "goal_diff": 13,
+   "points": 22,
    "flag": null
   },
   {
    "position": 5,
-   "team": "Wolfsburg",
-   "played": 11,
-   "won": 5,
+   "team": "Kaiserslautern",
+   "played": 12,
+   "won": 6,
    "drawn": 4,
    "lost": 2,
-   "goals_for": 26,
-   "goals_against": 16,
-   "goal_diff": 10,
-   "points": 19,
+   "goals_for": 12,
+   "goals_against": 9,
+   "goal_diff": 3,
+   "points": 22,
    "flag": null
   },
   {
    "position": 6,
    "team": "Bielefeld",
-   "played": 11,
+   "played": 12,
    "won": 5,
    "drawn": 2,
-   "lost": 4,
-   "goals_for": 18,
-   "goals_against": 16,
-   "goal_diff": 2,
+   "lost": 5,
+   "goals_for": 19,
+   "goals_against": 18,
+   "goal_diff": 1,
    "points": 17,
    "flag": null
   },
   {
    "position": 7,
    "team": "Heidenheim",
-   "played": 11,
+   "played": 12,
    "won": 4,
    "drawn": 4,
-   "lost": 3,
-   "goals_for": 19,
-   "goals_against": 20,
-   "goal_diff": -1,
+   "lost": 4,
+   "goals_for": 20,
+   "goals_against": 23,
+   "goal_diff": -3,
    "points": 16,
    "flag": null
   },
   {
    "position": 8,
-   "team": "Bochum",
-   "played": 11,
-   "won": 4,
-   "drawn": 2,
-   "lost": 5,
-   "goals_for": 11,
-   "goals_against": 13,
-   "goal_diff": -2,
-   "points": 14,
+   "team": "St Pauli",
+   "played": 12,
+   "won": 3,
+   "drawn": 6,
+   "lost": 3,
+   "goals_for": 15,
+   "goals_against": 16,
+   "goal_diff": -1,
+   "points": 15,
    "flag": null
   },
   {
    "position": 9,
-   "team": "St Pauli",
-   "played": 11,
-   "won": 2,
-   "drawn": 6,
-   "lost": 3,
-   "goals_for": 13,
-   "goals_against": 16,
-   "goal_diff": -3,
-   "points": 12,
+   "team": "Hannover",
+   "played": 12,
+   "won": 4,
+   "drawn": 3,
+   "lost": 5,
+   "goals_for": 14,
+   "goals_against": 19,
+   "goal_diff": -5,
+   "points": 15,
    "flag": null
   },
   {
    "position": 10,
-   "team": "Greuther Furth",
-   "played": 11,
-   "won": 3,
-   "drawn": 3,
-   "lost": 5,
-   "goals_for": 13,
+   "team": "Braunschweig",
+   "played": 12,
+   "won": 4,
+   "drawn": 2,
+   "lost": 6,
+   "goals_for": 18,
    "goals_against": 19,
-   "goal_diff": -6,
-   "points": 12,
+   "goal_diff": -1,
+   "points": 14,
    "flag": null
   },
   {
    "position": 11,
-   "team": "Hannover",
-   "played": 11,
-   "won": 3,
-   "drawn": 3,
-   "lost": 5,
-   "goals_for": 12,
-   "goals_against": 18,
-   "goal_diff": -6,
-   "points": 12,
+   "team": "Bochum",
+   "played": 12,
+   "won": 4,
+   "drawn": 2,
+   "lost": 6,
+   "goals_for": 11,
+   "goals_against": 15,
+   "goal_diff": -4,
+   "points": 14,
    "flag": null
   },
   {
    "position": 12,
-   "team": "Cottbus",
-   "played": 11,
-   "won": 2,
-   "drawn": 5,
-   "lost": 4,
-   "goals_for": 18,
-   "goals_against": 20,
-   "goal_diff": -2,
-   "points": 11,
-   "flag": null
-  },
-  {
-   "position": 13,
-   "team": "Braunschweig",
-   "played": 11,
-   "won": 3,
-   "drawn": 2,
-   "lost": 6,
-   "goals_for": 16,
-   "goals_against": 18,
-   "goal_diff": -2,
-   "points": 11,
-   "flag": null
-  },
-  {
-   "position": 14,
    "team": "Osnabruck",
-   "played": 11,
+   "played": 12,
    "won": 3,
-   "drawn": 2,
+   "drawn": 3,
    "lost": 6,
    "goals_for": 14,
    "goals_against": 18,
    "goal_diff": -4,
-   "points": 11,
+   "points": 12,
+   "flag": null
+  },
+  {
+   "position": 13,
+   "team": "Dresden",
+   "played": 12,
+   "won": 3,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 17,
+   "goals_against": 22,
+   "goal_diff": -5,
+   "points": 12,
+   "flag": null
+  },
+  {
+   "position": 14,
+   "team": "Greuther Furth",
+   "played": 12,
+   "won": 3,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 14,
+   "goals_against": 21,
+   "goal_diff": -7,
+   "points": 12,
    "flag": null
   },
   {
    "position": 15,
-   "team": "Dresden",
-   "played": 11,
-   "won": 3,
-   "drawn": 2,
-   "lost": 6,
-   "goals_for": 15,
-   "goals_against": 20,
-   "goal_diff": -5,
-   "points": 11,
-   "flag": null
-  },
-  {
-   "position": 16,
    "team": "Karlsruhe",
-   "played": 11,
+   "played": 12,
    "won": 3,
-   "drawn": 2,
+   "drawn": 3,
    "lost": 6,
    "goals_for": 15,
    "goals_against": 24,
    "goal_diff": -9,
-   "points": 11,
+   "points": 12,
+   "flag": null
+  },
+  {
+   "position": 16,
+   "team": "Darmstadt",
+   "played": 12,
+   "won": 3,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 12,
+   "goals_against": 22,
+   "goal_diff": -10,
+   "points": 12,
    "flag": null
   },
   {
    "position": 17,
-   "team": "Darmstadt",
-   "played": 11,
+   "team": "Cottbus",
+   "played": 12,
    "won": 2,
-   "drawn": 3,
-   "lost": 6,
-   "goals_for": 9,
-   "goals_against": 21,
-   "goal_diff": -12,
-   "points": 9,
+   "drawn": 5,
+   "lost": 5,
+   "goals_for": 18,
+   "goals_against": 24,
+   "goal_diff": -6,
+   "points": 11,
    "flag": null
   },
   {
    "position": 18,
    "team": "Holstein Kiel",
-   "played": 11,
+   "played": 12,
    "won": 1,
    "drawn": 5,
-   "lost": 5,
+   "lost": 6,
    "goals_for": 11,
-   "goals_against": 14,
-   "goal_diff": -3,
+   "goals_against": 17,
+   "goal_diff": -6,
    "points": 8,
    "flag": null
   }
@@ -247,78 +247,159 @@
  "form": [
   {
    "team": "Holstein Kiel",
-   "last5": "LLWDL"
+   "last5": "LLLWD"
   },
   {
    "team": "Bochum",
-   "last5": "WWDLL"
+   "last5": "LWWDL"
   },
   {
    "team": "Wolfsburg",
-   "last5": "LWDWD"
+   "last5": "WLWDW"
   },
   {
    "team": "St Pauli",
-   "last5": "LLDDW"
+   "last5": "WLLDD"
   },
   {
    "team": "Heidenheim",
-   "last5": "DLDLD"
+   "last5": "LDLDL"
   },
   {
    "team": "Hannover",
-   "last5": "DWLDL"
+   "last5": "WDWLD"
   },
   {
    "team": "Hertha",
-   "last5": "WWWDW"
+   "last5": "WWWWD"
   },
   {
    "team": "Karlsruhe",
-   "last5": "LWLWL"
-  },
-  {
-   "team": "Nurnberg",
-   "last5": "WWLDD"
-  },
-  {
-   "team": "Magdeburg",
-   "last5": "WDWLW"
-  },
-  {
-   "team": "Braunschweig",
    "last5": "DLWLW"
   },
   {
+   "team": "Nurnberg",
+   "last5": "LWWLD"
+  },
+  {
+   "team": "Magdeburg",
+   "last5": "WWDWL"
+  },
+  {
+   "team": "Braunschweig",
+   "last5": "WDLWL"
+  },
+  {
    "team": "Darmstadt",
-   "last5": "LDDLW"
+   "last5": "WLDDL"
   },
   {
    "team": "Greuther Furth",
-   "last5": "LWLWL"
+   "last5": "LLWLW"
   },
   {
    "team": "Kaiserslautern",
-   "last5": "WLWWD"
+   "last5": "DWLWW"
   },
   {
    "team": "Bielefeld",
-   "last5": "WWLWW"
+   "last5": "LWWLW"
   },
   {
    "team": "Dresden",
-   "last5": "WLLWD"
+   "last5": "DWLLW"
   },
   {
    "team": "Osnabruck",
-   "last5": "LLWLD"
+   "last5": "DLLWL"
   },
   {
    "team": "Cottbus",
-   "last5": "DLDDL"
+   "last5": "LDLDD"
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T12:30:00.000Z",
+   "home": "Karlsruhe",
+   "away": "Osnabruck",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T12:30:00.000Z",
+   "home": "Kaiserslautern",
+   "away": "Dresden",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T12:30:00.000Z",
+   "home": "Cottbus",
+   "away": "Hertha",
+   "home_goals": 0,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T19:30:00.000Z",
+   "home": "St Pauli",
+   "away": "Bochum",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Wolfsburg",
+   "away": "Holstein Kiel",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Hannover",
+   "away": "Greuther Furth",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:00:00.000Z",
+   "home": "Nurnberg",
+   "away": "Braunschweig",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T17:30:00.000Z",
+   "home": "Darmstadt",
+   "away": "Heidenheim",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T17:30:00.000Z",
+   "home": "Bielefeld",
+   "away": "Magdeburg",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
   {
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T12:30:00.000Z",
@@ -507,116 +588,7 @@
    "home_goals": 3,
    "away_goals": 0,
    "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T18:30:00.000Z",
-   "home": "Nurnberg",
-   "away": "Kaiserslautern",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T11:00:00.000Z",
-   "home": "Heidenheim",
-   "away": "Cottbus",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T11:00:00.000Z",
-   "home": "Hertha",
-   "away": "Bielefeld",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T11:00:00.000Z",
-   "home": "Magdeburg",
-   "away": "Karlsruhe",
-   "home_goals": 6,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-23",
-   "kickoff_utc": "2026-10-23T16:30:00.000Z",
-   "home": "Bochum",
-   "away": "Wolfsburg",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-23",
-   "kickoff_utc": "2026-10-23T16:30:00.000Z",
-   "home": "Darmstadt",
-   "away": "St Pauli",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T11:30:00.000Z",
-   "home": "Karlsruhe",
-   "away": "Darmstadt",
-   "home_goals": 4,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T11:30:00.000Z",
-   "home": "Bielefeld",
-   "away": "Osnabruck",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T11:30:00.000Z",
-   "home": "Dresden",
-   "away": "Magdeburg",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
   }
  ],
- "upcoming": [
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T12:30:00.000Z",
-   "home": "Karlsruhe",
-   "away": "Osnabruck",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T12:30:00.000Z",
-   "home": "Kaiserslautern",
-   "away": "Dresden",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T12:30:00.000Z",
-   "home": "Cottbus",
-   "away": "Hertha",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  }
- ]
+ "upcoming": []
 }

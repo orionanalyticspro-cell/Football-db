@@ -7,239 +7,239 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-23T13:13:11.263Z",
+ "updated": "2026-11-23T18:58:57.855Z",
  "standings": [
   {
    "position": 1,
    "team": "Paris Saint-Germain",
-   "played": 10,
-   "won": 7,
+   "played": 11,
+   "won": 8,
    "drawn": 2,
    "lost": 1,
-   "goals_for": 22,
-   "goals_against": 10,
-   "goal_diff": 12,
-   "points": 23,
+   "goals_for": 25,
+   "goals_against": 12,
+   "goal_diff": 13,
+   "points": 26,
    "flag": null
   },
   {
    "position": 2,
-   "team": "Lille",
-   "played": 10,
-   "won": 6,
-   "drawn": 3,
-   "lost": 1,
-   "goals_for": 14,
-   "goals_against": 7,
-   "goal_diff": 7,
-   "points": 21,
+   "team": "Paris FC",
+   "played": 11,
+   "won": 7,
+   "drawn": 2,
+   "lost": 2,
+   "goals_for": 21,
+   "goals_against": 10,
+   "goal_diff": 11,
+   "points": 23,
    "flag": null
   },
   {
    "position": 3,
-   "team": "Paris FC",
-   "played": 10,
+   "team": "Lille",
+   "played": 11,
+   "won": 6,
+   "drawn": 3,
+   "lost": 2,
+   "goals_for": 14,
+   "goals_against": 8,
+   "goal_diff": 6,
+   "points": 21,
+   "flag": null
+  },
+  {
+   "position": 4,
+   "team": "Lyon",
+   "played": 11,
    "won": 6,
    "drawn": 2,
-   "lost": 2,
-   "goals_for": 17,
-   "goals_against": 10,
+   "lost": 3,
+   "goals_for": 16,
+   "goals_against": 9,
    "goal_diff": 7,
    "points": 20,
    "flag": null
   },
   {
-   "position": 4,
+   "position": 5,
    "team": "Marseille",
-   "played": 10,
+   "played": 11,
    "won": 6,
    "drawn": 0,
-   "lost": 4,
-   "goals_for": 22,
-   "goals_against": 14,
-   "goal_diff": 8,
+   "lost": 5,
+   "goals_for": 24,
+   "goals_against": 17,
+   "goal_diff": 7,
    "points": 18,
    "flag": null
   },
   {
-   "position": 5,
-   "team": "Lyon",
-   "played": 10,
-   "won": 5,
-   "drawn": 2,
-   "lost": 3,
-   "goals_for": 15,
-   "goals_against": 9,
-   "goal_diff": 6,
-   "points": 17,
-   "flag": null
-  },
-  {
    "position": 6,
-   "team": "Nice",
-   "played": 10,
+   "team": "Brest",
+   "played": 11,
    "won": 5,
-   "drawn": 2,
+   "drawn": 3,
    "lost": 3,
-   "goals_for": 15,
+   "goals_for": 19,
    "goals_against": 12,
-   "goal_diff": 3,
-   "points": 17,
+   "goal_diff": 7,
+   "points": 18,
    "flag": null
   },
   {
    "position": 7,
-   "team": "Monaco",
-   "played": 10,
-   "won": 4,
-   "drawn": 4,
-   "lost": 2,
-   "goals_for": 13,
-   "goals_against": 11,
+   "team": "Nice",
+   "played": 11,
+   "won": 5,
+   "drawn": 2,
+   "lost": 4,
+   "goals_for": 17,
+   "goals_against": 15,
    "goal_diff": 2,
-   "points": 16,
+   "points": 17,
    "flag": null
   },
   {
    "position": 8,
-   "team": "Rennes",
-   "played": 10,
-   "won": 5,
-   "drawn": 1,
-   "lost": 4,
-   "goals_for": 21,
-   "goals_against": 21,
-   "goal_diff": 0,
-   "points": 16,
+   "team": "Monaco",
+   "played": 11,
+   "won": 4,
+   "drawn": 5,
+   "lost": 2,
+   "goals_for": 14,
+   "goals_against": 12,
+   "goal_diff": 2,
+   "points": 17,
    "flag": null
   },
   {
    "position": 9,
-   "team": "Brest",
-   "played": 10,
-   "won": 4,
-   "drawn": 3,
-   "lost": 3,
-   "goals_for": 18,
-   "goals_against": 12,
-   "goal_diff": 6,
-   "points": 15,
+   "team": "Rennes",
+   "played": 11,
+   "won": 5,
+   "drawn": 2,
+   "lost": 4,
+   "goals_for": 22,
+   "goals_against": 22,
+   "goal_diff": 0,
+   "points": 17,
    "flag": null
   },
   {
    "position": 10,
    "team": "Lorient",
-   "played": 10,
+   "played": 11,
    "won": 4,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 3,
-   "goals_for": 9,
-   "goals_against": 8,
+   "goals_for": 10,
+   "goals_against": 9,
    "goal_diff": 1,
-   "points": 15,
+   "points": 16,
    "flag": null
   },
   {
    "position": 11,
    "team": "Lens",
-   "played": 10,
+   "played": 11,
    "won": 4,
-   "drawn": 1,
+   "drawn": 2,
    "lost": 5,
-   "goals_for": 17,
-   "goals_against": 15,
+   "goals_for": 18,
+   "goals_against": 16,
    "goal_diff": 2,
-   "points": 13,
+   "points": 14,
    "flag": null
   },
   {
    "position": 12,
    "team": "Toulouse",
-   "played": 10,
+   "played": 11,
    "won": 3,
-   "drawn": 4,
+   "drawn": 5,
    "lost": 3,
-   "goals_for": 15,
-   "goals_against": 14,
+   "goals_for": 16,
+   "goals_against": 15,
    "goal_diff": 1,
-   "points": 13,
+   "points": 14,
    "flag": null
   },
   {
    "position": 13,
-   "team": "Strasbourg",
-   "played": 10,
-   "won": 3,
-   "drawn": 1,
-   "lost": 6,
-   "goals_for": 18,
-   "goals_against": 22,
-   "goal_diff": -4,
-   "points": 10,
+   "team": "Le Mans",
+   "played": 11,
+   "won": 2,
+   "drawn": 5,
+   "lost": 4,
+   "goals_for": 15,
+   "goals_against": 21,
+   "goal_diff": -6,
+   "points": 11,
    "flag": null
   },
   {
    "position": 14,
-   "team": "Auxerre",
-   "played": 10,
+   "team": "Troyes",
+   "played": 11,
    "won": 3,
-   "drawn": 1,
+   "drawn": 2,
    "lost": 6,
-   "goals_for": 13,
-   "goals_against": 24,
-   "goal_diff": -11,
-   "points": 10,
+   "goals_for": 10,
+   "goals_against": 18,
+   "goal_diff": -8,
+   "points": 11,
    "flag": null
   },
   {
    "position": 15,
-   "team": "Le Mans",
-   "played": 10,
-   "won": 1,
-   "drawn": 5,
-   "lost": 4,
-   "goals_for": 12,
-   "goals_against": 19,
-   "goal_diff": -7,
-   "points": 8,
+   "team": "Auxerre",
+   "played": 11,
+   "won": 3,
+   "drawn": 2,
+   "lost": 6,
+   "goals_for": 14,
+   "goals_against": 25,
+   "goal_diff": -11,
+   "points": 11,
    "flag": null
   },
   {
    "position": 16,
-   "team": "Angers",
-   "played": 10,
-   "won": 2,
-   "drawn": 2,
-   "lost": 6,
-   "goals_for": 9,
-   "goals_against": 19,
-   "goal_diff": -10,
-   "points": 8,
+   "team": "Strasbourg",
+   "played": 11,
+   "won": 3,
+   "drawn": 1,
+   "lost": 7,
+   "goals_for": 18,
+   "goals_against": 23,
+   "goal_diff": -5,
+   "points": 10,
    "flag": null
   },
   {
    "position": 17,
-   "team": "Troyes",
-   "played": 10,
+   "team": "Angers",
+   "played": 11,
    "won": 2,
    "drawn": 2,
-   "lost": 6,
-   "goals_for": 7,
-   "goals_against": 17,
-   "goal_diff": -10,
+   "lost": 7,
+   "goals_for": 9,
+   "goals_against": 23,
+   "goal_diff": -14,
    "points": 8,
    "flag": null
   },
   {
    "position": 18,
    "team": "Le Havre",
-   "played": 10,
+   "played": 11,
    "won": 0,
    "drawn": 2,
-   "lost": 8,
-   "goals_for": 9,
-   "goals_against": 22,
-   "goal_diff": -13,
+   "lost": 9,
+   "goals_for": 10,
+   "goals_against": 25,
+   "goal_diff": -15,
    "points": 2,
    "flag": null
   }
@@ -255,70 +255,151 @@
   },
   {
    "team": "Brest",
-   "last5": "WWLDW"
+   "last5": "WWWLD"
   },
   {
    "team": "Marseille",
-   "last5": "WWWWW"
+   "last5": "LWWWW"
   },
   {
    "team": "Lille",
-   "last5": "WWDDW"
+   "last5": "LWWDD"
   },
   {
    "team": "Monaco",
-   "last5": "DLDLD"
+   "last5": "DDLDL"
   },
   {
    "team": "Auxerre",
-   "last5": "LLDWL"
+   "last5": "DLLDW"
   },
   {
    "team": "Nice",
-   "last5": "WWWLW"
+   "last5": "LWWWL"
   },
   {
    "team": "Angers",
-   "last5": "LLDLL"
+   "last5": "LLLDL"
   },
   {
    "team": "Lens",
-   "last5": "LLWWW"
+   "last5": "DLLWW"
   },
   {
    "team": "Strasbourg",
-   "last5": "LWLLL"
+   "last5": "LLWLL"
   },
   {
    "team": "Toulouse",
-   "last5": "WLDWD"
+   "last5": "DWLDW"
   },
   {
    "team": "Rennes",
-   "last5": "LLWLW"
+   "last5": "DLLWL"
   },
   {
    "team": "Lyon",
-   "last5": "LWLWL"
+   "last5": "WLWLW"
   },
   {
    "team": "Paris FC",
-   "last5": "WWLWL"
+   "last5": "WWWLW"
   },
   {
    "team": "Lorient",
-   "last5": "WLDWW"
+   "last5": "DWLDW"
   },
   {
    "team": "Le Mans",
-   "last5": "DLDLL"
+   "last5": "WDLDL"
   },
   {
    "team": "Troyes",
-   "last5": "LWDLL"
+   "last5": "WLWDL"
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T19:45:00.000Z",
+   "home": "Marseille",
+   "away": "Le Mans",
+   "home_goals": 2,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T16:15:00.000Z",
+   "home": "Lorient",
+   "away": "Rennes",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T14:00:00.000Z",
+   "home": "Paris FC",
+   "away": "Angers",
+   "home_goals": 4,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T19:45:00.000Z",
+   "home": "Lille",
+   "away": "Lyon",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T19:45:00.000Z",
+   "home": "Monaco",
+   "away": "Auxerre",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T19:45:00.000Z",
+   "home": "Lens",
+   "away": "Toulouse",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T19:45:00.000Z",
+   "home": "Strasbourg",
+   "away": "Brest",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T16:15:00.000Z",
+   "home": "Nice",
+   "away": "Paris Saint-Germain",
+   "home_goals": 2,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:45:00.000Z",
+   "home": "Troyes",
+   "away": "Le Havre",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
   {
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T19:45:00.000Z",
@@ -507,116 +588,7 @@
    "home_goals": 1,
    "away_goals": 1,
    "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T16:15:00.000Z",
-   "home": "Angers",
-   "away": "Lorient",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T16:15:00.000Z",
-   "home": "Toulouse",
-   "away": "Troyes",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T16:15:00.000Z",
-   "home": "Rennes",
-   "away": "Strasbourg",
-   "home_goals": 3,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T14:00:00.000Z",
-   "home": "Monaco",
-   "away": "Lille",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T18:45:00.000Z",
-   "home": "Lens",
-   "away": "Paris FC",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-23",
-   "kickoff_utc": "2026-10-23T18:45:00.000Z",
-   "home": "Brest",
-   "away": "Nice",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T18:45:00.000Z",
-   "home": "Lyon",
-   "away": "Nice",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T15:15:00.000Z",
-   "home": "Le Havre",
-   "away": "Auxerre",
-   "home_goals": 1,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T15:15:00.000Z",
-   "home": "Paris FC",
-   "away": "Rennes",
-   "home_goals": 4,
-   "away_goals": 3,
-   "status": "finished"
   }
  ],
- "upcoming": [
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T14:00:00.000Z",
-   "home": "Paris FC",
-   "away": "Angers",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T16:15:00.000Z",
-   "home": "Lorient",
-   "away": "Rennes",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T19:45:00.000Z",
-   "home": "Marseille",
-   "away": "Le Mans",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  }
- ]
+ "upcoming": []
 }

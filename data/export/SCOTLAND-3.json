@@ -7,182 +7,227 @@
   "level": 3
  },
  "season": "2026/2027",
- "updated": "2026-11-23T13:13:14.551Z",
+ "updated": "2026-11-23T18:59:01.520Z",
  "standings": [
   {
    "position": 1,
    "team": "Ross County",
-   "played": 15,
-   "won": 13,
+   "played": 16,
+   "won": 14,
    "drawn": 2,
    "lost": 0,
-   "goals_for": 51,
-   "goals_against": 10,
-   "goal_diff": 41,
-   "points": 41,
+   "goals_for": 56,
+   "goals_against": 11,
+   "goal_diff": 45,
+   "points": 44,
    "flag": null
   },
   {
    "position": 2,
    "team": "Hamilton",
-   "played": 15,
-   "won": 10,
+   "played": 16,
+   "won": 11,
    "drawn": 3,
    "lost": 2,
-   "goals_for": 28,
-   "goals_against": 12,
-   "goal_diff": 16,
-   "points": 33,
+   "goals_for": 31,
+   "goals_against": 13,
+   "goal_diff": 18,
+   "points": 36,
    "flag": null
   },
   {
    "position": 3,
    "team": "East Kilbride",
-   "played": 14,
+   "played": 15,
    "won": 7,
    "drawn": 3,
-   "lost": 4,
+   "lost": 5,
    "goals_for": 27,
-   "goals_against": 19,
-   "goal_diff": 8,
+   "goals_against": 20,
+   "goal_diff": 7,
    "points": 24,
    "flag": null
   },
   {
    "position": 4,
-   "team": "Montrose",
-   "played": 15,
+   "team": "Airdrie Utd",
+   "played": 16,
    "won": 6,
-   "drawn": 2,
-   "lost": 7,
-   "goals_for": 19,
-   "goals_against": 26,
-   "goal_diff": -7,
-   "points": 20,
+   "drawn": 4,
+   "lost": 6,
+   "goals_for": 17,
+   "goals_against": 22,
+   "goal_diff": -5,
+   "points": 22,
    "flag": null
   },
   {
    "position": 5,
-   "team": "Airdrie Utd",
-   "played": 15,
-   "won": 5,
-   "drawn": 4,
-   "lost": 6,
-   "goals_for": 15,
-   "goals_against": 22,
+   "team": "Montrose",
+   "played": 16,
+   "won": 6,
+   "drawn": 3,
+   "lost": 7,
+   "goals_for": 20,
+   "goals_against": 27,
    "goal_diff": -7,
-   "points": 19,
+   "points": 21,
    "flag": null
   },
   {
    "position": 6,
    "team": "East Fife",
-   "played": 15,
+   "played": 16,
    "won": 4,
    "drawn": 6,
-   "lost": 5,
+   "lost": 6,
    "goals_for": 14,
-   "goals_against": 17,
-   "goal_diff": -3,
+   "goals_against": 19,
+   "goal_diff": -5,
    "points": 18,
    "flag": null
   },
   {
    "position": 7,
-   "team": "Cove Rangers",
-   "played": 14,
-   "won": 4,
-   "drawn": 3,
-   "lost": 7,
-   "goals_for": 17,
-   "goals_against": 18,
-   "goal_diff": -1,
-   "points": 15,
+   "team": "Peterhead",
+   "played": 16,
+   "won": 5,
+   "drawn": 1,
+   "lost": 10,
+   "goals_for": 13,
+   "goals_against": 26,
+   "goal_diff": -13,
+   "points": 16,
    "flag": null
   },
   {
    "position": 8,
-   "team": "Peterhead",
+   "team": "Cove Rangers",
    "played": 15,
    "won": 4,
-   "drawn": 1,
-   "lost": 10,
-   "goals_for": 12,
-   "goals_against": 26,
-   "goal_diff": -14,
-   "points": 13,
+   "drawn": 3,
+   "lost": 8,
+   "goals_for": 18,
+   "goals_against": 23,
+   "goal_diff": -5,
+   "points": 15,
    "flag": null
   },
   {
    "position": 9,
-   "team": "Queen of Sth",
-   "played": 15,
-   "won": 4,
-   "drawn": 1,
-   "lost": 10,
-   "goals_for": 14,
-   "goals_against": 40,
-   "goal_diff": -26,
+   "team": "Alloa",
+   "played": 16,
+   "won": 3,
+   "drawn": 4,
+   "lost": 9,
+   "goals_for": 17,
+   "goals_against": 24,
+   "goal_diff": -7,
    "points": 13,
    "flag": null
   },
   {
    "position": 10,
-   "team": "Alloa",
-   "played": 15,
-   "won": 3,
-   "drawn": 3,
-   "lost": 9,
-   "goals_for": 16,
-   "goals_against": 23,
-   "goal_diff": -7,
-   "points": 12,
+   "team": "Queen of Sth",
+   "played": 16,
+   "won": 4,
+   "drawn": 1,
+   "lost": 11,
+   "goals_for": 15,
+   "goals_against": 43,
+   "goal_diff": -28,
+   "points": 13,
    "flag": null
   }
  ],
  "form": [
   {
    "team": "Ross County",
-   "last5": "WWWDW"
+   "last5": "WWWWD"
   },
   {
    "team": "Airdrie Utd",
-   "last5": "WWLLL"
-  },
-  {
-   "team": "Hamilton",
-   "last5": "LLDDW"
-  },
-  {
-   "team": "Alloa",
-   "last5": "LLLLW"
-  },
-  {
-   "team": "Queen of Sth",
-   "last5": "LLLWL"
-  },
-  {
-   "team": "Cove Rangers",
-   "last5": "WWWLD"
-  },
-  {
-   "team": "Montrose",
-   "last5": "LLDWD"
-  },
-  {
-   "team": "Peterhead",
-   "last5": "LLWLW"
-  },
-  {
-   "team": "East Fife",
    "last5": "WWWLL"
   },
   {
+   "team": "Hamilton",
+   "last5": "WLLDD"
+  },
+  {
+   "team": "Alloa",
+   "last5": "DLLLL"
+  },
+  {
+   "team": "Queen of Sth",
+   "last5": "LLLLW"
+  },
+  {
+   "team": "Cove Rangers",
+   "last5": "LWWWL"
+  },
+  {
+   "team": "Montrose",
+   "last5": "DLLDW"
+  },
+  {
+   "team": "Peterhead",
+   "last5": "WLLWL"
+  },
+  {
+   "team": "East Fife",
+   "last5": "LWWWL"
+  },
+  {
    "team": "East Kilbride",
-   "last5": "WWLDD"
+   "last5": "LWWLD"
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T17:30:00.000Z",
+   "home": "Montrose",
+   "away": "Alloa",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Ross County",
+   "away": "Cove Rangers",
+   "home_goals": 5,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Queen of Sth",
+   "away": "Hamilton",
+   "home_goals": 1,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Peterhead",
+   "away": "East Kilbride",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "East Fife",
+   "away": "Airdrie Utd",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
   {
    "date": "2026-11-14",
    "kickoff_utc": "2026-11-14T17:30:00.000Z",
@@ -406,51 +451,6 @@
    "away": "Montrose",
    "home_goals": 1,
    "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-10",
-   "kickoff_utc": "2026-10-10T14:00:00.000Z",
-   "home": "Alloa",
-   "away": "Hamilton",
-   "home_goals": 0,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-10",
-   "kickoff_utc": "2026-10-10T14:00:00.000Z",
-   "home": "Cove Rangers",
-   "away": "East Fife",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-10",
-   "kickoff_utc": "2026-10-10T14:00:00.000Z",
-   "home": "Montrose",
-   "away": "Ross County",
-   "home_goals": 0,
-   "away_goals": 5,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-10",
-   "kickoff_utc": "2026-10-10T14:00:00.000Z",
-   "home": "Peterhead",
-   "away": "Queen of Sth",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-10",
-   "kickoff_utc": "2026-10-10T14:00:00.000Z",
-   "home": "East Kilbride",
-   "away": "Airdrie Utd",
-   "home_goals": 2,
-   "away_goals": 2,
    "status": "finished"
   }
  ],

@@ -7,420 +7,528 @@
   "level": 4
  },
  "season": "2026/2027",
- "updated": "2026-11-23T13:13:10.766Z",
+ "updated": "2026-11-23T18:58:57.274Z",
  "standings": [
   {
    "position": 1,
    "team": "Salford",
-   "played": 15,
+   "played": 16,
    "won": 10,
-   "drawn": 2,
+   "drawn": 3,
    "lost": 3,
-   "goals_for": 26,
-   "goals_against": 16,
+   "goals_for": 27,
+   "goals_against": 17,
    "goal_diff": 10,
-   "points": 32,
+   "points": 33,
    "flag": null
   },
   {
    "position": 2,
    "team": "Barnet",
-   "played": 13,
-   "won": 7,
+   "played": 14,
+   "won": 8,
    "drawn": 5,
    "lost": 1,
-   "goals_for": 28,
-   "goals_against": 18,
-   "goal_diff": 10,
-   "points": 26,
+   "goals_for": 30,
+   "goals_against": 19,
+   "goal_diff": 11,
+   "points": 29,
    "flag": null
   },
   {
    "position": 3,
-   "team": "Grimsby",
-   "played": 15,
-   "won": 6,
-   "drawn": 5,
-   "lost": 4,
-   "goals_for": 28,
-   "goals_against": 19,
-   "goal_diff": 9,
-   "points": 23,
+   "team": "Chesterfield",
+   "played": 16,
+   "won": 7,
+   "drawn": 4,
+   "lost": 5,
+   "goals_for": 30,
+   "goals_against": 22,
+   "goal_diff": 8,
+   "points": 25,
    "flag": null
   },
   {
    "position": 4,
-   "team": "York",
-   "played": 15,
+   "team": "Grimsby",
+   "played": 16,
    "won": 6,
-   "drawn": 5,
+   "drawn": 6,
    "lost": 4,
-   "goals_for": 25,
-   "goals_against": 21,
-   "goal_diff": 4,
-   "points": 23,
+   "goals_for": 28,
+   "goals_against": 19,
+   "goal_diff": 9,
+   "points": 24,
    "flag": null
   },
   {
    "position": 5,
-   "team": "Crewe",
-   "played": 15,
-   "won": 5,
-   "drawn": 8,
-   "lost": 2,
-   "goals_for": 19,
-   "goals_against": 19,
-   "goal_diff": 0,
-   "points": 23,
+   "team": "York",
+   "played": 16,
+   "won": 6,
+   "drawn": 6,
+   "lost": 4,
+   "goals_for": 25,
+   "goals_against": 21,
+   "goal_diff": 4,
+   "points": 24,
    "flag": null
   },
   {
    "position": 6,
-   "team": "Walsall",
-   "played": 13,
+   "team": "Crewe",
+   "played": 16,
    "won": 5,
-   "drawn": 7,
-   "lost": 1,
-   "goals_for": 21,
-   "goals_against": 12,
-   "goal_diff": 9,
-   "points": 22,
+   "drawn": 9,
+   "lost": 2,
+   "goals_for": 22,
+   "goals_against": 22,
+   "goal_diff": 0,
+   "points": 24,
    "flag": null
   },
   {
    "position": 7,
-   "team": "Chesterfield",
-   "played": 15,
-   "won": 6,
-   "drawn": 4,
-   "lost": 5,
-   "goals_for": 26,
-   "goals_against": 21,
-   "goal_diff": 5,
-   "points": 22,
+   "team": "Walsall",
+   "played": 14,
+   "won": 5,
+   "drawn": 8,
+   "lost": 1,
+   "goals_for": 21,
+   "goals_against": 12,
+   "goal_diff": 9,
+   "points": 23,
    "flag": null
   },
   {
    "position": 8,
    "team": "Exeter",
-   "played": 15,
+   "played": 16,
    "won": 6,
-   "drawn": 4,
+   "drawn": 5,
    "lost": 5,
-   "goals_for": 12,
-   "goals_against": 9,
+   "goals_for": 13,
+   "goals_against": 10,
    "goal_diff": 3,
-   "points": 22,
+   "points": 23,
    "flag": null
   },
   {
    "position": 9,
-   "team": "Cheltenham",
-   "played": 15,
-   "won": 6,
-   "drawn": 3,
-   "lost": 6,
-   "goals_for": 23,
-   "goals_against": 26,
-   "goal_diff": -3,
-   "points": 21,
+   "team": "Newport County",
+   "played": 16,
+   "won": 5,
+   "drawn": 7,
+   "lost": 4,
+   "goals_for": 24,
+   "goals_against": 19,
+   "goal_diff": 5,
+   "points": 22,
    "flag": null
   },
   {
    "position": 10,
-   "team": "Shrewsbury",
-   "played": 15,
-   "won": 6,
-   "drawn": 3,
-   "lost": 6,
-   "goals_for": 19,
-   "goals_against": 23,
-   "goal_diff": -4,
-   "points": 21,
+   "team": "Tranmere",
+   "played": 16,
+   "won": 5,
+   "drawn": 7,
+   "lost": 4,
+   "goals_for": 21,
+   "goals_against": 19,
+   "goal_diff": 2,
+   "points": 22,
    "flag": null
   },
   {
    "position": 11,
-   "team": "Fleetwood Town",
-   "played": 15,
+   "team": "Gillingham",
+   "played": 16,
    "won": 5,
-   "drawn": 5,
+   "drawn": 6,
    "lost": 5,
-   "goals_for": 19,
-   "goals_against": 18,
-   "goal_diff": 1,
-   "points": 20,
+   "goals_for": 23,
+   "goals_against": 24,
+   "goal_diff": -1,
+   "points": 21,
    "flag": null
   },
   {
    "position": 12,
-   "team": "Gillingham",
-   "played": 15,
-   "won": 5,
-   "drawn": 5,
-   "lost": 5,
-   "goals_for": 20,
-   "goals_against": 21,
-   "goal_diff": -1,
-   "points": 20,
+   "team": "Cheltenham",
+   "played": 16,
+   "won": 6,
+   "drawn": 3,
+   "lost": 7,
+   "goals_for": 23,
+   "goals_against": 29,
+   "goal_diff": -6,
+   "points": 21,
    "flag": null
   },
   {
    "position": 13,
-   "team": "Accrington",
-   "played": 15,
-   "won": 4,
-   "drawn": 7,
-   "lost": 4,
-   "goals_for": 25,
-   "goals_against": 21,
-   "goal_diff": 4,
-   "points": 19,
+   "team": "Shrewsbury",
+   "played": 16,
+   "won": 6,
+   "drawn": 3,
+   "lost": 7,
+   "goals_for": 20,
+   "goals_against": 27,
+   "goal_diff": -7,
+   "points": 21,
    "flag": null
   },
   {
    "position": 14,
-   "team": "Newport County",
-   "played": 15,
+   "team": "Accrington",
+   "played": 16,
    "won": 4,
-   "drawn": 7,
+   "drawn": 8,
    "lost": 4,
-   "goals_for": 22,
-   "goals_against": 19,
-   "goal_diff": 3,
-   "points": 19,
+   "goals_for": 26,
+   "goals_against": 22,
+   "goal_diff": 4,
+   "points": 20,
    "flag": null
   },
   {
    "position": 15,
-   "team": "Tranmere",
-   "played": 15,
-   "won": 4,
-   "drawn": 7,
-   "lost": 4,
-   "goals_for": 19,
-   "goals_against": 18,
-   "goal_diff": 1,
-   "points": 19,
+   "team": "Fleetwood Town",
+   "played": 16,
+   "won": 5,
+   "drawn": 5,
+   "lost": 6,
+   "goals_for": 20,
+   "goals_against": 20,
+   "goal_diff": 0,
+   "points": 20,
    "flag": null
   },
   {
    "position": 16,
-   "team": "Swindon",
-   "played": 15,
-   "won": 5,
-   "drawn": 4,
-   "lost": 6,
-   "goals_for": 16,
-   "goals_against": 21,
+   "team": "Bristol Rvs",
+   "played": 16,
+   "won": 6,
+   "drawn": 1,
+   "lost": 9,
+   "goals_for": 20,
+   "goals_against": 25,
    "goal_diff": -5,
    "points": 19,
    "flag": null
   },
   {
    "position": 17,
-   "team": "Port Vale",
-   "played": 13,
+   "team": "Swindon",
+   "played": 16,
    "won": 5,
-   "drawn": 3,
-   "lost": 5,
-   "goals_for": 14,
-   "goals_against": 16,
-   "goal_diff": -2,
-   "points": 18,
+   "drawn": 4,
+   "lost": 7,
+   "goals_for": 16,
+   "goals_against": 23,
+   "goal_diff": -7,
+   "points": 19,
    "flag": null
   },
   {
    "position": 18,
-   "team": "Bristol Rvs",
+   "team": "Northampton",
    "played": 15,
-   "won": 5,
-   "drawn": 1,
-   "lost": 9,
-   "goals_for": 17,
-   "goals_against": 25,
-   "goal_diff": -8,
-   "points": 16,
+   "won": 4,
+   "drawn": 6,
+   "lost": 5,
+   "goals_for": 13,
+   "goals_against": 13,
+   "goal_diff": 0,
+   "points": 18,
    "flag": null
   },
   {
    "position": 19,
-   "team": "Northampton",
+   "team": "Port Vale",
    "played": 14,
-   "won": 3,
-   "drawn": 6,
-   "lost": 5,
-   "goals_for": 10,
-   "goals_against": 11,
-   "goal_diff": -1,
-   "points": 15,
+   "won": 5,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 15,
+   "goals_against": 18,
+   "goal_diff": -3,
+   "points": 18,
    "flag": null
   },
   {
    "position": 20,
    "team": "Oldham",
-   "played": 15,
+   "played": 16,
    "won": 4,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 8,
-   "goals_for": 16,
-   "goals_against": 21,
+   "goals_for": 17,
+   "goals_against": 22,
    "goal_diff": -5,
-   "points": 15,
+   "points": 16,
    "flag": null
   },
   {
    "position": 21,
    "team": "Colchester",
-   "played": 14,
+   "played": 15,
    "won": 3,
    "drawn": 6,
-   "lost": 5,
-   "goals_for": 14,
-   "goals_against": 19,
-   "goal_diff": -5,
+   "lost": 6,
+   "goals_for": 15,
+   "goals_against": 21,
+   "goal_diff": -6,
    "points": 15,
    "flag": null
   },
   {
    "position": 22,
    "team": "Rochdale",
-   "played": 15,
+   "played": 16,
    "won": 4,
    "drawn": 3,
-   "lost": 8,
-   "goals_for": 17,
-   "goals_against": 27,
-   "goal_diff": -10,
+   "lost": 9,
+   "goals_for": 19,
+   "goals_against": 30,
+   "goal_diff": -11,
    "points": 15,
    "flag": null
   },
   {
    "position": 23,
    "team": "Rotherham",
-   "played": 14,
+   "played": 15,
    "won": 2,
-   "drawn": 6,
+   "drawn": 7,
    "lost": 6,
    "goals_for": 18,
    "goals_against": 25,
    "goal_diff": -7,
-   "points": 12,
+   "points": 13,
    "flag": null
   },
   {
    "position": 24,
    "team": "Crawley Town",
-   "played": 12,
-   "won": 2,
+   "played": 13,
+   "won": 3,
    "drawn": 3,
    "lost": 7,
-   "goals_for": 13,
-   "goals_against": 21,
-   "goal_diff": -8,
-   "points": 9,
+   "goals_for": 15,
+   "goals_against": 22,
+   "goal_diff": -7,
+   "points": 12,
    "flag": null
   }
  ],
  "form": [
   {
    "team": "Bristol Rvs",
-   "last5": "LLDLL"
+   "last5": "WLLDL"
   },
   {
    "team": "Northampton",
-   "last5": "DLDWL"
+   "last5": "WDLDW"
   },
   {
    "team": "Crawley Town",
-   "last5": "WDLLD"
+   "last5": "WWDLL"
   },
   {
    "team": "Exeter",
-   "last5": "WLWWD"
+   "last5": "DWLWW"
   },
   {
    "team": "Rotherham",
-   "last5": "LDDLL"
+   "last5": "DLDDL"
   },
   {
    "team": "Shrewsbury",
-   "last5": "WLDWW"
+   "last5": "LWLDW"
   },
   {
    "team": "Port Vale",
-   "last5": "WWLDW"
+   "last5": "LWWLD"
   },
   {
    "team": "Chesterfield",
-   "last5": "WLWDL"
+   "last5": "WWLWD"
   },
   {
    "team": "Swindon",
-   "last5": "LWDWD"
+   "last5": "LLWDW"
   },
   {
    "team": "Colchester",
-   "last5": "WLLDD"
+   "last5": "LWLLD"
   },
   {
    "team": "Crewe",
-   "last5": "DDLLW"
+   "last5": "DDDLL"
   },
   {
    "team": "Cheltenham",
-   "last5": "LLWWL"
+   "last5": "LLLWW"
   },
   {
    "team": "Newport County",
-   "last5": "DWLDD"
+   "last5": "WDWLD"
   },
   {
    "team": "Accrington",
-   "last5": "LDWDW"
+   "last5": "DLDWD"
   },
   {
    "team": "Fleetwood Town",
-   "last5": "WWLLW"
+   "last5": "LWWLL"
   },
   {
    "team": "Grimsby",
-   "last5": "WWWDL"
+   "last5": "DWWWD"
   },
   {
    "team": "Gillingham",
-   "last5": "LWLDL"
+   "last5": "DLWLD"
   },
   {
    "team": "Salford",
-   "last5": "DWWWW"
+   "last5": "DDWWW"
   },
   {
    "team": "Tranmere",
-   "last5": "LWDWL"
+   "last5": "WLWDW"
   },
   {
    "team": "Walsall",
-   "last5": "WLWDD"
+   "last5": "DWLWD"
   },
   {
    "team": "Barnet",
-   "last5": "DWDLW"
+   "last5": "WDWDL"
   },
   {
    "team": "Oldham",
-   "last5": "LWLDL"
+   "last5": "DLWLD"
   },
   {
    "team": "Rochdale",
-   "last5": "LLLDL"
+   "last5": "LLLLD"
   },
   {
    "team": "York",
-   "last5": "WLLWD"
+   "last5": "DWLLW"
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Northampton",
+   "away": "Rochdale",
+   "home_goals": 3,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Crawley Town",
+   "away": "Fleetwood Town",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Chesterfield",
+   "away": "Shrewsbury",
+   "home_goals": 4,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Cheltenham",
+   "away": "Bristol Rvs",
+   "home_goals": 0,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Accrington",
+   "away": "Salford",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Grimsby",
+   "away": "Rotherham",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Tranmere",
+   "away": "Colchester",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Barnet",
+   "away": "Port Vale",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Oldham",
+   "away": "Exeter",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "York",
+   "away": "Walsall",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:30:00.000Z",
+   "home": "Newport County",
+   "away": "Swindon",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T12:30:00.000Z",
+   "home": "Gillingham",
+   "away": "Crewe",
+   "home_goals": 3,
+   "away_goals": 3,
+   "status": "finished"
+  },
   {
    "date": "2026-11-14",
    "kickoff_utc": "2026-11-14T17:30:00.000Z",
@@ -581,114 +689,6 @@
    "away": "Exeter",
    "home_goals": 2,
    "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Tranmere",
-   "away": "Cheltenham",
-   "home_goals": 3,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Oldham",
-   "away": "Crawley Town",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T12:30:00.000Z",
-   "home": "Port Vale",
-   "away": "Rochdale",
-   "home_goals": 4,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T12:30:00.000Z",
-   "home": "Grimsby",
-   "away": "York",
-   "home_goals": 5,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-30",
-   "kickoff_utc": "2026-10-30T19:45:00.000Z",
-   "home": "Newport County",
-   "away": "Chesterfield",
-   "home_goals": 4,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-27",
-   "kickoff_utc": "2026-10-27T19:45:00.000Z",
-   "home": "Barnet",
-   "away": "York",
-   "home_goals": 3,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-26",
-   "kickoff_utc": "2026-10-26T20:00:00.000Z",
-   "home": "Walsall",
-   "away": "Salford",
-   "home_goals": 2,
-   "away_goals": 4,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T14:00:00.000Z",
-   "home": "Crawley Town",
-   "away": "Tranmere",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T14:00:00.000Z",
-   "home": "Exeter",
-   "away": "Fleetwood Town",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T14:00:00.000Z",
-   "home": "Rotherham",
-   "away": "Shrewsbury",
-   "home_goals": 3,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T14:00:00.000Z",
-   "home": "Chesterfield",
-   "away": "Crewe",
-   "home_goals": 5,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T14:00:00.000Z",
-   "home": "Gillingham",
-   "away": "Grimsby",
-   "home_goals": 1,
-   "away_goals": 4,
    "status": "finished"
   }
  ],

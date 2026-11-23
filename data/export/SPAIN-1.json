@@ -7,218 +7,231 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-23T13:13:14.886Z",
+ "updated": "2026-11-23T18:59:01.909Z",
  "standings": [
   {
    "position": 1,
    "team": "Barcelona",
-   "played": 12,
-   "won": 11,
+   "played": 13,
+   "won": 12,
    "drawn": 0,
    "lost": 1,
-   "goals_for": 48,
-   "goals_against": 13,
-   "goal_diff": 35,
-   "points": 33,
+   "goals_for": 51,
+   "goals_against": 15,
+   "goal_diff": 36,
+   "points": 36,
    "flag": null
   },
   {
    "position": 2,
    "team": "Real Madrid",
-   "played": 12,
-   "won": 10,
+   "played": 13,
+   "won": 11,
    "drawn": 0,
    "lost": 2,
-   "goals_for": 31,
-   "goals_against": 10,
-   "goal_diff": 21,
-   "points": 30,
+   "goals_for": 33,
+   "goals_against": 11,
+   "goal_diff": 22,
+   "points": 33,
    "flag": null
   },
   {
    "position": 3,
    "team": "Atlético Madrid",
-   "played": 12,
-   "won": 9,
+   "played": 13,
+   "won": 10,
    "drawn": 1,
    "lost": 2,
-   "goals_for": 23,
+   "goals_for": 26,
    "goals_against": 10,
-   "goal_diff": 13,
-   "points": 28,
+   "goal_diff": 16,
+   "points": 31,
    "flag": null
   },
   {
    "position": 4,
    "team": "Betis",
-   "played": 12,
+   "played": 13,
    "won": 8,
-   "drawn": 2,
+   "drawn": 3,
    "lost": 2,
-   "goals_for": 20,
-   "goals_against": 15,
+   "goals_for": 21,
+   "goals_against": 16,
    "goal_diff": 5,
-   "points": 26,
+   "points": 27,
    "flag": null
   },
   {
    "position": 5,
    "team": "Real Sociedad",
-   "played": 12,
+   "played": 13,
    "won": 7,
    "drawn": 1,
-   "lost": 4,
-   "goals_for": 21,
-   "goals_against": 20,
-   "goal_diff": 1,
+   "lost": 5,
+   "goals_for": 23,
+   "goals_against": 23,
+   "goal_diff": 0,
    "points": 22,
    "flag": null
   },
   {
    "position": 6,
    "team": "Sevilla",
-   "played": 12,
+   "played": 13,
    "won": 5,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 4,
-   "goals_for": 17,
-   "goals_against": 19,
+   "goals_for": 18,
+   "goals_against": 20,
    "goal_diff": -2,
-   "points": 18,
+   "points": 19,
    "flag": null
   },
   {
    "position": 7,
-   "team": "Athletic Club",
-   "played": 11,
-   "won": 4,
-   "drawn": 4,
-   "lost": 3,
-   "goals_for": 15,
-   "goals_against": 11,
-   "goal_diff": 4,
-   "points": 16,
+   "team": "Santander",
+   "played": 13,
+   "won": 5,
+   "drawn": 2,
+   "lost": 6,
+   "goals_for": 20,
+   "goals_against": 32,
+   "goal_diff": -12,
+   "points": 17,
    "flag": null
   },
   {
    "position": 8,
-   "team": "Villarreal",
+   "team": "Athletic Club",
    "played": 12,
    "won": 4,
-   "drawn": 3,
-   "lost": 5,
-   "goals_for": 17,
-   "goals_against": 15,
-   "goal_diff": 2,
-   "points": 15,
+   "drawn": 4,
+   "lost": 4,
+   "goals_for": 15,
+   "goals_against": 12,
+   "goal_diff": 3,
+   "points": 16,
    "flag": null
   },
   {
    "position": 9,
-   "team": "La Coruna",
-   "played": 12,
-   "won": 3,
-   "drawn": 6,
-   "lost": 3,
-   "goals_for": 15,
-   "goals_against": 14,
+   "team": "Alavés",
+   "played": 13,
+   "won": 4,
+   "drawn": 4,
+   "lost": 5,
+   "goals_for": 18,
+   "goals_against": 18,
+   "goal_diff": 0,
+   "points": 16,
+   "flag": null
+  },
+  {
+   "position": 10,
+   "team": "Villarreal",
+   "played": 13,
+   "won": 4,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 19,
+   "goals_against": 18,
    "goal_diff": 1,
    "points": 15,
    "flag": null
   },
   {
-   "position": 10,
-   "team": "Santander",
-   "played": 12,
-   "won": 4,
-   "drawn": 2,
-   "lost": 6,
-   "goals_for": 17,
-   "goals_against": 30,
-   "goal_diff": -13,
-   "points": 14,
-   "flag": null
-  },
-  {
    "position": 11,
-   "team": "Celta Vigo",
-   "played": 12,
-   "won": 2,
-   "drawn": 7,
-   "lost": 3,
-   "goals_for": 10,
-   "goals_against": 10,
+   "team": "Espanyol",
+   "played": 13,
+   "won": 4,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 14,
+   "goals_against": 14,
    "goal_diff": 0,
-   "points": 13,
+   "points": 15,
    "flag": null
   },
   {
    "position": 12,
-   "team": "Alavés",
-   "played": 12,
+   "team": "La Coruna",
+   "played": 13,
    "won": 3,
-   "drawn": 4,
-   "lost": 5,
-   "goals_for": 15,
+   "drawn": 6,
+   "lost": 4,
+   "goals_for": 16,
    "goals_against": 17,
-   "goal_diff": -2,
-   "points": 13,
+   "goal_diff": -1,
+   "points": 15,
    "flag": null
   },
   {
    "position": 13,
-   "team": "Espanyol",
-   "played": 12,
-   "won": 3,
+   "team": "Osasuna",
+   "played": 13,
+   "won": 4,
    "drawn": 3,
    "lost": 6,
    "goals_for": 13,
-   "goals_against": 14,
-   "goal_diff": -1,
-   "points": 12,
+   "goals_against": 23,
+   "goal_diff": -10,
+   "points": 15,
    "flag": null
   },
   {
    "position": 14,
-   "team": "Rayo Vallecano",
-   "played": 11,
-   "won": 3,
-   "drawn": 3,
-   "lost": 5,
-   "goals_for": 15,
-   "goals_against": 21,
-   "goal_diff": -6,
-   "points": 12,
+   "team": "Celta Vigo",
+   "played": 13,
+   "won": 2,
+   "drawn": 7,
+   "lost": 4,
+   "goals_for": 11,
+   "goals_against": 12,
+   "goal_diff": -1,
+   "points": 13,
    "flag": null
   },
   {
    "position": 15,
-   "team": "Getafe",
+   "team": "Rayo Vallecano",
    "played": 12,
    "won": 3,
    "drawn": 3,
    "lost": 6,
-   "goals_for": 8,
-   "goals_against": 18,
-   "goal_diff": -10,
+   "goals_for": 15,
+   "goals_against": 22,
+   "goal_diff": -7,
    "points": 12,
    "flag": null
   },
   {
    "position": 16,
-   "team": "Osasuna",
-   "played": 12,
+   "team": "Valencia",
+   "played": 13,
    "won": 3,
    "drawn": 3,
-   "lost": 6,
-   "goals_for": 12,
-   "goals_against": 23,
+   "lost": 7,
+   "goals_for": 9,
+   "goals_against": 20,
    "goal_diff": -11,
    "points": 12,
    "flag": null
   },
   {
    "position": 17,
+   "team": "Getafe",
+   "played": 13,
+   "won": 3,
+   "drawn": 3,
+   "lost": 7,
+   "goals_for": 8,
+   "goals_against": 21,
+   "goal_diff": -13,
+   "points": 12,
+   "flag": null
+  },
+  {
+   "position": 18,
    "team": "Levante",
    "played": 12,
    "won": 2,
@@ -231,7 +244,7 @@
    "flag": null
   },
   {
-   "position": 18,
+   "position": 19,
    "team": "Elche",
    "played": 12,
    "won": 2,
@@ -244,28 +257,15 @@
    "flag": null
   },
   {
-   "position": 19,
-   "team": "Valencia",
-   "played": 12,
-   "won": 2,
-   "drawn": 3,
-   "lost": 7,
-   "goals_for": 8,
-   "goals_against": 20,
-   "goal_diff": -12,
-   "points": 9,
-   "flag": null
-  },
-  {
    "position": 20,
    "team": "Malaga",
-   "played": 12,
+   "played": 13,
    "won": 0,
    "drawn": 5,
-   "lost": 7,
+   "lost": 8,
    "goals_for": 9,
-   "goals_against": 23,
-   "goal_diff": -14,
+   "goals_against": 24,
+   "goal_diff": -15,
    "points": 5,
    "flag": null
   }
@@ -273,55 +273,55 @@
  "form": [
   {
    "team": "Atlético Madrid",
-   "last5": "LWWWW"
-  },
-  {
-   "team": "Athletic Club",
-   "last5": "DWWLD"
-  },
-  {
-   "team": "Celta Vigo",
-   "last5": "DLDWD"
-  },
-  {
-   "team": "Real Sociedad",
    "last5": "WLWWW"
   },
   {
+   "team": "Athletic Club",
+   "last5": "LDWWL"
+  },
+  {
+   "team": "Celta Vigo",
+   "last5": "LDLDW"
+  },
+  {
+   "team": "Real Sociedad",
+   "last5": "LWLWW"
+  },
+  {
    "team": "Rayo Vallecano",
-   "last5": "LWLDD"
+   "last5": "LLWLD"
   },
   {
    "team": "Espanyol",
-   "last5": "DWLLD"
+   "last5": "WDWLL"
   },
   {
    "team": "Alavés",
-   "last5": "DLDLL"
+   "last5": "WDLDL"
   },
   {
    "team": "Getafe",
-   "last5": "LWLDL"
+   "last5": "LLWLD"
   },
   {
    "team": "Betis",
-   "last5": "WWDLW"
+   "last5": "DWWDL"
   },
   {
    "team": "Sevilla",
-   "last5": "DLWLD"
+   "last5": "DDLWL"
   },
   {
    "team": "Osasuna",
-   "last5": "DLLWL"
+   "last5": "WDLLW"
   },
   {
    "team": "Valencia",
-   "last5": "LWLDD"
+   "last5": "WLWLD"
   },
   {
    "team": "Barcelona",
-   "last5": "WWLWW"
+   "last5": "WWWLW"
   },
   {
    "team": "Real Madrid",
@@ -329,7 +329,7 @@
   },
   {
    "team": "Villarreal",
-   "last5": "WLWDL"
+   "last5": "LWLWD"
   },
   {
    "team": "Levante",
@@ -341,18 +341,99 @@
   },
   {
    "team": "Santander",
-   "last5": "WLWLD"
+   "last5": "WWLWL"
   },
   {
    "team": "La Coruna",
-   "last5": "DWLDL"
+   "last5": "LDWLD"
   },
   {
    "team": "Malaga",
-   "last5": "LLDLD"
+   "last5": "LLLDL"
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T11:00:00.000Z",
+   "home": "Getafe",
+   "away": "Atlético Madrid",
+   "home_goals": 0,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T11:00:00.000Z",
+   "home": "Osasuna",
+   "away": "Malaga",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T11:00:00.000Z",
+   "home": "Barcelona",
+   "away": "Villarreal",
+   "home_goals": 3,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T11:00:00.000Z",
+   "home": "Santander",
+   "away": "Real Sociedad",
+   "home_goals": 3,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T20:00:00.000Z",
+   "home": "Real Madrid",
+   "away": "Celta Vigo",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T17:30:00.000Z",
+   "home": "Sevilla",
+   "away": "Betis",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:15:00.000Z",
+   "home": "Rayo Vallecano",
+   "away": "Valencia",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T13:00:00.000Z",
+   "home": "Alavés",
+   "away": "La Coruna",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T20:00:00.000Z",
+   "home": "Athletic Club",
+   "away": "Espanyol",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
   {
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T11:00:00.000Z",
@@ -541,87 +622,6 @@
    "home_goals": 2,
    "away_goals": 0,
    "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T11:00:00.000Z",
-   "home": "Athletic Club",
-   "away": "Getafe",
-   "home_goals": 4,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T11:00:00.000Z",
-   "home": "Celta Vigo",
-   "away": "Betis",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T11:00:00.000Z",
-   "home": "Real Sociedad",
-   "away": "Levante",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T11:00:00.000Z",
-   "home": "Barcelona",
-   "away": "Real Madrid",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T19:00:00.000Z",
-   "home": "Atlético Madrid",
-   "away": "La Coruna",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T16:30:00.000Z",
-   "home": "Valencia",
-   "away": "Villarreal",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T14:15:00.000Z",
-   "home": "Santander",
-   "away": "Espanyol",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T12:00:00.000Z",
-   "home": "Rayo Vallecano",
-   "away": "Elche",
-   "home_goals": 0,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-23",
-   "kickoff_utc": "2026-10-23T19:00:00.000Z",
-   "home": "Alavés",
-   "away": "Malaga",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
   }
  ],
  "upcoming": [
@@ -655,35 +655,8 @@
   {
    "date": "2026-11-22",
    "kickoff_utc": "2026-11-22T11:00:00.000Z",
-   "home": "Getafe",
-   "away": "Atlético Madrid",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T11:00:00.000Z",
    "home": "Sevilla",
    "away": "Betis",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T11:00:00.000Z",
-   "home": "Osasuna",
-   "away": "Malaga",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T11:00:00.000Z",
-   "home": "Barcelona",
-   "away": "Villarreal",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -702,15 +675,6 @@
    "kickoff_utc": "2026-11-22T11:00:00.000Z",
    "home": "Levante",
    "away": "Elche",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T11:00:00.000Z",
-   "home": "Santander",
-   "away": "Real Sociedad",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -891,6 +855,42 @@
    "kickoff_utc": "2026-12-06T11:00:00.000Z",
    "home": "Villarreal",
    "away": "Real Sociedad",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-06",
+   "kickoff_utc": "2026-12-06T11:00:00.000Z",
+   "home": "Santander",
+   "away": "La Coruna",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-13",
+   "kickoff_utc": "2026-12-13T11:00:00.000Z",
+   "home": "Atlético Madrid",
+   "away": "Valencia",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-13",
+   "kickoff_utc": "2026-12-13T11:00:00.000Z",
+   "home": "Real Sociedad",
+   "away": "Getafe",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-13",
+   "kickoff_utc": "2026-12-13T11:00:00.000Z",
+   "home": "Espanyol",
+   "away": "Celta Vigo",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

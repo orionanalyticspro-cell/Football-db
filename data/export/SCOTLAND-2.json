@@ -7,45 +7,45 @@
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-23T13:13:14.343Z",
+ "updated": "2026-11-23T18:59:01.327Z",
  "standings": [
   {
    "position": 1,
    "team": "Partick",
-   "played": 15,
-   "won": 9,
+   "played": 16,
+   "won": 10,
    "drawn": 4,
    "lost": 2,
-   "goals_for": 21,
+   "goals_for": 23,
    "goals_against": 9,
-   "goal_diff": 12,
-   "points": 31,
+   "goal_diff": 14,
+   "points": 34,
    "flag": null
   },
   {
    "position": 2,
-   "team": "Stenhousemuir",
-   "played": 15,
+   "team": "Livingston",
+   "played": 16,
    "won": 8,
-   "drawn": 2,
+   "drawn": 3,
    "lost": 5,
-   "goals_for": 18,
-   "goals_against": 16,
-   "goal_diff": 2,
-   "points": 26,
+   "goals_for": 25,
+   "goals_against": 13,
+   "goal_diff": 12,
+   "points": 27,
    "flag": null
   },
   {
    "position": 3,
-   "team": "Raith Rvs",
-   "played": 15,
-   "won": 7,
-   "drawn": 4,
-   "lost": 4,
-   "goals_for": 21,
-   "goals_against": 12,
-   "goal_diff": 9,
-   "points": 25,
+   "team": "Stenhousemuir",
+   "played": 16,
+   "won": 8,
+   "drawn": 2,
+   "lost": 6,
+   "goals_for": 19,
+   "goals_against": 18,
+   "goal_diff": 1,
+   "points": 26,
    "flag": null
   },
   {
@@ -63,54 +63,54 @@
   },
   {
    "position": 5,
-   "team": "Livingston",
-   "played": 15,
+   "team": "Raith Rvs",
+   "played": 16,
    "won": 7,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 5,
    "goals_for": 21,
-   "goals_against": 12,
-   "goal_diff": 9,
-   "points": 24,
+   "goals_against": 14,
+   "goal_diff": 7,
+   "points": 25,
    "flag": null
   },
   {
    "position": 6,
    "team": "Inverness C",
-   "played": 15,
+   "played": 16,
    "won": 5,
-   "drawn": 5,
+   "drawn": 6,
    "lost": 5,
    "goals_for": 20,
    "goals_against": 20,
    "goal_diff": 0,
-   "points": 20,
+   "points": 21,
    "flag": null
   },
   {
    "position": 7,
    "team": "Ayr",
-   "played": 14,
+   "played": 15,
    "won": 5,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 6,
    "goals_for": 17,
    "goals_against": 19,
    "goal_diff": -2,
-   "points": 18,
+   "points": 19,
    "flag": null
   },
   {
    "position": 8,
    "team": "Arbroath",
-   "played": 14,
-   "won": 4,
+   "played": 15,
+   "won": 5,
    "drawn": 2,
    "lost": 8,
-   "goals_for": 11,
-   "goals_against": 23,
-   "goal_diff": -12,
-   "points": 14,
+   "goals_for": 13,
+   "goals_against": 24,
+   "goal_diff": -11,
+   "points": 17,
    "flag": null
   },
   {
@@ -129,13 +129,13 @@
   {
    "position": 10,
    "team": "Queens Park",
-   "played": 15,
+   "played": 16,
    "won": 2,
    "drawn": 1,
-   "lost": 12,
-   "goals_for": 8,
-   "goals_against": 25,
-   "goal_diff": -17,
+   "lost": 13,
+   "goals_for": 9,
+   "goals_against": 29,
+   "goal_diff": -20,
    "points": 7,
    "flag": null
   }
@@ -143,7 +143,7 @@
  "form": [
   {
    "team": "Livingston",
-   "last5": "WDWWD"
+   "last5": "WWDWW"
   },
   {
    "team": "Queens Park",
@@ -151,11 +151,11 @@
   },
   {
    "team": "Raith Rvs",
-   "last5": "LDWLD"
+   "last5": "LLDWL"
   },
   {
    "team": "Ayr",
-   "last5": "WLWLD"
+   "last5": "DWLWL"
   },
   {
    "team": "Dunfermline",
@@ -163,7 +163,7 @@
   },
   {
    "team": "Partick",
-   "last5": "WWLWD"
+   "last5": "WWWLW"
   },
   {
    "team": "Morton",
@@ -171,18 +171,54 @@
   },
   {
    "team": "Arbroath",
-   "last5": "WLLLL"
+   "last5": "WWLLL"
   },
   {
    "team": "Inverness C",
-   "last5": "LDLWW"
+   "last5": "DLDLW"
   },
   {
    "team": "Stenhousemuir",
-   "last5": "WLLLL"
+   "last5": "LWLLL"
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Queens Park",
+   "away": "Livingston",
+   "home_goals": 1,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Raith Rvs",
+   "away": "Partick",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Arbroath",
+   "away": "Stenhousemuir",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:30:00.000Z",
+   "home": "Inverness C",
+   "away": "Ayr",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
   {
    "date": "2026-11-14",
    "kickoff_utc": "2026-11-14T15:00:00.000Z",
@@ -415,42 +451,6 @@
    "away": "Inverness C",
    "home_goals": 2,
    "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-10",
-   "kickoff_utc": "2026-10-10T14:00:00.000Z",
-   "home": "Livingston",
-   "away": "Partick",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-10",
-   "kickoff_utc": "2026-10-10T14:00:00.000Z",
-   "home": "Raith Rvs",
-   "away": "Queens Park",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-10",
-   "kickoff_utc": "2026-10-10T14:00:00.000Z",
-   "home": "Ayr",
-   "away": "Dunfermline",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-10",
-   "kickoff_utc": "2026-10-10T14:00:00.000Z",
-   "home": "Arbroath",
-   "away": "Morton",
-   "home_goals": 1,
-   "away_goals": 2,
    "status": "finished"
   }
  ],

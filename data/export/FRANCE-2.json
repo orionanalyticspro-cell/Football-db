@@ -7,127 +7,140 @@
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-23T13:13:11.445Z",
+ "updated": "2026-11-23T18:58:58.047Z",
  "standings": [
   {
    "position": 1,
    "team": "Saint-Étienne",
-   "played": 12,
-   "won": 9,
+   "played": 13,
+   "won": 10,
    "drawn": 1,
    "lost": 2,
-   "goals_for": 25,
+   "goals_for": 26,
    "goals_against": 11,
-   "goal_diff": 14,
-   "points": 28,
+   "goal_diff": 15,
+   "points": 31,
    "flag": null
   },
   {
    "position": 2,
    "team": "Nancy",
-   "played": 12,
-   "won": 8,
+   "played": 13,
+   "won": 9,
    "drawn": 1,
    "lost": 3,
-   "goals_for": 17,
+   "goals_for": 18,
    "goals_against": 9,
-   "goal_diff": 8,
-   "points": 25,
+   "goal_diff": 9,
+   "points": 28,
    "flag": null
   },
   {
    "position": 3,
    "team": "Montpellier",
-   "played": 12,
+   "played": 13,
    "won": 7,
    "drawn": 3,
-   "lost": 2,
+   "lost": 3,
    "goals_for": 18,
-   "goals_against": 9,
-   "goal_diff": 9,
+   "goals_against": 10,
+   "goal_diff": 8,
    "points": 24,
    "flag": null
   },
   {
    "position": 4,
    "team": "Reims",
-   "played": 12,
+   "played": 13,
    "won": 5,
    "drawn": 6,
-   "lost": 1,
+   "lost": 2,
    "goals_for": 24,
-   "goals_against": 15,
-   "goal_diff": 9,
+   "goals_against": 16,
+   "goal_diff": 8,
    "points": 21,
    "flag": null
   },
   {
    "position": 5,
-   "team": "Pau FC",
-   "played": 12,
-   "won": 6,
-   "drawn": 2,
-   "lost": 4,
-   "goals_for": 16,
-   "goals_against": 13,
-   "goal_diff": 3,
+   "team": "Metz",
+   "played": 13,
+   "won": 5,
+   "drawn": 5,
+   "lost": 3,
+   "goals_for": 22,
+   "goals_against": 20,
+   "goal_diff": 2,
    "points": 20,
    "flag": null
   },
   {
    "position": 6,
-   "team": "Dijon",
-   "played": 12,
-   "won": 5,
-   "drawn": 3,
-   "lost": 4,
-   "goals_for": 21,
-   "goals_against": 19,
+   "team": "Pau FC",
+   "played": 13,
+   "won": 6,
+   "drawn": 2,
+   "lost": 5,
+   "goals_for": 17,
+   "goals_against": 15,
    "goal_diff": 2,
-   "points": 18,
+   "points": 20,
    "flag": null
   },
   {
    "position": 7,
-   "team": "Metz",
-   "played": 12,
-   "won": 4,
-   "drawn": 5,
-   "lost": 3,
-   "goals_for": 20,
-   "goals_against": 19,
-   "goal_diff": 1,
-   "points": 17,
+   "team": "Red Star",
+   "played": 13,
+   "won": 6,
+   "drawn": 2,
+   "lost": 5,
+   "goals_for": 16,
+   "goals_against": 18,
+   "goal_diff": -2,
+   "points": 20,
    "flag": null
   },
   {
    "position": 8,
-   "team": "Red Star",
-   "played": 12,
-   "won": 5,
-   "drawn": 2,
-   "lost": 5,
-   "goals_for": 14,
-   "goals_against": 17,
-   "goal_diff": -3,
-   "points": 17,
+   "team": "Annecy",
+   "played": 13,
+   "won": 6,
+   "drawn": 1,
+   "lost": 6,
+   "goals_for": 18,
+   "goals_against": 20,
+   "goal_diff": -2,
+   "points": 19,
    "flag": null
   },
   {
    "position": 9,
-   "team": "Annecy",
-   "played": 12,
+   "team": "Dijon",
+   "played": 13,
+   "won": 5,
+   "drawn": 3,
+   "lost": 5,
+   "goals_for": 21,
+   "goals_against": 20,
+   "goal_diff": 1,
+   "points": 18,
+   "flag": null
+  },
+  {
+   "position": 10,
+   "team": "Rodez",
+   "played": 13,
    "won": 5,
    "drawn": 1,
-   "lost": 6,
-   "goals_for": 14,
-   "goals_against": 18,
+   "lost": 7,
+   "goals_for": 20,
+   "goals_against": 24,
    "goal_diff": -4,
    "points": 16,
    "flag": null
   },
   {
-   "position": 10,
+   "position": 11,
    "team": "Dunkerque",
    "played": 12,
    "won": 4,
@@ -140,41 +153,28 @@
    "flag": null
   },
   {
-   "position": 11,
+   "position": 12,
    "team": "Guingamp",
-   "played": 12,
+   "played": 13,
    "won": 4,
    "drawn": 2,
-   "lost": 6,
-   "goals_for": 16,
-   "goals_against": 18,
-   "goal_diff": -2,
+   "lost": 7,
+   "goals_for": 17,
+   "goals_against": 21,
+   "goal_diff": -4,
    "points": 14,
    "flag": null
   },
   {
-   "position": 12,
+   "position": 13,
    "team": "Boulogne",
-   "played": 12,
+   "played": 13,
    "won": 2,
    "drawn": 7,
-   "lost": 3,
-   "goals_for": 10,
-   "goals_against": 8,
-   "goal_diff": 2,
-   "points": 13,
-   "flag": null
-  },
-  {
-   "position": 13,
-   "team": "Rodez",
-   "played": 12,
-   "won": 4,
-   "drawn": 1,
-   "lost": 7,
-   "goals_for": 17,
-   "goals_against": 23,
-   "goal_diff": -6,
+   "lost": 4,
+   "goals_for": 11,
+   "goals_against": 10,
+   "goal_diff": 1,
    "points": 13,
    "flag": null
   },
@@ -193,19 +193,32 @@
   },
   {
    "position": 15,
-   "team": "Clermont",
-   "played": 12,
-   "won": 1,
-   "drawn": 8,
-   "lost": 3,
-   "goals_for": 11,
-   "goals_against": 15,
-   "goal_diff": -4,
-   "points": 11,
+   "team": "Laval",
+   "played": 13,
+   "won": 3,
+   "drawn": 3,
+   "lost": 7,
+   "goals_for": 15,
+   "goals_against": 23,
+   "goal_diff": -8,
+   "points": 12,
    "flag": null
   },
   {
    "position": 16,
+   "team": "Clermont",
+   "played": 13,
+   "won": 1,
+   "drawn": 8,
+   "lost": 4,
+   "goals_for": 13,
+   "goals_against": 19,
+   "goal_diff": -6,
+   "points": 11,
+   "flag": null
+  },
+  {
+   "position": 17,
    "team": "Sochaux",
    "played": 12,
    "won": 2,
@@ -218,7 +231,7 @@
    "flag": null
   },
   {
-   "position": 17,
+   "position": 18,
    "team": "Grenoble",
    "played": 12,
    "won": 3,
@@ -229,33 +242,20 @@
    "goal_diff": -9,
    "points": 11,
    "flag": null
-  },
-  {
-   "position": 18,
-   "team": "Laval",
-   "played": 12,
-   "won": 2,
-   "drawn": 3,
-   "lost": 7,
-   "goals_for": 14,
-   "goals_against": 23,
-   "goal_diff": -9,
-   "points": 9,
-   "flag": null
   }
  ],
  "form": [
   {
    "team": "Saint-Étienne",
-   "last5": "WLWWW"
+   "last5": "WWLWW"
   },
   {
    "team": "Reims",
-   "last5": "LWDWD"
+   "last5": "LLWDW"
   },
   {
    "team": "Montpellier",
-   "last5": "LWWWW"
+   "last5": "LLWWW"
   },
   {
    "team": "Nantes",
@@ -263,23 +263,23 @@
   },
   {
    "team": "Metz",
-   "last5": "WLDWL"
+   "last5": "WWLDW"
   },
   {
    "team": "Rodez",
-   "last5": "LWWLL"
+   "last5": "WLWWL"
   },
   {
    "team": "Red Star",
-   "last5": "LLLLW"
+   "last5": "WLLLL"
   },
   {
    "team": "Clermont",
-   "last5": "WDLDL"
+   "last5": "LWDLD"
   },
   {
    "team": "Pau FC",
-   "last5": "LWWWW"
+   "last5": "LLWWW"
   },
   {
    "team": "Dunkerque",
@@ -287,7 +287,7 @@
   },
   {
    "team": "Annecy",
-   "last5": "LLWLW"
+   "last5": "WLLWL"
   },
   {
    "team": "Grenoble",
@@ -295,11 +295,11 @@
   },
   {
    "team": "Laval",
-   "last5": "LWLDL"
+   "last5": "WLWLD"
   },
   {
    "team": "Guingamp",
-   "last5": "LWWLL"
+   "last5": "LLWWL"
   },
   {
    "team": "Nancy",
@@ -307,11 +307,11 @@
   },
   {
    "team": "Boulogne",
-   "last5": "WLDWD"
+   "last5": "LWLDW"
   },
   {
    "team": "Dijon",
-   "last5": "WWLLW"
+   "last5": "LWWLL"
   },
   {
    "team": "Sochaux",
@@ -319,6 +319,69 @@
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T19:00:00.000Z",
+   "home": "Reims",
+   "away": "Saint-Étienne",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T13:00:00.000Z",
+   "home": "Laval",
+   "away": "Montpellier",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:00:00.000Z",
+   "home": "Metz",
+   "away": "Boulogne",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:00:00.000Z",
+   "home": "Red Star",
+   "away": "Pau FC",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:00:00.000Z",
+   "home": "Annecy",
+   "away": "Clermont",
+   "home_goals": 4,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:00:00.000Z",
+   "home": "Guingamp",
+   "away": "Rodez",
+   "home_goals": 1,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:00:00.000Z",
+   "home": "Nancy",
+   "away": "Dijon",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
   {
    "date": "2026-11-07",
    "kickoff_utc": "2026-11-07T19:00:00.000Z",
@@ -524,69 +587,6 @@
    "away": "Guingamp",
    "home_goals": 0,
    "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-23",
-   "kickoff_utc": "2026-10-23T18:00:00.000Z",
-   "home": "Pau FC",
-   "away": "Grenoble",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-23",
-   "kickoff_utc": "2026-10-23T18:00:00.000Z",
-   "home": "Dunkerque",
-   "away": "Metz",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-23",
-   "kickoff_utc": "2026-10-23T18:00:00.000Z",
-   "home": "Nancy",
-   "away": "Laval",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-23",
-   "kickoff_utc": "2026-10-23T18:00:00.000Z",
-   "home": "Sochaux",
-   "away": "Annecy",
-   "home_goals": 1,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-19",
-   "kickoff_utc": "2026-10-19T18:45:00.000Z",
-   "home": "Rodez",
-   "away": "Montpellier",
-   "home_goals": 0,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-17",
-   "kickoff_utc": "2026-10-17T18:00:00.000Z",
-   "home": "Red Star",
-   "away": "Saint-Étienne",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-17",
-   "kickoff_utc": "2026-10-17T12:00:00.000Z",
-   "home": "Nantes",
-   "away": "Dunkerque",
-   "home_goals": 2,
-   "away_goals": 3,
    "status": "finished"
   }
  ],

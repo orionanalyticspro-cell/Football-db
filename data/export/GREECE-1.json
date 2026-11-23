@@ -7,58 +7,58 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-23T13:13:11.953Z",
+ "updated": "2026-11-23T18:58:58.625Z",
  "standings": [
   {
    "position": 1,
    "team": "Panathinaikos",
-   "played": 10,
-   "won": 9,
+   "played": 11,
+   "won": 10,
    "drawn": 0,
    "lost": 1,
-   "goals_for": 22,
+   "goals_for": 24,
    "goals_against": 5,
-   "goal_diff": 17,
-   "points": 27,
+   "goal_diff": 19,
+   "points": 30,
    "flag": null
   },
   {
    "position": 2,
    "team": "Olympiakos",
-   "played": 10,
-   "won": 7,
+   "played": 11,
+   "won": 8,
    "drawn": 2,
    "lost": 1,
-   "goals_for": 16,
-   "goals_against": 5,
-   "goal_diff": 11,
-   "points": 23,
+   "goals_for": 22,
+   "goals_against": 7,
+   "goal_diff": 15,
+   "points": 26,
    "flag": null
   },
   {
    "position": 3,
    "team": "AEK",
-   "played": 9,
-   "won": 6,
+   "played": 10,
+   "won": 7,
    "drawn": 2,
    "lost": 1,
-   "goals_for": 23,
+   "goals_for": 24,
    "goals_against": 6,
-   "goal_diff": 17,
-   "points": 20,
+   "goal_diff": 18,
+   "points": 23,
    "flag": null
   },
   {
    "position": 4,
    "team": "PAOK",
-   "played": 10,
-   "won": 6,
+   "played": 11,
+   "won": 7,
    "drawn": 1,
    "lost": 3,
-   "goals_for": 19,
+   "goals_for": 23,
    "goals_against": 13,
-   "goal_diff": 6,
-   "points": 19,
+   "goal_diff": 10,
+   "points": 22,
    "flag": null
   },
   {
@@ -77,70 +77,83 @@
   {
    "position": 6,
    "team": "OFI Crete",
-   "played": 10,
+   "played": 11,
    "won": 5,
    "drawn": 2,
-   "lost": 3,
+   "lost": 4,
    "goals_for": 14,
-   "goals_against": 12,
-   "goal_diff": 2,
+   "goals_against": 14,
+   "goal_diff": 0,
    "points": 17,
    "flag": null
   },
   {
    "position": 7,
    "team": "Kifisia",
-   "played": 10,
+   "played": 11,
    "won": 4,
    "drawn": 2,
-   "lost": 4,
+   "lost": 5,
    "goals_for": 15,
-   "goals_against": 15,
-   "goal_diff": 0,
+   "goals_against": 19,
+   "goal_diff": -4,
    "points": 14,
    "flag": null
   },
   {
    "position": 8,
    "team": "Kalamata",
-   "played": 10,
+   "played": 11,
    "won": 3,
    "drawn": 3,
-   "lost": 4,
+   "lost": 5,
    "goals_for": 15,
-   "goals_against": 19,
-   "goal_diff": -4,
+   "goals_against": 20,
+   "goal_diff": -5,
    "points": 12,
    "flag": null
   },
   {
    "position": 9,
-   "team": "Iraklis",
-   "played": 10,
-   "won": 2,
-   "drawn": 4,
-   "lost": 4,
-   "goals_for": 11,
-   "goals_against": 14,
-   "goal_diff": -3,
-   "points": 10,
+   "team": "Panetolikos",
+   "played": 11,
+   "won": 4,
+   "drawn": 0,
+   "lost": 7,
+   "goals_for": 9,
+   "goals_against": 20,
+   "goal_diff": -11,
+   "points": 12,
    "flag": null
   },
   {
    "position": 10,
-   "team": "Panetolikos",
-   "played": 10,
-   "won": 3,
-   "drawn": 0,
-   "lost": 7,
-   "goals_for": 8,
+   "team": "Iraklis",
+   "played": 11,
+   "won": 2,
+   "drawn": 4,
+   "lost": 5,
+   "goals_for": 13,
    "goals_against": 20,
-   "goal_diff": -12,
-   "points": 9,
+   "goal_diff": -7,
+   "points": 10,
    "flag": null
   },
   {
    "position": 11,
+   "team": "Atromitos",
+   "played": 10,
+   "won": 1,
+   "drawn": 4,
+   "lost": 5,
+   "goals_for": 10,
+   "goals_against": 13,
+   "goal_diff": -3,
+   "points": 7,
+   "flag": null
+  },
+  {
+   "position": 12,
    "team": "Asteras Tripolis",
    "played": 10,
    "won": 1,
@@ -153,41 +166,28 @@
    "flag": null
   },
   {
-   "position": 12,
-   "team": "Atromitos",
-   "played": 9,
-   "won": 1,
-   "drawn": 3,
-   "lost": 5,
-   "goals_for": 9,
-   "goals_against": 12,
-   "goal_diff": -3,
-   "points": 6,
-   "flag": null
-  },
-  {
    "position": 13,
    "team": "Levadeiakos",
-   "played": 10,
+   "played": 11,
    "won": 1,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 6,
-   "goals_for": 4,
-   "goals_against": 13,
+   "goals_for": 5,
+   "goals_against": 14,
    "goal_diff": -9,
-   "points": 6,
+   "points": 7,
    "flag": null
   },
   {
    "position": 14,
    "team": "Volos NFC",
-   "played": 10,
+   "played": 11,
    "won": 0,
    "drawn": 3,
-   "lost": 7,
+   "lost": 8,
    "goals_for": 7,
-   "goals_against": 19,
-   "goal_diff": -12,
+   "goals_against": 20,
+   "goal_diff": -13,
    "points": 3,
    "flag": null
   }
@@ -195,23 +195,23 @@
  "form": [
   {
    "team": "PAOK",
-   "last5": "DWLWL"
+   "last5": "WDWLW"
   },
   {
    "team": "Volos NFC",
-   "last5": "LLLDL"
+   "last5": "LLLLD"
   },
   {
    "team": "Olympiakos",
-   "last5": "DWWWW"
+   "last5": "WDWWW"
   },
   {
    "team": "Levadeiakos",
-   "last5": "LWDDL"
+   "last5": "DLWDD"
   },
   {
    "team": "Panathinaikos",
-   "last5": "WWWWL"
+   "last5": "WWWWW"
   },
   {
    "team": "Asteras Tripolis",
@@ -219,7 +219,7 @@
   },
   {
    "team": "Atromitos",
-   "last5": "DWLLL"
+   "last5": "DDWLL"
   },
   {
    "team": "Aris",
@@ -227,30 +227,84 @@
   },
   {
    "team": "AEK",
-   "last5": "WLWWW"
+   "last5": "WWLWW"
   },
   {
    "team": "OFI Crete",
-   "last5": "DWWLL"
+   "last5": "LDWWL"
   },
   {
    "team": "Panetolikos",
-   "last5": "LLLLL"
+   "last5": "WLLLL"
   },
   {
    "team": "Kifisia",
-   "last5": "WLWLW"
+   "last5": "LWLWL"
   },
   {
    "team": "Iraklis",
-   "last5": "LDLLW"
+   "last5": "LLDLL"
   },
   {
    "team": "Kalamata",
-   "last5": "DDLWW"
+   "last5": "LDDLW"
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T17:30:00.000Z",
+   "home": "PAOK",
+   "away": "Kifisia",
+   "home_goals": 4,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T17:00:00.000Z",
+   "home": "Olympiakos",
+   "away": "Iraklis",
+   "home_goals": 6,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T15:30:00.000Z",
+   "home": "Panathinaikos",
+   "away": "OFI Crete",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T15:00:00.000Z",
+   "home": "Panetolikos",
+   "away": "Volos NFC",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T14:00:00.000Z",
+   "home": "Levadeiakos",
+   "away": "Atromitos",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T17:30:00.000Z",
+   "home": "Kalamata",
+   "away": "AEK",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
   {
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T19:00:00.000Z",
@@ -466,108 +520,9 @@
    "home_goals": 5,
    "away_goals": 1,
    "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T14:00:00.000Z",
-   "home": "Panetolikos",
-   "away": "Olympiakos",
-   "home_goals": 0,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T13:00:00.000Z",
-   "home": "Kalamata",
-   "away": "OFI Crete",
-   "home_goals": 4,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-17",
-   "kickoff_utc": "2026-10-17T14:00:00.000Z",
-   "home": "Levadeiakos",
-   "away": "Volos NFC",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-12",
-   "kickoff_utc": "2026-10-12T15:00:00.000Z",
-   "home": "PAOK",
-   "away": "Kalamata",
-   "home_goals": 1,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-11",
-   "kickoff_utc": "2026-10-11T18:00:00.000Z",
-   "home": "Olympiakos",
-   "away": "Panathinaikos",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-11",
-   "kickoff_utc": "2026-10-11T16:00:00.000Z",
-   "home": "Aris",
-   "away": "Volos NFC",
-   "home_goals": 3,
-   "away_goals": 2,
-   "status": "finished"
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T14:00:00.000Z",
-   "home": "Levadeiakos",
-   "away": "Atromitos",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T15:00:00.000Z",
-   "home": "Panetolikos",
-   "away": "Volos NFC",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T15:30:00.000Z",
-   "home": "Panathinaikos",
-   "away": "OFI Crete",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T17:00:00.000Z",
-   "home": "Olympiakos",
-   "away": "Iraklis",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T17:30:00.000Z",
-   "home": "PAOK",
-   "away": "Kifisia",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-23",
    "kickoff_utc": "2026-11-23T15:00:00.000Z",

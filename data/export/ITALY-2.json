@@ -7,352 +7,442 @@
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-23T13:13:12.461Z",
+ "updated": "2026-11-23T18:58:59.205Z",
  "standings": [
   {
    "position": 1,
    "team": "Palermo",
-   "played": 11,
+   "played": 12,
    "won": 8,
    "drawn": 3,
-   "lost": 0,
-   "goals_for": 25,
-   "goals_against": 13,
-   "goal_diff": 12,
+   "lost": 1,
+   "goals_for": 26,
+   "goals_against": 16,
+   "goal_diff": 10,
    "points": 27,
    "flag": null
   },
   {
    "position": 2,
    "team": "Modena",
-   "played": 11,
-   "won": 7,
+   "played": 12,
+   "won": 8,
    "drawn": 2,
    "lost": 2,
-   "goals_for": 20,
+   "goals_for": 22,
    "goals_against": 10,
-   "goal_diff": 10,
-   "points": 23,
+   "goal_diff": 12,
+   "points": 26,
    "flag": null
   },
   {
    "position": 3,
    "team": "Ascoli",
-   "played": 11,
+   "played": 12,
    "won": 5,
-   "drawn": 5,
+   "drawn": 6,
    "lost": 1,
-   "goals_for": 17,
-   "goals_against": 7,
+   "goals_for": 19,
+   "goals_against": 9,
    "goal_diff": 10,
-   "points": 20,
+   "points": 21,
    "flag": null
   },
   {
    "position": 4,
-   "team": "Mantova",
-   "played": 11,
+   "team": "Avellino",
+   "played": 12,
    "won": 5,
    "drawn": 4,
-   "lost": 2,
-   "goals_for": 15,
-   "goals_against": 11,
-   "goal_diff": 4,
+   "lost": 3,
+   "goals_for": 20,
+   "goals_against": 12,
+   "goal_diff": 8,
    "points": 19,
    "flag": null
   },
   {
    "position": 5,
-   "team": "Verona",
-   "played": 11,
-   "won": 4,
+   "team": "Pisa",
+   "played": 12,
+   "won": 5,
    "drawn": 4,
    "lost": 3,
-   "goals_for": 19,
-   "goals_against": 13,
-   "goal_diff": 6,
-   "points": 16,
+   "goals_for": 21,
+   "goals_against": 17,
+   "goal_diff": 4,
+   "points": 19,
    "flag": null
   },
   {
    "position": 6,
-   "team": "Avellino",
-   "played": 11,
-   "won": 4,
+   "team": "Mantova",
+   "played": 12,
+   "won": 5,
    "drawn": 4,
    "lost": 3,
    "goals_for": 16,
-   "goals_against": 11,
-   "goal_diff": 5,
-   "points": 16,
+   "goals_against": 15,
+   "goal_diff": 1,
+   "points": 19,
    "flag": null
   },
   {
    "position": 7,
-   "team": "Benevento",
-   "played": 11,
+   "team": "Sudtirol",
+   "played": 12,
+   "won": 4,
+   "drawn": 6,
+   "lost": 2,
+   "goals_for": 14,
+   "goals_against": 12,
+   "goal_diff": 2,
+   "points": 18,
+   "flag": null
+  },
+  {
+   "position": 8,
+   "team": "Cesena",
+   "played": 12,
+   "won": 4,
+   "drawn": 6,
+   "lost": 2,
+   "goals_for": 14,
+   "goals_against": 14,
+   "goal_diff": 0,
+   "points": 18,
+   "flag": null
+  },
+  {
+   "position": 9,
+   "team": "Verona",
+   "played": 12,
    "won": 4,
    "drawn": 4,
-   "lost": 3,
-   "goals_for": 15,
-   "goals_against": 11,
+   "lost": 4,
+   "goals_for": 19,
+   "goals_against": 15,
    "goal_diff": 4,
    "points": 16,
    "flag": null
   },
   {
-   "position": 8,
-   "team": "Pisa",
-   "played": 11,
-   "won": 4,
-   "drawn": 4,
-   "lost": 3,
-   "goals_for": 20,
-   "goals_against": 17,
-   "goal_diff": 3,
-   "points": 16,
-   "flag": null
-  },
-  {
-   "position": 9,
-   "team": "Juve Stabia",
-   "played": 11,
-   "won": 4,
-   "drawn": 4,
-   "lost": 3,
-   "goals_for": 12,
-   "goals_against": 11,
-   "goal_diff": 1,
-   "points": 16,
-   "flag": null
-  },
-  {
    "position": 10,
-   "team": "Cremonese",
-   "played": 11,
+   "team": "Benevento",
+   "played": 12,
    "won": 4,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 4,
-   "goals_for": 14,
-   "goals_against": 12,
+   "goals_for": 16,
+   "goals_against": 14,
    "goal_diff": 2,
-   "points": 15,
+   "points": 16,
    "flag": null
   },
   {
    "position": 11,
-   "team": "Sudtirol",
-   "played": 11,
-   "won": 3,
-   "drawn": 6,
-   "lost": 2,
+   "team": "Padova",
+   "played": 12,
+   "won": 4,
+   "drawn": 4,
+   "lost": 4,
    "goals_for": 13,
-   "goals_against": 12,
-   "goal_diff": 1,
-   "points": 15,
+   "goals_against": 14,
+   "goal_diff": -1,
+   "points": 16,
    "flag": null
   },
   {
    "position": 12,
-   "team": "Padova",
-   "played": 11,
+   "team": "Juve Stabia",
+   "played": 12,
    "won": 4,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 4,
    "goals_for": 12,
    "goals_against": 13,
    "goal_diff": -1,
-   "points": 15,
+   "points": 16,
    "flag": null
   },
   {
    "position": 13,
-   "team": "Cesena",
-   "played": 11,
-   "won": 3,
-   "drawn": 6,
-   "lost": 2,
-   "goals_for": 12,
-   "goals_against": 14,
-   "goal_diff": -2,
+   "team": "Cremonese",
+   "played": 12,
+   "won": 4,
+   "drawn": 3,
+   "lost": 5,
+   "goals_for": 14,
+   "goals_against": 13,
+   "goal_diff": 1,
    "points": 15,
    "flag": null
   },
   {
    "position": 14,
    "team": "Sampdoria",
-   "played": 11,
-   "won": 3,
+   "played": 12,
+   "won": 4,
    "drawn": 2,
    "lost": 6,
-   "goals_for": 11,
-   "goals_against": 18,
-   "goal_diff": -7,
-   "points": 11,
+   "goals_for": 14,
+   "goals_against": 19,
+   "goal_diff": -5,
+   "points": 14,
    "flag": null
   },
   {
    "position": 15,
-   "team": "Arezzo",
-   "played": 11,
-   "won": 3,
-   "drawn": 2,
-   "lost": 6,
-   "goals_for": 9,
-   "goals_against": 20,
-   "goal_diff": -11,
-   "points": 11,
+   "team": "Carrarese",
+   "played": 12,
+   "won": 4,
+   "drawn": 1,
+   "lost": 7,
+   "goals_for": 10,
+   "goals_against": 14,
+   "goal_diff": -4,
+   "points": 13,
    "flag": null
   },
   {
    "position": 16,
-   "team": "Virtus Entella",
-   "played": 11,
-   "won": 2,
-   "drawn": 4,
-   "lost": 5,
-   "goals_for": 11,
-   "goals_against": 14,
-   "goal_diff": -3,
-   "points": 10,
+   "team": "Arezzo",
+   "played": 12,
+   "won": 3,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 10,
+   "goals_against": 21,
+   "goal_diff": -11,
+   "points": 12,
    "flag": null
   },
   {
    "position": 17,
-   "team": "Carrarese",
-   "played": 11,
-   "won": 3,
-   "drawn": 1,
-   "lost": 7,
-   "goals_for": 9,
-   "goals_against": 14,
-   "goal_diff": -5,
+   "team": "Virtus Entella",
+   "played": 12,
+   "won": 2,
+   "drawn": 4,
+   "lost": 6,
+   "goals_for": 11,
+   "goals_against": 15,
+   "goal_diff": -4,
    "points": 10,
    "flag": null
   },
   {
    "position": 18,
-   "team": "Empoli",
-   "played": 11,
+   "team": "Vicenza",
+   "played": 12,
    "won": 2,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 6,
-   "goals_for": 12,
-   "goals_against": 19,
-   "goal_diff": -7,
-   "points": 9,
+   "goals_for": 16,
+   "goals_against": 26,
+   "goal_diff": -10,
+   "points": 10,
    "flag": null
   },
   {
    "position": 19,
-   "team": "Vicenza",
-   "played": 11,
+   "team": "Empoli",
+   "played": 12,
    "won": 2,
    "drawn": 3,
-   "lost": 6,
-   "goals_for": 14,
-   "goals_against": 24,
-   "goal_diff": -10,
+   "lost": 7,
+   "goals_for": 12,
+   "goals_against": 20,
+   "goal_diff": -8,
    "points": 9,
    "flag": null
   },
   {
    "position": 20,
    "team": "Catanzaro",
-   "played": 11,
-   "won": 1,
+   "played": 12,
+   "won": 2,
    "drawn": 3,
    "lost": 7,
-   "goals_for": 11,
-   "goals_against": 23,
-   "goal_diff": -12,
-   "points": 6,
+   "goals_for": 14,
+   "goals_against": 24,
+   "goal_diff": -10,
+   "points": 9,
    "flag": null
   }
  ],
  "form": [
   {
    "team": "Empoli",
-   "last5": "DDLLD"
+   "last5": "LDDLL"
   },
   {
    "team": "Verona",
-   "last5": "DWWDD"
+   "last5": "LDWWD"
   },
   {
    "team": "Cremonese",
-   "last5": "WWWLL"
+   "last5": "LWWWL"
   },
   {
    "team": "Pisa",
-   "last5": "DLDDW"
+   "last5": "WDLDD"
   },
   {
    "team": "Palermo",
-   "last5": "DWDWW"
+   "last5": "LDWDW"
   },
   {
    "team": "Juve Stabia",
-   "last5": "WDLWW"
+   "last5": "LWDLW"
   },
   {
    "team": "Sudtirol",
-   "last5": "DDLDL"
+   "last5": "WDDLD"
   },
   {
    "team": "Modena",
-   "last5": "WDWWL"
+   "last5": "WWDWW"
   },
   {
    "team": "Catanzaro",
-   "last5": "LDDLD"
+   "last5": "WLDDL"
   },
   {
    "team": "Cesena",
-   "last5": "WDWLD"
+   "last5": "WWDWL"
   },
   {
    "team": "Carrarese",
-   "last5": "LLWLW"
+   "last5": "WLLWL"
   },
   {
    "team": "Sampdoria",
-   "last5": "WWLDL"
+   "last5": "WWWLD"
   },
   {
    "team": "Mantova",
-   "last5": "DDLWL"
+   "last5": "LDDLW"
   },
   {
    "team": "Padova",
-   "last5": "DDWWL"
+   "last5": "DDDWW"
   },
   {
    "team": "Virtus Entella",
-   "last5": "LLDLW"
+   "last5": "LLLDL"
   },
   {
    "team": "Avellino",
-   "last5": "DWDLD"
+   "last5": "WDWDL"
   },
   {
    "team": "Vicenza",
-   "last5": "LLLWD"
+   "last5": "DLLLW"
   },
   {
    "team": "Arezzo",
-   "last5": "LDLLW"
+   "last5": "DLDLL"
   },
   {
    "team": "Benevento",
-   "last5": "DLDWD"
+   "last5": "LDLDW"
   },
   {
    "team": "Ascoli",
-   "last5": "DDWWD"
+   "last5": "DDDWW"
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T16:15:00.000Z",
+   "home": "Arezzo",
+   "away": "Padova",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T14:00:00.000Z",
+   "home": "Avellino",
+   "away": "Mantova",
+   "home_goals": 4,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T18:30:00.000Z",
+   "home": "Empoli",
+   "away": "Pisa",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T16:15:00.000Z",
+   "home": "Catanzaro",
+   "away": "Palermo",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T14:00:00.000Z",
+   "home": "Sudtirol",
+   "away": "Cremonese",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T14:00:00.000Z",
+   "home": "Modena",
+   "away": "Juve Stabia",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T14:00:00.000Z",
+   "home": "Carrarese",
+   "away": "Virtus Entella",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T14:00:00.000Z",
+   "home": "Sampdoria",
+   "away": "Benevento",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T14:00:00.000Z",
+   "home": "Ascoli",
+   "away": "Vicenza",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:30:00.000Z",
+   "home": "Verona",
+   "away": "Cesena",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
   {
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T18:30:00.000Z",
@@ -532,116 +622,7 @@
    "home_goals": 1,
    "away_goals": 1,
    "status": "finished"
-  },
-  {
-   "date": "2026-10-28",
-   "kickoff_utc": "2026-10-28T19:00:00.000Z",
-   "home": "Juve Stabia",
-   "away": "Verona",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-28",
-   "kickoff_utc": "2026-10-28T19:00:00.000Z",
-   "home": "Carrarese",
-   "away": "Arezzo",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-28",
-   "kickoff_utc": "2026-10-28T18:00:00.000Z",
-   "home": "Pisa",
-   "away": "Palermo",
-   "home_goals": 3,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-27",
-   "kickoff_utc": "2026-10-27T19:00:00.000Z",
-   "home": "Cesena",
-   "away": "Empoli",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-27",
-   "kickoff_utc": "2026-10-27T19:00:00.000Z",
-   "home": "Mantova",
-   "away": "Cremonese",
-   "home_goals": 0,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-27",
-   "kickoff_utc": "2026-10-27T19:00:00.000Z",
-   "home": "Padova",
-   "away": "Sudtirol",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-27",
-   "kickoff_utc": "2026-10-27T19:00:00.000Z",
-   "home": "Virtus Entella",
-   "away": "Avellino",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-27",
-   "kickoff_utc": "2026-10-27T19:00:00.000Z",
-   "home": "Vicenza",
-   "away": "Modena",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-27",
-   "kickoff_utc": "2026-10-27T19:00:00.000Z",
-   "home": "Ascoli",
-   "away": "Sampdoria",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-27",
-   "kickoff_utc": "2026-10-27T18:00:00.000Z",
-   "home": "Benevento",
-   "away": "Catanzaro",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
   }
  ],
- "upcoming": [
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T14:00:00.000Z",
-   "home": "Avellino",
-   "away": "Mantova",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T16:15:00.000Z",
-   "home": "Arezzo",
-   "away": "Padova",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  }
- ]
+ "upcoming": []
 }

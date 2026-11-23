@@ -7,101 +7,114 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-23T13:13:15.560Z",
+ "updated": "2026-11-23T18:59:02.686Z",
  "standings": [
   {
    "position": 1,
    "team": "Galatasaray",
-   "played": 11,
-   "won": 9,
+   "played": 12,
+   "won": 10,
    "drawn": 1,
    "lost": 1,
-   "goals_for": 27,
-   "goals_against": 15,
-   "goal_diff": 12,
-   "points": 28,
+   "goals_for": 29,
+   "goals_against": 16,
+   "goal_diff": 13,
+   "points": 31,
    "flag": null
   },
   {
    "position": 2,
    "team": "Trabzonspor",
-   "played": 11,
-   "won": 8,
+   "played": 12,
+   "won": 9,
    "drawn": 1,
    "lost": 2,
-   "goals_for": 26,
+   "goals_for": 27,
    "goals_against": 8,
-   "goal_diff": 18,
-   "points": 25,
+   "goal_diff": 19,
+   "points": 28,
    "flag": null
   },
   {
    "position": 3,
-   "team": "Amedspor",
-   "played": 11,
-   "won": 7,
-   "drawn": 2,
-   "lost": 2,
-   "goals_for": 28,
-   "goals_against": 15,
+   "team": "Besiktas",
+   "played": 12,
+   "won": 8,
+   "drawn": 1,
+   "lost": 3,
+   "goals_for": 27,
+   "goals_against": 14,
    "goal_diff": 13,
-   "points": 23,
+   "points": 25,
    "flag": null
   },
   {
    "position": 4,
-   "team": "Besiktas",
-   "played": 11,
+   "team": "Amedspor",
+   "played": 12,
    "won": 7,
-   "drawn": 1,
+   "drawn": 2,
    "lost": 3,
-   "goals_for": 23,
-   "goals_against": 12,
+   "goals_for": 28,
+   "goals_against": 17,
    "goal_diff": 11,
-   "points": 22,
+   "points": 23,
    "flag": null
   },
   {
    "position": 5,
    "team": "Kasimpasa",
-   "played": 11,
-   "won": 5,
+   "played": 12,
+   "won": 6,
    "drawn": 5,
    "lost": 1,
-   "goals_for": 17,
-   "goals_against": 11,
-   "goal_diff": 6,
-   "points": 20,
+   "goals_for": 19,
+   "goals_against": 12,
+   "goal_diff": 7,
+   "points": 23,
    "flag": null
   },
   {
    "position": 6,
    "team": "Fenerbahce",
-   "played": 11,
+   "played": 12,
    "won": 6,
-   "drawn": 1,
+   "drawn": 2,
    "lost": 4,
-   "goals_for": 29,
-   "goals_against": 10,
+   "goals_for": 31,
+   "goals_against": 12,
    "goal_diff": 19,
-   "points": 19,
+   "points": 20,
    "flag": null
   },
   {
    "position": 7,
    "team": "Kocaelispor",
-   "played": 11,
+   "played": 12,
    "won": 6,
-   "drawn": 1,
+   "drawn": 2,
    "lost": 4,
-   "goals_for": 13,
-   "goals_against": 9,
+   "goals_for": 15,
+   "goals_against": 11,
    "goal_diff": 4,
-   "points": 19,
+   "points": 20,
    "flag": null
   },
   {
    "position": 8,
+   "team": "Goztep",
+   "played": 12,
+   "won": 5,
+   "drawn": 3,
+   "lost": 4,
+   "goals_for": 23,
+   "goals_against": 19,
+   "goal_diff": 4,
+   "points": 18,
+   "flag": null
+  },
+  {
+   "position": 9,
    "team": "Buyuksehyr",
    "played": 11,
    "won": 5,
@@ -114,7 +127,20 @@
    "flag": null
   },
   {
-   "position": 9,
+   "position": 10,
+   "team": "Rizespor",
+   "played": 12,
+   "won": 5,
+   "drawn": 2,
+   "lost": 5,
+   "goals_for": 15,
+   "goals_against": 16,
+   "goal_diff": -1,
+   "points": 17,
+   "flag": null
+  },
+  {
+   "position": 11,
    "team": "Corum",
    "played": 11,
    "won": 5,
@@ -127,119 +153,93 @@
    "flag": null
   },
   {
-   "position": 10,
-   "team": "Goztep",
-   "played": 11,
-   "won": 4,
-   "drawn": 3,
-   "lost": 4,
-   "goals_for": 22,
-   "goals_against": 19,
-   "goal_diff": 3,
-   "points": 15,
-   "flag": null
-  },
-  {
-   "position": 11,
-   "team": "Rizespor",
-   "played": 11,
-   "won": 4,
-   "drawn": 2,
-   "lost": 5,
-   "goals_for": 13,
-   "goals_against": 16,
-   "goal_diff": -3,
-   "points": 14,
-   "flag": null
-  },
-  {
    "position": 12,
-   "team": "Erzurumspor",
-   "played": 11,
+   "team": "Genclerbirligi",
+   "played": 12,
    "won": 4,
    "drawn": 2,
-   "lost": 5,
-   "goals_for": 10,
-   "goals_against": 17,
-   "goal_diff": -7,
+   "lost": 6,
+   "goals_for": 13,
+   "goals_against": 21,
+   "goal_diff": -8,
    "points": 14,
    "flag": null
   },
   {
    "position": 13,
-   "team": "Alanyaspor",
-   "played": 11,
-   "won": 3,
-   "drawn": 3,
-   "lost": 5,
-   "goals_for": 9,
+   "team": "Erzurumspor",
+   "played": 12,
+   "won": 4,
+   "drawn": 2,
+   "lost": 6,
+   "goals_for": 10,
    "goals_against": 18,
-   "goal_diff": -9,
-   "points": 12,
+   "goal_diff": -8,
+   "points": 14,
    "flag": null
   },
   {
    "position": 14,
-   "team": "Genclerbirligi",
-   "played": 11,
+   "team": "Alanyaspor",
+   "played": 12,
    "won": 3,
-   "drawn": 2,
+   "drawn": 3,
    "lost": 6,
-   "goals_for": 12,
-   "goals_against": 21,
-   "goal_diff": -9,
-   "points": 11,
+   "goals_for": 10,
+   "goals_against": 20,
+   "goal_diff": -10,
+   "points": 12,
    "flag": null
   },
   {
    "position": 15,
    "team": "Konyaspor",
-   "played": 11,
+   "played": 12,
    "won": 2,
    "drawn": 2,
-   "lost": 7,
-   "goals_for": 6,
-   "goals_against": 14,
-   "goal_diff": -8,
+   "lost": 8,
+   "goals_for": 8,
+   "goals_against": 18,
+   "goal_diff": -10,
    "points": 8,
    "flag": null
   },
   {
    "position": 16,
    "team": "Gaziantep",
-   "played": 11,
+   "played": 12,
    "won": 2,
    "drawn": 2,
-   "lost": 7,
+   "lost": 8,
    "goals_for": 9,
-   "goals_against": 19,
-   "goal_diff": -10,
+   "goals_against": 20,
+   "goal_diff": -11,
    "points": 8,
    "flag": null
   },
   {
    "position": 17,
    "team": "Samsunspor",
-   "played": 11,
+   "played": 12,
    "won": 2,
    "drawn": 1,
-   "lost": 8,
-   "goals_for": 11,
-   "goals_against": 26,
-   "goal_diff": -15,
+   "lost": 9,
+   "goals_for": 12,
+   "goals_against": 28,
+   "goal_diff": -16,
    "points": 7,
    "flag": null
   },
   {
    "position": 18,
    "team": "Eyupspor",
-   "played": 11,
+   "played": 12,
    "won": 1,
    "drawn": 0,
-   "lost": 10,
+   "lost": 11,
    "goals_for": 3,
-   "goals_against": 30,
-   "goal_diff": -27,
+   "goals_against": 31,
+   "goal_diff": -28,
    "points": 3,
    "flag": null
   }
@@ -251,19 +251,19 @@
   },
   {
    "team": "Kasimpasa",
-   "last5": "WDWWL"
+   "last5": "WWDWW"
   },
   {
    "team": "Konyaspor",
-   "last5": "LLWLD"
+   "last5": "LLLWL"
   },
   {
    "team": "Goztep",
-   "last5": "LWWWW"
+   "last5": "WLWWW"
   },
   {
    "team": "Fenerbahce",
-   "last5": "WLLWW"
+   "last5": "DWLLW"
   },
   {
    "team": "Trabzonspor",
@@ -271,7 +271,7 @@
   },
   {
    "team": "Alanyaspor",
-   "last5": "LLLLD"
+   "last5": "LLLLL"
   },
   {
    "team": "Eyupspor",
@@ -279,11 +279,11 @@
   },
   {
    "team": "Samsunspor",
-   "last5": "WLLLL"
+   "last5": "LWLLL"
   },
   {
    "team": "Besiktas",
-   "last5": "WDWLW"
+   "last5": "WWDWL"
   },
   {
    "team": "Gaziantep",
@@ -291,7 +291,7 @@
   },
   {
    "team": "Rizespor",
-   "last5": "WDLLL"
+   "last5": "WWDLL"
   },
   {
    "team": "Buyuksehyr",
@@ -299,11 +299,11 @@
   },
   {
    "team": "Genclerbirligi",
-   "last5": "LWLLD"
+   "last5": "WLWLL"
   },
   {
    "team": "Kocaelispor",
-   "last5": "WDWLL"
+   "last5": "DWDWL"
   },
   {
    "team": "Corum",
@@ -311,14 +311,86 @@
   },
   {
    "team": "Amedspor",
-   "last5": "LWWWD"
+   "last5": "LLWWW"
   },
   {
    "team": "Erzurumspor",
-   "last5": "LLWWD"
+   "last5": "LLLWW"
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T16:00:00.000Z",
+   "home": "Trabzonspor",
+   "away": "Eyupspor",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T13:00:00.000Z",
+   "home": "Kasimpasa",
+   "away": "Alanyaspor",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T13:00:00.000Z",
+   "home": "Konyaspor",
+   "away": "Besiktas",
+   "home_goals": 2,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T10:30:00.000Z",
+   "home": "Erzurumspor",
+   "away": "Goztep",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T16:00:00.000Z",
+   "home": "Kocaelispor",
+   "away": "Fenerbahce",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T13:00:00.000Z",
+   "home": "Galatasaray",
+   "away": "Samsunspor",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T13:00:00.000Z",
+   "home": "Amedspor",
+   "away": "Rizespor",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T10:30:00.000Z",
+   "home": "Genclerbirligi",
+   "away": "Gaziantep",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
   {
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T18:00:00.000Z",
@@ -516,117 +588,9 @@
    "home_goals": 2,
    "away_goals": 0,
    "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T13:00:00.000Z",
-   "home": "Konyaspor",
-   "away": "Genclerbirligi",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T16:00:00.000Z",
-   "home": "Samsunspor",
-   "away": "Amedspor",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T13:00:00.000Z",
-   "home": "Gaziantep",
-   "away": "Erzurumspor",
-   "home_goals": 1,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T10:30:00.000Z",
-   "home": "Eyupspor",
-   "away": "Kasimpasa",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-23",
-   "kickoff_utc": "2026-10-23T17:00:00.000Z",
-   "home": "Alanyaspor",
-   "away": "Kocaelispor",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-19",
-   "kickoff_utc": "2026-10-19T17:00:00.000Z",
-   "home": "Trabzonspor",
-   "away": "Besiktas",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T16:00:00.000Z",
-   "home": "Buyuksehyr",
-   "away": "Gaziantep",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T13:00:00.000Z",
-   "home": "Kocaelispor",
-   "away": "Goztep",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T10:30:00.000Z",
-   "home": "Erzurumspor",
-   "away": "Goztep",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T13:00:00.000Z",
-   "home": "Kasimpasa",
-   "away": "Alanyaspor",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T13:00:00.000Z",
-   "home": "Konyaspor",
-   "away": "Besiktas",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T16:00:00.000Z",
-   "home": "Trabzonspor",
-   "away": "Eyupspor",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-23",
    "kickoff_utc": "2026-11-23T17:00:00.000Z",

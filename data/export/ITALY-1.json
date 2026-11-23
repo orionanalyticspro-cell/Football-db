@@ -7,187 +7,187 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-23T13:13:12.291Z",
+ "updated": "2026-11-23T18:58:59.011Z",
  "standings": [
   {
    "position": 1,
    "team": "Lazio",
-   "played": 11,
-   "won": 9,
+   "played": 12,
+   "won": 10,
    "drawn": 2,
    "lost": 0,
-   "goals_for": 25,
+   "goals_for": 28,
    "goals_against": 9,
-   "goal_diff": 16,
-   "points": 29,
+   "goal_diff": 19,
+   "points": 32,
    "flag": null
   },
   {
    "position": 2,
-   "team": "Inter",
-   "played": 11,
+   "team": "Roma",
+   "played": 12,
    "won": 9,
-   "drawn": 1,
-   "lost": 1,
-   "goals_for": 28,
-   "goals_against": 13,
-   "goal_diff": 15,
-   "points": 28,
+   "drawn": 3,
+   "lost": 0,
+   "goals_for": 36,
+   "goals_against": 11,
+   "goal_diff": 25,
+   "points": 30,
    "flag": null
   },
   {
    "position": 3,
-   "team": "Roma",
-   "played": 11,
-   "won": 8,
-   "drawn": 3,
-   "lost": 0,
-   "goals_for": 31,
-   "goals_against": 10,
-   "goal_diff": 21,
-   "points": 27,
+   "team": "Inter",
+   "played": 12,
+   "won": 9,
+   "drawn": 2,
+   "lost": 1,
+   "goals_for": 32,
+   "goals_against": 17,
+   "goal_diff": 15,
+   "points": 29,
    "flag": null
   },
   {
    "position": 4,
    "team": "Milan",
-   "played": 11,
-   "won": 7,
+   "played": 12,
+   "won": 8,
    "drawn": 3,
    "lost": 1,
-   "goals_for": 23,
-   "goals_against": 13,
-   "goal_diff": 10,
-   "points": 24,
+   "goals_for": 28,
+   "goals_against": 14,
+   "goal_diff": 14,
+   "points": 27,
    "flag": null
   },
   {
    "position": 5,
    "team": "Como",
-   "played": 11,
-   "won": 7,
+   "played": 12,
+   "won": 8,
    "drawn": 2,
    "lost": 2,
-   "goals_for": 18,
+   "goals_for": 20,
    "goals_against": 10,
-   "goal_diff": 8,
-   "points": 23,
+   "goal_diff": 10,
+   "points": 26,
    "flag": null
   },
   {
    "position": 6,
-   "team": "Frosinone",
-   "played": 11,
+   "team": "Juventus",
+   "played": 12,
    "won": 6,
-   "drawn": 2,
+   "drawn": 3,
    "lost": 3,
-   "goals_for": 24,
-   "goals_against": 15,
-   "goal_diff": 9,
-   "points": 20,
+   "goals_for": 19,
+   "goals_against": 12,
+   "goal_diff": 7,
+   "points": 21,
    "flag": null
   },
   {
    "position": 7,
-   "team": "Juventus",
-   "played": 11,
-   "won": 5,
-   "drawn": 3,
-   "lost": 3,
-   "goals_for": 15,
-   "goals_against": 12,
-   "goal_diff": 3,
-   "points": 18,
+   "team": "Frosinone",
+   "played": 12,
+   "won": 6,
+   "drawn": 2,
+   "lost": 4,
+   "goals_for": 25,
+   "goals_against": 20,
+   "goal_diff": 5,
+   "points": 20,
    "flag": null
   },
   {
    "position": 8,
-   "team": "Bologna",
-   "played": 11,
+   "team": "Napoli",
+   "played": 12,
    "won": 5,
-   "drawn": 2,
+   "drawn": 3,
    "lost": 4,
-   "goals_for": 16,
+   "goals_for": 19,
    "goals_against": 14,
-   "goal_diff": 2,
-   "points": 17,
+   "goal_diff": 5,
+   "points": 18,
    "flag": null
   },
   {
    "position": 9,
-   "team": "Cagliari",
-   "played": 11,
+   "team": "Bologna",
+   "played": 12,
    "won": 5,
-   "drawn": 1,
-   "lost": 5,
-   "goals_for": 10,
+   "drawn": 3,
+   "lost": 4,
+   "goals_for": 17,
    "goals_against": 15,
-   "goal_diff": -5,
-   "points": 16,
+   "goal_diff": 2,
+   "points": 18,
    "flag": null
   },
   {
    "position": 10,
-   "team": "Napoli",
-   "played": 11,
-   "won": 4,
-   "drawn": 3,
-   "lost": 4,
-   "goals_for": 18,
-   "goals_against": 14,
-   "goal_diff": 4,
-   "points": 15,
+   "team": "Genoa",
+   "played": 12,
+   "won": 5,
+   "drawn": 1,
+   "lost": 6,
+   "goals_for": 13,
+   "goals_against": 16,
+   "goal_diff": -3,
+   "points": 16,
    "flag": null
   },
   {
    "position": 11,
-   "team": "Torino",
-   "played": 11,
-   "won": 4,
-   "drawn": 2,
-   "lost": 5,
-   "goals_for": 15,
+   "team": "Cagliari",
+   "played": 12,
+   "won": 5,
+   "drawn": 1,
+   "lost": 6,
+   "goals_for": 10,
    "goals_against": 17,
-   "goal_diff": -2,
-   "points": 14,
+   "goal_diff": -7,
+   "points": 16,
    "flag": null
   },
   {
    "position": 12,
    "team": "Atalanta",
-   "played": 11,
+   "played": 12,
+   "won": 4,
+   "drawn": 3,
+   "lost": 5,
+   "goals_for": 21,
+   "goals_against": 24,
+   "goal_diff": -3,
+   "points": 15,
+   "flag": null
+  },
+  {
+   "position": 13,
+   "team": "Torino",
+   "played": 12,
    "won": 4,
    "drawn": 2,
-   "lost": 5,
-   "goals_for": 17,
-   "goals_against": 20,
+   "lost": 6,
+   "goals_for": 15,
+   "goals_against": 18,
    "goal_diff": -3,
    "points": 14,
    "flag": null
   },
   {
-   "position": 13,
-   "team": "Genoa",
-   "played": 11,
-   "won": 4,
-   "drawn": 1,
-   "lost": 6,
-   "goals_for": 11,
-   "goals_against": 16,
-   "goal_diff": -5,
-   "points": 13,
-   "flag": null
-  },
-  {
    "position": 14,
    "team": "Lecce",
-   "played": 11,
+   "played": 12,
    "won": 3,
    "drawn": 1,
-   "lost": 7,
+   "lost": 8,
    "goals_for": 12,
-   "goals_against": 22,
-   "goal_diff": -10,
+   "goals_against": 25,
+   "goal_diff": -13,
    "points": 10,
    "flag": null
   },
@@ -207,26 +207,26 @@
   {
    "position": 16,
    "team": "Parma",
-   "played": 11,
+   "played": 12,
    "won": 2,
    "drawn": 2,
-   "lost": 7,
-   "goals_for": 9,
-   "goals_against": 17,
-   "goal_diff": -8,
+   "lost": 8,
+   "goals_for": 10,
+   "goals_against": 22,
+   "goal_diff": -12,
    "points": 8,
    "flag": null
   },
   {
    "position": 17,
    "team": "Sassuolo",
-   "played": 11,
+   "played": 12,
    "won": 2,
    "drawn": 2,
-   "lost": 7,
+   "lost": 8,
    "goals_for": 16,
-   "goals_against": 29,
-   "goal_diff": -13,
+   "goals_against": 31,
+   "goal_diff": -15,
    "points": 8,
    "flag": null
   },
@@ -245,43 +245,43 @@
   },
   {
    "position": 19,
-   "team": "Venezia",
-   "played": 11,
-   "won": 2,
-   "drawn": 0,
-   "lost": 9,
-   "goals_for": 8,
-   "goals_against": 21,
+   "team": "Udinese",
+   "played": 12,
+   "won": 1,
+   "drawn": 3,
+   "lost": 8,
+   "goals_for": 13,
+   "goals_against": 26,
    "goal_diff": -13,
    "points": 6,
    "flag": null
   },
   {
    "position": 20,
-   "team": "Udinese",
-   "played": 11,
-   "won": 1,
-   "drawn": 2,
-   "lost": 8,
-   "goals_for": 12,
+   "team": "Venezia",
+   "played": 12,
+   "won": 2,
+   "drawn": 0,
+   "lost": 10,
+   "goals_for": 8,
    "goals_against": 25,
-   "goal_diff": -13,
-   "points": 5,
+   "goal_diff": -17,
+   "points": 6,
    "flag": null
   }
  ],
  "form": [
   {
    "team": "Inter",
-   "last5": "WLWWW"
+   "last5": "DWLWW"
   },
   {
    "team": "Genoa",
-   "last5": "LWWWL"
+   "last5": "WLWWW"
   },
   {
    "team": "Parma",
-   "last5": "LWDLL"
+   "last5": "LLWDL"
   },
   {
    "team": "Fiorentina",
@@ -293,55 +293,55 @@
   },
   {
    "team": "Milan",
-   "last5": "WWLWW"
+   "last5": "WWWLW"
   },
   {
    "team": "Torino",
-   "last5": "DLLWW"
+   "last5": "LDLLW"
   },
   {
    "team": "Bologna",
-   "last5": "WWWWL"
-  },
-  {
-   "team": "Udinese",
-   "last5": "LLDLL"
-  },
-  {
-   "team": "Napoli",
-   "last5": "DLWDL"
-  },
-  {
-   "team": "Cagliari",
-   "last5": "WLLLL"
-  },
-  {
-   "team": "Roma",
-   "last5": "WWWDW"
-  },
-  {
-   "team": "Lazio",
    "last5": "DWWWW"
   },
   {
+   "team": "Udinese",
+   "last5": "DLLDL"
+  },
+  {
+   "team": "Napoli",
+   "last5": "WDLWD"
+  },
+  {
+   "team": "Cagliari",
+   "last5": "LWLLL"
+  },
+  {
+   "team": "Roma",
+   "last5": "WWWWD"
+  },
+  {
+   "team": "Lazio",
+   "last5": "WDWWW"
+  },
+  {
    "team": "Venezia",
-   "last5": "WLLLW"
+   "last5": "LWLLL"
   },
   {
    "team": "Lecce",
-   "last5": "DLLLW"
+   "last5": "LDLLL"
   },
   {
    "team": "Atalanta",
-   "last5": "WLDDL"
+   "last5": "DWLDD"
   },
   {
    "team": "Juventus",
-   "last5": "DWLWL"
+   "last5": "WDWLW"
   },
   {
    "team": "Como",
-   "last5": "LWWWW"
+   "last5": "WLWWW"
   },
   {
    "team": "Sassuolo",
@@ -349,10 +349,91 @@
   },
   {
    "team": "Frosinone",
-   "last5": "LWWDW"
+   "last5": "LLWWD"
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T19:45:00.000Z",
+   "home": "Atalanta",
+   "away": "Inter",
+   "home_goals": 4,
+   "away_goals": 4,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T17:00:00.000Z",
+   "home": "Bologna",
+   "away": "Udinese",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T14:00:00.000Z",
+   "home": "Milan",
+   "away": "Frosinone",
+   "home_goals": 5,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T11:30:00.000Z",
+   "home": "Juventus",
+   "away": "Venezia",
+   "home_goals": 4,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T11:30:00.000Z",
+   "home": "Sassuolo",
+   "away": "Genoa",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T19:45:00.000Z",
+   "home": "Napoli",
+   "away": "Torino",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T17:00:00.000Z",
+   "home": "Parma",
+   "away": "Roma",
+   "home_goals": 1,
+   "away_goals": 5,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T14:00:00.000Z",
+   "home": "Como",
+   "away": "Cagliari",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T11:00:00.000Z",
+   "home": "Lazio",
+   "away": "Lecce",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
   {
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T19:45:00.000Z",
@@ -541,135 +622,9 @@
    "home_goals": 2,
    "away_goals": 2,
    "status": "finished"
-  },
-  {
-   "date": "2026-10-29",
-   "kickoff_utc": "2026-10-29T17:30:00.000Z",
-   "home": "Frosinone",
-   "away": "Lecce",
-   "home_goals": 5,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-28",
-   "kickoff_utc": "2026-10-28T19:45:00.000Z",
-   "home": "Genoa",
-   "away": "Juventus",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-28",
-   "kickoff_utc": "2026-10-28T17:30:00.000Z",
-   "home": "Milan",
-   "away": "Bologna",
-   "home_goals": 2,
-   "away_goals": 4,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-28",
-   "kickoff_utc": "2026-10-28T11:00:00.000Z",
-   "home": "Parma",
-   "away": "Udinese",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-28",
-   "kickoff_utc": "2026-10-28T11:00:00.000Z",
-   "home": "Monza",
-   "away": "Napoli",
-   "home_goals": 1,
-   "away_goals": 4,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-28",
-   "kickoff_utc": "2026-10-28T11:00:00.000Z",
-   "home": "Venezia",
-   "away": "Inter",
-   "home_goals": 0,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-27",
-   "kickoff_utc": "2026-10-27T19:45:00.000Z",
-   "home": "Roma",
-   "away": "Cagliari",
-   "home_goals": 4,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-27",
-   "kickoff_utc": "2026-10-27T17:30:00.000Z",
-   "home": "Sassuolo",
-   "away": "Lazio",
-   "home_goals": 2,
-   "away_goals": 6,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-27",
-   "kickoff_utc": "2026-10-27T11:00:00.000Z",
-   "home": "Torino",
-   "away": "Como",
-   "home_goals": 1,
-   "away_goals": 3,
-   "status": "finished"
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T11:30:00.000Z",
-   "home": "Juventus",
-   "away": "Venezia",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T11:30:00.000Z",
-   "home": "Sassuolo",
-   "away": "Genoa",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T14:00:00.000Z",
-   "home": "Milan",
-   "away": "Frosinone",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T17:00:00.000Z",
-   "home": "Bologna",
-   "away": "Udinese",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T19:45:00.000Z",
-   "home": "Atalanta",
-   "away": "Inter",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-23",
    "kickoff_utc": "2026-11-23T17:30:00.000Z",
@@ -891,6 +846,51 @@
    "kickoff_utc": "2026-12-13T11:00:00.000Z",
    "home": "Udinese",
    "away": "Frosinone",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-13",
+   "kickoff_utc": "2026-12-13T11:00:00.000Z",
+   "home": "Napoli",
+   "away": "Milan",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-13",
+   "kickoff_utc": "2026-12-13T11:00:00.000Z",
+   "home": "Cagliari",
+   "away": "Venezia",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-13",
+   "kickoff_utc": "2026-12-13T11:00:00.000Z",
+   "home": "Lazio",
+   "away": "Roma",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-13",
+   "kickoff_utc": "2026-12-13T11:00:00.000Z",
+   "home": "Lecce",
+   "away": "Sassuolo",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-13",
+   "kickoff_utc": "2026-12-13T11:00:00.000Z",
+   "home": "Atalanta",
+   "away": "Genoa",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

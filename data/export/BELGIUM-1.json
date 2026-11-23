@@ -7,239 +7,239 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-23T13:13:09.290Z",
+ "updated": "2026-11-23T18:58:55.599Z",
  "standings": [
   {
    "position": 1,
    "team": "St. Gilloise",
-   "played": 11,
-   "won": 9,
+   "played": 12,
+   "won": 10,
    "drawn": 2,
    "lost": 0,
-   "goals_for": 30,
+   "goals_for": 31,
    "goals_against": 7,
-   "goal_diff": 23,
-   "points": 29,
+   "goal_diff": 24,
+   "points": 32,
    "flag": null
   },
   {
    "position": 2,
    "team": "Club Brugge",
-   "played": 11,
-   "won": 9,
+   "played": 12,
+   "won": 10,
    "drawn": 1,
    "lost": 1,
-   "goals_for": 27,
-   "goals_against": 9,
-   "goal_diff": 18,
-   "points": 28,
+   "goals_for": 32,
+   "goals_against": 10,
+   "goal_diff": 22,
+   "points": 31,
    "flag": null
   },
   {
    "position": 3,
-   "team": "Gent",
-   "played": 11,
+   "team": "Charleroi",
+   "played": 12,
    "won": 9,
    "drawn": 1,
-   "lost": 1,
-   "goals_for": 20,
-   "goals_against": 6,
-   "goal_diff": 14,
+   "lost": 2,
+   "goals_for": 28,
+   "goals_against": 15,
+   "goal_diff": 13,
    "points": 28,
    "flag": null
   },
   {
    "position": 4,
-   "team": "Charleroi",
-   "played": 11,
+   "team": "Gent",
+   "played": 12,
    "won": 9,
-   "drawn": 0,
+   "drawn": 1,
    "lost": 2,
-   "goals_for": 26,
-   "goals_against": 13,
+   "goals_for": 20,
+   "goals_against": 7,
    "goal_diff": 13,
-   "points": 27,
+   "points": 28,
    "flag": null
   },
   {
    "position": 5,
    "team": "Anderlecht",
-   "played": 11,
-   "won": 6,
+   "played": 12,
+   "won": 7,
    "drawn": 2,
    "lost": 3,
-   "goals_for": 14,
+   "goals_for": 15,
    "goals_against": 12,
-   "goal_diff": 2,
-   "points": 20,
+   "goal_diff": 3,
+   "points": 23,
    "flag": null
   },
   {
    "position": 6,
-   "team": "Lommel SK",
-   "played": 11,
-   "won": 4,
-   "drawn": 4,
-   "lost": 3,
-   "goals_for": 15,
-   "goals_against": 13,
-   "goal_diff": 2,
-   "points": 16,
+   "team": "Genk",
+   "played": 12,
+   "won": 5,
+   "drawn": 3,
+   "lost": 4,
+   "goals_for": 21,
+   "goals_against": 15,
+   "goal_diff": 6,
+   "points": 18,
    "flag": null
   },
   {
    "position": 7,
-   "team": "Genk",
-   "played": 11,
-   "won": 4,
+   "team": "Standard",
+   "played": 12,
+   "won": 5,
    "drawn": 3,
    "lost": 4,
-   "goals_for": 18,
-   "goals_against": 15,
+   "goals_for": 20,
+   "goals_against": 17,
    "goal_diff": 3,
-   "points": 15,
+   "points": 18,
    "flag": null
   },
   {
    "position": 8,
-   "team": "Standard",
-   "played": 11,
+   "team": "Lommel SK",
+   "played": 12,
    "won": 4,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 4,
-   "goals_for": 18,
-   "goals_against": 16,
-   "goal_diff": 2,
-   "points": 15,
+   "goals_for": 16,
+   "goals_against": 15,
+   "goal_diff": 1,
+   "points": 16,
    "flag": null
   },
   {
    "position": 9,
    "team": "Westerlo",
-   "played": 11,
+   "played": 12,
    "won": 4,
    "drawn": 2,
-   "lost": 5,
+   "lost": 6,
    "goals_for": 26,
-   "goals_against": 30,
-   "goal_diff": -4,
+   "goals_against": 31,
+   "goal_diff": -5,
    "points": 14,
    "flag": null
   },
   {
    "position": 10,
-   "team": "Oud-Heverlee Leuven",
-   "played": 11,
-   "won": 3,
-   "drawn": 3,
-   "lost": 5,
-   "goals_for": 12,
-   "goals_against": 17,
-   "goal_diff": -5,
-   "points": 12,
+   "team": "Beveren",
+   "played": 12,
+   "won": 4,
+   "drawn": 1,
+   "lost": 7,
+   "goals_for": 14,
+   "goals_against": 23,
+   "goal_diff": -9,
+   "points": 13,
    "flag": null
   },
   {
    "position": 11,
-   "team": "Mechelen",
-   "played": 11,
+   "team": "St Truiden",
+   "played": 12,
    "won": 3,
    "drawn": 3,
-   "lost": 5,
-   "goals_for": 13,
-   "goals_against": 20,
-   "goal_diff": -7,
+   "lost": 6,
+   "goals_for": 24,
+   "goals_against": 24,
+   "goal_diff": 0,
    "points": 12,
    "flag": null
   },
   {
    "position": 12,
-   "team": "St Truiden",
-   "played": 11,
+   "team": "Antwerp",
+   "played": 12,
    "won": 3,
-   "drawn": 2,
+   "drawn": 3,
    "lost": 6,
-   "goals_for": 22,
-   "goals_against": 22,
-   "goal_diff": 0,
-   "points": 11,
+   "goals_for": 20,
+   "goals_against": 26,
+   "goal_diff": -6,
+   "points": 12,
    "flag": null
   },
   {
    "position": 13,
-   "team": "Antwerp",
-   "played": 11,
+   "team": "Oud-Heverlee Leuven",
+   "played": 12,
    "won": 3,
-   "drawn": 2,
+   "drawn": 3,
    "lost": 6,
-   "goals_for": 18,
-   "goals_against": 24,
+   "goals_for": 12,
+   "goals_against": 18,
    "goal_diff": -6,
-   "points": 11,
+   "points": 12,
+   "flag": null
+  },
+  {
+   "position": 14,
+   "team": "Cercle Brugge",
+   "played": 12,
+   "won": 3,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 15,
+   "goals_against": 22,
+   "goal_diff": -7,
+   "points": 12,
    "flag": null
   },
   {
    "position": 14,
    "team": "Waregem",
-   "played": 11,
+   "played": 12,
    "won": 3,
-   "drawn": 2,
+   "drawn": 3,
    "lost": 6,
-   "goals_for": 13,
-   "goals_against": 20,
+   "goals_for": 15,
+   "goals_against": 22,
    "goal_diff": -7,
-   "points": 11,
-   "flag": null
-  },
-  {
-   "position": 15,
-   "team": "Beveren",
-   "played": 11,
-   "won": 3,
-   "drawn": 1,
-   "lost": 7,
-   "goals_for": 13,
-   "goals_against": 23,
-   "goal_diff": -10,
-   "points": 10,
+   "points": 12,
    "flag": null
   },
   {
    "position": 16,
-   "team": "Cercle Brugge",
-   "played": 11,
-   "won": 2,
+   "team": "Mechelen",
+   "played": 12,
+   "won": 3,
    "drawn": 3,
    "lost": 6,
    "goals_for": 14,
-   "goals_against": 22,
-   "goal_diff": -8,
-   "points": 9,
+   "goals_against": 25,
+   "goal_diff": -11,
+   "points": 12,
    "flag": null
   },
   {
    "position": 17,
    "team": "RAAL La Louviere",
-   "played": 11,
+   "played": 12,
    "won": 2,
    "drawn": 1,
-   "lost": 8,
+   "lost": 9,
    "goals_for": 13,
-   "goals_against": 24,
-   "goal_diff": -11,
+   "goals_against": 27,
+   "goal_diff": -14,
    "points": 7,
    "flag": null
   },
   {
    "position": 18,
    "team": "Kortrijk",
-   "played": 11,
+   "played": 12,
    "won": 1,
    "drawn": 1,
-   "lost": 9,
+   "lost": 10,
    "goals_for": 4,
-   "goals_against": 23,
-   "goal_diff": -19,
+   "goals_against": 24,
+   "goal_diff": -20,
    "points": 4,
    "flag": null
   }
@@ -247,78 +247,159 @@
  "form": [
   {
    "team": "Anderlecht",
-   "last5": "DWLWW"
+   "last5": "WDWLW"
   },
   {
    "team": "St Truiden",
-   "last5": "WLLLL"
+   "last5": "DWLLL"
   },
   {
    "team": "Oud-Heverlee Leuven",
-   "last5": "WWDDW"
+   "last5": "LWWDD"
   },
   {
    "team": "Charleroi",
-   "last5": "WWLWW"
+   "last5": "DWWLW"
   },
   {
    "team": "Antwerp",
-   "last5": "DLWLL"
+   "last5": "DDLWL"
   },
   {
    "team": "Club Brugge",
-   "last5": "DWWWW"
+   "last5": "WDWWW"
   },
   {
    "team": "Mechelen",
-   "last5": "LWWWD"
+   "last5": "LLWWW"
   },
   {
    "team": "St. Gilloise",
-   "last5": "WWWDW"
+   "last5": "WWWWD"
   },
   {
    "team": "Genk",
-   "last5": "LLWWL"
+   "last5": "WLLWW"
   },
   {
    "team": "Standard",
-   "last5": "WDLLL"
+   "last5": "WWDLL"
   },
   {
    "team": "Kortrijk",
-   "last5": "LLDLW"
+   "last5": "LLLDL"
   },
   {
    "team": "Gent",
-   "last5": "WLWWW"
+   "last5": "LWLWW"
   },
   {
    "team": "Westerlo",
-   "last5": "LLDWW"
+   "last5": "LLLDW"
   },
   {
    "team": "Cercle Brugge",
-   "last5": "WWLLL"
+   "last5": "WWWLL"
   },
   {
    "team": "Waregem",
-   "last5": "LLLLL"
+   "last5": "DLLLL"
   },
   {
    "team": "RAAL La Louviere",
-   "last5": "LLWLL"
+   "last5": "LLLWL"
   },
   {
    "team": "Lommel SK",
-   "last5": "DWDWD"
+   "last5": "LDWDW"
   },
   {
    "team": "Beveren",
-   "last5": "LLDLL"
+   "last5": "WLLDL"
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T18:15:00.000Z",
+   "home": "Lommel SK",
+   "away": "Standard",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T17:30:00.000Z",
+   "home": "Anderlecht",
+   "away": "Oud-Heverlee Leuven",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T15:00:00.000Z",
+   "home": "Kortrijk",
+   "away": "St. Gilloise",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-22",
+   "kickoff_utc": "2026-11-22T12:30:00.000Z",
+   "home": "Beveren",
+   "away": "Gent",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T19:45:00.000Z",
+   "home": "Mechelen",
+   "away": "Club Brugge",
+   "home_goals": 1,
+   "away_goals": 5,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T19:45:00.000Z",
+   "home": "Waregem",
+   "away": "Antwerp",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T17:15:00.000Z",
+   "home": "Genk",
+   "away": "RAAL La Louviere",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T15:00:00.000Z",
+   "home": "Charleroi",
+   "away": "St Truiden",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-20",
+   "kickoff_utc": "2026-11-20T19:45:00.000Z",
+   "home": "Cercle Brugge",
+   "away": "Westerlo",
+   "home_goals": 1,
+   "away_goals": 0,
+   "status": "finished"
+  },
   {
    "date": "2026-11-08",
    "kickoff_utc": "2026-11-08T18:15:00.000Z",
@@ -507,125 +588,7 @@
    "home_goals": 4,
    "away_goals": 0,
    "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T15:00:00.000Z",
-   "home": "Club Brugge",
-   "away": "St Truiden",
-   "home_goals": 3,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T12:30:00.000Z",
-   "home": "Genk",
-   "away": "Standard",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T18:45:00.000Z",
-   "home": "Westerlo",
-   "away": "Beveren",
-   "home_goals": 4,
-   "away_goals": 4,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T18:45:00.000Z",
-   "home": "RAAL La Louviere",
-   "away": "Waregem",
-   "home_goals": 3,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T16:15:00.000Z",
-   "home": "Oud-Heverlee Leuven",
-   "away": "Lommel SK",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T14:00:00.000Z",
-   "home": "Antwerp",
-   "away": "Charleroi",
-   "home_goals": 3,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-11",
-   "kickoff_utc": "2026-10-11T17:15:00.000Z",
-   "home": "Mechelen",
-   "away": "St Truiden",
-   "home_goals": 4,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-11",
-   "kickoff_utc": "2026-10-11T16:30:00.000Z",
-   "home": "Westerlo",
-   "away": "Antwerp",
-   "home_goals": 5,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-11",
-   "kickoff_utc": "2026-10-11T14:00:00.000Z",
-   "home": "St. Gilloise",
-   "away": "Oud-Heverlee Leuven",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
   }
  ],
- "upcoming": [
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T12:30:00.000Z",
-   "home": "Beveren",
-   "away": "Gent",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T15:00:00.000Z",
-   "home": "Kortrijk",
-   "away": "St. Gilloise",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T17:30:00.000Z",
-   "home": "Anderlecht",
-   "away": "Oud-Heverlee Leuven",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T18:15:00.000Z",
-   "home": "Lommel SK",
-   "away": "Standard",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  }
- ]
+ "upcoming": []
 }
