@@ -7,29 +7,11 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-23T18:59:00.750Z",
+ "updated": "2026-11-24T01:02:31.919Z",
  "standings": [],
  "form": [],
  "recent": [],
  "upcoming": [
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T15:30:00.000Z",
-   "home": "UTA Arad",
-   "away": "Univ. Craiova",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T18:30:00.000Z",
-   "home": "FC Arges",
-   "away": "FCSB",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-23",
    "kickoff_utc": "2026-11-23T18:00:00.000Z",

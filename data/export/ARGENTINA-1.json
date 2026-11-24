@@ -7,29 +7,11 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-23T18:58:55.229Z",
+ "updated": "2026-11-24T01:02:23.439Z",
  "standings": [],
  "form": [],
  "recent": [],
  "upcoming": [
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T19:00:00.000Z",
-   "home": "Rosario Central",
-   "away": "Gimnasia Mendoza",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T22:00:00.000Z",
-   "home": "River Plate",
-   "away": "Lanus",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-23",
    "kickoff_utc": "2026-11-23T01:00:00.000Z",

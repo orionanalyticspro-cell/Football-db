@@ -7,10 +7,23 @@
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-23T18:59:02.104Z",
+ "updated": "2026-11-24T01:02:34.023Z",
  "standings": [
   {
    "position": 1,
+   "team": "Almeria",
+   "played": 15,
+   "won": 11,
+   "drawn": 2,
+   "lost": 2,
+   "goals_for": 29,
+   "goals_against": 13,
+   "goal_diff": 16,
+   "points": 35,
+   "flag": null
+  },
+  {
+   "position": 2,
    "team": "Castellon",
    "played": 14,
    "won": 10,
@@ -20,19 +33,6 @@
    "goals_against": 5,
    "goal_diff": 21,
    "points": 33,
-   "flag": null
-  },
-  {
-   "position": 2,
-   "team": "Almeria",
-   "played": 14,
-   "won": 10,
-   "drawn": 2,
-   "lost": 2,
-   "goals_for": 26,
-   "goals_against": 11,
-   "goal_diff": 15,
-   "points": 32,
    "flag": null
   },
   {
@@ -285,13 +285,13 @@
   {
    "position": 22,
    "team": "Ceuta",
-   "played": 14,
+   "played": 15,
    "won": 1,
    "drawn": 2,
-   "lost": 11,
-   "goals_for": 10,
-   "goals_against": 32,
-   "goal_diff": -22,
+   "lost": 12,
+   "goals_for": 12,
+   "goals_against": 35,
+   "goal_diff": -23,
    "points": 5,
    "flag": null
   }
@@ -347,7 +347,7 @@
   },
   {
    "team": "Almeria",
-   "last5": "WWDDW"
+   "last5": "WWWDD"
   },
   {
    "team": "Sp Gijon",
@@ -387,6 +387,15 @@
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T19:30:00.000Z",
+   "home": "Ceuta",
+   "away": "Almeria",
+   "home_goals": 2,
+   "away_goals": 3,
+   "status": "finished"
+  },
   {
    "date": "2026-11-22",
    "kickoff_utc": "2026-11-22T20:00:00.000Z",
@@ -647,26 +656,7 @@
    "home_goals": 2,
    "away_goals": 1,
    "status": "finished"
-  },
-  {
-   "date": "2026-11-02",
-   "kickoff_utc": "2026-11-02T20:00:00.000Z",
-   "home": "Mallorca",
-   "away": "Cadiz",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
   }
  ],
- "upcoming": [
-  {
-   "date": "2026-11-23",
-   "kickoff_utc": "2026-11-23T19:30:00.000Z",
-   "home": "Ceuta",
-   "away": "Almeria",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  }
- ]
+ "upcoming": []
 }

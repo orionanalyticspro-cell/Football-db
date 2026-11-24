@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-23T18:58:59.011Z",
+ "updated": "2026-11-24T01:02:29.215Z",
  "standings": [
   {
    "position": 1,
@@ -180,6 +180,19 @@
   },
   {
    "position": 14,
+   "team": "Monza",
+   "played": 12,
+   "won": 3,
+   "drawn": 1,
+   "lost": 8,
+   "goals_for": 20,
+   "goals_against": 25,
+   "goal_diff": -5,
+   "points": 10,
+   "flag": null
+  },
+  {
+   "position": 15,
    "team": "Lecce",
    "played": 12,
    "won": 3,
@@ -192,20 +205,20 @@
    "flag": null
   },
   {
-   "position": 15,
+   "position": 16,
    "team": "Fiorentina",
-   "played": 11,
+   "played": 12,
    "won": 2,
    "drawn": 3,
-   "lost": 6,
+   "lost": 7,
    "goals_for": 17,
-   "goals_against": 25,
-   "goal_diff": -8,
+   "goals_against": 28,
+   "goal_diff": -11,
    "points": 9,
    "flag": null
   },
   {
-   "position": 16,
+   "position": 17,
    "team": "Parma",
    "played": 12,
    "won": 2,
@@ -218,7 +231,7 @@
    "flag": null
   },
   {
-   "position": 17,
+   "position": 18,
    "team": "Sassuolo",
    "played": 12,
    "won": 2,
@@ -228,19 +241,6 @@
    "goals_against": 31,
    "goal_diff": -15,
    "points": 8,
-   "flag": null
-  },
-  {
-   "position": 18,
-   "team": "Monza",
-   "played": 11,
-   "won": 2,
-   "drawn": 1,
-   "lost": 8,
-   "goals_for": 17,
-   "goals_against": 25,
-   "goal_diff": -8,
-   "points": 7,
    "flag": null
   },
   {
@@ -285,11 +285,11 @@
   },
   {
    "team": "Fiorentina",
-   "last5": "DWDLL"
+   "last5": "LDWDL"
   },
   {
    "team": "Monza",
-   "last5": "LLLLW"
+   "last5": "WLLLL"
   },
   {
    "team": "Milan",
@@ -353,6 +353,15 @@
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T17:30:00.000Z",
+   "home": "Monza",
+   "away": "Fiorentina",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
   {
    "date": "2026-11-22",
    "kickoff_utc": "2026-11-22T19:45:00.000Z",
@@ -613,27 +622,9 @@
    "home_goals": 2,
    "away_goals": 1,
    "status": "finished"
-  },
-  {
-   "date": "2026-10-29",
-   "kickoff_utc": "2026-10-29T19:45:00.000Z",
-   "home": "Fiorentina",
-   "away": "Atalanta",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-11-23",
-   "kickoff_utc": "2026-11-23T17:30:00.000Z",
-   "home": "Monza",
-   "away": "Fiorentina",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-23",
    "kickoff_utc": "2026-11-23T19:45:00.000Z",
@@ -891,6 +882,15 @@
    "kickoff_utc": "2026-12-13T11:00:00.000Z",
    "home": "Atalanta",
    "away": "Genoa",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-13",
+   "kickoff_utc": "2026-12-13T11:00:00.000Z",
+   "home": "Juventus",
+   "away": "Monza",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

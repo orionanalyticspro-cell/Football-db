@@ -7,29 +7,11 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-23T18:59:02.880Z",
+ "updated": "2026-11-24T01:02:35.203Z",
  "standings": [],
  "form": [],
  "recent": [],
  "upcoming": [
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T21:00:00.000Z",
-   "home": "Nashville SC",
-   "away": "FC Cincinnati",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T23:30:00.000Z",
-   "home": "Chicago Fire",
-   "away": "Charlotte",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-23",
    "kickoff_utc": "2026-11-23T01:30:00.000Z",

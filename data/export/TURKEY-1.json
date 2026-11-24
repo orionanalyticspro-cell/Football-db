@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-23T18:59:02.686Z",
+ "updated": "2026-11-24T01:02:34.905Z",
  "standings": [
   {
    "position": 1,
@@ -89,6 +89,19 @@
   },
   {
    "position": 7,
+   "team": "Buyuksehyr",
+   "played": 12,
+   "won": 6,
+   "drawn": 2,
+   "lost": 4,
+   "goals_for": 23,
+   "goals_against": 19,
+   "goal_diff": 4,
+   "points": 20,
+   "flag": null
+  },
+  {
+   "position": 8,
    "team": "Kocaelispor",
    "played": 12,
    "won": 6,
@@ -101,7 +114,7 @@
    "flag": null
   },
   {
-   "position": 8,
+   "position": 9,
    "team": "Goztep",
    "played": 12,
    "won": 5,
@@ -111,19 +124,6 @@
    "goals_against": 19,
    "goal_diff": 4,
    "points": 18,
-   "flag": null
-  },
-  {
-   "position": 9,
-   "team": "Buyuksehyr",
-   "played": 11,
-   "won": 5,
-   "drawn": 2,
-   "lost": 4,
-   "goals_for": 19,
-   "goals_against": 17,
-   "goal_diff": 2,
-   "points": 17,
    "flag": null
   },
   {
@@ -142,13 +142,13 @@
   {
    "position": 11,
    "team": "Corum",
-   "played": 11,
+   "played": 12,
    "won": 5,
    "drawn": 1,
-   "lost": 5,
-   "goals_for": 21,
-   "goals_against": 21,
-   "goal_diff": 0,
+   "lost": 6,
+   "goals_for": 23,
+   "goals_against": 25,
+   "goal_diff": -2,
    "points": 16,
    "flag": null
   },
@@ -295,7 +295,7 @@
   },
   {
    "team": "Buyuksehyr",
-   "last5": "WWLWD"
+   "last5": "WWWLW"
   },
   {
    "team": "Genclerbirligi",
@@ -307,7 +307,7 @@
   },
   {
    "team": "Corum",
-   "last5": "LWLWW"
+   "last5": "LLWLW"
   },
   {
    "team": "Amedspor",
@@ -319,6 +319,15 @@
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T17:00:00.000Z",
+   "home": "Buyuksehyr",
+   "away": "Corum",
+   "home_goals": 4,
+   "away_goals": 2,
+   "status": "finished"
+  },
   {
    "date": "2026-11-22",
    "kickoff_utc": "2026-11-22T16:00:00.000Z",
@@ -579,26 +588,7 @@
    "home_goals": 3,
    "away_goals": 4,
    "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T16:00:00.000Z",
-   "home": "Goztep",
-   "away": "Corum",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
   }
  ],
- "upcoming": [
-  {
-   "date": "2026-11-23",
-   "kickoff_utc": "2026-11-23T17:00:00.000Z",
-   "home": "Buyuksehyr",
-   "away": "Corum",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  }
- ]
+ "upcoming": []
 }

@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-23T18:58:58.625Z",
+ "updated": "2026-11-24T01:02:28.621Z",
  "standings": [
   {
    "position": 1,
@@ -64,14 +64,14 @@
   {
    "position": 5,
    "team": "Aris",
-   "played": 10,
-   "won": 6,
+   "played": 11,
+   "won": 7,
    "drawn": 1,
    "lost": 3,
-   "goals_for": 16,
+   "goals_for": 17,
    "goals_against": 17,
-   "goal_diff": -1,
-   "points": 19,
+   "goal_diff": 0,
+   "points": 22,
    "flag": null
   },
   {
@@ -154,19 +154,6 @@
   },
   {
    "position": 12,
-   "team": "Asteras Tripolis",
-   "played": 10,
-   "won": 1,
-   "drawn": 4,
-   "lost": 5,
-   "goals_for": 9,
-   "goals_against": 18,
-   "goal_diff": -9,
-   "points": 7,
-   "flag": null
-  },
-  {
-   "position": 13,
    "team": "Levadeiakos",
    "played": 11,
    "won": 1,
@@ -175,6 +162,19 @@
    "goals_for": 5,
    "goals_against": 14,
    "goal_diff": -9,
+   "points": 7,
+   "flag": null
+  },
+  {
+   "position": 13,
+   "team": "Asteras Tripolis",
+   "played": 11,
+   "won": 1,
+   "drawn": 4,
+   "lost": 6,
+   "goals_for": 9,
+   "goals_against": 19,
+   "goal_diff": -10,
    "points": 7,
    "flag": null
   },
@@ -215,7 +215,7 @@
   },
   {
    "team": "Asteras Tripolis",
-   "last5": "DLDLW"
+   "last5": "LDLDL"
   },
   {
    "team": "Atromitos",
@@ -223,7 +223,7 @@
   },
   {
    "team": "Aris",
-   "last5": "WLWWW"
+   "last5": "WWLWW"
   },
   {
    "team": "AEK",
@@ -251,6 +251,15 @@
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-23",
+   "kickoff_utc": "2026-11-23T15:00:00.000Z",
+   "home": "Asteras Tripolis",
+   "away": "Aris",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
   {
    "date": "2026-11-22",
    "kickoff_utc": "2026-11-22T17:30:00.000Z",
@@ -511,26 +520,7 @@
    "home_goals": 1,
    "away_goals": 2,
    "status": "finished"
-  },
-  {
-   "date": "2026-10-18",
-   "kickoff_utc": "2026-10-18T14:30:00.000Z",
-   "home": "Panathinaikos",
-   "away": "Asteras Tripolis",
-   "home_goals": 5,
-   "away_goals": 1,
-   "status": "finished"
   }
  ],
- "upcoming": [
-  {
-   "date": "2026-11-23",
-   "kickoff_utc": "2026-11-23T15:00:00.000Z",
-   "home": "Asteras Tripolis",
-   "away": "Aris",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  }
- ]
+ "upcoming": []
 }

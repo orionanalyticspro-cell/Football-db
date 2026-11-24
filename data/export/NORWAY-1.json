@@ -7,46 +7,9 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-23T18:58:59.980Z",
+ "updated": "2026-11-24T01:02:30.699Z",
  "standings": [],
  "form": [],
  "recent": [],
- "upcoming": [
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T16:00:00.000Z",
-   "home": "Aalesund",
-   "away": "Rosenborg",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T16:00:00.000Z",
-   "home": "Kristiansund",
-   "away": "Sandefjord",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T16:00:00.000Z",
-   "home": "KFUM Oslo",
-   "away": "Brann",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T18:15:00.000Z",
-   "home": "Sarpsborg 08",
-   "away": "Lillestrom",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  }
- ]
+ "upcoming": []
 }
