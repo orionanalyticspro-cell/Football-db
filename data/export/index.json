@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:11:14.117Z",
+ "updated": "2026-11-24T13:13:06.128Z",
  "competitions": [
   {
    "code": "ARGENTINA-1",
@@ -54,8 +54,8 @@
    "name": "Superliga",
    "country": "Denmark",
    "level": 1,
-   "season": "unknown",
-   "teams": 0
+   "season": "2026/2027",
+   "teams": 12
   },
   {
    "code": "ECUADOR-1",
@@ -206,8 +206,8 @@
    "name": "Eliteserien",
    "country": "Norway",
    "level": 1,
-   "season": "unknown",
-   "teams": 0
+   "season": "2026",
+   "teams": 16
   },
   {
    "code": "PARAGUAY-1",
@@ -222,8 +222,8 @@
    "name": "Ekstraklasa",
    "country": "Poland",
    "level": 1,
-   "season": "unknown",
-   "teams": 0
+   "season": "2026/2027",
+   "teams": 18
   },
   {
    "code": "PORTUGAL-1",
@@ -238,8 +238,8 @@
    "name": "Superliga",
    "country": "Romania",
    "level": 1,
-   "season": "unknown",
-   "teams": 0
+   "season": "2026/2027",
+   "teams": 16
   },
   {
    "code": "RUSSIA-1",
@@ -302,16 +302,16 @@
    "name": "Allsvenskan",
    "country": "Sweden",
    "level": 1,
-   "season": "unknown",
-   "teams": 0
+   "season": "2026",
+   "teams": 16
   },
   {
    "code": "SWITZERLAND-1",
    "name": "Super League",
    "country": "Switzerland",
    "level": 1,
-   "season": "unknown",
-   "teams": 0
+   "season": "2026/2027",
+   "teams": 12
   },
   {
    "code": "TURKEY-1",

@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-24T07:11:14.116Z",
+ "updated": "2026-11-24T13:13:06.128Z",
  "standings": [],
  "form": [],
  "recent": [],
@@ -26,6 +26,15 @@
    "kickoff_utc": "2026-11-24T01:00:00.000Z",
    "home": "St. Louis City",
    "away": "Los Angeles FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-25",
+   "kickoff_utc": "2026-11-25T03:00:00.000Z",
+   "home": "San Jose Earthquakes",
+   "away": "Houston Dynamo",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

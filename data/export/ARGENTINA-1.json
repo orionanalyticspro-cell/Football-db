@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-24T07:11:03.945Z",
+ "updated": "2026-11-24T13:12:58.418Z",
  "standings": [],
  "form": [],
  "recent": [],
@@ -26,6 +26,15 @@
    "kickoff_utc": "2026-11-23T20:00:00.000Z",
    "home": "Gimnasia L.P.",
    "away": "Newells Old Boys",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-26",
+   "kickoff_utc": "2026-11-26T00:00:00.000Z",
+   "home": "Boca Juniors",
+   "away": "Ind. Rivadavia",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
