@@ -7,29 +7,11 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-24T18:58:30.694Z",
+ "updated": "2026-11-25T01:07:52.131Z",
  "standings": [],
  "form": [],
  "recent": [],
  "upcoming": [
-  {
-   "date": "2026-11-23",
-   "kickoff_utc": "2026-11-23T01:00:00.000Z",
-   "home": "Instituto",
-   "away": "Huracan",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-23",
-   "kickoff_utc": "2026-11-23T20:00:00.000Z",
-   "home": "Gimnasia L.P.",
-   "away": "Newells Old Boys",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-26",
    "kickoff_utc": "2026-11-26T00:00:00.000Z",

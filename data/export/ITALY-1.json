@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-24T18:58:34.514Z",
+ "updated": "2026-11-25T01:07:56.411Z",
  "standings": [
   {
    "position": 1,
@@ -626,15 +626,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-11-23",
-   "kickoff_utc": "2026-11-23T19:45:00.000Z",
-   "home": "Juventus",
-   "away": "Venezia",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
    "date": "2026-11-29",
    "kickoff_utc": "2026-11-29T11:00:00.000Z",
    "home": "Inter",
@@ -891,6 +882,15 @@
    "kickoff_utc": "2026-12-13T11:00:00.000Z",
    "home": "Juventus",
    "away": "Monza",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-12-13",
+   "kickoff_utc": "2026-12-13T11:00:00.000Z",
+   "home": "Como",
+   "away": "Bologna",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
