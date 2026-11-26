@@ -7,7 +7,7 @@
   "level": 5
  },
  "season": "2026/2027",
- "updated": "2026-11-25T18:52:03.040Z",
+ "updated": "2026-11-26T01:07:34.380Z",
  "standings": [
   {
    "position": 1,
@@ -693,87 +693,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T19:45:00.000Z",
-   "home": "Carlisle",
-   "away": "Tamworth",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T19:45:00.000Z",
-   "home": "Forest Green",
-   "away": "Southend",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T19:45:00.000Z",
-   "home": "Altrincham",
-   "away": "Wealdstone",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T19:45:00.000Z",
-   "home": "Woking",
-   "away": "Worthing",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T19:45:00.000Z",
-   "home": "Boston Utd",
-   "away": "Barrow",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T19:45:00.000Z",
-   "home": "Fylde",
-   "away": "Halifax",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T19:45:00.000Z",
-   "home": "Eastleigh",
-   "away": "Yeovil",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T19:45:00.000Z",
-   "home": "Scunthorpe",
-   "away": "Gateshead",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T19:45:00.000Z",
-   "home": "Hornchurch",
-   "away": "Sutton",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-25",
    "kickoff_utc": "2026-11-25T19:00:00.000Z",

@@ -7,7 +7,7 @@
   "level": 3
  },
  "season": "2026/2027",
- "updated": "2026-11-25T18:52:02.616Z",
+ "updated": "2026-11-26T01:07:33.820Z",
  "standings": [
   {
    "position": 1,
@@ -693,42 +693,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T19:45:00.000Z",
-   "home": "Blackpool",
-   "away": "Leicester",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T19:45:00.000Z",
-   "home": "Stevenage",
-   "away": "Sheffield Wednesday",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T19:45:00.000Z",
-   "home": "Bradford",
-   "away": "Barnsley",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T19:45:00.000Z",
-   "home": "Bromley",
-   "away": "Wycombe",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-26",
    "kickoff_utc": "2026-11-26T20:00:00.000Z",

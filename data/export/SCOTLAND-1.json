@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-25T18:52:07.147Z",
+ "updated": "2026-11-26T01:07:40.066Z",
  "standings": [
   {
    "position": 1,
@@ -488,24 +488,5 @@
    "status": "finished"
   }
  ],
- "upcoming": [
-  {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T19:45:00.000Z",
-   "home": "Hibernian",
-   "away": "Dundee",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-24",
-   "kickoff_utc": "2026-11-24T20:00:00.000Z",
-   "home": "Rangers",
-   "away": "Aberdeen",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  }
- ]
+ "upcoming": []
 }
