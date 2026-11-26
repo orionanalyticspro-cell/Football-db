@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-26T07:14:10.722Z",
+ "updated": "2026-11-26T13:15:17.388Z",
  "standings": [
   {
    "position": 1,
@@ -25,14 +25,14 @@
   {
    "position": 2,
    "team": "Rangers",
-   "played": 13,
-   "won": 9,
+   "played": 14,
+   "won": 10,
    "drawn": 3,
    "lost": 1,
-   "goals_for": 23,
-   "goals_against": 10,
-   "goal_diff": 13,
-   "points": 30,
+   "goals_for": 26,
+   "goals_against": 12,
+   "goal_diff": 14,
+   "points": 33,
    "flag": null
   },
   {
@@ -90,31 +90,44 @@
   {
    "position": 7,
    "team": "Dundee",
-   "played": 13,
+   "played": 14,
    "won": 5,
    "drawn": 2,
-   "lost": 6,
-   "goals_for": 18,
-   "goals_against": 23,
-   "goal_diff": -5,
+   "lost": 7,
+   "goals_for": 19,
+   "goals_against": 25,
+   "goal_diff": -6,
    "points": 17,
    "flag": null
   },
   {
    "position": 8,
    "team": "Aberdeen",
-   "played": 13,
+   "played": 14,
    "won": 4,
    "drawn": 2,
-   "lost": 7,
-   "goals_for": 16,
-   "goals_against": 20,
-   "goal_diff": -4,
+   "lost": 8,
+   "goals_for": 18,
+   "goals_against": 23,
+   "goal_diff": -5,
    "points": 14,
    "flag": null
   },
   {
    "position": 9,
+   "team": "Hibernian",
+   "played": 14,
+   "won": 4,
+   "drawn": 2,
+   "lost": 8,
+   "goals_for": 17,
+   "goals_against": 22,
+   "goal_diff": -5,
+   "points": 14,
+   "flag": null
+  },
+  {
+   "position": 10,
    "team": "St Mirren",
    "played": 14,
    "won": 4,
@@ -127,7 +140,7 @@
    "flag": null
   },
   {
-   "position": 10,
+   "position": 11,
    "team": "Motherwell",
    "played": 14,
    "won": 3,
@@ -137,19 +150,6 @@
    "goals_against": 23,
    "goal_diff": -7,
    "points": 13,
-   "flag": null
-  },
-  {
-   "position": 11,
-   "team": "Hibernian",
-   "played": 13,
-   "won": 3,
-   "drawn": 2,
-   "lost": 8,
-   "goals_for": 15,
-   "goals_against": 21,
-   "goal_diff": -6,
-   "points": 11,
    "flag": null
   },
   {
@@ -173,7 +173,7 @@
   },
   {
    "team": "Rangers",
-   "last5": "WWDWD"
+   "last5": "WWWDW"
   },
   {
    "team": "Motherwell",
@@ -185,7 +185,7 @@
   },
   {
    "team": "Dundee",
-   "last5": "LLWLD"
+   "last5": "LLLWL"
   },
   {
    "team": "St Mirren",
@@ -193,7 +193,7 @@
   },
   {
    "team": "Hibernian",
-   "last5": "LWDLL"
+   "last5": "WLWDL"
   },
   {
    "team": "Celtic",
@@ -209,7 +209,7 @@
   },
   {
    "team": "Aberdeen",
-   "last5": "WLLLW"
+   "last5": "LWLLL"
   },
   {
    "team": "Falkirk",
@@ -217,6 +217,24 @@
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T20:00:00.000Z",
+   "home": "Rangers",
+   "away": "Aberdeen",
+   "home_goals": 3,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Hibernian",
+   "away": "Dundee",
+   "home_goals": 2,
+   "away_goals": 1,
+   "status": "finished"
+  },
   {
    "date": "2026-11-21",
    "kickoff_utc": "2026-11-21T20:00:00.000Z",
@@ -467,24 +485,6 @@
    "away": "Hearts",
    "home_goals": 7,
    "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-17",
-   "kickoff_utc": "2026-10-17T19:00:00.000Z",
-   "home": "Dundee",
-   "away": "Rangers",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-17",
-   "kickoff_utc": "2026-10-17T14:00:00.000Z",
-   "home": "Hibernian",
-   "away": "Falkirk",
-   "home_goals": 1,
-   "away_goals": 2,
    "status": "finished"
   }
  ],

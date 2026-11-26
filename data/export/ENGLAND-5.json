@@ -7,420 +7,528 @@
   "level": 5
  },
  "season": "2026/2027",
- "updated": "2026-11-26T07:14:06.626Z",
+ "updated": "2026-11-26T13:15:11.768Z",
  "standings": [
   {
    "position": 1,
    "team": "Boreham Wood",
-   "played": 18,
-   "won": 15,
+   "played": 19,
+   "won": 16,
    "drawn": 3,
    "lost": 0,
-   "goals_for": 49,
-   "goals_against": 21,
-   "goal_diff": 28,
-   "points": 48,
+   "goals_for": 53,
+   "goals_against": 22,
+   "goal_diff": 31,
+   "points": 51,
    "flag": null
   },
   {
    "position": 2,
    "team": "Harrogate",
-   "played": 18,
-   "won": 11,
+   "played": 19,
+   "won": 12,
    "drawn": 2,
    "lost": 5,
-   "goals_for": 39,
-   "goals_against": 25,
-   "goal_diff": 14,
-   "points": 35,
+   "goals_for": 42,
+   "goals_against": 26,
+   "goal_diff": 16,
+   "points": 38,
    "flag": null
   },
   {
    "position": 3,
-   "team": "Fylde",
-   "played": 18,
+   "team": "Yeovil",
+   "played": 19,
    "won": 10,
-   "drawn": 3,
-   "lost": 5,
-   "goals_for": 34,
-   "goals_against": 27,
-   "goal_diff": 7,
-   "points": 33,
+   "drawn": 5,
+   "lost": 4,
+   "goals_for": 43,
+   "goals_against": 25,
+   "goal_diff": 18,
+   "points": 35,
    "flag": null
   },
   {
    "position": 4,
-   "team": "Yeovil",
-   "played": 18,
-   "won": 9,
+   "team": "Southend",
+   "played": 19,
+   "won": 10,
    "drawn": 5,
    "lost": 4,
-   "goals_for": 40,
-   "goals_against": 24,
-   "goal_diff": 16,
-   "points": 32,
+   "goals_for": 44,
+   "goals_against": 31,
+   "goal_diff": 13,
+   "points": 35,
    "flag": null
   },
   {
    "position": 5,
-   "team": "Carlisle",
-   "played": 18,
-   "won": 9,
-   "drawn": 5,
-   "lost": 4,
-   "goals_for": 36,
-   "goals_against": 23,
-   "goal_diff": 13,
-   "points": 32,
+   "team": "Fylde",
+   "played": 19,
+   "won": 10,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 34,
+   "goals_against": 29,
+   "goal_diff": 5,
+   "points": 33,
    "flag": null
   },
   {
    "position": 6,
-   "team": "Southend",
-   "played": 18,
+   "team": "Carlisle",
+   "played": 19,
    "won": 9,
    "drawn": 5,
-   "lost": 4,
-   "goals_for": 42,
-   "goals_against": 31,
-   "goal_diff": 11,
+   "lost": 5,
+   "goals_for": 37,
+   "goals_against": 25,
+   "goal_diff": 12,
    "points": 32,
    "flag": null
   },
   {
    "position": 7,
    "team": "Worthing",
-   "played": 18,
+   "played": 19,
    "won": 9,
    "drawn": 5,
-   "lost": 4,
-   "goals_for": 35,
-   "goals_against": 27,
-   "goal_diff": 8,
+   "lost": 5,
+   "goals_for": 38,
+   "goals_against": 31,
+   "goal_diff": 7,
    "points": 32,
    "flag": null
   },
   {
    "position": 8,
    "team": "Halifax",
-   "played": 18,
-   "won": 8,
+   "played": 19,
+   "won": 9,
    "drawn": 4,
    "lost": 6,
-   "goals_for": 34,
+   "goals_for": 36,
    "goals_against": 21,
-   "goal_diff": 13,
-   "points": 28,
+   "goal_diff": 15,
+   "points": 31,
    "flag": null
   },
   {
    "position": 9,
    "team": "Barrow",
-   "played": 17,
-   "won": 8,
+   "played": 18,
+   "won": 9,
    "drawn": 4,
    "lost": 5,
-   "goals_for": 29,
+   "goals_for": 30,
    "goals_against": 21,
-   "goal_diff": 8,
-   "points": 28,
+   "goal_diff": 9,
+   "points": 31,
    "flag": null
   },
   {
    "position": 10,
    "team": "Altrincham",
-   "played": 18,
-   "won": 9,
+   "played": 19,
+   "won": 10,
    "drawn": 1,
    "lost": 8,
-   "goals_for": 25,
+   "goals_for": 28,
    "goals_against": 30,
-   "goal_diff": -5,
-   "points": 28,
+   "goal_diff": -2,
+   "points": 31,
    "flag": null
   },
   {
    "position": 11,
    "team": "Sutton",
-   "played": 18,
+   "played": 19,
    "won": 8,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 7,
    "goals_for": 21,
    "goals_against": 23,
    "goal_diff": -2,
-   "points": 27,
+   "points": 28,
    "flag": null
   },
   {
    "position": 12,
-   "team": "Aldershot",
-   "played": 18,
-   "won": 7,
-   "drawn": 3,
-   "lost": 8,
-   "goals_for": 22,
-   "goals_against": 21,
-   "goal_diff": 1,
-   "points": 24,
-   "flag": null
-  },
-  {
-   "position": 13,
    "team": "Hornchurch",
-   "played": 18,
+   "played": 19,
    "won": 8,
-   "drawn": 0,
+   "drawn": 1,
    "lost": 10,
    "goals_for": 20,
    "goals_against": 31,
    "goal_diff": -11,
+   "points": 25,
+   "flag": null
+  },
+  {
+   "position": 13,
+   "team": "Aldershot",
+   "played": 19,
+   "won": 7,
+   "drawn": 3,
+   "lost": 9,
+   "goals_for": 23,
+   "goals_against": 25,
+   "goal_diff": -2,
    "points": 24,
    "flag": null
   },
   {
    "position": 14,
-   "team": "Kidderminster",
+   "team": "Woking",
    "played": 18,
-   "won": 5,
-   "drawn": 8,
-   "lost": 5,
-   "goals_for": 20,
-   "goals_against": 19,
-   "goal_diff": 1,
-   "points": 23,
+   "won": 7,
+   "drawn": 3,
+   "lost": 8,
+   "goals_for": 29,
+   "goals_against": 32,
+   "goal_diff": -3,
+   "points": 24,
    "flag": null
   },
   {
    "position": 15,
-   "team": "Wealdstone",
-   "played": 18,
-   "won": 6,
-   "drawn": 4,
-   "lost": 8,
-   "goals_for": 28,
-   "goals_against": 30,
-   "goal_diff": -2,
-   "points": 22,
+   "team": "Kidderminster",
+   "played": 19,
+   "won": 5,
+   "drawn": 8,
+   "lost": 6,
+   "goals_for": 21,
+   "goals_against": 22,
+   "goal_diff": -1,
+   "points": 23,
    "flag": null
   },
   {
    "position": 16,
-   "team": "Eastleigh",
-   "played": 18,
+   "team": "Wealdstone",
+   "played": 19,
    "won": 6,
    "drawn": 4,
-   "lost": 8,
-   "goals_for": 23,
-   "goals_against": 28,
+   "lost": 9,
+   "goals_for": 28,
+   "goals_against": 33,
    "goal_diff": -5,
    "points": 22,
    "flag": null
   },
   {
    "position": 17,
-   "team": "Woking",
-   "played": 17,
-   "won": 6,
-   "drawn": 3,
-   "lost": 8,
-   "goals_for": 25,
+   "team": "Hartlepool",
+   "played": 19,
+   "won": 7,
+   "drawn": 1,
+   "lost": 11,
+   "goals_for": 23,
    "goals_against": 29,
-   "goal_diff": -4,
-   "points": 21,
+   "goal_diff": -6,
+   "points": 22,
    "flag": null
   },
   {
    "position": 18,
-   "team": "Forest Green",
-   "played": 15,
-   "won": 5,
+   "team": "Eastleigh",
+   "played": 19,
+   "won": 6,
    "drawn": 4,
-   "lost": 6,
-   "goals_for": 25,
-   "goals_against": 27,
-   "goal_diff": -2,
-   "points": 19,
+   "lost": 9,
+   "goals_for": 24,
+   "goals_against": 31,
+   "goal_diff": -7,
+   "points": 22,
    "flag": null
   },
   {
    "position": 19,
-   "team": "Hartlepool",
+   "team": "Tamworth",
    "played": 18,
    "won": 6,
-   "drawn": 1,
-   "lost": 11,
-   "goals_for": 21,
-   "goals_against": 29,
-   "goal_diff": -8,
-   "points": 19,
+   "drawn": 2,
+   "lost": 10,
+   "goals_for": 29,
+   "goals_against": 38,
+   "goal_diff": -9,
+   "points": 20,
    "flag": null
   },
   {
    "position": 20,
-   "team": "Solihull",
-   "played": 18,
-   "won": 6,
-   "drawn": 1,
-   "lost": 11,
-   "goals_for": 23,
-   "goals_against": 41,
-   "goal_diff": -18,
+   "team": "Forest Green",
+   "played": 16,
+   "won": 5,
+   "drawn": 4,
+   "lost": 7,
+   "goals_for": 25,
+   "goals_against": 29,
+   "goal_diff": -4,
    "points": 19,
    "flag": null
   },
   {
    "position": 21,
-   "team": "Boston Utd",
-   "played": 18,
-   "won": 5,
-   "drawn": 3,
-   "lost": 10,
-   "goals_for": 21,
-   "goals_against": 32,
-   "goal_diff": -11,
-   "points": 18,
+   "team": "Solihull",
+   "played": 19,
+   "won": 6,
+   "drawn": 1,
+   "lost": 12,
+   "goals_for": 23,
+   "goals_against": 43,
+   "goal_diff": -20,
+   "points": 19,
    "flag": null
   },
   {
    "position": 22,
-   "team": "Tamworth",
-   "played": 17,
+   "team": "Boston Utd",
+   "played": 19,
    "won": 5,
-   "drawn": 2,
-   "lost": 10,
-   "goals_for": 27,
-   "goals_against": 37,
-   "goal_diff": -10,
-   "points": 17,
+   "drawn": 3,
+   "lost": 11,
+   "goals_for": 21,
+   "goals_against": 33,
+   "goal_diff": -12,
+   "points": 18,
    "flag": null
   },
   {
    "position": 23,
    "team": "Scunthorpe",
-   "played": 17,
+   "played": 18,
    "won": 3,
    "drawn": 2,
-   "lost": 12,
-   "goals_for": 20,
-   "goals_against": 33,
-   "goal_diff": -13,
+   "lost": 13,
+   "goals_for": 21,
+   "goals_against": 35,
+   "goal_diff": -14,
    "points": 11,
    "flag": null
   },
   {
    "position": 24,
    "team": "Gateshead",
-   "played": 17,
-   "won": 1,
+   "played": 18,
+   "won": 2,
    "drawn": 1,
    "lost": 15,
-   "goals_for": 10,
-   "goals_against": 39,
-   "goal_diff": -29,
-   "points": 4,
+   "goals_for": 12,
+   "goals_against": 40,
+   "goal_diff": -28,
+   "points": 7,
    "flag": null
   }
  ],
  "form": [
   {
    "team": "Barrow",
-   "last5": "LWDWW"
+   "last5": "WLWDW"
   },
   {
    "team": "Carlisle",
-   "last5": "WWWWW"
+   "last5": "LWWWW"
   },
   {
    "team": "Harrogate",
-   "last5": "LWDLW"
+   "last5": "WLWDL"
   },
   {
    "team": "Aldershot",
-   "last5": "WLWLL"
-  },
-  {
-   "team": "Forest Green",
-   "last5": "LDWLD"
-  },
-  {
-   "team": "Altrincham",
-   "last5": "LLLDW"
-  },
-  {
-   "team": "Woking",
    "last5": "LWLWL"
   },
   {
+   "team": "Forest Green",
+   "last5": "LLDWL"
+  },
+  {
+   "team": "Altrincham",
+   "last5": "WLLLD"
+  },
+  {
+   "team": "Woking",
+   "last5": "WLWLW"
+  },
+  {
    "team": "Boston Utd",
-   "last5": "LLWWL"
+   "last5": "LLLWW"
   },
   {
    "team": "Wealdstone",
-   "last5": "WDWLW"
+   "last5": "LWDWL"
   },
   {
    "team": "Fylde",
-   "last5": "DWWWL"
+   "last5": "LDWWW"
   },
   {
    "team": "Solihull",
-   "last5": "WWWWL"
+   "last5": "LWWWW"
   },
   {
    "team": "Gateshead",
-   "last5": "LLLLL"
+   "last5": "WLLLL"
   },
   {
    "team": "Halifax",
-   "last5": "WDWLD"
+   "last5": "WWDWL"
   },
   {
    "team": "Eastleigh",
-   "last5": "WLDLW"
+   "last5": "LWLDL"
   },
   {
    "team": "Southend",
-   "last5": "LWLDD"
+   "last5": "WLWLD"
   },
   {
    "team": "Tamworth",
-   "last5": "LLLWL"
+   "last5": "WLLLW"
   },
   {
    "team": "Sutton",
-   "last5": "WLWWL"
+   "last5": "DWLWW"
   },
   {
    "team": "Yeovil",
-   "last5": "WDLWL"
+   "last5": "WWDLW"
   },
   {
    "team": "Hartlepool",
-   "last5": "WDLLW"
+   "last5": "WWDLL"
   },
   {
    "team": "Boreham Wood",
-   "last5": "WDWWW"
+   "last5": "WWDWW"
   },
   {
    "team": "Scunthorpe",
-   "last5": "LDLLL"
+   "last5": "LLDLL"
   },
   {
    "team": "Worthing",
-   "last5": "WDLDW"
+   "last5": "LWDLD"
   },
   {
    "team": "Hornchurch",
-   "last5": "LWLLL"
+   "last5": "DLWLL"
   },
   {
    "team": "Kidderminster",
-   "last5": "DDLDL"
+   "last5": "LDDLD"
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-25",
+   "kickoff_utc": "2026-11-25T19:45:00.000Z",
+   "home": "Harrogate",
+   "away": "Kidderminster",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-25",
+   "kickoff_utc": "2026-11-25T19:45:00.000Z",
+   "home": "Hartlepool",
+   "away": "Solihull",
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-25",
+   "kickoff_utc": "2026-11-25T19:00:00.000Z",
+   "home": "Boreham Wood",
+   "away": "Aldershot",
+   "home_goals": 4,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Carlisle",
+   "away": "Tamworth",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Forest Green",
+   "away": "Southend",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Altrincham",
+   "away": "Wealdstone",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Woking",
+   "away": "Worthing",
+   "home_goals": 4,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Boston Utd",
+   "away": "Barrow",
+   "home_goals": 0,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Fylde",
+   "away": "Halifax",
+   "home_goals": 0,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Eastleigh",
+   "away": "Yeovil",
+   "home_goals": 1,
+   "away_goals": 3,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Scunthorpe",
+   "away": "Gateshead",
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Hornchurch",
+   "away": "Sutton",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
   {
    "date": "2026-11-21",
    "kickoff_utc": "2026-11-21T17:30:00.000Z",
@@ -582,143 +690,7 @@
    "home_goals": 0,
    "away_goals": 2,
    "status": "finished"
-  },
-  {
-   "date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T15:00:00.000Z",
-   "home": "Yeovil",
-   "away": "Boreham Wood",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T15:00:00.000Z",
-   "home": "Hartlepool",
-   "away": "Wealdstone",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T15:00:00.000Z",
-   "home": "Scunthorpe",
-   "away": "Worthing",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T15:00:00.000Z",
-   "home": "Hornchurch",
-   "away": "Tamworth",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T15:00:00.000Z",
-   "home": "Kidderminster",
-   "away": "Halifax",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T17:30:00.000Z",
-   "home": "Boston Utd",
-   "away": "Scunthorpe",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Barrow",
-   "away": "Eastleigh",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Aldershot",
-   "away": "Gateshead",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Altrincham",
-   "away": "Carlisle",
-   "home_goals": 2,
-   "away_goals": 4,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Wealdstone",
-   "away": "Southend",
-   "home_goals": 3,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Solihull",
-   "away": "Kidderminster",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Tamworth",
-   "away": "Woking",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
   }
  ],
- "upcoming": [
-  {
-   "date": "2026-11-25",
-   "kickoff_utc": "2026-11-25T19:00:00.000Z",
-   "home": "Boreham Wood",
-   "away": "Aldershot",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-25",
-   "kickoff_utc": "2026-11-25T19:45:00.000Z",
-   "home": "Harrogate",
-   "away": "Kidderminster",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-11-25",
-   "kickoff_utc": "2026-11-25T19:45:00.000Z",
-   "home": "Hartlepool",
-   "away": "Solihull",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  }
- ]
+ "upcoming": []
 }

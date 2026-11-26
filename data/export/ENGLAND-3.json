@@ -7,7 +7,7 @@
   "level": 3
  },
  "season": "2026/2027",
- "updated": "2026-11-26T07:14:06.212Z",
+ "updated": "2026-11-26T13:15:11.187Z",
  "standings": [
   {
    "position": 1,
@@ -50,6 +50,19 @@
   },
   {
    "position": 4,
+   "team": "Sheffield Wednesday",
+   "played": 16,
+   "won": 7,
+   "drawn": 6,
+   "lost": 3,
+   "goals_for": 27,
+   "goals_against": 15,
+   "goal_diff": 12,
+   "points": 27,
+   "flag": null
+  },
+  {
+   "position": 5,
    "team": "Luton",
    "played": 15,
    "won": 8,
@@ -62,33 +75,33 @@
    "flag": null
   },
   {
-   "position": 5,
-   "team": "Sheffield Wednesday",
+   "position": 6,
+   "team": "Bradford",
    "played": 15,
    "won": 7,
    "drawn": 5,
    "lost": 3,
-   "goals_for": 27,
-   "goals_against": 15,
-   "goal_diff": 12,
+   "goals_for": 15,
+   "goals_against": 10,
+   "goal_diff": 5,
    "points": 26,
    "flag": null
   },
   {
-   "position": 6,
-   "team": "Bradford",
-   "played": 14,
+   "position": 7,
+   "team": "Leicester",
+   "played": 15,
    "won": 6,
    "drawn": 5,
-   "lost": 3,
-   "goals_for": 12,
-   "goals_against": 10,
-   "goal_diff": 2,
+   "lost": 4,
+   "goals_for": 24,
+   "goals_against": 20,
+   "goal_diff": 4,
    "points": 23,
    "flag": null
   },
   {
-   "position": 7,
+   "position": 8,
    "team": "Plymouth",
    "played": 16,
    "won": 7,
@@ -101,7 +114,7 @@
    "flag": null
   },
   {
-   "position": 8,
+   "position": 9,
    "team": "Reading",
    "played": 16,
    "won": 6,
@@ -114,7 +127,7 @@
    "flag": null
   },
   {
-   "position": 9,
+   "position": 10,
    "team": "Milton Keynes Dons",
    "played": 15,
    "won": 5,
@@ -123,19 +136,6 @@
    "goals_for": 29,
    "goals_against": 23,
    "goal_diff": 6,
-   "points": 22,
-   "flag": null
-  },
-  {
-   "position": 10,
-   "team": "Leicester",
-   "played": 14,
-   "won": 6,
-   "drawn": 4,
-   "lost": 4,
-   "goals_for": 23,
-   "goals_against": 19,
-   "goal_diff": 4,
    "points": 22,
    "flag": null
   },
@@ -167,6 +167,19 @@
   },
   {
    "position": 13,
+   "team": "Stevenage",
+   "played": 14,
+   "won": 5,
+   "drawn": 5,
+   "lost": 4,
+   "goals_for": 18,
+   "goals_against": 13,
+   "goal_diff": 5,
+   "points": 20,
+   "flag": null
+  },
+  {
+   "position": 14,
    "team": "Mansfield",
    "played": 14,
    "won": 5,
@@ -179,29 +192,16 @@
    "flag": null
   },
   {
-   "position": 14,
-   "team": "Stevenage",
-   "played": 13,
-   "won": 5,
-   "drawn": 4,
-   "lost": 4,
-   "goals_for": 18,
-   "goals_against": 13,
-   "goal_diff": 5,
-   "points": 19,
-   "flag": null
-  },
-  {
    "position": 15,
    "team": "Wycombe",
-   "played": 14,
+   "played": 15,
    "won": 4,
-   "drawn": 6,
+   "drawn": 7,
    "lost": 4,
-   "goals_for": 24,
-   "goals_against": 27,
+   "goals_for": 25,
+   "goals_against": 28,
    "goal_diff": -3,
-   "points": 18,
+   "points": 19,
    "flag": null
   },
   {
@@ -258,6 +258,19 @@
   },
   {
    "position": 20,
+   "team": "Blackpool",
+   "played": 15,
+   "won": 3,
+   "drawn": 4,
+   "lost": 8,
+   "goals_for": 19,
+   "goals_against": 25,
+   "goal_diff": -6,
+   "points": 13,
+   "flag": null
+  },
+  {
+   "position": 21,
    "team": "Doncaster",
    "played": 14,
    "won": 3,
@@ -270,7 +283,7 @@
    "flag": null
   },
   {
-   "position": 21,
+   "position": 22,
    "team": "Peterboro",
    "played": 14,
    "won": 3,
@@ -283,41 +296,28 @@
    "flag": null
   },
   {
-   "position": 22,
-   "team": "Blackpool",
-   "played": 14,
-   "won": 3,
-   "drawn": 3,
-   "lost": 8,
-   "goals_for": 18,
-   "goals_against": 24,
-   "goal_diff": -6,
-   "points": 12,
-   "flag": null
-  },
-  {
    "position": 23,
    "team": "Bromley",
-   "played": 14,
+   "played": 15,
    "won": 3,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 8,
-   "goals_for": 14,
-   "goals_against": 33,
+   "goals_for": 15,
+   "goals_against": 34,
    "goal_diff": -19,
-   "points": 12,
+   "points": 13,
    "flag": null
   },
   {
    "position": 24,
    "team": "Barnsley",
-   "played": 14,
+   "played": 15,
    "won": 2,
    "drawn": 3,
-   "lost": 9,
+   "lost": 10,
    "goals_for": 14,
-   "goals_against": 26,
-   "goal_diff": -12,
+   "goals_against": 29,
+   "goal_diff": -15,
    "points": 9,
    "flag": null
   }
@@ -325,11 +325,11 @@
  "form": [
   {
    "team": "Sheffield Wednesday",
-   "last5": "WWDDL"
+   "last5": "DWWDD"
   },
   {
    "team": "Leicester",
-   "last5": "WDWLW"
+   "last5": "DWDWL"
   },
   {
    "team": "Oxford",
@@ -345,7 +345,7 @@
   },
   {
    "team": "Barnsley",
-   "last5": "LLDLL"
+   "last5": "LLLDL"
   },
   {
    "team": "Mansfield",
@@ -361,7 +361,7 @@
   },
   {
    "team": "Blackpool",
-   "last5": "LLDLW"
+   "last5": "DLLDL"
   },
   {
    "team": "Leyton Orient",
@@ -377,7 +377,7 @@
   },
   {
    "team": "Stevenage",
-   "last5": "WDLWL"
+   "last5": "DWDLW"
   },
   {
    "team": "Stockport",
@@ -393,7 +393,7 @@
   },
   {
    "team": "Wycombe",
-   "last5": "LWDDW"
+   "last5": "DLWDD"
   },
   {
    "team": "AFC Wimbledon",
@@ -401,7 +401,7 @@
   },
   {
    "team": "Bradford",
-   "last5": "DLDDW"
+   "last5": "WDLDD"
   },
   {
    "team": "Doncaster",
@@ -417,10 +417,46 @@
   },
   {
    "team": "Bromley",
-   "last5": "WLLDL"
+   "last5": "DWLLD"
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Blackpool",
+   "away": "Leicester",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Stevenage",
+   "away": "Sheffield Wednesday",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Bradford",
+   "away": "Barnsley",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Bromley",
+   "away": "Wycombe",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
   {
    "date": "2026-11-21",
    "kickoff_utc": "2026-11-21T15:00:00.000Z",
@@ -653,42 +689,6 @@
    "away": "AFC Wimbledon",
    "home_goals": 2,
    "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Wigan",
-   "away": "Bromley",
-   "home_goals": 3,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Wycombe",
-   "away": "Burton",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Milton Keynes Dons",
-   "away": "Doncaster",
-   "home_goals": 6,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T12:30:00.000Z",
-   "home": "Plymouth",
-   "away": "Reading",
-   "home_goals": 0,
-   "away_goals": 0,
    "status": "finished"
   }
  ],

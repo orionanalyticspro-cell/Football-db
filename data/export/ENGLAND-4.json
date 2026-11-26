@@ -7,7 +7,7 @@
   "level": 4
  },
  "season": "2026/2027",
- "updated": "2026-11-26T07:14:06.417Z",
+ "updated": "2026-11-26T13:15:11.476Z",
  "standings": [
   {
    "position": 1,
@@ -25,14 +25,14 @@
   {
    "position": 2,
    "team": "Barnet",
-   "played": 14,
+   "played": 15,
    "won": 8,
-   "drawn": 5,
+   "drawn": 6,
    "lost": 1,
    "goals_for": 30,
    "goals_against": 19,
    "goal_diff": 11,
-   "points": 29,
+   "points": 30,
    "flag": null
   },
   {
@@ -206,6 +206,32 @@
   },
   {
    "position": 16,
+   "team": "Northampton",
+   "played": 16,
+   "won": 4,
+   "drawn": 7,
+   "lost": 5,
+   "goals_for": 14,
+   "goals_against": 14,
+   "goal_diff": 0,
+   "points": 19,
+   "flag": null
+  },
+  {
+   "position": 17,
+   "team": "Port Vale",
+   "played": 15,
+   "won": 5,
+   "drawn": 4,
+   "lost": 6,
+   "goals_for": 16,
+   "goals_against": 19,
+   "goal_diff": -3,
+   "points": 19,
+   "flag": null
+  },
+  {
+   "position": 18,
    "team": "Bristol Rvs",
    "played": 16,
    "won": 6,
@@ -218,7 +244,7 @@
    "flag": null
   },
   {
-   "position": 17,
+   "position": 19,
    "team": "Swindon",
    "played": 16,
    "won": 5,
@@ -228,32 +254,6 @@
    "goals_against": 23,
    "goal_diff": -7,
    "points": 19,
-   "flag": null
-  },
-  {
-   "position": 18,
-   "team": "Northampton",
-   "played": 15,
-   "won": 4,
-   "drawn": 6,
-   "lost": 5,
-   "goals_for": 13,
-   "goals_against": 13,
-   "goal_diff": 0,
-   "points": 18,
-   "flag": null
-  },
-  {
-   "position": 19,
-   "team": "Port Vale",
-   "played": 14,
-   "won": 5,
-   "drawn": 3,
-   "lost": 6,
-   "goals_for": 15,
-   "goals_against": 18,
-   "goal_diff": -3,
-   "points": 18,
    "flag": null
   },
   {
@@ -311,14 +311,14 @@
   {
    "position": 24,
    "team": "Crawley Town",
-   "played": 13,
+   "played": 14,
    "won": 3,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 7,
    "goals_for": 15,
    "goals_against": 22,
    "goal_diff": -7,
-   "points": 12,
+   "points": 13,
    "flag": null
   }
  ],
@@ -329,11 +329,11 @@
   },
   {
    "team": "Northampton",
-   "last5": "WDLDW"
+   "last5": "DWDLD"
   },
   {
    "team": "Crawley Town",
-   "last5": "WWDLL"
+   "last5": "DWWDL"
   },
   {
    "team": "Exeter",
@@ -349,7 +349,7 @@
   },
   {
    "team": "Port Vale",
-   "last5": "LWWLD"
+   "last5": "DLWWL"
   },
   {
    "team": "Chesterfield",
@@ -405,7 +405,7 @@
   },
   {
    "team": "Barnet",
-   "last5": "WDWDL"
+   "last5": "DWDWD"
   },
   {
    "team": "Oldham",
@@ -421,6 +421,24 @@
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Crawley Town",
+   "away": "Barnet",
+   "home_goals": 0,
+   "away_goals": 0,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T19:45:00.000Z",
+   "home": "Port Vale",
+   "away": "Northampton",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
   {
    "date": "2026-11-21",
    "kickoff_utc": "2026-11-21T15:00:00.000Z",
@@ -670,24 +688,6 @@
    "home": "Accrington",
    "away": "Northampton",
    "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Fleetwood Town",
-   "away": "Bristol Rvs",
-   "home_goals": 3,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T15:00:00.000Z",
-   "home": "Salford",
-   "away": "Exeter",
-   "home_goals": 2,
    "away_goals": 1,
    "status": "finished"
   }
