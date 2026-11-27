@@ -7,19 +7,9 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-26T18:57:29.034Z",
+ "updated": "2026-11-27T01:13:15.570Z",
  "standings": [],
  "form": [],
  "recent": [],
- "upcoming": [
-  {
-   "date": "2026-11-25",
-   "kickoff_utc": "2026-11-25T03:00:00.000Z",
-   "home": "San Jose Earthquakes",
-   "away": "Houston Dynamo",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  }
- ]
+ "upcoming": []
 }
