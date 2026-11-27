@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-27T07:14:53.025Z",
+ "updated": "2026-11-27T13:11:52.122Z",
  "standings": [
   {
    "position": 1,
@@ -590,5 +590,87 @@
    "status": "finished"
   }
  ],
- "upcoming": []
+ "upcoming": [
+  {
+   "date": "2026-11-27",
+   "kickoff_utc": "2026-11-27T17:00:00.000Z",
+   "home": "Alanyaspor",
+   "away": "Konyaspor",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-27",
+   "kickoff_utc": "2026-11-27T17:00:00.000Z",
+   "home": "Rizespor",
+   "away": "Kasimpasa",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T13:00:00.000Z",
+   "home": "Samsunspor",
+   "away": "Genclerbirligi",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T16:00:00.000Z",
+   "home": "Gaziantep",
+   "away": "Amedspor",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T10:30:00.000Z",
+   "home": "Corum",
+   "away": "Kocaelispor",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T13:00:00.000Z",
+   "home": "Eyupspor",
+   "away": "Buyuksehyr",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T16:00:00.000Z",
+   "home": "Fenerbahce",
+   "away": "Erzurumspor",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-30",
+   "kickoff_utc": "2026-11-30T16:00:00.000Z",
+   "home": "Goztep",
+   "away": "Trabzonspor",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-30",
+   "kickoff_utc": "2026-11-30T18:00:00.000Z",
+   "home": "Besiktas",
+   "away": "Galatasaray",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  }
+ ]
 }

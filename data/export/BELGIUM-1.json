@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-27T07:14:47.316Z",
+ "updated": "2026-11-27T13:11:45.066Z",
  "standings": [
   {
    "position": 1,
@@ -590,5 +590,87 @@
    "status": "finished"
   }
  ],
- "upcoming": []
+ "upcoming": [
+  {
+   "date": "2026-11-27",
+   "kickoff_utc": "2026-11-27T19:45:00.000Z",
+   "home": "Oud-Heverlee Leuven",
+   "away": "Kortrijk",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Westerlo",
+   "away": "RAAL La Louviere",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T17:15:00.000Z",
+   "home": "Cercle Brugge",
+   "away": "Mechelen",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T19:45:00.000Z",
+   "home": "Charleroi",
+   "away": "Beveren",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T19:45:00.000Z",
+   "home": "Lommel SK",
+   "away": "Waregem",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T12:30:00.000Z",
+   "home": "St Truiden",
+   "away": "Genk",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T15:00:00.000Z",
+   "home": "Antwerp",
+   "away": "Anderlecht",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T17:30:00.000Z",
+   "home": "Standard",
+   "away": "Club Brugge",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T18:15:00.000Z",
+   "home": "St. Gilloise",
+   "away": "Gent",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  }
+ ]
 }

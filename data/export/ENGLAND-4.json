@@ -7,7 +7,7 @@
   "level": 4
  },
  "season": "2026/2027",
- "updated": "2026-11-27T07:14:48.665Z",
+ "updated": "2026-11-27T13:11:46.739Z",
  "standings": [
   {
    "position": 1,
@@ -692,5 +692,114 @@
    "status": "finished"
   }
  ],
- "upcoming": []
+ "upcoming": [
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T12:30:00.000Z",
+   "home": "Bristol Rvs",
+   "away": "Tranmere",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T12:30:00.000Z",
+   "home": "Exeter",
+   "away": "Crawley Town",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Rotherham",
+   "away": "Oldham",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Shrewsbury",
+   "away": "Cheltenham",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Port Vale",
+   "away": "Newport County",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Swindon",
+   "away": "Chesterfield",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Colchester",
+   "away": "York",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Crewe",
+   "away": "Grimsby",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Fleetwood Town",
+   "away": "Accrington",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Salford",
+   "away": "Gillingham",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Walsall",
+   "away": "Northampton",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Rochdale",
+   "away": "Barnet",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  }
+ ]
 }

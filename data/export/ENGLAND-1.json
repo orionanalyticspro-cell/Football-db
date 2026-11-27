@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-27T07:14:48.207Z",
+ "updated": "2026-11-27T13:11:46.194Z",
  "standings": [
   {
    "position": 1,
@@ -626,6 +626,15 @@
  ],
  "upcoming": [
   {
+   "date": "2026-11-27",
+   "kickoff_utc": "2026-11-27T20:00:00.000Z",
+   "home": "Nottingham Forest",
+   "away": "Chelsea",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
    "date": "2026-11-28",
    "kickoff_utc": "2026-11-28T12:00:00.000Z",
    "home": "Manchester United",
@@ -711,6 +720,60 @@
    "kickoff_utc": "2026-11-28T15:00:00.000Z",
    "home": "Leeds United",
    "away": "Coventry",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T12:00:00.000Z",
+   "home": "Everton",
+   "away": "Liverpool",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T14:05:00.000Z",
+   "home": "Brighton & Hove Albion",
+   "away": "Newcastle United",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T14:05:00.000Z",
+   "home": "Fulham",
+   "away": "Bournemouth",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T14:05:00.000Z",
+   "home": "Crystal Palace",
+   "away": "Hull",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T14:05:00.000Z",
+   "home": "Sunderland",
+   "away": "Tottenham Hotspur",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T16:30:00.000Z",
+   "home": "Arsenal",
+   "away": "Manchester City",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -828,69 +891,6 @@
    "kickoff_utc": "2026-12-05T12:00:00.000Z",
    "home": "Newcastle United",
    "away": "Sunderland",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-05",
-   "kickoff_utc": "2026-12-05T12:00:00.000Z",
-   "home": "Leeds United",
-   "away": "Ipswich",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-05",
-   "kickoff_utc": "2026-12-05T12:00:00.000Z",
-   "home": "Everton",
-   "away": "Fulham",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-05",
-   "kickoff_utc": "2026-12-05T12:00:00.000Z",
-   "home": "Bournemouth",
-   "away": "Hull",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-05",
-   "kickoff_utc": "2026-12-05T12:00:00.000Z",
-   "home": "Aston Villa",
-   "away": "Crystal Palace",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-05",
-   "kickoff_utc": "2026-12-05T12:00:00.000Z",
-   "home": "Brentford",
-   "away": "Manchester City",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-05",
-   "kickoff_utc": "2026-12-05T12:00:00.000Z",
-   "home": "Chelsea",
-   "away": "Liverpool",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-05",
-   "kickoff_utc": "2026-12-05T15:00:00.000Z",
-   "home": "Tottenham Hotspur",
-   "away": "Arsenal",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

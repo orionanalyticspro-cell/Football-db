@@ -7,18 +7,18 @@
   "level": 1
  },
  "season": "2026",
- "updated": "2026-11-27T07:14:47.467Z",
+ "updated": "2026-11-27T13:11:45.259Z",
  "standings": [
   {
    "position": 1,
    "team": "Palmeiras",
-   "played": 40,
+   "played": 41,
    "won": 25,
    "drawn": 11,
-   "lost": 4,
+   "lost": 5,
    "goals_for": 77,
-   "goals_against": 29,
-   "goal_diff": 48,
+   "goals_against": 32,
+   "goal_diff": 45,
    "points": 86,
    "flag": null
   },
@@ -90,14 +90,14 @@
   {
    "position": 7,
    "team": "Atletico-MG",
-   "played": 35,
+   "played": 36,
    "won": 14,
-   "drawn": 9,
+   "drawn": 10,
    "lost": 12,
-   "goals_for": 44,
-   "goals_against": 40,
+   "goals_for": 45,
+   "goals_against": 41,
    "goal_diff": 4,
-   "points": 51,
+   "points": 52,
    "flag": null
   },
   {
@@ -142,14 +142,14 @@
   {
    "position": 11,
    "team": "Sao Paulo",
-   "played": 37,
-   "won": 12,
+   "played": 38,
+   "won": 13,
    "drawn": 9,
    "lost": 16,
-   "goals_for": 41,
-   "goals_against": 43,
-   "goal_diff": -2,
-   "points": 45,
+   "goals_for": 44,
+   "goals_against": 44,
+   "goal_diff": 0,
+   "points": 48,
    "flag": null
   },
   {
@@ -193,6 +193,19 @@
   },
   {
    "position": 15,
+   "team": "Corinthians",
+   "played": 36,
+   "won": 10,
+   "drawn": 11,
+   "lost": 15,
+   "goals_for": 41,
+   "goals_against": 43,
+   "goal_diff": -2,
+   "points": 41,
+   "flag": null
+  },
+  {
+   "position": 16,
    "team": "Gremio",
    "played": 37,
    "won": 10,
@@ -205,7 +218,7 @@
    "flag": null
   },
   {
-   "position": 16,
+   "position": 17,
    "team": "Mirassol",
    "played": 36,
    "won": 10,
@@ -215,19 +228,6 @@
    "goals_against": 49,
    "goal_diff": -10,
    "points": 41,
-   "flag": null
-  },
-  {
-   "position": 17,
-   "team": "Corinthians",
-   "played": 35,
-   "won": 10,
-   "drawn": 10,
-   "lost": 15,
-   "goals_for": 40,
-   "goals_against": 42,
-   "goal_diff": -2,
-   "points": 40,
    "flag": null
   },
   {
@@ -246,27 +246,27 @@
   {
    "position": 19,
    "team": "Remo",
-   "played": 36,
+   "played": 37,
    "won": 7,
    "drawn": 11,
-   "lost": 18,
-   "goals_for": 41,
-   "goals_against": 61,
-   "goal_diff": -20,
+   "lost": 19,
+   "goals_for": 42,
+   "goals_against": 64,
+   "goal_diff": -22,
    "points": 32,
    "flag": null
   },
   {
    "position": 20,
    "team": "Chapecoense-SC",
-   "played": 36,
-   "won": 4,
+   "played": 37,
+   "won": 5,
    "drawn": 9,
    "lost": 23,
-   "goals_for": 34,
+   "goals_for": 37,
    "goals_against": 74,
-   "goal_diff": -40,
-   "points": 21,
+   "goal_diff": -37,
+   "points": 24,
    "flag": null
   }
  ],
@@ -281,7 +281,7 @@
   },
   {
    "team": "Palmeiras",
-   "last5": "DLWDW"
+   "last5": "LDLWD"
   },
   {
    "team": "Botafogo RJ",
@@ -289,11 +289,11 @@
   },
   {
    "team": "Sao Paulo",
-   "last5": "DLDLD"
+   "last5": "WDLDL"
   },
   {
    "team": "Corinthians",
-   "last5": "WDWLD"
+   "last5": "DWDWL"
   },
   {
    "team": "Fluminense",
@@ -309,7 +309,7 @@
   },
   {
    "team": "Atletico-MG",
-   "last5": "DLLLW"
+   "last5": "DDLLL"
   },
   {
    "team": "Bahia",
@@ -337,7 +337,7 @@
   },
   {
    "team": "Chapecoense-SC",
-   "last5": "LLLLL"
+   "last5": "WLLLL"
   },
   {
    "team": "Bragantino",
@@ -349,10 +349,37 @@
   },
   {
    "team": "Remo",
-   "last5": "LWLWL"
+   "last5": "LLWLW"
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-26",
+   "kickoff_utc": "2026-11-26T23:00:00.000Z",
+   "home": "Sao Paulo",
+   "away": "Remo",
+   "home_goals": 3,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-25",
+   "kickoff_utc": "2026-11-25T23:00:00.000Z",
+   "home": "Atletico-MG",
+   "away": "Corinthians",
+   "home_goals": 1,
+   "away_goals": 1,
+   "status": "finished"
+  },
+  {
+   "date": "2026-11-24",
+   "kickoff_utc": "2026-11-24T21:00:00.000Z",
+   "home": "Chapecoense-SC",
+   "away": "Palmeiras",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "finished"
+  },
   {
    "date": "2026-11-24",
    "kickoff_utc": "2026-11-24T00:00:00.000Z",
@@ -594,33 +621,6 @@
    "away": "Coritiba",
    "home_goals": 1,
    "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-04",
-   "kickoff_utc": "2026-11-04T15:00:00.000Z",
-   "home": "Athletico-PR",
-   "away": "Vasco da Gama",
-   "home_goals": 1,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-03",
-   "kickoff_utc": "2026-11-03T22:30:00.000Z",
-   "home": "Chapecoense-SC",
-   "away": "Mirassol",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-02",
-   "kickoff_utc": "2026-11-02T23:00:00.000Z",
-   "home": "Bragantino",
-   "away": "Santos",
-   "home_goals": 2,
-   "away_goals": 1,
    "status": "finished"
   }
  ],

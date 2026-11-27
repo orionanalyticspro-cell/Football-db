@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-27T07:14:47.022Z",
+ "updated": "2026-11-27T13:11:44.687Z",
  "standings": [],
  "form": [],
  "recent": [],
@@ -17,6 +17,42 @@
    "kickoff_utc": "2026-11-26T00:00:00.000Z",
    "home": "Boca Juniors",
    "away": "Ind. Rivadavia",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T23:00:00.000Z",
+   "home": "Velez Sarsfield",
+   "away": "Independiente",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T01:00:00.000Z",
+   "home": "Instituto",
+   "away": "River Plate",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T20:00:00.000Z",
+   "home": "Rosario Central",
+   "away": "Barracas Central",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T23:30:00.000Z",
+   "home": "Boca Juniors",
+   "away": "Gimnasia L.P.",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

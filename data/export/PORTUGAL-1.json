@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-27T07:14:51.330Z",
+ "updated": "2026-11-27T13:11:50.006Z",
  "standings": [
   {
    "position": 1,
@@ -590,5 +590,87 @@
    "status": "finished"
   }
  ],
- "upcoming": []
+ "upcoming": [
+  {
+   "date": "2026-11-27",
+   "kickoff_utc": "2026-11-27T20:15:00.000Z",
+   "home": "Maritimo",
+   "away": "Nacional",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:30:00.000Z",
+   "home": "Moreirense",
+   "away": "Santa Clara",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:30:00.000Z",
+   "home": "Arouca",
+   "away": "Rio Ave",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T18:00:00.000Z",
+   "home": "Academico Viseu",
+   "away": "Alverca",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T20:30:00.000Z",
+   "home": "Guimaraes",
+   "away": "Estrela",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T18:00:00.000Z",
+   "home": "Gil Vicente",
+   "away": "Estoril",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T20:30:00.000Z",
+   "home": "Porto",
+   "away": "Sporting CP",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-30",
+   "kickoff_utc": "2026-11-30T20:15:00.000Z",
+   "home": "Casa Pia",
+   "away": "Sporting Braga",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-30",
+   "kickoff_utc": "2026-11-30T20:15:00.000Z",
+   "home": "Benfica",
+   "away": "Famalicao",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  }
+ ]
 }

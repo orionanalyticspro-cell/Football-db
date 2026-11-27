@@ -7,9 +7,82 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-27T07:14:53.180Z",
+ "updated": "2026-11-27T13:11:52.314Z",
  "standings": [],
  "form": [],
  "recent": [],
- "upcoming": []
+ "upcoming": [
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T01:00:00.000Z",
+   "home": "Columbus Crew",
+   "away": "Inter Miami",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T03:00:00.000Z",
+   "home": "Real Salt Lake",
+   "away": "Vancouver Whitecaps",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T17:30:00.000Z",
+   "home": "Charlotte",
+   "away": "Chicago Fire",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T19:30:00.000Z",
+   "home": "Houston Dynamo",
+   "away": "San Jose Earthquakes",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T21:30:00.000Z",
+   "home": "Philadelphia Union",
+   "away": "New England Revolution",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T23:30:00.000Z",
+   "home": "FC Cincinnati",
+   "away": "Nashville SC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T01:30:00.000Z",
+   "home": "Los Angeles FC",
+   "away": "St. Louis City",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T03:30:00.000Z",
+   "home": "Portland Timbers",
+   "away": "FC Dallas",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  }
+ ]
 }

@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "2026/2027",
- "updated": "2026-11-27T07:14:52.409Z",
+ "updated": "2026-11-27T13:11:51.351Z",
  "standings": [
   {
    "position": 1,
@@ -626,6 +626,51 @@
  ],
  "upcoming": [
   {
+   "date": "2026-11-27",
+   "kickoff_utc": "2026-11-27T20:00:00.000Z",
+   "home": "Levante",
+   "away": "Santander",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T13:00:00.000Z",
+   "home": "Betis",
+   "away": "Rayo Vallecano",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:15:00.000Z",
+   "home": "Malaga",
+   "away": "Athletic Club",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T17:30:00.000Z",
+   "home": "Elche",
+   "away": "Atlético Madrid",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T20:00:00.000Z",
+   "home": "Real Madrid",
+   "away": "Alavés",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
    "date": "2026-11-29",
    "kickoff_utc": "2026-11-29T11:00:00.000Z",
    "home": "Celta Vigo",
@@ -711,6 +756,15 @@
    "kickoff_utc": "2026-11-29T11:00:00.000Z",
    "home": "Malaga",
    "away": "Athletic Club",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-30",
+   "kickoff_utc": "2026-11-30T20:00:00.000Z",
+   "home": "Espanyol",
+   "away": "Getafe",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -837,60 +891,6 @@
    "kickoff_utc": "2026-12-13T11:00:00.000Z",
    "home": "Betis",
    "away": "Santander",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-13",
-   "kickoff_utc": "2026-12-13T11:00:00.000Z",
-   "home": "Real Madrid",
-   "away": "Osasuna",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-13",
-   "kickoff_utc": "2026-12-13T11:00:00.000Z",
-   "home": "Villarreal",
-   "away": "Rayo Vallecano",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-13",
-   "kickoff_utc": "2026-12-13T11:00:00.000Z",
-   "home": "Levante",
-   "away": "Alavés",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-13",
-   "kickoff_utc": "2026-12-13T11:00:00.000Z",
-   "home": "Elche",
-   "away": "Sevilla",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-13",
-   "kickoff_utc": "2026-12-13T11:00:00.000Z",
-   "home": "La Coruna",
-   "away": "Athletic Club",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "date": "2026-12-13",
-   "kickoff_utc": "2026-12-13T11:00:00.000Z",
-   "home": "Malaga",
-   "away": "Barcelona",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"

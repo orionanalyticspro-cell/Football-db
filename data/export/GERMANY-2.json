@@ -7,7 +7,7 @@
   "level": 2
  },
  "season": "2026/2027",
- "updated": "2026-11-27T07:14:49.611Z",
+ "updated": "2026-11-27T13:11:47.886Z",
  "standings": [
   {
    "position": 1,
@@ -590,5 +590,87 @@
    "status": "finished"
   }
  ],
- "upcoming": []
+ "upcoming": [
+  {
+   "date": "2026-11-27",
+   "kickoff_utc": "2026-11-27T17:30:00.000Z",
+   "home": "Bochum",
+   "away": "Darmstadt",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-27",
+   "kickoff_utc": "2026-11-27T17:30:00.000Z",
+   "home": "Heidenheim",
+   "away": "Nurnberg",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T12:00:00.000Z",
+   "home": "Holstein Kiel",
+   "away": "Kaiserslautern",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T12:00:00.000Z",
+   "home": "Hertha",
+   "away": "Karlsruhe",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T12:00:00.000Z",
+   "home": "Dresden",
+   "away": "St Pauli",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T19:30:00.000Z",
+   "home": "Osnabruck",
+   "away": "Hannover",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T12:30:00.000Z",
+   "home": "Magdeburg",
+   "away": "Cottbus",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T12:30:00.000Z",
+   "home": "Braunschweig",
+   "away": "Wolfsburg",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T12:30:00.000Z",
+   "home": "Greuther Furth",
+   "away": "Bielefeld",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  }
+ ]
 }

@@ -6,555 +6,83 @@
   "country": "Romania",
   "level": 1
  },
- "season": "2026/2027",
- "updated": "2026-11-27T07:14:51.487Z",
- "standings": [
+ "season": "unknown",
+ "updated": "2026-11-27T13:11:50.199Z",
+ "standings": [],
+ "form": [],
+ "recent": [],
+ "upcoming": [
   {
-   "position": 1,
-   "team": "Univ. Craiova",
-   "played": 16,
-   "won": 11,
-   "drawn": 3,
-   "lost": 2,
-   "goals_for": 40,
-   "goals_against": 12,
-   "goal_diff": 28,
-   "points": 36,
-   "flag": null
-  },
-  {
-   "position": 2,
-   "team": "FC Rapid Bucuresti",
-   "played": 16,
-   "won": 10,
-   "drawn": 4,
-   "lost": 2,
-   "goals_for": 27,
-   "goals_against": 15,
-   "goal_diff": 12,
-   "points": 34,
-   "flag": null
-  },
-  {
-   "position": 3,
-   "team": "Dinamo Bucuresti",
-   "played": 16,
-   "won": 10,
-   "drawn": 3,
-   "lost": 3,
-   "goals_for": 32,
-   "goals_against": 12,
-   "goal_diff": 20,
-   "points": 33,
-   "flag": null
-  },
-  {
-   "position": 4,
-   "team": "Petrolul",
-   "played": 16,
-   "won": 9,
-   "drawn": 3,
-   "lost": 4,
-   "goals_for": 21,
-   "goals_against": 18,
-   "goal_diff": 3,
-   "points": 30,
-   "flag": null
-  },
-  {
-   "position": 5,
-   "team": "U. Cluj",
-   "played": 16,
-   "won": 9,
-   "drawn": 2,
-   "lost": 5,
-   "goals_for": 29,
-   "goals_against": 22,
-   "goal_diff": 7,
-   "points": 29,
-   "flag": null
-  },
-  {
-   "position": 6,
-   "team": "Corvinul",
-   "played": 16,
-   "won": 7,
-   "drawn": 4,
-   "lost": 5,
-   "goals_for": 21,
-   "goals_against": 16,
-   "goal_diff": 5,
-   "points": 25,
-   "flag": null
-  },
-  {
-   "position": 7,
-   "team": "Farul Constanta",
-   "played": 16,
-   "won": 6,
-   "drawn": 6,
-   "lost": 4,
-   "goals_for": 26,
-   "goals_against": 25,
-   "goal_diff": 1,
-   "points": 24,
-   "flag": null
-  },
-  {
-   "position": 8,
-   "team": "CFR Cluj",
-   "played": 16,
-   "won": 6,
-   "drawn": 4,
-   "lost": 6,
-   "goals_for": 23,
-   "goals_against": 23,
-   "goal_diff": 0,
-   "points": 22,
-   "flag": null
-  },
-  {
-   "position": 9,
-   "team": "FCSB",
-   "played": 16,
-   "won": 6,
-   "drawn": 4,
-   "lost": 6,
-   "goals_for": 20,
-   "goals_against": 21,
-   "goal_diff": -1,
-   "points": 22,
-   "flag": null
-  },
-  {
-   "position": 10,
-   "team": "UTA Arad",
-   "played": 16,
-   "won": 5,
-   "drawn": 3,
-   "lost": 8,
-   "goals_for": 18,
-   "goals_against": 26,
-   "goal_diff": -8,
-   "points": 18,
-   "flag": null
-  },
-  {
-   "position": 11,
-   "team": "Sepsi Sf. Gheorghe",
-   "played": 16,
-   "won": 4,
-   "drawn": 6,
-   "lost": 6,
-   "goals_for": 12,
-   "goals_against": 23,
-   "goal_diff": -11,
-   "points": 18,
-   "flag": null
-  },
-  {
-   "position": 12,
-   "team": "FC Botosani",
-   "played": 16,
-   "won": 3,
-   "drawn": 7,
-   "lost": 6,
-   "goals_for": 22,
-   "goals_against": 23,
-   "goal_diff": -1,
-   "points": 16,
-   "flag": null
-  },
-  {
-   "position": 13,
-   "team": "FC Arges",
-   "played": 16,
-   "won": 4,
-   "drawn": 4,
-   "lost": 8,
-   "goals_for": 10,
-   "goals_against": 17,
-   "goal_diff": -7,
-   "points": 16,
-   "flag": null
-  },
-  {
-   "position": 14,
-   "team": "Otelul",
-   "played": 16,
-   "won": 2,
-   "drawn": 7,
-   "lost": 7,
-   "goals_for": 19,
-   "goals_against": 26,
-   "goal_diff": -7,
-   "points": 13,
-   "flag": null
-  },
-  {
-   "position": 15,
-   "team": "FC Voluntari",
-   "played": 16,
-   "won": 2,
-   "drawn": 3,
-   "lost": 11,
-   "goals_for": 18,
-   "goals_against": 36,
-   "goal_diff": -18,
-   "points": 9,
-   "flag": null
-  },
-  {
-   "position": 16,
-   "team": "Csikszereda M. Ciuc",
-   "played": 16,
-   "won": 1,
-   "drawn": 3,
-   "lost": 12,
-   "goals_for": 9,
-   "goals_against": 32,
-   "goal_diff": -23,
-   "points": 6,
-   "flag": null
-  }
- ],
- "form": [
-  {
-   "team": "U. Cluj",
-   "last5": "WDWWD"
-  },
-  {
-   "team": "Petrolul",
-   "last5": "WWDWD"
-  },
-  {
-   "team": "CFR Cluj",
-   "last5": "WDDDL"
-  },
-  {
-   "team": "Otelul",
-   "last5": "LDDLD"
-  },
-  {
-   "team": "FC Rapid Bucuresti",
-   "last5": "WDWLW"
-  },
-  {
-   "team": "FCSB",
-   "last5": "DLLWW"
-  },
-  {
-   "team": "FC Botosani",
-   "last5": "DDLLL"
-  },
-  {
-   "team": "FC Voluntari",
-   "last5": "DLLLL"
-  },
-  {
-   "team": "UTA Arad",
-   "last5": "LLLWW"
-  },
-  {
-   "team": "Sepsi Sf. Gheorghe",
-   "last5": "LWDLD"
-  },
-  {
-   "team": "FC Arges",
-   "last5": "DWLLD"
-  },
-  {
-   "team": "Univ. Craiova",
-   "last5": "WDWWW"
-  },
-  {
-   "team": "Farul Constanta",
-   "last5": "LDWWL"
-  },
-  {
-   "team": "Csikszereda M. Ciuc",
-   "last5": "LDLWD"
-  },
-  {
-   "team": "Dinamo Bucuresti",
-   "last5": "LLWDW"
-  },
-  {
-   "team": "Corvinul",
-   "last5": "WWWLL"
-  }
- ],
- "recent": [
-  {
-   "date": "2026-11-23",
-   "kickoff_utc": "2026-11-23T18:00:00.000Z",
-   "home": "Sepsi Sf. Gheorghe",
-   "away": "FC Rapid Bucuresti",
-   "home_goals": 1,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T18:30:00.000Z",
-   "home": "FC Arges",
-   "away": "FCSB",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-22",
-   "kickoff_utc": "2026-11-22T15:30:00.000Z",
-   "home": "UTA Arad",
-   "away": "Univ. Craiova",
-   "home_goals": 2,
-   "away_goals": 6,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T18:30:00.000Z",
-   "home": "Dinamo Bucuresti",
-   "away": "Petrolul",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T15:30:00.000Z",
-   "home": "CFR Cluj",
-   "away": "Otelul",
-   "home_goals": 3,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T13:00:00.000Z",
-   "home": "Csikszereda M. Ciuc",
-   "away": "Corvinul",
-   "home_goals": 0,
-   "away_goals": 4,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T18:30:00.000Z",
-   "home": "Farul Constanta",
-   "away": "U. Cluj",
-   "home_goals": 2,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-20",
-   "kickoff_utc": "2026-11-20T15:30:00.000Z",
-   "home": "FC Botosani",
-   "away": "FC Voluntari",
-   "home_goals": 3,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-09",
-   "kickoff_utc": "2026-11-09T18:00:00.000Z",
-   "home": "FC Botosani",
-   "away": "Otelul",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T17:00:00.000Z",
-   "home": "CFR Cluj",
-   "away": "Univ. Craiova",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-08",
-   "kickoff_utc": "2026-11-08T14:00:00.000Z",
-   "home": "Sepsi Sf. Gheorghe",
-   "away": "FC Voluntari",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T18:30:00.000Z",
-   "home": "FCSB",
-   "away": "Corvinul",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T15:30:00.000Z",
-   "home": "Farul Constanta",
-   "away": "FC Rapid Bucuresti",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T13:00:00.000Z",
-   "home": "Csikszereda M. Ciuc",
-   "away": "U. Cluj",
-   "home_goals": 0,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-06",
-   "kickoff_utc": "2026-11-06T18:30:00.000Z",
-   "home": "FC Arges",
-   "away": "Dinamo Bucuresti",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-06",
-   "kickoff_utc": "2026-11-06T15:30:00.000Z",
-   "home": "UTA Arad",
-   "away": "Petrolul",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-02",
-   "kickoff_utc": "2026-11-02T18:30:00.000Z",
+   "date": "2026-11-27",
+   "kickoff_utc": "2026-11-27T15:30:00.000Z",
    "home": "U. Cluj",
-   "away": "FCSB",
-   "home_goals": 1,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-02",
-   "kickoff_utc": "2026-11-02T15:30:00.000Z",
-   "home": "FC Voluntari",
-   "away": "Farul Constanta",
-   "home_goals": 1,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T18:30:00.000Z",
-   "home": "Dinamo Bucuresti",
-   "away": "UTA Arad",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T15:30:00.000Z",
-   "home": "Univ. Craiova",
-   "away": "FC Botosani",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-11-01",
-   "kickoff_utc": "2026-11-01T13:00:00.000Z",
-   "home": "Otelul",
    "away": "Sepsi Sf. Gheorghe",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T17:00:00.000Z",
+   "date": "2026-11-27",
+   "kickoff_utc": "2026-11-27T18:30:00.000Z",
    "home": "Petrolul",
-   "away": "CFR Cluj",
-   "home_goals": 1,
-   "away_goals": 1,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-31",
-   "kickoff_utc": "2026-10-31T14:00:00.000Z",
-   "home": "Corvinul",
    "away": "FC Arges",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-10-30",
-   "kickoff_utc": "2026-10-30T18:30:00.000Z",
-   "home": "FC Rapid Bucuresti",
-   "away": "Csikszereda M. Ciuc",
-   "home_goals": 2,
-   "away_goals": 0,
-   "status": "finished"
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T12:30:00.000Z",
+   "home": "FC Voluntari",
+   "away": "CFR Cluj",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-10-26",
-   "kickoff_utc": "2026-10-26T18:00:00.000Z",
-   "home": "Sepsi Sf. Gheorghe",
-   "away": "Univ. Craiova",
-   "home_goals": 0,
-   "away_goals": 5,
-   "status": "finished"
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T15:00:00.000Z",
+   "home": "Corvinul",
+   "away": "Farul Constanta",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T17:00:00.000Z",
-   "home": "CFR Cluj",
-   "away": "Dinamo Bucuresti",
-   "home_goals": 2,
-   "away_goals": 2,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff_utc": "2026-10-25T14:00:00.000Z",
-   "home": "Farul Constanta",
-   "away": "Otelul",
-   "home_goals": 4,
-   "away_goals": 3,
-   "status": "finished"
-  },
-  {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T18:00:00.000Z",
+   "date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T18:00:00.000Z",
    "home": "FCSB",
-   "away": "FC Rapid Bucuresti",
-   "home_goals": 4,
-   "away_goals": 1,
-   "status": "finished"
+   "away": "Csikszereda M. Ciuc",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T15:00:00.000Z",
-   "home": "FC Arges",
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T13:00:00.000Z",
+   "home": "Otelul",
    "away": "UTA Arad",
-   "home_goals": 0,
-   "away_goals": 1,
-   "status": "finished"
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   },
   {
-   "date": "2026-10-24",
-   "kickoff_utc": "2026-10-24T12:30:00.000Z",
-   "home": "Csikszereda M. Ciuc",
-   "away": "FC Voluntari",
-   "home_goals": 2,
-   "away_goals": 1,
-   "status": "finished"
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T18:00:00.000Z",
+   "home": "FC Rapid Bucuresti",
+   "away": "FC Botosani",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-30",
+   "kickoff_utc": "2026-11-30T18:00:00.000Z",
+   "home": "Univ. Craiova",
+   "away": "Dinamo Bucuresti",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
   }
- ],
- "upcoming": []
+ ]
 }

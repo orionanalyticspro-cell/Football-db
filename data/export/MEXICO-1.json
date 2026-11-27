@@ -7,7 +7,7 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-27T07:14:50.555Z",
+ "updated": "2026-11-27T13:11:49.045Z",
  "standings": [],
  "form": [],
  "recent": [],
@@ -44,6 +44,42 @@
    "kickoff_utc": "2026-11-27T03:10:00.000Z",
    "home": "Club Leon",
    "away": "Cruz Azul",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T01:00:00.000Z",
+   "home": "Atlas",
+   "away": "Toluca",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-29",
+   "kickoff_utc": "2026-11-29T03:10:00.000Z",
+   "home": "Club America",
+   "away": "Monterrey",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-30",
+   "kickoff_utc": "2026-11-30T01:07:00.000Z",
+   "home": "Guadalajara Chivas",
+   "away": "Pachuca",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-30",
+   "kickoff_utc": "2026-11-30T03:00:00.000Z",
+   "home": "Cruz Azul",
+   "away": "Club Leon",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
