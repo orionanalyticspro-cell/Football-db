@@ -7,20 +7,11 @@
   "level": 1
  },
  "season": "unknown",
- "updated": "2026-11-27T18:59:52.214Z",
+ "updated": "2026-11-28T01:07:51.786Z",
  "standings": [],
  "form": [],
  "recent": [],
  "upcoming": [
-  {
-   "date": "2026-11-26",
-   "kickoff_utc": "2026-11-26T00:00:00.000Z",
-   "home": "Boca Juniors",
-   "away": "Ind. Rivadavia",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
   {
    "date": "2026-11-28",
    "kickoff_utc": "2026-11-28T23:00:00.000Z",
